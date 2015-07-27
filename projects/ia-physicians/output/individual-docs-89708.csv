@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+89708,GNRL,"Sunstar Americas, Inc.",IL,100000005557,50000.00,12/01/2013,GNRL,101739092
+89708,GNRL,"Sunstar Americas, Inc.",IL,100000005557,20.00,09/30/2013,GNRL,101739090
+89708,GNRL,"DENTSPLY IH Inc.",PA,100000010676,16.1,09/16/2014,GNRL,178821690
+89708,GNRL,"DENTSPLY IH Inc.",PA,100000010676,12.50,10/22/2013,GNRL,105333248
+89708,GNRL,"Zimmer Holding Inc",IN,100000000103,11.66,06/03/2014,GNRL,216340190

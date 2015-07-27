@@ -1,0 +1,175 @@
+  1. Physician_Profile_ID
+	<type 'int'>
+	Nulls: False
+	Min: 12
+	Max: 1316891
+	Sum: 2904549818
+	Mean: 553142.223957
+	Median: 477609
+	Standard Deviation: 389824.682193
+	Unique values: 5251
+  2. Physician_Profile_First_Name
+	<type 'unicode'>
+	Nulls: False
+	Unique values: 1656
+	5 most frequent values:
+		MICHAEL:	146
+		JOHN:	137
+		DAVID:	133
+		THOMAS:	101
+		ROBERT:	100
+	Max length: 17
+  3. Physician_Profile_Last_Name
+	<type 'unicode'>
+	Nulls: False
+	Unique values: 3937
+	5 most frequent values:
+		SMITH:	40
+		JOHNSON:	35
+		MILLER:	25
+		ANDERSON:	24
+		BROWN:	21
+	Max length: 21
+  4. Physician_Profile_Alternate_First_Name
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 182
+	5 most frequent values:
+		AMY:	6
+		JENNIFER:	6
+		JESSICA:	4
+		JULIE:	4
+		STACEY:	4
+	Max length: 12
+  5. Physician_Profile_Alternate_Last_Name
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 231
+	5 most frequent values:
+		KENNEDY:	3
+		LARSON:	2
+		GORDON:	2
+		NELSON:	2
+		GARCIA:	2
+	Max length: 20
+  6. Physician_Profile_Address_Line_1
+	<type 'unicode'>
+	Nulls: False
+	Unique values: 1824
+	5 most frequent values:
+		200 Hawkins Dr:	510
+		1111 6th Ave:	79
+		5950 University Ave:	71
+		411 Laurel St:	67
+		1215 Pleasant St:	53
+	Max length: 55
+  7. Physician_Profile_Address_Line_2
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 639
+	5 most frequent values:
+		Suite 100:	79
+		Suite 300:	60
+		Suite 200:	58
+		Suite 101:	53
+		Ste 100:	45
+	Max length: 55
+  8. Physician_Profile_City
+	<type 'unicode'>
+	Nulls: False
+	Unique values: 256
+	5 most frequent values:
+		Iowa City:	733
+		Des Moines:	710
+		Cedar Rapids:	347
+		West Des Moines:	283
+		Davenport:	230
+	Max length: 17
+  9. Physician_Profile_State
+	<type 'unicode'>
+	Nulls: False
+	Values: IA
+ 10. Physician_Profile_Zipcode
+	<type 'int'>
+	Nulls: False
+	Min: 50009
+	Max: 528077209
+	Sum: 2505313060187
+	Mean: 477111609.253
+	Median: 510127196
+	Standard Deviation: 131692421.939
+	Unique values: 1602
+	5 most frequent values:
+		522421009:	445
+		503142613:	71
+		502668216:	70
+		503143017:	67
+		522421007:	67
+ 11. Physician_Profile_Primary_Specialty
+	<type 'unicode'>
+	Nulls: False
+	Unique values: 188
+	5 most frequent values:
+		Allopathic & Osteopathic Physicians/Family Medicine:	1026
+		Dental Providers/Dentist, General Practice:	434
+		Eye and Vision Services Providers/Optometrist:	383
+		Allopathic & Osteopathic Physicians/Internal Medicine:	334
+		Dental Providers/Dentist:	185
+	Max length: 116
+ 12. Physician_Profile_License_State_Code_1
+	<type 'unicode'>
+	Nulls: False
+	Unique values: 41
+	5 most frequent values:
+		IA:	3834
+		IL:	263
+		NE:	190
+		WI:	130
+		MO:	97
+	Max length: 2
+ 13. Physician_Profile_License_State_Code_2
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 42
+	5 most frequent values:
+		IA:	1122
+		IL:	64
+		CA:	48
+		NE:	40
+		FL:	37
+	Max length: 4
+ 14. Physician_Profile_License_State_Code_3
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 26
+	5 most frequent values:
+		IA:	212
+		CA:	23
+		FL:	15
+		IL:	14
+		AZ:	10
+	Max length: 4
+ 15. Physician_Profile_License_State_Code_4
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 16
+	5 most frequent values:
+		IA:	41
+		AZ:	6
+		CA:	5
+		IL:	4
+		MI:	2
+	Max length: 4
+ 16. Physician_Profile_License_State_Code_5
+	<type 'unicode'>
+	Nulls: True
+	Unique values: 8
+	5 most frequent values:
+		IA:	8
+		CO:	1
+		NM:	1
+		CA:	1
+		MN:	1
+	Max length: 4
+
+Row count: 5251

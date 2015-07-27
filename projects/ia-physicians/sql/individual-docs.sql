@@ -1,0 +1,4 @@
+SELECT Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+FROM data
+WHERE Physician_Profile_ID = $id
+ORDER BY CAST(Total_Amount_of_Payment_USDollars AS REAL) DESC;

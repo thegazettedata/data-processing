@@ -1,0 +1,8 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+420158,"Pfizer Inc.",NY,100000000286,11495.83,02/03/2014,"Cash or cash equivalent",206918926,"Consulting Fee","COMPLEWARE CORPORATION","NONCOVERED PRODUCT","",""
+420158,"Pfizer Inc.",NY,100000000286,4179.71,06/09/2014,"Cash or cash equivalent",207188734,"Consulting Fee","COMPLEWARE CORPORATION","NONCOVERED PRODUCT","",""
+420158,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,3000,11/21/2014,"Cash or cash equivalent",173619534,Honoraria,"",PROAIR,"",""
+420158,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,1361.7,11/21/2014,"In-kind items and services",173619540,"Travel and Lodging","",PROAIR,"",""
+420158,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,333.1,11/19/2014,"In-kind items and services",173619548,"Food and Beverage","",PROAIR,"",""
+420158,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,51.19,11/19/2014,"In-kind items and services",173619554,"Travel and Lodging","",PROAIR,"",""
+420158,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,50.61,02/28/2014,"In-kind items and services",173619544,"Food and Beverage","",PROAIR,"",""
