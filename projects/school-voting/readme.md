@@ -10,4 +10,6 @@ For the Iowa City data, we also received addresses, so we were able to compare n
 
 The technique we used to match names is called deduping, and the program we used is called csvdedupe, which was created by DataMade, a civic technology company based in Chicago, Illinois.
 
-The program used input by us to help match the names. All the code that ran this analysis is available on our Github page: https://github.com/GazetteKCRGdata/data-processing.
+The program used our input to match names. We gave it the voter and salary datasets, and it then attempted to find matches between them. As it looked for matches, it asked us if it had correctly found a match or not. Using our input, it was able to learn what was a match and what wasn't a match.
+
+All the code that ran this analysis is available on our Github page: https://github.com/GazetteKCRGdata/data-processing.
