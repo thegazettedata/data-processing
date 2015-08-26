@@ -12,6 +12,3 @@ TOPICS=("GNRL" "RSRCH")
 
 # Filename variables specific for payments
 DATE=("2013" "2014")
-
-URL="URL goes here"
-INFO="Info on the project"
