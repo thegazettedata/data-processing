@@ -15,6 +15,6 @@ For the Iowa City data, we also received addresses, so we were able to compare n
 
 The technique we used to match names is called deduping, and the program we used is called csvdedupe, which was created by DataMade, a civic technology company based in Chicago, Illinois.
 
-The program used input by us to help match the names. All the code that ran this analysis is available on our Github page: 
+The program used input by us to help match the names. All the code that ran this analysis is available on our Github page: https://github.com/GazetteKCRGdata/data-processing
 "
 
