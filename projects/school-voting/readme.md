@@ -1,10 +1,5 @@
-#!/bin/bash
-PROJECT_NAME="school-voting"
+#About this project
 
-EMPLOYEES=("ic" "cr")
-TOPICS=("joco" "linn")
-
-INFO="
 To reach these conclusions, The Gazette ran a sophisticated analysis involving four datasets that totaled roughly 250,000 rows in all.
 
 The spreadsheets we received were: every registered voter in Linn and Johnson county; and the salaries for every school employee in Iowa City and Cedar Rapids.
@@ -15,6 +10,4 @@ For the Iowa City data, we also received addresses, so we were able to compare n
 
 The technique we used to match names is called deduping, and the program we used is called csvdedupe, which was created by DataMade, a civic technology company based in Chicago, Illinois.
 
-The program used input by us to help match the names. All the code that ran this analysis is available on our Github page: https://github.com/GazetteKCRGdata/data-processing
-"
-
+The program used input by us to help match the names. All the code that ran this analysis is available on our Github page: https://github.com/GazetteKCRGdata/data-processing.
