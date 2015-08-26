@@ -5,12 +5,8 @@ module.exports = function (grunt) {
     require('matchdep').filterDev('grunt-*').forEach(grunt.loadNpmTasks);
 
     // Our parameters, which are set when grunt command is ran
-    // Bar chart, line chart, etc
-    var template = grunt.option('template');
     // Name of project folder
     var folder = grunt.option('folder');
-
-    grunt.log.write('URL: http://files.gazlab.com/content-host/data-processing/projects/' + folder + '/json' );
     
     // Initialize grunt
     grunt.initConfig({
@@ -25,13 +21,6 @@ module.exports = function (grunt) {
                         cwd: 'templates/_base',
                         src: '**',
                         dest: 'projects/' + folder
-                    },
-                    // Copy template specific directory
-                    {
-                        expand: true,
-                        cwd: 'templates/' + template + '_chart',
-                        src: '**',
-                        dest: 'projects/' + folder
                     }
                 ]
             }
@@ -43,16 +32,10 @@ module.exports = function (grunt) {
             }
         }
 	});
-
-	// Create empty files
-    grunt.registerTask('emptyFiles', 'Creates empty files', function() {
-    	grunt.file.write('projects/' + folder + '/js/script.js', '');
-    });
 	
 	// Create new project
     grunt.registerTask('new', [
-        'copy:base',
-        'emptyFiles'
+        'copy:base'
     ]);
 
     // Delete a project

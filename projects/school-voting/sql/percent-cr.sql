@@ -1,0 +1,3 @@
+SELECT COUNT(case when (LEGALFIRST > "" AND FIRST_NAME > "" AND SCHOOL_ELECTION_091013 > "") then 1 else null end) AS voters,
+COUNT(case when (LEGALFIRST > "") then 1 else null end) AS employees, ROUND(COUNT(case when (LEGALFIRST > "" AND FIRST_NAME > "" AND SCHOOL_ELECTION_091013 > "") then 1 else null end) * 100.0 / COUNT(case when (LEGALFIRST > "") then 1 else null end), 2) as percent
+from data;

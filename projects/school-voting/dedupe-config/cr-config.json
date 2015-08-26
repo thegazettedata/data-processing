@@ -1,0 +1,8 @@
+{
+    "field_names_1": ["LAST_NAME", "FIRST_NAME"],
+    "field_names_2": ["LEGALLAST", "LEGALFIRST"],
+    "field_definition" : [
+        {"field" : "LAST_NAME", "type" : "String"},
+        {"field" : "FIRST_NAME", "type" : "String"}
+    ]
+}

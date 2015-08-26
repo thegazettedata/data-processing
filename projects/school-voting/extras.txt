@@ -1,0 +1,4 @@
+- Write analysis
+- Re-run IC analysis with just names
+- IC: Filter by title, building
+- Overall voting percent

@@ -1,0 +1,11 @@
+{
+    "field_names_1": ["FIRST_NAME", "LAST_NAME", "FULL_ADDRESS", "CITY", "ZIP_CODE"],
+    "field_names_2": ["FirstName", "LastName", "EmpAddr1", "EmpCity", "EmpZip"],
+    "field_definition" : [
+        {"field" : "FIRST_NAME", "type" : "String"},
+        {"field" : "LAST_NAME", "type" : "String"},
+        {"field" : "FULL_ADDRESS", "type" : "String"},
+        {"field" : "CITY", "type" : "Exact"},
+        {"field" : "ZIP_CODE", "type" : "Exact"}
+    ]
+}
