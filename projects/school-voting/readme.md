@@ -18,4 +18,4 @@ Octav Chipara, a University of Iowa computer science professor familiar with the
  
 However, The Gazette attempted to control for this by running a couple of tests. First, we matched Iowa City employees on names only, similar to what was done in Cedar Rapids. The results were very similar: 30 percent voted when we match names and addresses, while 29 pecent voted when we matched names only.
 
-We also ran a second test of the Cedar Rapids data and told the program to match exactly on last names. The result was 15 percent of employees voted, which is the same number we got after we ran our first test.
+We also ran a second test of the Cedar Rapids data and told the program to match exactly on last names. The result was 16 percent of employees voted, which is the same number we got after we ran our first test.
