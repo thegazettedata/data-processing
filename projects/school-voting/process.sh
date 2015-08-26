@@ -8,13 +8,13 @@ source globals.sh
 # Query the DB
 function queryDB() {
 	echo "Show all names that dedupe matched on"
-	cat sql/matching-$EMPLOYEE.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/matching-$EMPLOYEE.csv
+	cat sql/matching-${EMPLOYEE//-names}.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/matching-$EMPLOYEE.csv
 
 	echo "Show all names that dedupe didn't match on"
-	cat sql/not-matching-$EMPLOYEE.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/not-matching-$EMPLOYEE.csv
+	cat sql/not-matching-${EMPLOYEE//-names}.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/not-matching-$EMPLOYEE.csv
 
 	echo "Find percent of employees who voted"
-	cat sql/percent-$EMPLOYEE.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/percent-$EMPLOYEE.csv
+	cat sql/percent-${EMPLOYEE//-names}.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/percent-$EMPLOYEE.csv
 }
 
 # Create our DB
@@ -32,15 +32,15 @@ function createDB() {
 	echo ".import $CSV_FIVE data" | sqlite3 -csv $DB_EMPLOYEE_TWO
 
 	# With DB created, we'll now query it
-	queryDB
+	# queryDB
 }
 
 function dedupeCSVs() {
 	echo "Stack Joco and Linn voting data"
-	csvstack ${CSV_THREES[@]} > "$CSV_FOUR"
+	# csvstack ${CSV_THREES[@]} > "$CSV_FOUR"
 
 	echo "Dedupe the voters and $EMPLOYEE employees"
-	csvlink $CSV_FOUR edits/employees/02-$EMPLOYEE-employees-uniq.csv \
+	csvlink $CSV_FOUR $CSV_EMPLOYEES_TWO \
 			--config_file=dedupe-config/$EMPLOYEE-config.json \
 			--training_file dedupe-training/$EMPLOYEE-employees.json \
 			--output_file $CSV_FIVE
@@ -132,10 +132,10 @@ do
 	if [ $employee == "ic" ]
 	then
 		echo "-"
-		# in2csv "raw/IC 13-14 wage request.xls" > $CSV_EMPLOYEES
+		in2csv "raw/IC 13-14 wage request.xls" > $CSV_EMPLOYEES
 	else
 		echo "-"
-		# in2csv "raw/CR Personnel info 2013 for Gazette.xls" > $CSV_EMPLOYEES
+		in2csv "raw/CR Personnel info 2013 for Gazette.xls" > $CSV_EMPLOYEES
 	fi
 
 	echo "Create database so we can query data"
