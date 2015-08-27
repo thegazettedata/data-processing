@@ -1,0 +1,4 @@
+CREATE TABLE "matching-cr-duplicative" (
+	"FIRST_NAME" VARCHAR(11) NOT NULL, 
+	"LAST_NAME" VARCHAR(14) NOT NULL
+);

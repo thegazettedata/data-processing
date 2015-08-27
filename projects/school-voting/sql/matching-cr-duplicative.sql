@@ -1,0 +1,3 @@
+SELECT data.FIRST_NAME, data.LAST_NAME
+FROM data INNER JOIN datatwo
+ON data.FIRST_NAME = datatwo.FIRST_NAME AND data.LAST_NAME = datatwo.LAST_NAME;

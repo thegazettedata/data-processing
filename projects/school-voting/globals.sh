@@ -5,7 +5,7 @@ PROJECT_NAME="school-voting"
 # ic = Iowa City
 # cr = Cedar Rapids
 # ic-names = Iowa City while runng deduping with only names and not addresses
-EMPLOYEES=("ic cr")
+EMPLOYEES=("cr")
 
 # The counties for the voter data
 # joco = Johnson County

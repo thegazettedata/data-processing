@@ -8,13 +8,32 @@ source globals.sh
 # Query the DB
 function queryDB() {
 	echo "Show all names that dedupe matched on"
-	cat sql/matching-${EMPLOYEE//-names}.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/matching-$EMPLOYEE.csv
+	# cat sql/matching-${EMPLOYEE//-names}.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/matching-$EMPLOYEE.csv
 
-	echo "Show all names that dedupe didn't match on"
-	cat sql/not-matching-${EMPLOYEE//-names}.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/not-matching-$EMPLOYEE.csv
+	if [ $employee == "cr" ];
+	then
+		echo "Add names of matches to duplicative names DB"
+		csvsql -i sqlite output/matching-cr.csv > sql/data-create-matching-cr.sql
+		cat sql/data-create-matching-cr.sql | sqlite3 $DB_DUPLICATIVE
+		echo ".import output/matching-cr.csv datatwo" | sqlite3 -csv $DB_DUPLICATIVE
 
-	echo "Find percent of employees who voted"
-	cat sql/percent-${EMPLOYEE//-names}.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/percent-$EMPLOYEE.csv
+		echo "Find names of CR employees that were duplicative"
+		cat sql/matching-cr-duplicative.sql | sqlite3 -header -csv $DB_DUPLICATIVE > output/matching-cr-duplicative.csv
+
+		echo "Add CR employee duplicative names"
+		csvsql -i sqlite output/matching-cr-duplicative.csv > sql/data-create-matching-cr-duplicative.sql
+		cat sql/data-create-matching-cr-duplicative.sql | sqlite3 $DB_DUPLICATIVE
+		echo ".import output/matching-cr-duplicative.csv datathree" | sqlite3 -csv $DB_DUPLICATIVE
+
+		cat sql/matching-cr-duplicative.sql | sqlite3 -header -csv $DB_DUPLICATIVE > output/matching-cr-duplicative.csv
+
+	else 
+		echo "Show all names that dedupe didn't match on"
+		cat sql/not-matching-${EMPLOYEE//-names}.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/not-matching-$EMPLOYEE.csv
+
+		echo "Find percent of employees who voted"
+		cat sql/percent-${EMPLOYEE//-names}.sql | sqlite3 -header -csv $DB_EMPLOYEE_TWO > output/percent-$EMPLOYEE.csv
+	fi
 }
 
 # Create our DB
@@ -30,14 +49,11 @@ function createDB() {
 	
 	echo "Create table called 'data' with all the data in it"
 	echo ".import $CSV_FIVE data" | sqlite3 -csv $DB_EMPLOYEE_TWO
-
-	# With DB created, we'll now query it
-	# queryDB
 }
 
 function dedupeCSVs() {
 	echo "Stack Joco and Linn voting data"
-	# csvstack ${CSV_THREES[@]} > "$CSV_FOUR"
+	csvstack ${CSV_THREES[@]} > "$CSV_FOUR"
 
 	echo "Dedupe the voters and $EMPLOYEE employees"
 	csvlink $CSV_FOUR $CSV_EMPLOYEES_TWO \
@@ -154,6 +170,27 @@ do
 
 	# Dedupe voters and salary data
 	dedupeCSVs
+
+	if [ $employee == "cr" ];
+	then
+		VOTERS="joco-linn-voters"
+		DB_VOTERS="db/00-joco-linn-voters.db"
+		CSV_DUPLICATIVE="output/duplicative-names-cr.csv"
+		DB_DUPLICATIVE="db/00-duplicative-names-cr.db"
+
+		echo "Create database of all voters"
+		csvsql -i sqlite $CSV_FOUR > sql/data-create-$VOTERS.sql
+		cat sql/data-create-$VOTERS.sql | sqlite3 $DB_VOTERS
+		echo ".import $CSV_FOUR data" | sqlite3 -csv $DB_VOTERS
+
+		echo "Find duplicative names in voter DB"
+		cat sql/duplicative-names-cr.sql | sqlite3 -header -csv $DB_VOTERS > output/duplicative-names-cr.csv
+
+		echo "Create DB of duplicative names"
+		csvsql -i sqlite $CSV_DUPLICATIVE > sql/data-create-duplicative-names-cr.sql
+		cat sql/data-create-duplicative-names-cr.sql | sqlite3 $DB_DUPLICATIVE
+		echo ".import $CSV_DUPLICATIVE data" | sqlite3 -csv $DB_DUPLICATIVE
+	fi
 
 	# Create final DB so we can filter out those who voted
 	# And those who didn't
