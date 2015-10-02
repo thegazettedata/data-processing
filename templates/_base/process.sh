@@ -18,7 +18,7 @@ function exportJSON() {
 	done
 
 	# echo "Copy JSON feeds to Saxo directory"
-	# cp -r json ~/CDR/Templates/branches/Dev/GA/Includes/data/projects/$PROJECT_NAME
+	# cp -r json ~/CDR_new/Templates/branches/Dev/GA/Includes/data/projects/$PROJECT_NAME
 }
 
 # Query the DB
@@ -33,7 +33,7 @@ function queryDB() {
 	cat sql/top-doctors-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/top-doctors-payments.csv
 
 	# echo "Copy CSV files to Saxo directory"
-	# cp -r output ~/CDR/Templates/branches/Dev/GA/Includes/data/projects/$PROJECT_NAME
+	# cp -r output ~/CDR_new/Templates/branches/Dev/GA/Includes/data/projects/$PROJECT_NAME
 
 	# Create JSON feeds
 	exportJSON

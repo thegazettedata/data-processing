@@ -1,0 +1,199 @@
+Date,year,Address,City,Alarm,Arrival,RT original,Responsetime,address_geo,lat,long
+2014-10-17,2014,701 9th Avenue,Marion,08:39:30,08:40:40,00:01:10,1.1,"701 9th Avenue, Marion, Iowa",42.034798,-91.602439
+2014-03-27,2014,901 S. 11th Street,Marion,13:14:37,13:15:56,00:01:19,1.19,"901 S. 11th Street, Marion, Iowa",42.021476,-91.597421
+2011-02-28,2011,1485 Grand Avenue,Marion,23:33:16,23:34:50,00:01:34,1.34,"1485 Grand Avenue, Marion, Iowa",42.0197428,-91.5942852
+2013-10-08,2013,1521 11th Street,Marion,20:24:27,20:26:05,00:01:38,1.38,"1521 11th Street, Marion, Iowa",42.040011,-91.59765
+2013-10-16,2013,305 2nd Avenue,Marion,14:57:18,14:59:03,00:01:45,1.45,"305 2nd Avenue, Marion, Iowa",42.027823,-91.606456
+2010-11-04,2010,1520 11th Street,Marion,15:02:43,15:04:30,00:01:47,1.47,"1520 11th Street, Marion, Iowa",42.04002,-91.598416
+2010-09-17,2010,770 7th Street,Marion,09:42:07,09:44:11,00:02:04,2.04,"770 7th Street, Marion, Iowa",42.0339794,-91.6027926
+2010-05-24,2010,1701 Jackson Drive,Marion,00:09:16,00:11:25,00:02:09,2.09,"1701 Jackson Drive, Marion, Iowa",42.0409128,-91.5411374
+2013-04-22,2013,3405 7th Avenue,Marion,11:11:49,11:13:59,00:02:10,2.1,"3405 7th Avenue, Marion, Iowa",42.0355503,-91.5762664
+2011-12-24,2011,1005 7th Street,Marion,05:14:58,05:17:08,00:02:10,2.1,"1005 7th Street, Marion, Iowa",42.036417,-91.60243
+2011-06-14,2011,1550 50th Street,Marion,13:24:34,13:26:45,00:02:11,2.11,"1550 50th Street, Marion, Iowa",42.038902,-91.557301
+2011-06-30,2011,80 W. 8th Avenue,Marion,13:03:02,13:05:17,00:02:15,2.15,"80 W. 8th Avenue, Marion, Iowa",42.034628,-91.612143
+2013-03-27,2013,1420 Twixt Town Road,Marion,05:00:12,05:02:32,00:02:20,2.2,"1420 Twixt Town Road, Marion, Iowa",42.0277502,-91.6183232
+2013-02-13,2013,780 5th Avenue,Marion,15:23:44,15:26:09,00:02:25,2.25,"780 5th Avenue, Marion, Iowa",42.031792,-91.602306
+2011-06-13,2011,1550 50th Street,Marion,10:06:16,10:08:42,00:02:26,2.26,"1550 50th Street, Marion, Iowa",42.038902,-91.557301
+2014-04-24,2014,959 10th Street,Marion,15:00:52,15:03:18,00:02:26,2.26,"959 10th Street, Marion, Iowa",42.03561,-91.598916
+2014-05-20,2014,1461 39th Street,Marion,15:00:30,15:02:56,00:02:26,2.26,"1461 39th Street, Marion, Iowa",42.0408345,-91.5706839
+2014-07-13,2014,954 6th Street,Marion,19:13:11,19:15:44,00:02:33,2.33,"954 6th Street, Marion, Iowa",42.03588,-91.604317
+2010-08-15,2010,3495 7th Avenue,Marion,14:26:37,14:29:13,00:02:36,2.36,"3495 7th Avenue, Marion, Iowa",42.0353343,-91.5752156
+2011-09-12,2011,1095 6th Avenue,Marion,16:48:28,16:51:04,00:02:36,2.36,"1095 6th Avenue, Marion, Iowa",42.0319963,-91.5986798
+2010-07-16,2010,480 5th Avenue,Marion,22:08:13,22:10:54,00:02:41,2.41,"480 5th Avenue, Marion, Iowa",42.0316,-91.60507
+2010-08-15,2010,585 8th Avenue,Marion,22:15:51,22:18:34,00:02:43,2.43,"585 8th Avenue, Marion, Iowa",42.033977,-91.604456
+2014-04-25,2014,310 35th Street,Marion,08:12:56,08:15:42,00:02:46,2.46,"310 35th Street, Marion, Iowa",42.029784,-91.574945
+2010-07-22,2010,20 Ash Drive,Marion,19:45:52,19:48:39,00:02:47,2.47,"20 Ash Drive, Marion, Iowa",42.0342032,-91.5736747
+2014-11-08,2014,1018 7th Avenue,Marion,16:41:02,16:43:51,00:02:49,2.49,"1018 7th Avenue, Marion, Iowa",42.0334153,-91.5990146
+2013-07-21,2013,449 Morris Drive,Marion,06:49:31,06:52:21,00:02:50,2.5,"449 Morris Drive, Marion, Iowa",42.0348738,-91.5651963
+2014-11-11,2014,78 Birch Drive,Marion,20:08:36,20:11:27,00:02:51,2.51,"78 Birch Drive, Marion, Iowa",42.0336425,-91.5695934
+2014-12-21,2014,3920 Highway 151,Marion,23:14:15,23:17:06,00:02:51,2.51,"3920 Highway 151, Marion, Iowa",42.0356241,-91.5504727
+2010-08-02,2010,699 31st Street,Marion,14:14:36,14:17:32,00:02:56,2.56,"699 31st Street, Marion, Iowa",42.0336841,-91.5793755
+2014-07-16,2014,957 12th Street,Marion,16:38:05,16:41:02,00:02:57,2.57,"957 12th Street, Marion, Iowa",42.035736,-91.596537
+2010-09-18,2010,365 Marion Blvd,Marion,06:45:23,06:48:22,00:02:59,2.59,"365 Marion Blvd, Marion, Iowa",42.0290234,-91.6140983
+2013-06-11,2013,920 W. 14th Avenue,Marion,13:34:39,13:37:39,00:03:00,3,"920 W. 14th Avenue, Marion, Iowa",42.039765,-91.620851
+2014-06-30,2014,14th Street & 8th Avenue,Marion,14:54:00,14:57:00,00:03:00,3,"14th Street & 8th Avenue, Marion, Iowa",42.034183,-91.5946029
+2010-06-24,2010,795 4th Avenue,Marion,18:12:30,18:15:30,00:03:00,3,"795 4th Avenue, Marion, Iowa",42.030427,-91.601911
+2010-01-16,2010,901 7th Avenue,Marion,10:55:33,10:58:36,00:03:03,3.03,"901 7th Avenue, Marion, Iowa",42.033112,-91.600271
+2011-09-10,2011,2730 24th Street,Marion,16:31:22,16:34:25,00:03:03,3.03,"2730 24th Street, Marion, Iowa",42.049309,-91.587774
+2010-11-07,2010,5491 Highway 151,Marion,07:27:36,07:30:43,00:03:07,3.07,"5491 Highway 151, Marion, Iowa",42.0333902,-91.5532783
+2013-02-13,2013,295 3rd Avenue,Marion,06:51:39,06:54:46,00:03:07,3.07,"295 3rd Avenue, Marion, Iowa",42.0295429,-91.607379
+2010-07-23,2010,479 5th Avenue,Marion,10:08:40,10:11:47,00:03:07,3.07,"479 5th Avenue, Marion, Iowa",42.030436,-91.605133
+2011-03-26,2011,530 3rd Avenue,Marion,12:52:12,12:55:21,00:03:09,3.09,"530 3rd Avenue, Marion, Iowa",42.0298418,-91.6047063
+2013-10-16,2013,5500 Dyer Avenue,Marion,12:33:45,12:36:54,00:03:09,3.09,"5500 Dyer Avenue, Marion, Iowa",42.0367943,-91.5511416
+2010-01-02,2010,975 12th Street,Marion,23:07:55,23:11:09,00:03:14,3.14,"975 12th Street, Marion, Iowa",42.035901,-91.596524
+2010-08-09,2010,3500 29th Avenue,Marion,07:05:00,07:08:15,00:03:15,3.15,"3500 29th Avenue, Marion, Iowa",42.051012,-91.5736676
+2014-10-14,2014,890 Bentley Drive,Marion,18:19:59,18:23:16,00:03:17,3.17,"890 Bentley Drive, Marion, Iowa",42.0462442,-91.6017473
+2014-07-16,2014,560 W. 8th Avenue,Marion,18:48:53,18:52:11,00:03:18,3.18,"560 W. 8th Avenue, Marion, Iowa",42.034778,-91.616524
+2014-02-18,2014,Highways 13 & 151,Marion,07:08:33,07:12:00,00:03:27,3.27,"Highways 13 & 151, Marion, Iowa",42.0358364,-91.5504392
+2010-09-20,2010,102 3rd Avenue,Marion,23:06:24,23:09:51,00:03:27,3.27,"102 3rd Avenue, Marion, Iowa",42.030064,-91.610077
+2011-03-07,2011,957 13th Street,Marion,00:12:51,00:16:19,00:03:28,3.28,"957 13th Street, Marion, Iowa",42.035718,-91.595401
+2011-11-24,2011,1030 Twixt Town Road,Marion,11:50:48,11:54:16,00:03:28,3.28,"1030 Twixt Town Road, Marion, Iowa",42.0279081,-91.6208584
+2011-11-12,2011,5491 Highway 151,Marion,16:58:35,17:02:06,00:03:31,3.31,"5491 Highway 151, Marion, Iowa",42.0333902,-91.5532783
+2014-06-17,2014,975 12th Street,Marion,09:22:34,09:26:09,00:03:35,3.35,"975 12th Street, Marion, Iowa",42.035901,-91.596524
+2014-09-08,2014,1485 9th Street,Marion,10:31:29,10:35:05,00:03:36,3.36,"1485 9th Street, Marion, Iowa",42.039858,-91.600147
+2010-10-05,2010,1135 Blairs Ferry Road,Marion,14:33:51,14:37:31,00:03:40,3.4,"1135 Blairs Ferry Road, Marion, Iowa",42.031752,-91.620457
+2010-05-20,2010,1375 Red Fox Way,Marion,19:02:14,19:05:55,00:03:41,3.41,"1375 Red Fox Way, Marion, Iowa",42.0385769,-91.551242
+2011-03-28,2011,860 Linnview Drive,Marion,21:13:19,21:17:03,00:03:44,3.44,"860 Linnview Drive, Marion, Iowa",42.035935,-91.62482
+2011-08-28,2011,2635 1st Avenue,Marion,17:58:08,18:01:52,00:03:44,3.44,"2635 1st Avenue, Marion, Iowa",42.027662,-91.584028
+2011-11-18,2011,740 Alpine Road,Marion,15:01:17,15:05:04,00:03:47,3.47,"740 Alpine Road, Marion, Iowa",42.0381969,-91.618788
+2010-09-18,2010,225 Normandy Dr,Marion,13:41:39,13:45:28,00:03:49,3.49,"225 Normandy Dr, Marion, Iowa",42.0335529,-91.5678674
+2010-05-21,2010,1095 6th Avenue,Marion,02:29:00,02:32:51,00:03:51,3.51,"1095 6th Avenue, Marion, Iowa",42.0319963,-91.5986798
+2013-01-08,2013,750 Marion Boulevard,Marion,10:13:49,10:17:43,00:03:54,3.54,"750 Marion Boulevard, Marion, Iowa",42.0274296,-91.6190795
+2010-02-12,2010,1210 Blairs Ferry Road,Marion,15:59:00,16:02:56,00:03:56,3.56,"1210 Blairs Ferry Road, Marion, Iowa",42.0329229,-91.624533
+2013-01-25,2013,2900 Indian Creek Road,Marion,17:56:37,18:00:33,00:03:56,3.56,"2900 Indian Creek Road, Marion, Iowa",42.0507464,-91.5916952
+2014-02-24,2014,1366 7th Street,Marion,15:04:12,15:08:09,00:03:57,3.57,"1366 7th Street, Marion, Iowa",42.038951,-91.603025
+2013-05-21,2013,129 Southview Drive,Marion,22:27:32,22:31:30,00:03:58,3.58,"129 Southview Drive, Marion, Iowa",42.0288533,-91.6213773
+2014-11-09,2014,101 S. 11th Street,Marion,12:25:07,12:29:05,00:03:58,3.58,"101 S. 11th Street, Marion, Iowa",42.027689,-91.597648
+2013-10-18,2013,900 26th Street,Marion,05:34:31,05:38:31,00:04:00,4,"900 26th Street, Marion, Iowa",42.034966,-91.585014
+2011-09-06,2011,590 Bentley Drive,Marion,19:37:49,19:41:50,00:04:01,4.01,"590 Bentley Drive, Marion, Iowa",42.0461231,-91.6017496
+2013-08-05,2013,820 27th Street,Marion,07:18:34,07:22:35,00:04:01,4.01,"820 27th Street, Marion, Iowa",42.034354,-91.583899
+2010-12-09,2010,1080 Lyons Lane,Marion,14:10:16,14:14:17,00:04:01,4.01,"1080 Lyons Lane, Marion, Iowa",42.032797,-91.613625
+2011-03-07,2011,115 Southview Drive,Marion,21:10:39,21:14:41,00:04:02,4.02,"115 Southview Drive, Marion, Iowa",42.0279699,-91.6213804
+2010-09-15,2010,1301 5th Avenue,Marion,09:11:38,09:15:41,00:04:03,4.03,"1301 5th Avenue, Marion, Iowa",42.031811,-91.595037
+2013-11-14,2013,1120 W. 8th Avenue,Marion,14:35:12,14:39:16,00:04:04,4.04,"1120 W. 8th Avenue, Marion, Iowa",42.0355,-91.623583
+2014-03-03,2014,365 Marion Blvd.,Marion,22:35:29,22:39:33,00:04:04,4.04,"365 Marion Blvd., Marion, Iowa",42.0290234,-91.6140983
+2011-12-23,2011,1030 Twixt Town Road,Marion,14:46:31,14:50:35,00:04:04,4.04,"1030 Twixt Town Road, Marion, Iowa",42.0279081,-91.6208584
+2013-10-02,2013,102 3rd Avenue,Marion,13:02:08,13:06:13,00:04:05,4.05,"102 3rd Avenue, Marion, Iowa",42.030064,-91.610077
+2013-02-22,2013,3909 29th Avenue,Marion,19:22:25,19:26:30,00:04:05,4.05,"3909 29th Avenue, Marion, Iowa",42.049661,-91.569518
+2010-10-06,2010,655 49th Street,Marion,15:38:04,15:42:10,00:04:06,4.06,"655 49th Street, Marion, Iowa",42.031268,-91.557439
+2010-03-30,2010,4640 Vasey Avenue,Marion,01:33:08,01:37:18,00:04:10,4.1,"4640 Vasey Avenue, Marion, Iowa",42.04085,-91.560354
+2011-08-04,2011,2430 17th Avenue,Marion,10:30:47,10:34:59,00:04:12,4.12,"2430 17th Avenue, Marion, Iowa",42.041544,-91.586651
+2013-10-18,2013,3470 Crown Avenue,Marion,19:47:47,19:52:01,00:04:14,4.14,"3470 Crown Avenue, Marion, Iowa",42.045859,-91.575115
+2013-11-28,2013,1403 14th Street,Marion,13:48:09,13:52:24,00:04:15,4.15,"1403 14th Street, Marion, Iowa",42.039733,-91.5945
+2011-04-12,2011,2900 Indian Creek Road,Marion,17:02:10,17:06:28,00:04:18,4.18,"2900 Indian Creek Road, Marion, Iowa",42.0507464,-91.5916952
+2014-12-11,2014,439 Lindale Drive,Marion,17:20:07,17:24:26,00:04:19,4.19,"439 Lindale Drive, Marion, Iowa",42.030768,-91.623526
+2014-01-05,2014,480 Ida Drive,Marion,04:42:43,04:47:04,00:04:21,4.21,"480 Ida Drive, Marion, Iowa",42.0355737,-91.5646958
+2010-12-21,2010,130 29th Street Court,Marion,20:34:14,20:38:36,00:04:22,4.22,"130 29th Street Court, Marion, Iowa",42.028215,-91.581491
+2013-07-09,2013,1690 Park Avenue,Marion,08:49:07,08:53:30,00:04:23,4.23,"1690 Park Avenue, Marion, Iowa",42.038903,-91.592383
+2014-11-13,2014,170 Southview Drive,Marion,09:37:23,09:41:48,00:04:25,4.25,"170 Southview Drive, Marion, Iowa",42.02877,-91.621754
+2014-02-26,2014,3111 10th Street,Marion,07:28:47,07:33:14,00:04:27,4.27,"3111 10th Street, Marion, Iowa",42.0531719,-91.5988513
+2011-10-06,2011,13 Chapel Ridge Circle,Marion,18:15:58,18:20:27,00:04:29,4.29,"13 Chapel Ridge Circle, Marion, Iowa",42.030533,-91.622012
+2014-07-12,2014,343 Pheasant Avenue,Marion,14:34:01,14:38:31,00:04:30,4.3,"343 Pheasant Avenue, Marion, Iowa",42.0485479,-91.613606
+2011-11-22,2011,180 21st Street,Marion,19:55:18,19:59:48,00:04:30,4.3,"180 21st Street, Marion, Iowa",42.028767,-91.590383
+2014-07-12,2014,343 Pheasant Avenue,Marion,12:30:09,12:34:39,00:04:30,4.3,"343 Pheasant Avenue, Marion, Iowa",42.0485479,-91.613606
+2011-07-12,2011,1590 Brockman Avenue,Marion,13:09:10,13:13:41,00:04:31,4.31,"1590 Brockman Avenue, Marion, Iowa",42.042428,-91.59308
+2010-10-29,2010,1135 Valley Park Street,Marion,07:52:09,07:56:40,00:04:31,4.31,"1135 Valley Park Street, Marion, Iowa",42.019537,-91.600778
+2011-02-09,2011,790 22nd Street,Marion,08:17:46,08:22:17,00:04:31,4.31,"790 22nd Street, Marion, Iowa",42.0341017,-91.5889828
+2010-11-29,2010,1483 Grand Avenue,Marion,18:15:07,18:19:39,00:04:32,4.32,"1483 Grand Avenue, Marion, Iowa",42.0205649,-91.5967558
+2013-02-25,2013,6 Chapel Ridge Circle,Marion,16:48:03,16:52:35,00:04:32,4.32,"6 Chapel Ridge Circle, Marion, Iowa",42.030533,-91.622012
+2014-12-31,2014,1210 Blairs Ferry Road,Marion,19:48:20,19:52:54,00:04:34,4.34,"1210 Blairs Ferry Road, Marion, Iowa",42.0329229,-91.624533
+2014-05-15,2014,125 Southview Drive,Marion,01:26:25,01:31:03,00:04:38,4.38,"125 Southview Drive, Marion, Iowa",42.028829,-91.62106
+2013-02-10,2013,675 S. 15th Street,Marion,19:27:04,19:31:43,00:04:39,4.39,"675 S. 15th Street, Marion, Iowa",42.024067,-91.59155
+2013-05-15,2013,490 20 Street,Marion,20:40:00,20:44:42,00:04:42,4.42,"490 20 Street, Marion, Iowa",42.031336,-91.590765
+2014-03-14,2014,925 Westview Drive,Marion,20:54:25,20:59:07,00:04:42,4.42,"925 Westview Drive, Marion, Iowa",42.022615,-91.600269
+2010-11-04,2010,2430 17th Avenue,Marion,22:17:44,22:22:29,00:04:45,4.45,"2430 17th Avenue, Marion, Iowa",42.041544,-91.586651
+2010-08-18,2010,1030 Indian Creek Circle,Marion,17:16:38,17:21:23,00:04:45,4.45,"1030 Indian Creek Circle, Marion, Iowa",42.049949,-91.598157
+2011-08-24,2011,2560 Westminster Place,Marion,19:31:33,19:36:19,00:04:46,4.46,"2560 Westminster Place, Marion, Iowa",42.048,-91.617631
+2010-07-24,2010,1680 9th Street,Marion,03:57:12,04:01:59,00:04:47,4.47,"1680 9th Street, Marion, Iowa",42.041646,-91.600815
+2011-02-12,2011,5491 Highway 151,Marion,12:07:46,12:12:34,00:04:48,4.48,"5491 Highway 151, Marion, Iowa",42.0333902,-91.5532783
+2014-01-16,2014,3051 28th Avenue,Marion,11:49:21,11:54:10,00:04:49,4.49,"3051 28th Avenue, Marion, Iowa",42.049435,-91.579986
+2010-06-07,2010,483 Ida Drive,Marion,15:13:17,15:18:11,00:04:54,4.54,"483 Ida Drive, Marion, Iowa",42.0355459,-91.564671
+2013-06-28,2013,3025 8th Street,Marion,23:57:00,00:01:54,00:04:54,4.54,"3025 8th Street, Marion, Iowa",42.052276,-91.601056
+2011-08-30,2011,515 Bentley Drive,Marion,21:19:22,21:24:17,00:04:55,4.55,"515 Bentley Drive, Marion, Iowa",42.0461231,-91.6017496
+2014-10-29,2014,4200 Munier Road,Marion,18:10:30,18:15:30,00:05:00,5,"4200 Munier Road, Marion, Iowa",42.022293,-91.565674
+2010-05-26,2010,760 Grand Avenue,Marion,17:32:00,17:37:01,00:05:01,5.01,"760 Grand Avenue, Marion, Iowa",42.020804,-91.601983
+2010-11-11,2010,1121 Plumwood Court,Marion,12:20:34,12:25:35,00:05:01,5.01,"1121 Plumwood Court, Marion, Iowa",42.045111,-91.62317
+2014-03-29,2014,2650 Spoonbill Drive,Marion,03:54:31,03:59:34,00:05:03,5.03,"2650 Spoonbill Drive, Marion, Iowa",42.048291,-91.564302
+2013-06-30,2013,2990 24th Avenue,Marion,18:09:12,18:14:19,00:05:07,5.07,"2990 24th Avenue, Marion, Iowa",42.046725,-91.5804069
+2013-06-26,2013,675 S. 15th Street,Marion,11:54:50,11:59:58,00:05:08,5.08,"675 S. 15th Street, Marion, Iowa",42.024067,-91.59155
+2014-03-27,2014,895 S. 11th Street,Marion,12:35:40,12:40:50,00:05:10,5.1,"895 S. 11th Street, Marion, Iowa",42.02175,-91.597712
+2013-03-12,2013,3060 16th Avenue,Marion,20:55:28,21:00:38,00:05:10,5.1,"3060 16th Avenue, Marion, Iowa",42.041064,-91.579656
+2014-04-11,2014,520 17th Street,Marion,15:34:13,15:39:24,00:05:11,5.11,"520 17th Street, Marion, Iowa",42.031756,-91.592443
+2010-01-27,2010,396 18th Street,Marion,06:25:42,06:30:53,00:05:11,5.11,"396 18th Street, Marion, Iowa",42.030847,-91.591913
+2013-02-07,2013,3230 9th Street,Marion,22:03:48,22:08:59,00:05:11,5.11,"3230 9th Street, Marion, Iowa",42.053422,-91.6006419
+2014-12-24,2014,2080 26th Street,Marion,23:07:29,23:12:41,00:05:12,5.12,"2080 26th Street, Marion, Iowa",42.043952,-91.585023
+2013-08-10,2013,1731 Cherokee Drive,Marion,14:23:14,14:28:28,00:05:14,5.14,"1731 Cherokee Drive, Marion, Iowa",42.041276,-91.5456391
+2011-05-10,2011,670 34th Avenue,Marion,19:50:57,19:56:11,00:05:14,5.14,"670 34th Avenue, Marion, Iowa",42.055206,-91.602752
+2011-01-17,2011,901 S. 11th Street,Marion,20:32:39,20:37:55,00:05:16,5.16,"901 S. 11th Street, Marion, Iowa",42.021476,-91.597421
+2011-05-30,2011,2385 Stratford Drive,Marion,05:44:44,05:50:03,00:05:19,5.19,"2385 Stratford Drive, Marion, Iowa",42.046154,-91.571831
+2011-08-23,2011,2910 Newcastle Road,Marion,07:21:36,07:26:56,00:05:20,5.2,"2910 Newcastle Road, Marion, Iowa",42.050743,-91.622888
+2013-08-17,2013,1985 Blackhawk Drive,Marion,15:09:07,15:14:27,00:05:20,5.2,"1985 Blackhawk Drive, Marion, Iowa",42.0424233,-91.5465507
+2010-01-13,2010,3040 8th Street,Marion,04:23:14,04:28:35,00:05:21,5.21,"3040 8th Street, Marion, Iowa",42.0522874,-91.6013887
+2011-08-03,2011,1485 Grand Avenue,Marion,01:46:24,01:51:51,00:05:27,5.27,"1485 Grand Avenue, Marion, Iowa",42.0197428,-91.5942852
+2014-11-26,2014,2980 East Post Road,Marion,19:45:59,19:51:29,00:05:30,5.3,"2980 East Post Road, Marion, Iowa",42.0064978,-91.5992033
+2011-09-27,2011,365 Irish Drive,Marion,08:40:30,08:46:02,00:05:32,5.32,"365 Irish Drive, Marion, Iowa",42.056833,-91.611635
+2014-07-05,2014,1525 Hillcrest Court,Marion,22:14:22,22:19:54,00:05:32,5.32,"1525 Hillcrest Court, Marion, Iowa",42.0160989,-91.592812
+2013-06-09,2013,1510 9th Avenue,Marion,10:01:59,10:07:34,00:05:35,5.35,"1510 9th Avenue, Marion, Iowa",42.035206,-91.59371
+2010-06-05,2010,210 13th Street,Marion,13:25:12,13:30:56,00:05:44,5.44,"210 13th Street, Marion, Iowa",42.029196,-91.596103
+2013-08-04,2013,2860 23rd Avenue,Marion,10:09:11,10:14:55,00:05:44,5.44,"2860 23rd Avenue, Marion, Iowa",42.045924,-91.581832
+2013-06-21,2013,880 14th Street,Marion,10:25:14,10:31:00,00:05:46,5.46,"880 14th Street, Marion, Iowa",42.034699,-91.594941
+2013-06-24,2013,2440 Eastlawn Drive,Marion,17:57:29,18:03:18,00:05:49,5.49,"2440 Eastlawn Drive, Marion, Iowa",42.024937,-91.58613
+2011-09-07,2011,2751 Regal Court,Marion,15:58:22,16:04:13,00:05:51,5.51,"2751 Regal Court, Marion, Iowa",42.017041,-91.582658
+2013-05-10,2013,775 Fairview Drive,Marion,22:11:21,22:17:13,00:05:52,5.52,"775 Fairview Drive, Marion, Iowa",42.0243687,-91.6016047
+2013-04-20,2013,2635 6th Street,Marion,03:55:34,04:01:28,00:05:54,5.54,"2635 6th Street, Marion, Iowa",42.048949,-91.603591
+2014-05-11,2014,1160 S. 12th Street,Marion,15:27:46,15:33:45,00:05:59,5.59,"1160 S. 12th Street, Marion, Iowa",42.0182239,-91.597222
+2010-09-20,2010,690 Bentley Dr,Marion,17:38:30,17:44:31,00:06:01,6.01,"690 Bentley Dr, Marion, Iowa",42.0462442,-91.6017473
+2014-01-18,2014,1235 Lincoln Drive,Marion,21:21:36,21:27:38,00:06:02,6.02,"1235 Lincoln Drive, Marion, Iowa",42.0379409,-91.593131
+2014-08-05,2014,345 W. 33rd Avenue,Marion,17:11:17,17:17:20,00:06:03,6.03,"345 W. 33rd Avenue, Marion, Iowa",42.05398,-91.611326
+2011-07-07,2011,2195 Catherine Court,Marion,21:17:37,21:23:44,00:06:07,6.07,"2195 Catherine Court, Marion, Iowa",42.018506,-91.589159
+2010-11-30,2010,1483 Grand Avenue,Marion,02:36:04,02:42:14,00:06:10,6.1,"1483 Grand Avenue, Marion, Iowa",42.0205649,-91.5967558
+2013-05-08,2013,3175 8th Street,Marion,15:24:45,15:30:56,00:06:11,6.11,"3175 8th Street, Marion, Iowa",42.053177,-91.601049
+2010-09-17,2010,2100 Highway 13,Marion,12:53:32,12:59:44,00:06:12,6.12,"2100 Highway 13, Marion, Iowa",42.0126964,-91.550288
+2010-11-27,2010,1682 Highway 151,Marion,17:33:00,17:39:13,00:06:13,6.13,"1682 Highway 151, Marion, Iowa",42.0379827,-91.528734
+2010-09-30,2010,200 Ridge Drive,Marion,20:08:32,20:14:47,00:06:15,6.15,"200 Ridge Drive, Marion, Iowa",42.0292799,-91.6220356
+2010-07-23,2010,3108 Carlisle Circle,Marion,12:47:32,12:53:48,00:06:16,6.16,"3108 Carlisle Circle, Marion, Iowa",42.0545149,-91.5780429
+2011-07-06,2011,1300 Highway 151,Marion,14:07:10,14:13:26,00:06:16,6.16,"1300 Highway 151, Marion, Iowa",42.0472109,-91.4912394
+2010-04-18,2010,400 Lindale Drive,Marion,01:14:31,01:20:51,00:06:20,6.2,"400 Lindale Drive, Marion, Iowa",42.030873,-91.626817
+2013-01-16,2013,1710 Marion Airport Road,Marion,13:21:00,13:27:44,00:06:44,6.44,"1710 Marion Airport Road, Marion, Iowa",42.0354049,-91.5268681
+2013-04-07,2013,4047 Bruce Road,Marion,14:57:00,15:03:44,00:06:44,6.44,"4047 Bruce Road, Marion, Iowa",42.062233,-91.600988
+2010-10-16,2010,4500 Tower Terrace Road,Marion,13:29:36,13:36:32,00:06:56,6.56,"4500 Tower Terrace Road, Marion, Iowa",42.0594695,-91.5796012
+2011-08-08,2011,2167 Dawn Drive,Marion,21:14:00,21:20:56,00:06:56,6.56,"2167 Dawn Drive, Marion, Iowa",42.068038,-91.619674
+2011-10-04,2011,1351 Airport Road,Marion,16:05:30,16:13:03,00:07:33,7.33,"1351 Airport Road, Marion, Iowa",41.2864563,-91.6687694
+2010-05-02,2010,2149 Echo Hill Road,Marion,23:47:23,23:55:19,00:07:56,7.56,"2149 Echo Hill Road, Marion, Iowa",42.075953,-91.616967
+2011-12-28,2011,1006 Orrian Drive,Marion,00:59:08,01:07:05,00:07:57,7.57,"1006 Orrian Drive, Marion, Iowa",42.00867,-91.6057189
+2014-06-15,2014,5650 Lucore Road,Marion,03:33:26,03:41:55,00:08:29,8.29,"5650 Lucore Road, Marion, Iowa",42.077193,-91.579665
+2010-01-20,2010,3261 N. Alburnett Road,Marion,13:14:30,13:23:00,00:08:30,8.3,"3261 N. Alburnett Road, Marion, Iowa",42.0990116,-91.6188369
+2010-06-26,2010,1535 Radio Road,Marion,04:51:00,04:59:33,00:08:33,8.33,"1535 Radio Road, Marion, Iowa",42.058783,-91.51345
+2011-04-10,2011,County Home & Hindman Rds,Marion,20:09:30,20:18:15,00:08:45,8.45,"County Home & Hindman Rds, Marion, Iowa",42.093397,-91.5206365
+2014-11-01,2014,2085 County Home Road,Marion,21:04:15,21:13:08,00:08:53,8.53,"2085 County Home Road, Marion, Iowa",42.094278,-91.567912
+2011-01-04,2011,2700 Indian Hill Road,Marion,14:14:00,14:22:53,00:08:53,8.53,"2700 Indian Hill Road, Marion, Iowa",42.0036043,-91.6129802
+2013-03-04,2013,1860 County Home Road,Marion,09:30:00,09:38:58,00:08:58,8.58,"1860 County Home Road, Marion, Iowa",42.0938155,-91.5474102
+2011-07-11,2011,3400 Barrett Road,Marion,05:13:00,05:22:00,00:09:00,9,"3400 Barrett Road, Marion, Iowa",42.1083458,-91.5306551
+2010-04-20,2010,2417 Cimmarron Road,Marion,20:34:00,20:43:06,00:09:06,9.06,"2417 Cimmarron Road, Marion, Iowa",42.073182,-91.601131
+2010-04-28,2010,3545 Coffey Lane,Marion,17:37:00,17:46:10,00:09:10,9.1,"3545 Coffey Lane, Marion, Iowa",42.117331,-91.55748
+2014-05-14,2014,775 Fairview Drive,Marion,23:58:38,00:07:24,00:09:16,9.16,"775 Fairview Drive, Marion, Iowa",42.0243687,-91.6016047
+2014-11-01,2014,2080 County Home Road,Marion,13:53:33,14:02:50,00:09:17,9.17,"2080 County Home Road, Marion, Iowa",42.092911,-91.568035
+2014-02-13,2014,Highway 13 & Bertram Road,Marion,03:17:30,03:26:52,00:09:22,9.22,"Highway 13 & Bertram Road, Marion, Iowa",42.033279,-91.5968958
+2011-11-30,2011,1600 Secrist Road,Marion,13:45:00,13:54:25,00:09:25,9.25,"1600 Secrist Road, Marion, Iowa",42.0196034,-91.5206676
+2010-11-24,2010,6707 Winslow Road,Marion,02:35:35,02:45:02,00:09:27,9.27,"6707 Winslow Road, Marion, Iowa",42.085768,-91.5868069
+2011-10-10,2011,4500 N. 10th Street,Marion,17:15:57,17:25:26,00:09:29,9.29,"4500 N. 10th Street, Marion, Iowa",42.0669603,-91.6031743
+2010-04-01,2010,3306 N. Marion Road,Marion,17:49:00,17:58:38,00:09:38,9.38,"3306 N. Marion Road, Marion, Iowa",42.103793,-91.6019
+2011-07-11,2011,1860 County Home Road,Marion,03:54:00,04:03:44,00:09:44,9.44,"1860 County Home Road, Marion, Iowa",42.0938155,-91.5474102
+2014-07-10,2014,3425 N. Alburnett Road,Marion,20:14:59,20:24:52,00:09:53,9.53,"3425 N. Alburnett Road, Marion, Iowa",42.110968,-91.616433
+2014-04-27,2014,3462 Barnsley Circle,Marion,02:46:32,02:56:30,00:09:58,9.58,"3462 Barnsley Circle, Marion, Iowa",42.0566144,-91.6219643
+2014-04-07,2014,3425 N. Alburnett Road,Marion,10:55:59,11:06:02,00:10:03,10.03,"3425 N. Alburnett Road, Marion, Iowa",42.110968,-91.616433
+2013-10-14,2013,3366 Gilmore Road,Marion,16:14:30,16:24:35,00:10:05,10.05,"3366 Gilmore Road, Marion, Iowa",42.1077,-91.641161
+2010-10-13,2010,1860 County Home Road,Marion,19:31:00,19:41:13,00:10:13,10.13,"1860 County Home Road, Marion, Iowa",42.0938155,-91.5474102
+2010-09-18,2010,1350 Huntington Hills,Marion,10:32:10,10:42:52,00:10:42,10.42,"1350 Huntington Hills, Marion, Iowa",42.073853,-91.595314
+2014-04-18,2014,1421 Martin Creek Road,Marion,16:11:07,16:21:49,00:10:42,10.42,"1421 Martin Creek Road, Marion, Iowa",42.007253,-91.502988
+2010-10-31,2010,4305 Squaw Lane,Marion,18:10:00,18:20:58,00:10:58,10.58,"4305 Squaw Lane, Marion, Iowa",42.0125875,-91.5613469
+2013-01-04,2013,3175 Baker Street,Marion,16:44:58,16:56:01,00:11:03,11.03,"3175 Baker Street, Marion, Iowa",42.05238,-91.577827
+2010-09-09,2010,Cottage Grove Pkw/Dows Rd,Marion,23:16:30,23:28:04,00:11:34,11.34,"Cottage Grove Pkw/Dows Rd, Marion, Iowa",41.9884011,-91.5696704
+2013-08-11,2013,2266 Oxley Road,Marion,17:40:00,17:51:45,00:11:45,11.45,"2266 Oxley Road, Marion, Iowa",42.026708,-91.4901749
+2014-07-06,2014,Martin Creek/Travis Road,Marion,20:08:00,20:20:00,00:12:00,12,"Martin Creek/Travis Road, Marion, Iowa",42.0016144,-91.5451447
+2014-04-27,2014,2100 County Home Road,Marion,15:30:00,15:45:00,00:15:00,15,"2100 County Home Road, Marion, Iowa",42.0938066,-91.5697998
+2014-06-16,2014,Martin Creek/Prairie Chapel,Marion,21:45:00,22:00:00,00:15:00,15,"Martin Creek/Prairie Chapel, Marion, Iowa",42.033279,-91.5968958
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
