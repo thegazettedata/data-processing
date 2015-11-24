@@ -17,7 +17,7 @@ do
 	CENSUS_ID="${!topic}"
 	FEED_URL="$URL=$CENSUS_ID&geo_ids=$IA,$COUNTIES"
 	TOPIC_CURRENT="${TOPICS[$count]}"
-	DIRECTORY=raw/$CENSUS_ID"_"$topic
+	DIRECTORY=raw_feeds/$CENSUS_ID"_"$topic
 	echo "- Loop for $topic"
 
 	# Get the column numbers for each topic

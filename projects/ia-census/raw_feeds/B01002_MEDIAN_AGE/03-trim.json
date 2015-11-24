@@ -1,0 +1,302 @@
+{
+  "Iowa": {
+    "MEDIAN_AGE": 38.1
+  },
+  "Shelby County, IA": {
+    "MEDIAN_AGE": 46.2
+  },
+  "Benton County, IA": {
+    "MEDIAN_AGE": 40.4
+  },
+  "Linn County, IA": {
+    "MEDIAN_AGE": 36.9
+  },
+  "Dickinson County, IA": {
+    "MEDIAN_AGE": 48.4
+  },
+  "Clayton County, IA": {
+    "MEDIAN_AGE": 45
+  },
+  "Buena Vista County, IA": {
+    "MEDIAN_AGE": 36.5
+  },
+  "Mills County, IA": {
+    "MEDIAN_AGE": 41.8
+  },
+  "Dallas County, IA": {
+    "MEDIAN_AGE": 34.4
+  },
+  "Marion County, IA": {
+    "MEDIAN_AGE": 38.6
+  },
+  "Cedar County, IA": {
+    "MEDIAN_AGE": 42.8
+  },
+  "Carroll County, IA": {
+    "MEDIAN_AGE": 42.2
+  },
+  "Pocahontas County, IA": {
+    "MEDIAN_AGE": 47.4
+  },
+  "Harrison County, IA": {
+    "MEDIAN_AGE": 43.1
+  },
+  "Webster County, IA": {
+    "MEDIAN_AGE": 40
+  },
+  "Jefferson County, IA": {
+    "MEDIAN_AGE": 44.3
+  },
+  "Madison County, IA": {
+    "MEDIAN_AGE": 40.1
+  },
+  "Howard County, IA": {
+    "MEDIAN_AGE": 42.2
+  },
+  "Clinton County, IA": {
+    "MEDIAN_AGE": 41.8
+  },
+  "Calhoun County, IA": {
+    "MEDIAN_AGE": 47.4
+  },
+  "Appanoose County, IA": {
+    "MEDIAN_AGE": 44.6
+  },
+  "Van Buren County, IA": {
+    "MEDIAN_AGE": 44.1
+  },
+  "Wright County, IA": {
+    "MEDIAN_AGE": 44.6
+  },
+  "Montgomery County, IA": {
+    "MEDIAN_AGE": 45.2
+  },
+  "Keokuk County, IA": {
+    "MEDIAN_AGE": 44
+  },
+  "Story County, IA": {
+    "MEDIAN_AGE": 26.5
+  },
+  "Mitchell County, IA": {
+    "MEDIAN_AGE": 44.6
+  },
+  "Grundy County, IA": {
+    "MEDIAN_AGE": 42.3
+  },
+  "Winneshiek County, IA": {
+    "MEDIAN_AGE": 40.6
+  },
+  "Polk County, IA": {
+    "MEDIAN_AGE": 34.8
+  },
+  "Floyd County, IA": {
+    "MEDIAN_AGE": 43.7
+  },
+  "Audubon County, IA": {
+    "MEDIAN_AGE": 47.1
+  },
+  "Jones County, IA": {
+    "MEDIAN_AGE": 43.1
+  },
+  "Jasper County, IA": {
+    "MEDIAN_AGE": 42.1
+  },
+  "Plymouth County, IA": {
+    "MEDIAN_AGE": 42.4
+  },
+  "Pottawattamie County, IA": {
+    "MEDIAN_AGE": 38.6
+  },
+  "Taylor County, IA": {
+    "MEDIAN_AGE": 44.4
+  },
+  "Page County, IA": {
+    "MEDIAN_AGE": 43.8
+  },
+  "Cherokee County, IA": {
+    "MEDIAN_AGE": 47.2
+  },
+  "Des Moines County, IA": {
+    "MEDIAN_AGE": 41.8
+  },
+  "Scott County, IA": {
+    "MEDIAN_AGE": 37.4
+  },
+  "Woodbury County, IA": {
+    "MEDIAN_AGE": 35.3
+  },
+  "Clay County, IA": {
+    "MEDIAN_AGE": 42.6
+  },
+  "Crawford County, IA": {
+    "MEDIAN_AGE": 39.1
+  },
+  "Buchanan County, IA": {
+    "MEDIAN_AGE": 39.1
+  },
+  "Osceola County, IA": {
+    "MEDIAN_AGE": 43.7
+  },
+  "Cerro Gordo County, IA": {
+    "MEDIAN_AGE": 43.9
+  },
+  "Greene County, IA": {
+    "MEDIAN_AGE": 45.1
+  },
+  "Wapello County, IA": {
+    "MEDIAN_AGE": 39.8
+  },
+  "Lyon County, IA": {
+    "MEDIAN_AGE": 38
+  },
+  "Adams County, IA": {
+    "MEDIAN_AGE": 46.9
+  },
+  "Monona County, IA": {
+    "MEDIAN_AGE": 46.8
+  },
+  "Humboldt County, IA": {
+    "MEDIAN_AGE": 44.1
+  },
+  "Tama County, IA": {
+    "MEDIAN_AGE": 42.2
+  },
+  "Monroe County, IA": {
+    "MEDIAN_AGE": 42.3
+  },
+  "Muscatine County, IA": {
+    "MEDIAN_AGE": 38.2
+  },
+  "Hamilton County, IA": {
+    "MEDIAN_AGE": 42
+  },
+  "Franklin County, IA": {
+    "MEDIAN_AGE": 43.4
+  },
+  "Guthrie County, IA": {
+    "MEDIAN_AGE": 45.1
+  },
+  "Washington County, IA": {
+    "MEDIAN_AGE": 42
+  },
+  "Sioux County, IA": {
+    "MEDIAN_AGE": 33.2
+  },
+  "Allamakee County, IA": {
+    "MEDIAN_AGE": 44.4
+  },
+  "Worth County, IA": {
+    "MEDIAN_AGE": 44
+  },
+  "Black Hawk County, IA": {
+    "MEDIAN_AGE": 34.6
+  },
+  "Clarke County, IA": {
+    "MEDIAN_AGE": 41
+  },
+  "Fayette County, IA": {
+    "MEDIAN_AGE": 42.6
+  },
+  "Warren County, IA": {
+    "MEDIAN_AGE": 38.8
+  },
+  "Adair County, IA": {
+    "MEDIAN_AGE": 45.6
+  },
+  "Wayne County, IA": {
+    "MEDIAN_AGE": 45.3
+  },
+  "Decatur County, IA": {
+    "MEDIAN_AGE": 38.3
+  },
+  "Kossuth County, IA": {
+    "MEDIAN_AGE": 46.8
+  },
+  "Palo Alto County, IA": {
+    "MEDIAN_AGE": 42.9
+  },
+  "Ringgold County, IA": {
+    "MEDIAN_AGE": 46
+  },
+  "Dubuque County, IA": {
+    "MEDIAN_AGE": 38.8
+  },
+  "Chickasaw County, IA": {
+    "MEDIAN_AGE": 43.2
+  },
+  "Hancock County, IA": {
+    "MEDIAN_AGE": 44.8
+  },
+  "Poweshiek County, IA": {
+    "MEDIAN_AGE": 40.9
+  },
+  "Jackson County, IA": {
+    "MEDIAN_AGE": 44.1
+  },
+  "Mahaska County, IA": {
+    "MEDIAN_AGE": 39.3
+  },
+  "Johnson County, IA": {
+    "MEDIAN_AGE": 29.5
+  },
+  "Ida County, IA": {
+    "MEDIAN_AGE": 44.5
+  },
+  "Union County, IA": {
+    "MEDIAN_AGE": 41.3
+  },
+  "Cass County, IA": {
+    "MEDIAN_AGE": 44.8
+  },
+  "Sac County, IA": {
+    "MEDIAN_AGE": 46.5
+  },
+  "Marshall County, IA": {
+    "MEDIAN_AGE": 38.9
+  },
+  "Delaware County, IA": {
+    "MEDIAN_AGE": 41.9
+  },
+  "Davis County, IA": {
+    "MEDIAN_AGE": 38
+  },
+  "Hardin County, IA": {
+    "MEDIAN_AGE": 44
+  },
+  "Boone County, IA": {
+    "MEDIAN_AGE": 40.7
+  },
+  "Fremont County, IA": {
+    "MEDIAN_AGE": 46
+  },
+  "Lee County, IA": {
+    "MEDIAN_AGE": 42.8
+  },
+  "Iowa County, IA": {
+    "MEDIAN_AGE": 42.1
+  },
+  "Butler County, IA": {
+    "MEDIAN_AGE": 43.5
+  },
+  "Emmet County, IA": {
+    "MEDIAN_AGE": 40.5
+  },
+  "Henry County, IA": {
+    "MEDIAN_AGE": 40.3
+  },
+  "Louisa County, IA": {
+    "MEDIAN_AGE": 39.7
+  },
+  "Lucas County, IA": {
+    "MEDIAN_AGE": 44.3
+  },
+  "Bremer County, IA": {
+    "MEDIAN_AGE": 38.5
+  },
+  "O'Brien County, IA": {
+    "MEDIAN_AGE": 44
+  },
+  "Winnebago County, IA": {
+    "MEDIAN_AGE": 43.8
+  }
+}
