@@ -1,0 +1,20 @@
+/* Body */
+body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+}
+
+html {
+	height: 100%;
+}
+
+/* Map */
+#map {
+	position: absolute;
+	float: left;
+	top: 1%;
+	height: 98%;
+	width: 100%;
+	z-index: 7;
+}

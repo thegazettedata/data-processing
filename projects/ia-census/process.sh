@@ -5,8 +5,8 @@ source globals.sh
 # Get Census data
 /bin/bash process-census.sh
 
-# Get unemployment data
-/bin/bash process-unemployment.sh
+# Get BLS data
+/bin/bash process-BLS.sh
 
 # Clean up files in edits directory
 # And merge with geojson file of counties

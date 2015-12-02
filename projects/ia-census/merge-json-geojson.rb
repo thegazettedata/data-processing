@@ -46,5 +46,5 @@ end
 puts "Creating geojson file in outputs directory"
 
 File.open("output/ia-counties-census.json", 'w+') { |file|
-	file.write($final_geojson)
+	file.write("var counties = " + $final_geojson.to_json)
 }
