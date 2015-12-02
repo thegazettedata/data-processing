@@ -1,0 +1,402 @@
+{
+  "04000US19": {
+    "county": "Iowa",
+    "INDUSTRY_EDUCATION": 23.97220420278744
+  },
+  "19001": {
+    "county": "Adair County, IA",
+    "INDUSTRY_EDUCATION": 19.95395241749808
+  },
+  "19003": {
+    "county": "Adams County, IA",
+    "INDUSTRY_EDUCATION": 28.28282828282828
+  },
+  "19005": {
+    "county": "Allamakee County, IA",
+    "INDUSTRY_EDUCATION": 22.452504317789295
+  },
+  "19007": {
+    "county": "Appanoose County, IA",
+    "INDUSTRY_EDUCATION": 20.349761526232115
+  },
+  "19009": {
+    "county": "Audubon County, IA",
+    "INDUSTRY_EDUCATION": 21.085526315789473
+  },
+  "19011": {
+    "county": "Benton County, IA",
+    "INDUSTRY_EDUCATION": 20.476004682013265
+  },
+  "19013": {
+    "county": "Black Hawk County, IA",
+    "INDUSTRY_EDUCATION": 25.497576812685267
+  },
+  "19015": {
+    "county": "Boone County, IA",
+    "INDUSTRY_EDUCATION": 26.819541375872387
+  },
+  "19017": {
+    "county": "Bremer County, IA",
+    "INDUSTRY_EDUCATION": 28.634569850039465
+  },
+  "19019": {
+    "county": "Buchanan County, IA",
+    "INDUSTRY_EDUCATION": 23.346534653465348
+  },
+  "19021": {
+    "county": "Buena Vista County, IA",
+    "INDUSTRY_EDUCATION": 23.083606873913883
+  },
+  "19023": {
+    "county": "Butler County, IA",
+    "INDUSTRY_EDUCATION": 23.87141858839972
+  },
+  "19025": {
+    "county": "Calhoun County, IA",
+    "INDUSTRY_EDUCATION": 27.729403884795712
+  },
+  "19027": {
+    "county": "Carroll County, IA",
+    "INDUSTRY_EDUCATION": 22.0256197585476
+  },
+  "19029": {
+    "county": "Cass County, IA",
+    "INDUSTRY_EDUCATION": 26.027397260273972
+  },
+  "19031": {
+    "county": "Cedar County, IA",
+    "INDUSTRY_EDUCATION": 24.10503641399118
+  },
+  "19033": {
+    "county": "Cerro Gordo County, IA",
+    "INDUSTRY_EDUCATION": 25.377107364685003
+  },
+  "19035": {
+    "county": "Cherokee County, IA",
+    "INDUSTRY_EDUCATION": 22.920092074975337
+  },
+  "19037": {
+    "county": "Chickasaw County, IA",
+    "INDUSTRY_EDUCATION": 20.649612924941096
+  },
+  "19039": {
+    "county": "Clarke County, IA",
+    "INDUSTRY_EDUCATION": 18.607856650585802
+  },
+  "19041": {
+    "county": "Clay County, IA",
+    "INDUSTRY_EDUCATION": 22.234004948745138
+  },
+  "19043": {
+    "county": "Clayton County, IA",
+    "INDUSTRY_EDUCATION": 20.70672968714832
+  },
+  "19045": {
+    "county": "Clinton County, IA",
+    "INDUSTRY_EDUCATION": 22.444846604619098
+  },
+  "19047": {
+    "county": "Crawford County, IA",
+    "INDUSTRY_EDUCATION": 21.70202083594829
+  },
+  "19049": {
+    "county": "Dallas County, IA",
+    "INDUSTRY_EDUCATION": 19.78028044606382
+  },
+  "19051": {
+    "county": "Davis County, IA",
+    "INDUSTRY_EDUCATION": 22.206820072082063
+  },
+  "19053": {
+    "county": "Decatur County, IA",
+    "INDUSTRY_EDUCATION": 34.34229137199434
+  },
+  "19055": {
+    "county": "Delaware County, IA",
+    "INDUSTRY_EDUCATION": 20.724389198456922
+  },
+  "19057": {
+    "county": "Des Moines County, IA",
+    "INDUSTRY_EDUCATION": 21.927149747740753
+  },
+  "19059": {
+    "county": "Dickinson County, IA",
+    "INDUSTRY_EDUCATION": 18.559651934966798
+  },
+  "19061": {
+    "county": "Dubuque County, IA",
+    "INDUSTRY_EDUCATION": 24.961214991426473
+  },
+  "19063": {
+    "county": "Emmet County, IA",
+    "INDUSTRY_EDUCATION": 17.732277380722426
+  },
+  "19065": {
+    "county": "Fayette County, IA",
+    "INDUSTRY_EDUCATION": 26.02124183006536
+  },
+  "19067": {
+    "county": "Floyd County, IA",
+    "INDUSTRY_EDUCATION": 20.82059123343527
+  },
+  "19069": {
+    "county": "Franklin County, IA",
+    "INDUSTRY_EDUCATION": 19.09460243760882
+  },
+  "19071": {
+    "county": "Fremont County, IA",
+    "INDUSTRY_EDUCATION": 28.005865102639294
+  },
+  "19073": {
+    "county": "Greene County, IA",
+    "INDUSTRY_EDUCATION": 25.651255573808967
+  },
+  "19075": {
+    "county": "Grundy County, IA",
+    "INDUSTRY_EDUCATION": 21.30956347884039
+  },
+  "19077": {
+    "county": "Guthrie County, IA",
+    "INDUSTRY_EDUCATION": 21.78619756427605
+  },
+  "19079": {
+    "county": "Hamilton County, IA",
+    "INDUSTRY_EDUCATION": 19.89375087375926
+  },
+  "19081": {
+    "county": "Hancock County, IA",
+    "INDUSTRY_EDUCATION": 19.138495092693567
+  },
+  "19083": {
+    "county": "Hardin County, IA",
+    "INDUSTRY_EDUCATION": 25.336859337614907
+  },
+  "19085": {
+    "county": "Harrison County, IA",
+    "INDUSTRY_EDUCATION": 25.162449882483063
+  },
+  "19087": {
+    "county": "Henry County, IA",
+    "INDUSTRY_EDUCATION": 24.666442426280973
+  },
+  "19089": {
+    "county": "Howard County, IA",
+    "INDUSTRY_EDUCATION": 21.602497398543182
+  },
+  "19091": {
+    "county": "Humboldt County, IA",
+    "INDUSTRY_EDUCATION": 21.111818374708253
+  },
+  "19093": {
+    "county": "Ida County, IA",
+    "INDUSTRY_EDUCATION": 22.063854047890537
+  },
+  "19095": {
+    "county": "Iowa County, IA",
+    "INDUSTRY_EDUCATION": 26.581691772885286
+  },
+  "19097": {
+    "county": "Jackson County, IA",
+    "INDUSTRY_EDUCATION": 18.289326129065145
+  },
+  "19099": {
+    "county": "Jasper County, IA",
+    "INDUSTRY_EDUCATION": 20.004747492730402
+  },
+  "19101": {
+    "county": "Jefferson County, IA",
+    "INDUSTRY_EDUCATION": 23.013286537979443
+  },
+  "19103": {
+    "county": "Johnson County, IA",
+    "INDUSTRY_EDUCATION": 40.01107329984335
+  },
+  "19105": {
+    "county": "Jones County, IA",
+    "INDUSTRY_EDUCATION": 20.541417418635305
+  },
+  "19107": {
+    "county": "Keokuk County, IA",
+    "INDUSTRY_EDUCATION": 27.10868652958456
+  },
+  "19109": {
+    "county": "Kossuth County, IA",
+    "INDUSTRY_EDUCATION": 24.03759495300631
+  },
+  "19111": {
+    "county": "Lee County, IA",
+    "INDUSTRY_EDUCATION": 20.984504325098012
+  },
+  "19113": {
+    "county": "Linn County, IA",
+    "INDUSTRY_EDUCATION": 21.929300067039918
+  },
+  "19115": {
+    "county": "Louisa County, IA",
+    "INDUSTRY_EDUCATION": 18.053993250843643
+  },
+  "19117": {
+    "county": "Lucas County, IA",
+    "INDUSTRY_EDUCATION": 20.937003705664374
+  },
+  "19119": {
+    "county": "Lyon County, IA",
+    "INDUSTRY_EDUCATION": 21.975180972078594
+  },
+  "19121": {
+    "county": "Madison County, IA",
+    "INDUSTRY_EDUCATION": 21.0443864229765
+  },
+  "19123": {
+    "county": "Mahaska County, IA",
+    "INDUSTRY_EDUCATION": 21.63600709683444
+  },
+  "19125": {
+    "county": "Marion County, IA",
+    "INDUSTRY_EDUCATION": 27.486371895820717
+  },
+  "19127": {
+    "county": "Marshall County, IA",
+    "INDUSTRY_EDUCATION": 23.895797598627787
+  },
+  "19129": {
+    "county": "Mills County, IA",
+    "INDUSTRY_EDUCATION": 27.89321789321789
+  },
+  "19131": {
+    "county": "Mitchell County, IA",
+    "INDUSTRY_EDUCATION": 20.449657869012707
+  },
+  "19133": {
+    "county": "Monona County, IA",
+    "INDUSTRY_EDUCATION": 23.530870319861148
+  },
+  "19135": {
+    "county": "Monroe County, IA",
+    "INDUSTRY_EDUCATION": 29.00213447171825
+  },
+  "19137": {
+    "county": "Montgomery County, IA",
+    "INDUSTRY_EDUCATION": 23.808496872978218
+  },
+  "19139": {
+    "county": "Muscatine County, IA",
+    "INDUSTRY_EDUCATION": 19.038989028213166
+  },
+  "19141": {
+    "county": "O'Brien County, IA",
+    "INDUSTRY_EDUCATION": 23.008356545961004
+  },
+  "19143": {
+    "county": "Osceola County, IA",
+    "INDUSTRY_EDUCATION": 21.17144600366077
+  },
+  "19145": {
+    "county": "Page County, IA",
+    "INDUSTRY_EDUCATION": 27.97432239657632
+  },
+  "19147": {
+    "county": "Palo Alto County, IA",
+    "INDUSTRY_EDUCATION": 23.94491337183474
+  },
+  "19149": {
+    "county": "Plymouth County, IA",
+    "INDUSTRY_EDUCATION": 24.035020936429387
+  },
+  "19151": {
+    "county": "Pocahontas County, IA",
+    "INDUSTRY_EDUCATION": 21.51029748283753
+  },
+  "19153": {
+    "county": "Polk County, IA",
+    "INDUSTRY_EDUCATION": 20.394912545697334
+  },
+  "19155": {
+    "county": "Pottawattamie County, IA",
+    "INDUSTRY_EDUCATION": 23.02448766932963
+  },
+  "19157": {
+    "county": "Poweshiek County, IA",
+    "INDUSTRY_EDUCATION": 30.75931693695629
+  },
+  "19159": {
+    "county": "Ringgold County, IA",
+    "INDUSTRY_EDUCATION": 31.757070004636066
+  },
+  "19161": {
+    "county": "Sac County, IA",
+    "INDUSTRY_EDUCATION": 21.53233830845771
+  },
+  "19163": {
+    "county": "Scott County, IA",
+    "INDUSTRY_EDUCATION": 22.193548387096772
+  },
+  "19165": {
+    "county": "Shelby County, IA",
+    "INDUSTRY_EDUCATION": 23.230309072781655
+  },
+  "19167": {
+    "county": "Sioux County, IA",
+    "INDUSTRY_EDUCATION": 25.25362714083124
+  },
+  "19169": {
+    "county": "Story County, IA",
+    "INDUSTRY_EDUCATION": 36.38316509552015
+  },
+  "19171": {
+    "county": "Tama County, IA",
+    "INDUSTRY_EDUCATION": 23.337822946002206
+  },
+  "19173": {
+    "county": "Taylor County, IA",
+    "INDUSTRY_EDUCATION": 22.691029900332225
+  },
+  "19175": {
+    "county": "Union County, IA",
+    "INDUSTRY_EDUCATION": 22.184630256162396
+  },
+  "19177": {
+    "county": "Van Buren County, IA",
+    "INDUSTRY_EDUCATION": 22.244957614732535
+  },
+  "19179": {
+    "county": "Wapello County, IA",
+    "INDUSTRY_EDUCATION": 22.846299810246677
+  },
+  "19181": {
+    "county": "Warren County, IA",
+    "INDUSTRY_EDUCATION": 23.760347512498974
+  },
+  "19183": {
+    "county": "Washington County, IA",
+    "INDUSTRY_EDUCATION": 28.963222731768727
+  },
+  "19185": {
+    "county": "Wayne County, IA",
+    "INDUSTRY_EDUCATION": 26.321626617375234
+  },
+  "19187": {
+    "county": "Webster County, IA",
+    "INDUSTRY_EDUCATION": 23.921476431174327
+  },
+  "19189": {
+    "county": "Winnebago County, IA",
+    "INDUSTRY_EDUCATION": 22.39396795475966
+  },
+  "19191": {
+    "county": "Winneshiek County, IA",
+    "INDUSTRY_EDUCATION": 34.83676975945017
+  },
+  "19193": {
+    "county": "Woodbury County, IA",
+    "INDUSTRY_EDUCATION": 21.585474749479115
+  },
+  "19195": {
+    "county": "Worth County, IA",
+    "INDUSTRY_EDUCATION": 18.664604279453467
+  },
+  "19197": {
+    "county": "Wright County, IA",
+    "INDUSTRY_EDUCATION": 23.4860883797054
+  }
+}

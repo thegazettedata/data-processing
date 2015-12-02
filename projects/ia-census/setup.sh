@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # To run setup:
 # sh setup.sh
 
