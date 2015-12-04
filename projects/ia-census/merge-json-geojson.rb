@@ -1,3 +1,6 @@
+# In this file, we merge the json and geojson files together
+# And output one geojson file
+
 require 'json'
 
 final_data = {}
@@ -20,6 +23,8 @@ $final_geojson = {}
 $data.each_with_index do |data, num_data|
 	geoid_data = data[0]
 	county_data = data[1]
+
+	puts county_data
 
 	# Loop through geojson data
 	$geojson.each_with_index do |geojson, num_geojson|
