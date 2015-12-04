@@ -1,0 +1,23 @@
+/* City icons */
+.city-label-icons {
+  color: #333;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: center;
+  text-shadow: 1px 1px 0 #FFF, -1px -1px 0 #FFF, 1px -1px 0 #FFF, -1px 1px 0 #FFF, 1px 1px 0 #FFF;
+}
+
+.city-label-icons p {
+  margin: -25px 0 0 0;
+}
+
+.city-label-icons-circle {
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  background: #333;
+  text-align: center;
+  margin: 0 auto;
+  border: 1px solid #FFF;
+}
