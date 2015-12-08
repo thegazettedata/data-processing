@@ -3,7 +3,7 @@ source globals.sh
 
 # Used when debugging
 # Switch to false to make sure data is hampered with
-RUN_CENSUS=false
+RUN_CENSUS=true
 
 # CENSUS REPORTER API
 # Loop through each feed of data we have
@@ -93,9 +93,9 @@ then
 		# And move all the Census data into that file
 		# Because we can't copy contents of two files into one of those existing files
 		# We create a blank copy of the first JSON file
-		jq -s '.[0] * .[1]' $FILE_THREE $FILE_EDIT_ONE_COPY > $FILE_EDIT_ONE
+		jq -s '.[1] * .[0]' $FILE_THREE $FILE_EDIT_ONE_COPY > $FILE_EDIT_ONE
 		cp $FILE_EDIT_ONE $FILE_EDIT_ONE_COPY
-		jq -s '.[0] * .[1]' $FILE_THREE $FILE_EDIT_ONE_COPY > $FILE_EDIT_TWO
+		jq -s '.[1] * .[0]' $FILE_THREE $FILE_EDIT_ONE_COPY > $FILE_EDIT_TWO
 
 		(( count++ ))
 	done
