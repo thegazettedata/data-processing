@@ -28,3 +28,6 @@ fi
 
 # Use this Ruby file to combine geojson file with census, unemployment data
 ruby merge-json-geojson.rb $FILE_EDIT_FIVE $FILE_COUNTIES
+
+# With this data, create a summary file for the sliders on the map
+ruby slider-categories.rb

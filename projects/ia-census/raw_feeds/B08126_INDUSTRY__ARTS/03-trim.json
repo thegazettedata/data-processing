@@ -1,0 +1,402 @@
+{
+  "04000US19": {
+    "county": "Iowa",
+    "INDUSTRY__ARTS": 7.548570567382858
+  },
+  "19001": {
+    "county": "Adair County, IA",
+    "INDUSTRY__ARTS": 3.7861345612688666
+  },
+  "19003": {
+    "county": "Adams County, IA",
+    "INDUSTRY__ARTS": 1.8181818181818181
+  },
+  "19005": {
+    "county": "Allamakee County, IA",
+    "INDUSTRY__ARTS": 6.0880829015544045
+  },
+  "19007": {
+    "county": "Appanoose County, IA",
+    "INDUSTRY__ARTS": 7.436848613319201
+  },
+  "19009": {
+    "county": "Audubon County, IA",
+    "INDUSTRY__ARTS": 5.1644736842105265
+  },
+  "19011": {
+    "county": "Benton County, IA",
+    "INDUSTRY__ARTS": 5.641825985173625
+  },
+  "19013": {
+    "county": "Black Hawk County, IA",
+    "INDUSTRY__ARTS": 9.807242899041704
+  },
+  "19015": {
+    "county": "Boone County, IA",
+    "INDUSTRY__ARTS": 5.468210752358309
+  },
+  "19017": {
+    "county": "Bremer County, IA",
+    "INDUSTRY__ARTS": 5.619573796369377
+  },
+  "19019": {
+    "county": "Buchanan County, IA",
+    "INDUSTRY__ARTS": 5.613861386138614
+  },
+  "19021": {
+    "county": "Buena Vista County, IA",
+    "INDUSTRY__ARTS": 6.024329021046534
+  },
+  "19023": {
+    "county": "Butler County, IA",
+    "INDUSTRY__ARTS": 3.563941299790356
+  },
+  "19025": {
+    "county": "Calhoun County, IA",
+    "INDUSTRY__ARTS": 3.9741013619111407
+  },
+  "19027": {
+    "county": "Carroll County, IA",
+    "INDUSTRY__ARTS": 7.05925721131693
+  },
+  "19029": {
+    "county": "Cass County, IA",
+    "INDUSTRY__ARTS": 5.836807623585467
+  },
+  "19031": {
+    "county": "Cedar County, IA",
+    "INDUSTRY__ARTS": 4.656887885937019
+  },
+  "19033": {
+    "county": "Cerro Gordo County, IA",
+    "INDUSTRY__ARTS": 8.740017746228926
+  },
+  "19035": {
+    "county": "Cherokee County, IA",
+    "INDUSTRY__ARTS": 4.817494245314041
+  },
+  "19037": {
+    "county": "Chickasaw County, IA",
+    "INDUSTRY__ARTS": 4.527095254123191
+  },
+  "19039": {
+    "county": "Clarke County, IA",
+    "INDUSTRY__ARTS": 11.762003216172754
+  },
+  "19041": {
+    "county": "Clay County, IA",
+    "INDUSTRY__ARTS": 5.891363261458701
+  },
+  "19043": {
+    "county": "Clayton County, IA",
+    "INDUSTRY__ARTS": 5.5818140895791135
+  },
+  "19045": {
+    "county": "Clinton County, IA",
+    "INDUSTRY__ARTS": 7.0320579110651495
+  },
+  "19047": {
+    "county": "Crawford County, IA",
+    "INDUSTRY__ARTS": 7.45575498933099
+  },
+  "19049": {
+    "county": "Dallas County, IA",
+    "INDUSTRY__ARTS": 5.0044164734459535
+  },
+  "19051": {
+    "county": "Davis County, IA",
+    "INDUSTRY__ARTS": 6.87551982256723
+  },
+  "19053": {
+    "county": "Decatur County, IA",
+    "INDUSTRY__ARTS": 6.676096181046676
+  },
+  "19055": {
+    "county": "Delaware County, IA",
+    "INDUSTRY__ARTS": 4.243463351907415
+  },
+  "19057": {
+    "county": "Des Moines County, IA",
+    "INDUSTRY__ARTS": 9.613572101790764
+  },
+  "19059": {
+    "county": "Dickinson County, IA",
+    "INDUSTRY__ARTS": 9.949622166246852
+  },
+  "19061": {
+    "county": "Dubuque County, IA",
+    "INDUSTRY__ARTS": 9.279823630276802
+  },
+  "19063": {
+    "county": "Emmet County, IA",
+    "INDUSTRY__ARTS": 8.943403515549546
+  },
+  "19065": {
+    "county": "Fayette County, IA",
+    "INDUSTRY__ARTS": 5.943627450980392
+  },
+  "19067": {
+    "county": "Floyd County, IA",
+    "INDUSTRY__ARTS": 5.186034658511723
+  },
+  "19069": {
+    "county": "Franklin County, IA",
+    "INDUSTRY__ARTS": 4.720448829560843
+  },
+  "19071": {
+    "county": "Fremont County, IA",
+    "INDUSTRY__ARTS": 3.5777126099706744
+  },
+  "19073": {
+    "county": "Greene County, IA",
+    "INDUSTRY__ARTS": 2.0417742314010794
+  },
+  "19075": {
+    "county": "Grundy County, IA",
+    "INDUSTRY__ARTS": 4.915028323892036
+  },
+  "19077": {
+    "county": "Guthrie County, IA",
+    "INDUSTRY__ARTS": 5.2194084670404015
+  },
+  "19079": {
+    "county": "Hamilton County, IA",
+    "INDUSTRY__ARTS": 5.6200195722074655
+  },
+  "19081": {
+    "county": "Hancock County, IA",
+    "INDUSTRY__ARTS": 3.4532897128316975
+  },
+  "19083": {
+    "county": "Hardin County, IA",
+    "INDUSTRY__ARTS": 3.4630399194056167
+  },
+  "19085": {
+    "county": "Harrison County, IA",
+    "INDUSTRY__ARTS": 7.949675100235034
+  },
+  "19087": {
+    "county": "Henry County, IA",
+    "INDUSTRY__ARTS": 5.3032851216504096
+  },
+  "19089": {
+    "county": "Howard County, IA",
+    "INDUSTRY__ARTS": 4.349635796045786
+  },
+  "19091": {
+    "county": "Humboldt County, IA",
+    "INDUSTRY__ARTS": 3.776787608741778
+  },
+  "19093": {
+    "county": "Ida County, IA",
+    "INDUSTRY__ARTS": 5.245153933865451
+  },
+  "19095": {
+    "county": "Iowa County, IA",
+    "INDUSTRY__ARTS": 6.257242178447277
+  },
+  "19097": {
+    "county": "Jackson County, IA",
+    "INDUSTRY__ARTS": 7.14649811397696
+  },
+  "19099": {
+    "county": "Jasper County, IA",
+    "INDUSTRY__ARTS": 5.8750222538721735
+  },
+  "19101": {
+    "county": "Jefferson County, IA",
+    "INDUSTRY__ARTS": 7.909250438706443
+  },
+  "19103": {
+    "county": "Johnson County, IA",
+    "INDUSTRY__ARTS": 11.258304974882515
+  },
+  "19105": {
+    "county": "Jones County, IA",
+    "INDUSTRY__ARTS": 6.073202879448444
+  },
+  "19107": {
+    "county": "Keokuk County, IA",
+    "INDUSTRY__ARTS": 4.154427192614351
+  },
+  "19109": {
+    "county": "Kossuth County, IA",
+    "INDUSTRY__ARTS": 4.094244882193897
+  },
+  "19111": {
+    "county": "Lee County, IA",
+    "INDUSTRY__ARTS": 7.810069077104985
+  },
+  "19113": {
+    "county": "Linn County, IA",
+    "INDUSTRY__ARTS": 7.416064213368122
+  },
+  "19115": {
+    "county": "Louisa County, IA",
+    "INDUSTRY__ARTS": 3.880764904386952
+  },
+  "19117": {
+    "county": "Lucas County, IA",
+    "INDUSTRY__ARTS": 3.5997882477501326
+  },
+  "19119": {
+    "county": "Lyon County, IA",
+    "INDUSTRY__ARTS": 5.015511892450879
+  },
+  "19121": {
+    "county": "Madison County, IA",
+    "INDUSTRY__ARTS": 6.2793733681462145
+  },
+  "19123": {
+    "county": "Mahaska County, IA",
+    "INDUSTRY__ARTS": 6.807358296759734
+  },
+  "19125": {
+    "county": "Marion County, IA",
+    "INDUSTRY__ARTS": 7.062386432465173
+  },
+  "19127": {
+    "county": "Marshall County, IA",
+    "INDUSTRY__ARTS": 6.480488850771869
+  },
+  "19129": {
+    "county": "Mills County, IA",
+    "INDUSTRY__ARTS": 6.233766233766234
+  },
+  "19131": {
+    "county": "Mitchell County, IA",
+    "INDUSTRY__ARTS": 4.222873900293255
+  },
+  "19133": {
+    "county": "Monona County, IA",
+    "INDUSTRY__ARTS": 6.422018348623854
+  },
+  "19135": {
+    "county": "Monroe County, IA",
+    "INDUSTRY__ARTS": 5.389541088580576
+  },
+  "19137": {
+    "county": "Montgomery County, IA",
+    "INDUSTRY__ARTS": 9.63985335346129
+  },
+  "19139": {
+    "county": "Muscatine County, IA",
+    "INDUSTRY__ARTS": 7.939851097178684
+  },
+  "19141": {
+    "county": "O'Brien County, IA",
+    "INDUSTRY__ARTS": 6.0445682451253475
+  },
+  "19143": {
+    "county": "Osceola County, IA",
+    "INDUSTRY__ARTS": 4.48444173276388
+  },
+  "19145": {
+    "county": "Page County, IA",
+    "INDUSTRY__ARTS": 5.206847360912981
+  },
+  "19147": {
+    "county": "Palo Alto County, IA",
+    "INDUSTRY__ARTS": 9.928920479786761
+  },
+  "19149": {
+    "county": "Plymouth County, IA",
+    "INDUSTRY__ARTS": 5.382565664255805
+  },
+  "19151": {
+    "county": "Pocahontas County, IA",
+    "INDUSTRY__ARTS": 4.233409610983982
+  },
+  "19153": {
+    "county": "Polk County, IA",
+    "INDUSTRY__ARTS": 8.505505571244063
+  },
+  "19155": {
+    "county": "Pottawattamie County, IA",
+    "INDUSTRY__ARTS": 8.90283084404307
+  },
+  "19157": {
+    "county": "Poweshiek County, IA",
+    "INDUSTRY__ARTS": 7.464289549994629
+  },
+  "19159": {
+    "county": "Ringgold County, IA",
+    "INDUSTRY__ARTS": 3.15252665739453
+  },
+  "19161": {
+    "county": "Sac County, IA",
+    "INDUSTRY__ARTS": 4.577114427860696
+  },
+  "19163": {
+    "county": "Scott County, IA",
+    "INDUSTRY__ARTS": 8.583777012214219
+  },
+  "19165": {
+    "county": "Shelby County, IA",
+    "INDUSTRY__ARTS": 4.10435360584912
+  },
+  "19167": {
+    "county": "Sioux County, IA",
+    "INDUSTRY__ARTS": 6.801570851969019
+  },
+  "19169": {
+    "county": "Story County, IA",
+    "INDUSTRY__ARTS": 8.865854675898891
+  },
+  "19171": {
+    "county": "Tama County, IA",
+    "INDUSTRY__ARTS": 10.89751438716787
+  },
+  "19173": {
+    "county": "Taylor County, IA",
+    "INDUSTRY__ARTS": 3.7541528239202657
+  },
+  "19175": {
+    "county": "Union County, IA",
+    "INDUSTRY__ARTS": 6.52489125181247
+  },
+  "19177": {
+    "county": "Van Buren County, IA",
+    "INDUSTRY__ARTS": 4.209295527623502
+  },
+  "19179": {
+    "county": "Wapello County, IA",
+    "INDUSTRY__ARTS": 6.432637571157496
+  },
+  "19181": {
+    "county": "Warren County, IA",
+    "INDUSTRY__ARTS": 5.6306860093434965
+  },
+  "19183": {
+    "county": "Washington County, IA",
+    "INDUSTRY__ARTS": 6.321373977160327
+  },
+  "19185": {
+    "county": "Wayne County, IA",
+    "INDUSTRY__ARTS": 4.10351201478743
+  },
+  "19187": {
+    "county": "Webster County, IA",
+    "INDUSTRY__ARTS": 9.116022099447514
+  },
+  "19189": {
+    "county": "Winnebago County, IA",
+    "INDUSTRY__ARTS": 7.822808671065033
+  },
+  "19191": {
+    "county": "Winneshiek County, IA",
+    "INDUSTRY__ARTS": 7.491408934707904
+  },
+  "19193": {
+    "county": "Woodbury County, IA",
+    "INDUSTRY__ARTS": 9.274729635876575
+  },
+  "19195": {
+    "county": "Worth County, IA",
+    "INDUSTRY__ARTS": 7.2956947666924465
+  },
+  "19197": {
+    "county": "Wright County, IA",
+    "INDUSTRY__ARTS": 4.026186579378069
+  }
+}

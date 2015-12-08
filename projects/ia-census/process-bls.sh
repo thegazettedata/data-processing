@@ -3,8 +3,12 @@ source globals.sh
 
 # Used when debugging
 # Switch to false to make sure data is hampered with
-RUN_BLS=true
+RUN_BLS=false
 
+# Set to true if you actually want to download data from API
+# Remember you only have 250 requests every 24 hours
+# So when debugging, set to false
+CURL_API=false
 # BLS API
 
 # Hook up to the 
@@ -16,7 +20,7 @@ count_unemployment=0
 if [ $RUN_BLS = true ]
 then
 
-	for num in $(seq 1 197)
+	for num in $(seq 1 199)
 	do
 
 		# Find odd numbers
@@ -53,13 +57,27 @@ then
 
 			# Curl request the BLS API
 			# Requires registration key
-			echo "http://api.bls.gov/publicAPI/v2/timeseries/data/LAUCN19"${num}"0000000003"
-			ID="LAUCN19"${num}"0000000003"
+			if [ "$num" = "199" ]
+			then
+				ID="LASST190000000000003"
+			else
+				ID="LAUCN19"${num}"0000000003"
+			fi
+
+			echo "http://api.bls.gov/publicAPI/v2/timeseries/data/$ID"
     	PARAMETERS='{"seriesid":["'${ID}'"],"registrationKey":"4e7c7817ef4949c29a604cf131cca7c4"}'
-    	# curl -X POST -H 'Content-Type: application/json' -d ''$PARAMETERS'' http://api.bls.gov/publicAPI/v2/timeseries/data/ > $FILE_ONE_BLS
+    	if [ $CURL_API = true ]
+    	then
+    		curl -X POST -H 'Content-Type: application/json' -d ''$PARAMETERS'' http://api.bls.gov/publicAPI/v2/timeseries/data/ > $FILE_ONE_BLS
+    	fi
 
     	# Trim out just the unemployment value and wrap in object
-    	jq '{ (.["Results"]["series"][0]["seriesID"] | ltrimstr("LAUCN") | rtrimstr("0000000003") ): {"UNEMPLOYMENT": .["Results"]["series"][0]["data"][0]["value"] | tonumber } }' $FILE_ONE_BLS > $FILE_TWO_BLS
+    	if [ "$num" = "199" ]
+    		then
+    		jq '{ "04000US19": {"UNEMPLOYMENT": .["Results"]["series"][0]["data"][0]["value"] | tonumber } }' $FILE_ONE_BLS > $FILE_TWO_BLS
+			else
+				jq '{ (.["Results"]["series"][0]["seriesID"] | ltrimstr("LAUCN") | rtrimstr("0000000003") ): {"UNEMPLOYMENT": .["Results"]["series"][0]["data"][0]["value"] | tonumber } }' $FILE_ONE_BLS > $FILE_TWO_BLS
+			fi
 
     	# jq won't work on blank files
     	# So if it's the first time through the loop

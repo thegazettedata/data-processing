@@ -3,7 +3,7 @@ source globals.sh
 
 # Used when debugging
 # Switch to false to make sure data is hampered with
-RUN_CENSUS=true
+RUN_CENSUS=false
 
 # CENSUS REPORTER API
 # Loop through each feed of data we have

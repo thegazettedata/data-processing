@@ -1,0 +1,402 @@
+{
+  "04000US19": {
+    "county": "Iowa",
+    "INDUSTRY__FINANCE": 7.654590369103549
+  },
+  "19001": {
+    "county": "Adair County, IA",
+    "INDUSTRY__FINANCE": 5.551291890509082
+  },
+  "19003": {
+    "county": "Adams County, IA",
+    "INDUSTRY__FINANCE": 4.090909090909091
+  },
+  "19005": {
+    "county": "Allamakee County, IA",
+    "INDUSTRY__FINANCE": 4.490500863557859
+  },
+  "19007": {
+    "county": "Appanoose County, IA",
+    "INDUSTRY__FINANCE": 2.897014661720544
+  },
+  "19009": {
+    "county": "Audubon County, IA",
+    "INDUSTRY__FINANCE": 4.802631578947368
+  },
+  "19011": {
+    "county": "Benton County, IA",
+    "INDUSTRY__FINANCE": 7.116660163870464
+  },
+  "19013": {
+    "county": "Black Hawk County, IA",
+    "INDUSTRY__FINANCE": 5.905048699007199
+  },
+  "19015": {
+    "county": "Boone County, IA",
+    "INDUSTRY__FINANCE": 6.120101234757266
+  },
+  "19017": {
+    "county": "Bremer County, IA",
+    "INDUSTRY__FINANCE": 7.513812154696133
+  },
+  "19019": {
+    "county": "Buchanan County, IA",
+    "INDUSTRY__FINANCE": 5.158415841584159
+  },
+  "19021": {
+    "county": "Buena Vista County, IA",
+    "INDUSTRY__FINANCE": 2.828731415331145
+  },
+  "19023": {
+    "county": "Butler County, IA",
+    "INDUSTRY__FINANCE": 4.612159329140461
+  },
+  "19025": {
+    "county": "Calhoun County, IA",
+    "INDUSTRY__FINANCE": 4.375976780531369
+  },
+  "19027": {
+    "county": "Carroll County, IA",
+    "INDUSTRY__FINANCE": 6.257487789143858
+  },
+  "19029": {
+    "county": "Cass County, IA",
+    "INDUSTRY__FINANCE": 3.3353186420488385
+  },
+  "19031": {
+    "county": "Cedar County, IA",
+    "INDUSTRY__FINANCE": 4.072212534618935
+  },
+  "19033": {
+    "county": "Cerro Gordo County, IA",
+    "INDUSTRY__FINANCE": 4.81810115350488
+  },
+  "19035": {
+    "county": "Cherokee County, IA",
+    "INDUSTRY__FINANCE": 4.43932916803683
+  },
+  "19037": {
+    "county": "Chickasaw County, IA",
+    "INDUSTRY__FINANCE": 3.668798384382363
+  },
+  "19039": {
+    "county": "Clarke County, IA",
+    "INDUSTRY__FINANCE": 5.122903744543993
+  },
+  "19041": {
+    "county": "Clay County, IA",
+    "INDUSTRY__FINANCE": 4.795569694827384
+  },
+  "19043": {
+    "county": "Clayton County, IA",
+    "INDUSTRY__FINANCE": 3.713706954760297
+  },
+  "19045": {
+    "county": "Clinton County, IA",
+    "INDUSTRY__FINANCE": 4.912099276111686
+  },
+  "19047": {
+    "county": "Crawford County, IA",
+    "INDUSTRY__FINANCE": 3.74042927074181
+  },
+  "19049": {
+    "county": "Dallas County, IA",
+    "INDUSTRY__FINANCE": 22.52125427845865
+  },
+  "19051": {
+    "county": "Davis County, IA",
+    "INDUSTRY__FINANCE": 3.021901857499307
+  },
+  "19053": {
+    "county": "Decatur County, IA",
+    "INDUSTRY__FINANCE": 3.338048090523338
+  },
+  "19055": {
+    "county": "Delaware County, IA",
+    "INDUSTRY__FINANCE": 3.8041148735533645
+  },
+  "19057": {
+    "county": "Des Moines County, IA",
+    "INDUSTRY__FINANCE": 3.5926151799079666
+  },
+  "19059": {
+    "county": "Dickinson County, IA",
+    "INDUSTRY__FINANCE": 4.3622624227158235
+  },
+  "19061": {
+    "county": "Dubuque County, IA",
+    "INDUSTRY__FINANCE": 6.491385645464195
+  },
+  "19063": {
+    "county": "Emmet County, IA",
+    "INDUSTRY__FINANCE": 3.8052926405254004
+  },
+  "19065": {
+    "county": "Fayette County, IA",
+    "INDUSTRY__FINANCE": 3.8705065359477127
+  },
+  "19067": {
+    "county": "Floyd County, IA",
+    "INDUSTRY__FINANCE": 4.892966360856269
+  },
+  "19069": {
+    "county": "Franklin County, IA",
+    "INDUSTRY__FINANCE": 3.34687560456568
+  },
+  "19071": {
+    "county": "Fremont County, IA",
+    "INDUSTRY__FINANCE": 4.809384164222874
+  },
+  "19073": {
+    "county": "Greene County, IA",
+    "INDUSTRY__FINANCE": 4.294766486740202
+  },
+  "19075": {
+    "county": "Grundy County, IA",
+    "INDUSTRY__FINANCE": 5.031656114628457
+  },
+  "19077": {
+    "county": "Guthrie County, IA",
+    "INDUSTRY__FINANCE": 10.380823506669245
+  },
+  "19079": {
+    "county": "Hamilton County, IA",
+    "INDUSTRY__FINANCE": 4.389766531525234
+  },
+  "19081": {
+    "county": "Hancock County, IA",
+    "INDUSTRY__FINANCE": 3.435114503816794
+  },
+  "19083": {
+    "county": "Hardin County, IA",
+    "INDUSTRY__FINANCE": 4.9867774839440875
+  },
+  "19085": {
+    "county": "Harrison County, IA",
+    "INDUSTRY__FINANCE": 5.958799944697912
+  },
+  "19087": {
+    "county": "Henry County, IA",
+    "INDUSTRY__FINANCE": 4.484807713869268
+  },
+  "19089": {
+    "county": "Howard County, IA",
+    "INDUSTRY__FINANCE": 3.392299687825182
+  },
+  "19091": {
+    "county": "Humboldt County, IA",
+    "INDUSTRY__FINANCE": 3.416083174199024
+  },
+  "19093": {
+    "county": "Ida County, IA",
+    "INDUSTRY__FINANCE": 4.846066134549601
+  },
+  "19095": {
+    "county": "Iowa County, IA",
+    "INDUSTRY__FINANCE": 2.549246813441483
+  },
+  "19097": {
+    "county": "Jackson County, IA",
+    "INDUSTRY__FINANCE": 4.7303496788663475
+  },
+  "19099": {
+    "county": "Jasper County, IA",
+    "INDUSTRY__FINANCE": 7.506972879947778
+  },
+  "19101": {
+    "county": "Jefferson County, IA",
+    "INDUSTRY__FINANCE": 7.658561042867887
+  },
+  "19103": {
+    "county": "Johnson County, IA",
+    "INDUSTRY__FINANCE": 5.331388753848647
+  },
+  "19105": {
+    "county": "Jones County, IA",
+    "INDUSTRY__FINANCE": 4.319172665517591
+  },
+  "19107": {
+    "county": "Keokuk County, IA",
+    "INDUSTRY__FINANCE": 3.986571548468317
+  },
+  "19109": {
+    "county": "Kossuth County, IA",
+    "INDUSTRY__FINANCE": 5.793742757821553
+  },
+  "19111": {
+    "county": "Lee County, IA",
+    "INDUSTRY__FINANCE": 3.1551434438981887
+  },
+  "19113": {
+    "county": "Linn County, IA",
+    "INDUSTRY__FINANCE": 7.82192748817742
+  },
+  "19115": {
+    "county": "Louisa County, IA",
+    "INDUSTRY__FINANCE": 3.674540682414698
+  },
+  "19117": {
+    "county": "Lucas County, IA",
+    "INDUSTRY__FINANCE": 5.55849655902594
+  },
+  "19119": {
+    "county": "Lyon County, IA",
+    "INDUSTRY__FINANCE": 6.325405032747329
+  },
+  "19121": {
+    "county": "Madison County, IA",
+    "INDUSTRY__FINANCE": 14.908616187989557
+  },
+  "19123": {
+    "county": "Mahaska County, IA",
+    "INDUSTRY__FINANCE": 4.033990101783546
+  },
+  "19125": {
+    "county": "Marion County, IA",
+    "INDUSTRY__FINANCE": 5.257419745608722
+  },
+  "19127": {
+    "county": "Marshall County, IA",
+    "INDUSTRY__FINANCE": 3.8218267581475125
+  },
+  "19129": {
+    "county": "Mills County, IA",
+    "INDUSTRY__FINANCE": 6.176046176046176
+  },
+  "19131": {
+    "county": "Mitchell County, IA",
+    "INDUSTRY__FINANCE": 3.6754643206256112
+  },
+  "19133": {
+    "county": "Monona County, IA",
+    "INDUSTRY__FINANCE": 3.967270022315894
+  },
+  "19135": {
+    "county": "Monroe County, IA",
+    "INDUSTRY__FINANCE": 4.8292422625400215
+  },
+  "19137": {
+    "county": "Montgomery County, IA",
+    "INDUSTRY__FINANCE": 4.4209618287686006
+  },
+  "19139": {
+    "county": "Muscatine County, IA",
+    "INDUSTRY__FINANCE": 4.231974921630094
+  },
+  "19141": {
+    "county": "O'Brien County, IA",
+    "INDUSTRY__FINANCE": 4.331476323119777
+  },
+  "19143": {
+    "county": "Osceola County, IA",
+    "INDUSTRY__FINANCE": 3.6607687614399023
+  },
+  "19145": {
+    "county": "Page County, IA",
+    "INDUSTRY__FINANCE": 3.1954350927246793
+  },
+  "19147": {
+    "county": "Palo Alto County, IA",
+    "INDUSTRY__FINANCE": 4.286983562860951
+  },
+  "19149": {
+    "county": "Plymouth County, IA",
+    "INDUSTRY__FINANCE": 4.522268747620861
+  },
+  "19151": {
+    "county": "Pocahontas County, IA",
+    "INDUSTRY__FINANCE": 4.147597254004577
+  },
+  "19153": {
+    "county": "Polk County, IA",
+    "INDUSTRY__FINANCE": 16.81705741993389
+  },
+  "19155": {
+    "county": "Pottawattamie County, IA",
+    "INDUSTRY__FINANCE": 7.795675581799236
+  },
+  "19157": {
+    "county": "Poweshiek County, IA",
+    "INDUSTRY__FINANCE": 7.238749865750188
+  },
+  "19159": {
+    "county": "Ringgold County, IA",
+    "INDUSTRY__FINANCE": 2.642559109874826
+  },
+  "19161": {
+    "county": "Sac County, IA",
+    "INDUSTRY__FINANCE": 5.890547263681592
+  },
+  "19163": {
+    "county": "Scott County, IA",
+    "INDUSTRY__FINANCE": 6.090823676792985
+  },
+  "19165": {
+    "county": "Shelby County, IA",
+    "INDUSTRY__FINANCE": 6.231306081754736
+  },
+  "19167": {
+    "county": "Sioux County, IA",
+    "INDUSTRY__FINANCE": 4.330751609032399
+  },
+  "19169": {
+    "county": "Story County, IA",
+    "INDUSTRY__FINANCE": 4.82189038124635
+  },
+  "19171": {
+    "county": "Tama County, IA",
+    "INDUSTRY__FINANCE": 3.2937431125260193
+  },
+  "19173": {
+    "county": "Taylor County, IA",
+    "INDUSTRY__FINANCE": 3.953488372093023
+  },
+  "19175": {
+    "county": "Union County, IA",
+    "INDUSTRY__FINANCE": 2.9160625100692767
+  },
+  "19177": {
+    "county": "Van Buren County, IA",
+    "INDUSTRY__FINANCE": 7.132417421806489
+  },
+  "19179": {
+    "county": "Wapello County, IA",
+    "INDUSTRY__FINANCE": 3.8899430740037952
+  },
+  "19181": {
+    "county": "Warren County, IA",
+    "INDUSTRY__FINANCE": 15.056142939103353
+  },
+  "19183": {
+    "county": "Washington County, IA",
+    "INDUSTRY__FINANCE": 3.1022390072835178
+  },
+  "19185": {
+    "county": "Wayne County, IA",
+    "INDUSTRY__FINANCE": 2.6617375231053604
+  },
+  "19187": {
+    "county": "Webster County, IA",
+    "INDUSTRY__FINANCE": 3.808628188550606
+  },
+  "19189": {
+    "county": "Winnebago County, IA",
+    "INDUSTRY__FINANCE": 4.580584354382658
+  },
+  "19191": {
+    "county": "Winneshiek County, IA",
+    "INDUSTRY__FINANCE": 3.402061855670103
+  },
+  "19193": {
+    "county": "Woodbury County, IA",
+    "INDUSTRY__FINANCE": 5.0580414723682905
+  },
+  "19195": {
+    "county": "Worth County, IA",
+    "INDUSTRY__FINANCE": 3.634957463263728
+  },
+  "19197": {
+    "county": "Wright County, IA",
+    "INDUSTRY__FINANCE": 3.97708674304419
+  }
+}

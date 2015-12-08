@@ -1,0 +1,402 @@
+{
+  "04000US19": {
+    "county": "Iowa",
+    "RACE__TWO": 1.9013221975260508
+  },
+  "19001": {
+    "county": "Adair County, IA",
+    "RACE__TWO": 1.080653663679494
+  },
+  "19003": {
+    "county": "Adams County, IA",
+    "RACE__TWO": 1.434684117795117
+  },
+  "19005": {
+    "county": "Allamakee County, IA",
+    "RACE__TWO": 2.3311332677994665
+  },
+  "19007": {
+    "county": "Appanoose County, IA",
+    "RACE__TWO": 1.694253591505309
+  },
+  "19009": {
+    "county": "Audubon County, IA",
+    "RACE__TWO": 1.149616794401866
+  },
+  "19011": {
+    "county": "Benton County, IA",
+    "RACE__TWO": 1.274498479072812
+  },
+  "19013": {
+    "county": "Black Hawk County, IA",
+    "RACE__TWO": 2.2149876776097606
+  },
+  "19015": {
+    "county": "Boone County, IA",
+    "RACE__TWO": 0.5663245914101102
+  },
+  "19017": {
+    "county": "Bremer County, IA",
+    "RACE__TWO": 0.861114528232255
+  },
+  "19019": {
+    "county": "Buchanan County, IA",
+    "RACE__TWO": 0.4581464159587668
+  },
+  "19021": {
+    "county": "Buena Vista County, IA",
+    "RACE__TWO": 2.5503685503685505
+  },
+  "19023": {
+    "county": "Butler County, IA",
+    "RACE__TWO": 0.5701254275940707
+  },
+  "19025": {
+    "county": "Calhoun County, IA",
+    "RACE__TWO": 0.9746784565916399
+  },
+  "19027": {
+    "county": "Carroll County, IA",
+    "RACE__TWO": 0.5112868994790661
+  },
+  "19029": {
+    "county": "Cass County, IA",
+    "RACE__TWO": 1.2325092438193286
+  },
+  "19031": {
+    "county": "Cedar County, IA",
+    "RACE__TWO": 1.0838933448948622
+  },
+  "19033": {
+    "county": "Cerro Gordo County, IA",
+    "RACE__TWO": 1.761813712100519
+  },
+  "19035": {
+    "county": "Cherokee County, IA",
+    "RACE__TWO": 1.3651877133105803
+  },
+  "19037": {
+    "county": "Chickasaw County, IA",
+    "RACE__TWO": 0.5573955893044672
+  },
+  "19039": {
+    "county": "Clarke County, IA",
+    "RACE__TWO": 0.5692192030931157
+  },
+  "19041": {
+    "county": "Clay County, IA",
+    "RACE__TWO": 1.2768007708985787
+  },
+  "19043": {
+    "county": "Clayton County, IA",
+    "RACE__TWO": 1.5786548082267926
+  },
+  "19045": {
+    "county": "Clinton County, IA",
+    "RACE__TWO": 1.7036158376963353
+  },
+  "19047": {
+    "county": "Crawford County, IA",
+    "RACE__TWO": 1.859924440569602
+  },
+  "19049": {
+    "county": "Dallas County, IA",
+    "RACE__TWO": 2.0812357966803785
+  },
+  "19051": {
+    "county": "Davis County, IA",
+    "RACE__TWO": 0.799543118218161
+  },
+  "19053": {
+    "county": "Decatur County, IA",
+    "RACE__TWO": 1.059220028887819
+  },
+  "19055": {
+    "county": "Delaware County, IA",
+    "RACE__TWO": 1.1887913954146618
+  },
+  "19057": {
+    "county": "Des Moines County, IA",
+    "RACE__TWO": 2.337410982357758
+  },
+  "19059": {
+    "county": "Dickinson County, IA",
+    "RACE__TWO": 1.2308241170174812
+  },
+  "19061": {
+    "county": "Dubuque County, IA",
+    "RACE__TWO": 2.9721113005899737
+  },
+  "19063": {
+    "county": "Emmet County, IA",
+    "RACE__TWO": 2.879400453604181
+  },
+  "19065": {
+    "county": "Fayette County, IA",
+    "RACE__TWO": 1.4359811737585246
+  },
+  "19067": {
+    "county": "Floyd County, IA",
+    "RACE__TWO": 0.7356122890523582
+  },
+  "19069": {
+    "county": "Franklin County, IA",
+    "RACE__TWO": 2.193354043113998
+  },
+  "19071": {
+    "county": "Fremont County, IA",
+    "RACE__TWO": 1.3852695103552324
+  },
+  "19073": {
+    "county": "Greene County, IA",
+    "RACE__TWO": 1.4370610480821178
+  },
+  "19075": {
+    "county": "Grundy County, IA",
+    "RACE__TWO": 0.7973582474226804
+  },
+  "19077": {
+    "county": "Guthrie County, IA",
+    "RACE__TWO": 0.8392511297611362
+  },
+  "19079": {
+    "county": "Hamilton County, IA",
+    "RACE__TWO": 1.246286968875113
+  },
+  "19081": {
+    "county": "Hancock County, IA",
+    "RACE__TWO": 1.4586854042515343
+  },
+  "19083": {
+    "county": "Hardin County, IA",
+    "RACE__TWO": 1.042800664642182
+  },
+  "19085": {
+    "county": "Harrison County, IA",
+    "RACE__TWO": 1.215289564804128
+  },
+  "19087": {
+    "county": "Henry County, IA",
+    "RACE__TWO": 1.4959381810976817
+  },
+  "19089": {
+    "county": "Howard County, IA",
+    "RACE__TWO": 0.7531380753138075
+  },
+  "19091": {
+    "county": "Humboldt County, IA",
+    "RACE__TWO": 1.6980360065466449
+  },
+  "19093": {
+    "county": "Ida County, IA",
+    "RACE__TWO": 0.633892097478518
+  },
+  "19095": {
+    "county": "Iowa County, IA",
+    "RACE__TWO": 0.6800220547693439
+  },
+  "19097": {
+    "county": "Jackson County, IA",
+    "RACE__TWO": 1.3325226731519482
+  },
+  "19099": {
+    "county": "Jasper County, IA",
+    "RACE__TWO": 1.0215200217924272
+  },
+  "19101": {
+    "county": "Jefferson County, IA",
+    "RACE__TWO": 2.375
+  },
+  "19103": {
+    "county": "Johnson County, IA",
+    "RACE__TWO": 2.250175328647955
+  },
+  "19105": {
+    "county": "Jones County, IA",
+    "RACE__TWO": 0.7656151572418471
+  },
+  "19107": {
+    "county": "Keokuk County, IA",
+    "RACE__TWO": 0.7383966244725738
+  },
+  "19109": {
+    "county": "Kossuth County, IA",
+    "RACE__TWO": 0.8680443091274211
+  },
+  "19111": {
+    "county": "Lee County, IA",
+    "RACE__TWO": 2.1155137676292814
+  },
+  "19113": {
+    "county": "Linn County, IA",
+    "RACE__TWO": 2.3750732107297647
+  },
+  "19115": {
+    "county": "Louisa County, IA",
+    "RACE__TWO": 1.9651039830807189
+  },
+  "19117": {
+    "county": "Lucas County, IA",
+    "RACE__TWO": 0.8031674208144796
+  },
+  "19119": {
+    "county": "Lyon County, IA",
+    "RACE__TWO": 0.7204734539840466
+  },
+  "19121": {
+    "county": "Madison County, IA",
+    "RACE__TWO": 0.8842752787389465
+  },
+  "19123": {
+    "county": "Mahaska County, IA",
+    "RACE__TWO": 1.4936686285000893
+  },
+  "19125": {
+    "county": "Marion County, IA",
+    "RACE__TWO": 1.2755867699141605
+  },
+  "19127": {
+    "county": "Marshall County, IA",
+    "RACE__TWO": 1.343137254901961
+  },
+  "19129": {
+    "county": "Mills County, IA",
+    "RACE__TWO": 1.5150503904425014
+  },
+  "19131": {
+    "county": "Mitchell County, IA",
+    "RACE__TWO": 0.6238942173386721
+  },
+  "19133": {
+    "county": "Monona County, IA",
+    "RACE__TWO": 2.476107732406603
+  },
+  "19135": {
+    "county": "Monroe County, IA",
+    "RACE__TWO": 0.2746566791510612
+  },
+  "19137": {
+    "county": "Montgomery County, IA",
+    "RACE__TWO": 2.108235294117647
+  },
+  "19139": {
+    "county": "Muscatine County, IA",
+    "RACE__TWO": 1.8879386887237721
+  },
+  "19141": {
+    "county": "O'Brien County, IA",
+    "RACE__TWO": 1.5018597796336586
+  },
+  "19143": {
+    "county": "Osceola County, IA",
+    "RACE__TWO": 0.4262036306235202
+  },
+  "19145": {
+    "county": "Page County, IA",
+    "RACE__TWO": 1.6353074883192324
+  },
+  "19147": {
+    "county": "Palo Alto County, IA",
+    "RACE__TWO": 0.9409751924721984
+  },
+  "19149": {
+    "county": "Plymouth County, IA",
+    "RACE__TWO": 1.155559122096056
+  },
+  "19151": {
+    "county": "Pocahontas County, IA",
+    "RACE__TWO": 1.0354825348612453
+  },
+  "19153": {
+    "county": "Polk County, IA",
+    "RACE__TWO": 2.619396906734321
+  },
+  "19155": {
+    "county": "Pottawattamie County, IA",
+    "RACE__TWO": 1.907230911555259
+  },
+  "19157": {
+    "county": "Poweshiek County, IA",
+    "RACE__TWO": 1.1646458200382899
+  },
+  "19159": {
+    "county": "Ringgold County, IA",
+    "RACE__TWO": 0.31329547679655373
+  },
+  "19161": {
+    "county": "Sac County, IA",
+    "RACE__TWO": 0.26400704018773835
+  },
+  "19163": {
+    "county": "Scott County, IA",
+    "RACE__TWO": 2.689729470912138
+  },
+  "19165": {
+    "county": "Shelby County, IA",
+    "RACE__TWO": 0.9927200529450696
+  },
+  "19167": {
+    "county": "Sioux County, IA",
+    "RACE__TWO": 0.9691629955947136
+  },
+  "19169": {
+    "county": "Story County, IA",
+    "RACE__TWO": 1.7112947658402204
+  },
+  "19171": {
+    "county": "Tama County, IA",
+    "RACE__TWO": 1.5627654153218957
+  },
+  "19173": {
+    "county": "Taylor County, IA",
+    "RACE__TWO": 1.1668797953964194
+  },
+  "19175": {
+    "county": "Union County, IA",
+    "RACE__TWO": 0.6854228102335219
+  },
+  "19177": {
+    "county": "Van Buren County, IA",
+    "RACE__TWO": 0.7449780497538911
+  },
+  "19179": {
+    "county": "Wapello County, IA",
+    "RACE__TWO": 1.745185937015422
+  },
+  "19181": {
+    "county": "Warren County, IA",
+    "RACE__TWO": 1.5268812592481398
+  },
+  "19183": {
+    "county": "Washington County, IA",
+    "RACE__TWO": 1.2045433727214436
+  },
+  "19185": {
+    "county": "Wayne County, IA",
+    "RACE__TWO": 1.1281729865246004
+  },
+  "19187": {
+    "county": "Webster County, IA",
+    "RACE__TWO": 2.0969542337745177
+  },
+  "19189": {
+    "county": "Winnebago County, IA",
+    "RACE__TWO": 1.2951919493104733
+  },
+  "19191": {
+    "county": "Winneshiek County, IA",
+    "RACE__TWO": 0.6607091928890579
+  },
+  "19193": {
+    "county": "Woodbury County, IA",
+    "RACE__TWO": 3.191229014732514
+  },
+  "19195": {
+    "county": "Worth County, IA",
+    "RACE__TWO": 1.1108172441153135
+  },
+  "19197": {
+    "county": "Wright County, IA",
+    "RACE__TWO": 1.206843874121601
+  }
+}

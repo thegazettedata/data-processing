@@ -3,6 +3,14 @@ String.prototype.splice = function(idx, rem, str) {
     return this.slice(0, idx) + str + this.slice(idx + Math.abs(rem));
 };
 
+Object.size = function(obj) {
+    var size = 0, key;
+    for (key in obj) {
+        if (obj.hasOwnProperty(key)) size++;
+    }
+    return size;
+};
+
 // Used to capitalize first letter of string
 function capitaliseFirstLetter(string) {
 	return string.charAt(0).toUpperCase() + string.slice(1);

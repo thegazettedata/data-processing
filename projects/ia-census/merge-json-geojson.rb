@@ -24,8 +24,6 @@ $data.each_with_index do |data, num_data|
 	geoid_data = data[0]
 	county_data = data[1]
 
-	puts county_data
-
 	# Loop through geojson data
 	$geojson.each_with_index do |geojson, num_geojson|
 		$final_geojson = $geojson

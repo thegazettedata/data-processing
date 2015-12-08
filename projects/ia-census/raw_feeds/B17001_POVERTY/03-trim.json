@@ -1,0 +1,402 @@
+{
+  "04000US19": {
+    "county": "Iowa",
+    "POVERTY": 12.399527661468671
+  },
+  "19001": {
+    "county": "Adair County, IA",
+    "POVERTY": 9.486592103490096
+  },
+  "19003": {
+    "county": "Adams County, IA",
+    "POVERTY": 11.330428095360164
+  },
+  "19005": {
+    "county": "Allamakee County, IA",
+    "POVERTY": 12.550490478938256
+  },
+  "19007": {
+    "county": "Appanoose County, IA",
+    "POVERTY": 15.234777100324651
+  },
+  "19009": {
+    "county": "Audubon County, IA",
+    "POVERTY": 9.548431575318855
+  },
+  "19011": {
+    "county": "Benton County, IA",
+    "POVERTY": 8.402739939285436
+  },
+  "19013": {
+    "county": "Black Hawk County, IA",
+    "POVERTY": 17.00517944502526
+  },
+  "19015": {
+    "county": "Boone County, IA",
+    "POVERTY": 10.08869612784746
+  },
+  "19017": {
+    "county": "Bremer County, IA",
+    "POVERTY": 7.270570662917892
+  },
+  "19019": {
+    "county": "Buchanan County, IA",
+    "POVERTY": 9.861474377603411
+  },
+  "19021": {
+    "county": "Buena Vista County, IA",
+    "POVERTY": 12.785340314136127
+  },
+  "19023": {
+    "county": "Butler County, IA",
+    "POVERTY": 9.847708802840947
+  },
+  "19025": {
+    "county": "Calhoun County, IA",
+    "POVERTY": 13.437299722281566
+  },
+  "19027": {
+    "county": "Carroll County, IA",
+    "POVERTY": 9.615195354787915
+  },
+  "19029": {
+    "county": "Cass County, IA",
+    "POVERTY": 11.416537353136777
+  },
+  "19031": {
+    "county": "Cedar County, IA",
+    "POVERTY": 8.023945518453427
+  },
+  "19033": {
+    "county": "Cerro Gordo County, IA",
+    "POVERTY": 13.161579389526743
+  },
+  "19035": {
+    "county": "Cherokee County, IA",
+    "POVERTY": 9.682703914468012
+  },
+  "19037": {
+    "county": "Chickasaw County, IA",
+    "POVERTY": 10.262295081967213
+  },
+  "19039": {
+    "county": "Clarke County, IA",
+    "POVERTY": 13.722012857459543
+  },
+  "19041": {
+    "county": "Clay County, IA",
+    "POVERTY": 8.91566265060241
+  },
+  "19043": {
+    "county": "Clayton County, IA",
+    "POVERTY": 12.495046141652042
+  },
+  "19045": {
+    "county": "Clinton County, IA",
+    "POVERTY": 13.955420760713766
+  },
+  "19047": {
+    "county": "Crawford County, IA",
+    "POVERTY": 15.803814713896458
+  },
+  "19049": {
+    "county": "Dallas County, IA",
+    "POVERTY": 6.421246536994328
+  },
+  "19051": {
+    "county": "Davis County, IA",
+    "POVERTY": 21.194829393268893
+  },
+  "19053": {
+    "county": "Decatur County, IA",
+    "POVERTY": 19.500594530321045
+  },
+  "19055": {
+    "county": "Delaware County, IA",
+    "POVERTY": 8.411052540114698
+  },
+  "19057": {
+    "county": "Des Moines County, IA",
+    "POVERTY": 13.794586390083479
+  },
+  "19059": {
+    "county": "Dickinson County, IA",
+    "POVERTY": 7.777507302823758
+  },
+  "19061": {
+    "county": "Dubuque County, IA",
+    "POVERTY": 10.916254635352287
+  },
+  "19063": {
+    "county": "Emmet County, IA",
+    "POVERTY": 12.485524792083377
+  },
+  "19065": {
+    "county": "Fayette County, IA",
+    "POVERTY": 11.519448744195335
+  },
+  "19067": {
+    "county": "Floyd County, IA",
+    "POVERTY": 12.608531521328803
+  },
+  "19069": {
+    "county": "Franklin County, IA",
+    "POVERTY": 11.110050587000094
+  },
+  "19071": {
+    "county": "Fremont County, IA",
+    "POVERTY": 10.232230823363828
+  },
+  "19073": {
+    "county": "Greene County, IA",
+    "POVERTY": 13.032471106219043
+  },
+  "19075": {
+    "county": "Grundy County, IA",
+    "POVERTY": 6.991179353152564
+  },
+  "19077": {
+    "county": "Guthrie County, IA",
+    "POVERTY": 10.257377203733384
+  },
+  "19079": {
+    "county": "Hamilton County, IA",
+    "POVERTY": 12.253327214318494
+  },
+  "19081": {
+    "county": "Hancock County, IA",
+    "POVERTY": 10.41477993117189
+  },
+  "19083": {
+    "county": "Hardin County, IA",
+    "POVERTY": 8.610508556278623
+  },
+  "19085": {
+    "county": "Harrison County, IA",
+    "POVERTY": 9.553212154849453
+  },
+  "19087": {
+    "county": "Henry County, IA",
+    "POVERTY": 17.867480658912687
+  },
+  "19089": {
+    "county": "Howard County, IA",
+    "POVERTY": 11.614488727428144
+  },
+  "19091": {
+    "county": "Humboldt County, IA",
+    "POVERTY": 10.163111668757843
+  },
+  "19093": {
+    "county": "Ida County, IA",
+    "POVERTY": 14.414414414414415
+  },
+  "19095": {
+    "county": "Iowa County, IA",
+    "POVERTY": 10.87458642861602
+  },
+  "19097": {
+    "county": "Jackson County, IA",
+    "POVERTY": 10.490979909799098
+  },
+  "19099": {
+    "county": "Jasper County, IA",
+    "POVERTY": 11.84977772645921
+  },
+  "19101": {
+    "county": "Jefferson County, IA",
+    "POVERTY": 12.418086500655308
+  },
+  "19103": {
+    "county": "Johnson County, IA",
+    "POVERTY": 17.703751925183788
+  },
+  "19105": {
+    "county": "Jones County, IA",
+    "POVERTY": 8.268639608190487
+  },
+  "19107": {
+    "county": "Keokuk County, IA",
+    "POVERTY": 13.184663536776212
+  },
+  "19109": {
+    "county": "Kossuth County, IA",
+    "POVERTY": 8.68560105680317
+  },
+  "19111": {
+    "county": "Lee County, IA",
+    "POVERTY": 15.146804835924007
+  },
+  "19113": {
+    "county": "Linn County, IA",
+    "POVERTY": 9.705783537317014
+  },
+  "19115": {
+    "county": "Louisa County, IA",
+    "POVERTY": 12.19359456074432
+  },
+  "19117": {
+    "county": "Lucas County, IA",
+    "POVERTY": 16.96892687998152
+  },
+  "19119": {
+    "county": "Lyon County, IA",
+    "POVERTY": 7.981875217845939
+  },
+  "19121": {
+    "county": "Madison County, IA",
+    "POVERTY": 8.855150843813123
+  },
+  "19123": {
+    "county": "Mahaska County, IA",
+    "POVERTY": 15.933357879234167
+  },
+  "19125": {
+    "county": "Marion County, IA",
+    "POVERTY": 9.24765882055176
+  },
+  "19127": {
+    "county": "Marshall County, IA",
+    "POVERTY": 12.147998484657153
+  },
+  "19129": {
+    "county": "Mills County, IA",
+    "POVERTY": 7.011549238023646
+  },
+  "19131": {
+    "county": "Mitchell County, IA",
+    "POVERTY": 7.120358881359168
+  },
+  "19133": {
+    "county": "Monona County, IA",
+    "POVERTY": 9.036887543446575
+  },
+  "19135": {
+    "county": "Monroe County, IA",
+    "POVERTY": 11.84311714944886
+  },
+  "19137": {
+    "county": "Montgomery County, IA",
+    "POVERTY": 16.065416065416066
+  },
+  "19139": {
+    "county": "Muscatine County, IA",
+    "POVERTY": 14.399638164159207
+  },
+  "19141": {
+    "county": "O'Brien County, IA",
+    "POVERTY": 11.273276295923502
+  },
+  "19143": {
+    "county": "Osceola County, IA",
+    "POVERTY": 8.632630053148656
+  },
+  "19145": {
+    "county": "Page County, IA",
+    "POVERTY": 13.924569554523094
+  },
+  "19147": {
+    "county": "Palo Alto County, IA",
+    "POVERTY": 9.154538384623931
+  },
+  "19149": {
+    "county": "Plymouth County, IA",
+    "POVERTY": 6.396058952854002
+  },
+  "19151": {
+    "county": "Pocahontas County, IA",
+    "POVERTY": 14.178576482241404
+  },
+  "19153": {
+    "county": "Polk County, IA",
+    "POVERTY": 11.829497793585697
+  },
+  "19155": {
+    "county": "Pottawattamie County, IA",
+    "POVERTY": 13.753240306657109
+  },
+  "19157": {
+    "county": "Poweshiek County, IA",
+    "POVERTY": 12.807130710138978
+  },
+  "19159": {
+    "county": "Ringgold County, IA",
+    "POVERTY": 13.125
+  },
+  "19161": {
+    "county": "Sac County, IA",
+    "POVERTY": 8.684342171085543
+  },
+  "19163": {
+    "county": "Scott County, IA",
+    "POVERTY": 13.091996825590623
+  },
+  "19165": {
+    "county": "Shelby County, IA",
+    "POVERTY": 10.81402257872846
+  },
+  "19167": {
+    "county": "Sioux County, IA",
+    "POVERTY": 8.219960041860908
+  },
+  "19169": {
+    "county": "Story County, IA",
+    "POVERTY": 20.926593150635075
+  },
+  "19171": {
+    "county": "Tama County, IA",
+    "POVERTY": 11.45233525271913
+  },
+  "19173": {
+    "county": "Taylor County, IA",
+    "POVERTY": 14.45861956166176
+  },
+  "19175": {
+    "county": "Union County, IA",
+    "POVERTY": 16.110340324818413
+  },
+  "19177": {
+    "county": "Van Buren County, IA",
+    "POVERTY": 16.529372045914922
+  },
+  "19179": {
+    "county": "Wapello County, IA",
+    "POVERTY": 19.08047309833024
+  },
+  "19181": {
+    "county": "Warren County, IA",
+    "POVERTY": 7.26227096429049
+  },
+  "19183": {
+    "county": "Washington County, IA",
+    "POVERTY": 9.77172794461596
+  },
+  "19185": {
+    "county": "Wayne County, IA",
+    "POVERTY": 12.372122762148338
+  },
+  "19187": {
+    "county": "Webster County, IA",
+    "POVERTY": 15.816804290457137
+  },
+  "19189": {
+    "county": "Winnebago County, IA",
+    "POVERTY": 11.380999020568071
+  },
+  "19191": {
+    "county": "Winneshiek County, IA",
+    "POVERTY": 8.421957245676227
+  },
+  "19193": {
+    "county": "Woodbury County, IA",
+    "POVERTY": 15.663416060749691
+  },
+  "19195": {
+    "county": "Worth County, IA",
+    "POVERTY": 11.537943119018736
+  },
+  "19197": {
+    "county": "Wright County, IA",
+    "POVERTY": 11.020439884977073
+  }
+}
