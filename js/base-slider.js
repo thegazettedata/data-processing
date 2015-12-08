@@ -98,7 +98,7 @@ function sliderHTML(json_key, value, value_two) {
   slider_html += '<span class="average">';
         
   // Show county average text
-  if (county_avg !== '') {
+  if (county_avg !== 0) {
     slider_html += 'County average: ' + value['text-before'] +  county_avg +  value['text-after'] + ' / '
   }
         
@@ -121,7 +121,7 @@ function intializeSliders() {
 
     // If we need a dropdown with our sliders
     // I.E. race would have a dropdown for white, black, asian, etc.
-    if (categories.length > 1) {
+    if (categories['subcategories']) {
       // Create the dropdown
       slider_header_html += ': <select class="dropdown"></select>';
       $('.slider-details-box').append(slider_header_html);
@@ -131,23 +131,30 @@ function intializeSliders() {
       // They will then be toggled with the dropdown
       $('.' + key).append('<span class="dropdown-options-' + key + '">');
 
+      var categories_length = 0;
       _.each(categories, function (value_two, key_two) {
-        var json_key = key + '_' + value_two['json-key'];
-        // HTML for slider
-        var slider_html = sliderHTML(json_key, value, value_two);
+        if (key_two != 'subcategories') {
+          categories_length += 1;
 
-        // Append slider element to select
-        $('.' + key + ' select').append('<option id="dropdown-' + json_key + '" value="' + json_key + '">' + value_two['text'] + '</option>');
+          var json_key = key + '__' + key_two;
+
+          // HTML for slider
+          var slider_html = sliderHTML(json_key, value, value_two);
+
+          // Append slider element to select
+          $('.' + key + ' select').append('<option id="dropdown-' + json_key + '" value="' + json_key + '">' + value_two['text'] + '</option>');
         
-        // Append to newly created DIV
-        $('.dropdown-options-' + key).append(slider_html);
+          // Append to newly created DIV
+          $('.dropdown-options-' + key).append(slider_html);
                 
-        // Create slider 
-        createSliders(json_key, value, value_two);
+          // Create slider 
+          createSliders(json_key, value, value_two);
 
-        // Show only the slider for the first option
-        if (key_two !== 0) { 
-          $('.' + json_key).hide();
+          // Show only the slider for the first option
+          if (categories_length > 1) { 
+            $('.' + json_key).hide();
+          }
+        // Close if
         }
       // Close each
       }, this);
@@ -157,13 +164,13 @@ function intializeSliders() {
       $('.slider-details-box').append(slider_header_html);
 
       // HTML for slider
-      var slider_html = sliderHTML(key, value, value['categories'][0]);
+      var slider_html = sliderHTML(key, value, value['categories']);
             
       // Append to newly created DIV
       $('.' + key).append(slider_html);
 
       // Create slider
-      createSliders(key, value, value['categories'][0]);
+      createSliders(key, value, value['categories']);
     }
 
     // Close DIV
