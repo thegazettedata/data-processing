@@ -14,5 +14,7 @@ Finally, a basic [Leaflet map](https://github.com/Leaflet/Leaflet) is created to
 
 The map includes a slider to hide and show counties based on the Census data we downloaded. slider-categories.rb is responsible for creating the file that is used by the slider.
 
+[LIVE DEMO OF THE MAP](http://thegazettedata.github.io/data-processing/)
+
 
 
