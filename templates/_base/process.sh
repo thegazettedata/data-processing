@@ -45,7 +45,7 @@ function createDB() {
 	echo "DATABASE TASKS"
 
 	echo "Create table SQL statement"
-	csvsql -i sqlite $CSV_THREE > sql/data-create.sql
+	csvsql -i sqlite --table data $CSV_THREE > sql/data-create.sql
 
 	echo "Create database"
 	cat sql/data-create.sql | sqlite3 $PROJECT_NAME.db
