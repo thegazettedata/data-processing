@@ -2,11 +2,12 @@
 
 PROJECT_NAME="caucus-results"
 
-# Check for whether or not we want to call API
-# or use test data
+# Whether or not we want to call APIs or just use test data
 TEST=false
 
-# We'll grab data from these parties
+# We'll grab data from these parties:
 # iagop = Republican party
 # idp = Democratic party
 PARTIES=("iagop" "idp")
+
+# If you want to download from just one party, remove one

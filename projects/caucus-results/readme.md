@@ -18,4 +18,4 @@ To download the data, run:
 	sh process.sh
 
 ###Testing
-There is a TEST variable in globals.sh. If this is set to true, the scripts will convert the data that's already been downloaded into the raw_feeds/test directory, instead of grabbing it from the APIs. This is ideal if you just want to test the scripts and not actually download the most up-to-date data.
+There is a TEST variable in globals.sh. If this is set to true, the scripts will convert the data that's in the raw_feeds/test directory, instead of grabbing it from the APIs. This is ideal if you just want to test the scripts and not actually download the most up-to-date data.
