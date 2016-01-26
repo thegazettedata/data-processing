@@ -1,5 +1,5 @@
 #About this project
-These scripts are used to download caucus results from the APIs of each of the state's parties. We will grab all the county data and statewide data for each race and create CSV files with the data. We use [JQ](https://stedolan.github.io/jq/) to convert the JSON data from the APIs into CSV files.
+These scripts are used to download caucus results from the APIs of each of the state's parties. We will grab all the county data and statewide data for each race and create CSV files with the data. We use Ruby to convert the JSON data from the APIs into CSV files.
 
 ###APIs
 These are the sites we are downloading data from:
