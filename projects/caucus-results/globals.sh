@@ -10,4 +10,4 @@ TEST=false
 # idp = Democratic party
 PARTIES=("iagop" "idp")
 
-# If you want to download from just one party, remove one
+# If you want to download data from just one party, remove one
