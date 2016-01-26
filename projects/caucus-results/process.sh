@@ -4,10 +4,10 @@ source globals.sh
 
 function convertData() {
 	echo "Convert data to CSVs"
-	rm $CSV_COUNTIES_EDIT_ONE
-	rm $CSV_STATEWIDE_EDIT_ONE
-	ruby json-to-csv-counties.rb $JSON_COUNTIES $CSV_COUNTIES_EDIT_ONE
-	ruby json-to-csv-statewide.rb $JSON_STATEWIDE $CSV_STATEWIDE_EDIT_ONE
+	rm $CSV_COUNTIES_OUTPUT
+	rm $CSV_STATEWIDE_OUTPUT
+	ruby json-to-csv-counties.rb $JSON_COUNTIES $CSV_COUNTIES_OUTPUT
+	ruby json-to-csv-statewide.rb $JSON_STATEWIDE $CSV_STATEWIDE_OUTPUT
 }
 
 function downloadData() {
@@ -27,8 +27,8 @@ function downloadData() {
 			curl -X GET --header "Accept: application/json" "https://www."$party"caucuses.com/api/StateCandidateResults" > $JSON_STATEWIDE
 		fi
 
-		CSV_COUNTIES_EDIT_ONE="edits/01-"$party"-counties.csv"
-		CSV_STATEWIDE_EDIT_ONE="edits/01-"$party"-statewide.csv"
+		CSV_COUNTIES_OUTPUT="output/"$party"-counties.csv"
+		CSV_STATEWIDE_OUTPUT="output/"$party"-statewide.csv"
 
 		convertData
 
