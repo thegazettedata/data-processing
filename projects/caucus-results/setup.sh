@@ -8,8 +8,8 @@ source globals.sh
 echo "Creating virtualenv"
 mkvirtualenv $PROJECT_NAME
 
-echo "Installing requirements"
-pip install -r requirements.txt
+echo "Installing json2csv"
+go get github.com/jehiah/json2csv
 
 echo "Creating directories"
 mkdir edits

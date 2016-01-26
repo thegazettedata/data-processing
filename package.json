@@ -1,19 +1,22 @@
 {
-    "name": "gazette-kcrg-data-processing",
-    "description": "Grunt tasks for data processing",
-    "author": {
-        "name": "Chris Essig",
-        "url": "https://github.com/csessig86"
-    },
-    "repository": "GazetteKCRGdata/data-processing",
-    "private": false,
-    "devDependencies": {
-        "grunt": "~0.4.1",
-        "matchdep": "~0.1.2",
-        "grunt-contrib-copy": "^0.5.0",
-        "grunt-contrib-clean": "^0.6.0"
-    },
-    "engines": {
-        "node": ">=0.8.0"
-    }
+  "name": "gazette-kcrg-data-processing",
+  "description": "Grunt tasks for data processing",
+  "author": {
+    "name": "Chris Essig",
+    "url": "https://github.com/csessig86"
+  },
+  "repository": "GazetteKCRGdata/data-processing",
+  "private": false,
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-clean": "^0.6.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "json2csv": "^3.1.0"
+  }
 }
