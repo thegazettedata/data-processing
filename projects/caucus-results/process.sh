@@ -6,8 +6,8 @@ function convertData() {
 	echo "Convert data to CSVs"
 	rm $CSV_COUNTIES_OUTPUT
 	rm $CSV_STATEWIDE_OUTPUT
-	ruby json-to-csv-counties.rb $JSON_COUNTIES $CSV_COUNTIES_OUTPUT
-	ruby json-to-csv-statewide.rb $JSON_STATEWIDE $CSV_STATEWIDE_OUTPUT
+	ruby scripts/json-to-csv-counties.rb $JSON_COUNTIES $CSV_COUNTIES_OUTPUT
+	ruby scripts/json-to-csv-statewide.rb $JSON_STATEWIDE $CSV_STATEWIDE_OUTPUT
 }
 
 function downloadData() {
@@ -23,7 +23,7 @@ function downloadData() {
 			JSON_COUNTIES="raw_feeds/"$party"-counties.json"
 			JSON_STATEWIDE="raw_feeds/"$party"-statewide.json"
 
-			curl -X GET --header "Accept: application/json" "https://www."$party"caucuses.com/api/COUNTIESCandidateResults" > $JSON_COUNTIES
+			curl -X GET --header "Accept: application/json" "https://www."$party"caucuses.com/api/CountyCandidateResults" > $JSON_COUNTIES
 			curl -X GET --header "Accept: application/json" "https://www."$party"caucuses.com/api/StateCandidateResults" > $JSON_STATEWIDE
 		fi
 
