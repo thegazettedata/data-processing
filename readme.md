@@ -1,6 +1,6 @@
 #Data-processing
 
-This is our working directory of data-processing scripts for projects on The Gazette and KCRG.
+This is our working directory of data-processing scripts for projects on The Gazette.
 
 With these tasks, we edit csv's, put them into SQLite databases, query them and output new spreadsheets or JSON feeds to use with interactives. The work largely mimics the work done by [Christopher Groskopf](https://github.com/onyxfish), who created this [example project](https://github.com/onyxfish/nicar15-process).
 
@@ -66,5 +66,3 @@ Commit any changes you've made:
 Finally, push all the changes on your local machine to Github:
 
 	git push
-
-Before pushing to Github, make sure to add a link to the chart in [urls.md](https://github.com/GazetteKCRGdata/data-processing/blob/master/urls.md)

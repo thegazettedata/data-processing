@@ -3,7 +3,7 @@
 PROJECT_NAME="caucus-results"
 
 # Whether or not we want to call APIs or just use test data
-TEST=false
+TEST=true
 
 # We'll grab data from these parties:
 # iagop = Republican party

@@ -1,101 +1,102 @@
-Adair,""
-Adams,""
-Allamakee,""
-Appanoose,""
-Audubon,""
-Benton,""
-Black Hawk,""
-Boone,""
-Bremer,""
-Buchanan,""
-Buena Vista,""
-Butler,""
-Calhoun,""
-Carroll,""
-Cass,""
-Cedar,""
-Cerro Gordo,""
-Cherokee,""
-Chickasaw,""
-Clarke,""
-Clay,""
-Clayton,""
-Clinton,""
-Crawford,""
-Dallas,""
-Davis,""
-Decatur,""
-Delaware,""
-Des Moines,""
-Dickinson,""
-Emmet,""
-Fayette,""
-Floyd,""
-Franklin,""
-Fremont,""
-Greene,""
-Grundy,""
-Guthrie,""
-Hamilton,""
-Hancock,""
-Hardin,""
-Harrison,""
-Henry,""
-Howard,""
-Humboldt,""
-Ida,""
-Iowa,""
-Jasper,""
-Jefferson,""
-Johnson,""
-Jones,""
-Keokuk,""
-Kossuth,""
-Lee,""
-Louisa,""
-Lucas,""
-Madison,""
-Mahaska,""
-Marion,""
-Marshall,""
-Mills,""
-Monona,""
-Monroe,""
-Muscatine,""
-O'Brien,""
-Osceola,""
-Page,""
-Palo Alto,""
-Pocahontas,""
-Polk,""
-Pottawattamie,""
-Poweshiek,""
-Ringgold,""
-Sac,""
-Scott,""
-Sioux,""
-Story,""
-Tama,""
-Taylor,""
-Union,""
-Van Buren,""
-Wapello,""
-Warren,""
-Washington,""
-Wayne,""
-Webster,""
-Winnebago,""
-Winneshiek,""
-Woodbury,""
-Worth,""
-Wright,""
-Dubuque,""
-Jackson,""
-Linn,""
-Lyon,""
-Mitchell,""
-Montgomery,""
-Plymouth,""
-Shelby,""
-DEMO,""
-Caucus Expansion Results,""
+counties,Bernie Sanders,Hillary Clinton,Martin O'Malley,Other,Uncommitted,winner
+Adair,0,0,0,0,0,""
+Adams,0.0,0.0,0.0,100.0,0.0,Other
+Allamakee,0.0,0.0,0.0,28.6,71.4,Uncommitted
+Appanoose,0.0,33.3,22.2,33.3,11.1,Hillary Clinton
+Audubon,0,0,0,0,0,""
+Benton,0.0,18.2,0.0,36.4,45.5,Uncommitted
+Black Hawk,0.0,28.6,0.0,38.1,33.3,Other
+Boone,0.0,0.0,0.0,100.0,0.0,Other
+Bremer,0,0,0,0,0,""
+Buchanan,0.0,16.1,16.1,12.9,54.8,Uncommitted
+Buena Vista,0.0,50.0,50.0,0.0,0.0,Martin O'Malley
+Butler,0,0,0,0,0,""
+Calhoun,12.5,18.8,0.0,68.8,0.0,Other
+Carroll,0.0,0.0,100.0,0.0,0.0,Martin O'Malley
+Cass,0,0,0,0,0,""
+Cedar,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Cerro Gordo,24.4,0.0,0.0,6.7,68.9,Uncommitted
+Cherokee,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Chickasaw,0.0,0.0,100.0,0.0,0.0,Martin O'Malley
+Clarke,0.0,0.0,0.0,100.0,0.0,Other
+Clay,0.0,100.0,0.0,0.0,0.0,Hillary Clinton
+Clayton,100.0,0.0,0.0,0.0,0.0,Bernie Sanders
+Clinton,44.4,0.0,5.6,0.0,50.0,Uncommitted
+Crawford,0.0,0.0,0.0,100.0,0.0,Other
+Dallas,27.3,0.0,36.4,36.4,0.0,Martin O'Malley
+Davis,0,0,0,0,0,""
+Decatur,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Delaware,0.0,100.0,0.0,0.0,0.0,Hillary Clinton
+Des Moines,16.7,83.3,0.0,0.0,0.0,Hillary Clinton
+Dickinson,0.0,0.0,25.0,75.0,0.0,Other
+Emmet,57.1,0.0,0.0,42.9,0.0,Bernie Sanders
+Fayette,0.0,0.0,0.0,62.5,37.5,Other
+Floyd,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Franklin,0.0,0.0,0.0,100.0,0.0,Other
+Fremont,55.6,0.0,44.4,0.0,0.0,Bernie Sanders
+Greene,0.0,100.0,0.0,0.0,0.0,Hillary Clinton
+Grundy,0.0,0.0,0.0,100.0,0.0,Other
+Guthrie,0,0,0,0,0,""
+Hamilton,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Hancock,0,0,0,0,0,""
+Hardin,0,0,0,0,0,""
+Harrison,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Henry,0.0,100.0,0.0,0.0,0.0,Hillary Clinton
+Howard,0.0,64.7,35.3,0.0,0.0,Hillary Clinton
+Humboldt,100.0,0.0,0.0,0.0,0.0,Bernie Sanders
+Ida,0,0,0,0,0,""
+Iowa,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Jasper,0,0,0,0,0,""
+Jefferson,0.0,0.0,0.0,100.0,0.0,Other
+Johnson,0.0,32.9,27.4,26.0,13.7,Hillary Clinton
+Jones,0,0,0,0,0,""
+Keokuk,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Kossuth,38.5,7.7,0.0,0.0,53.8,Uncommitted
+Lee,0.0,26.1,30.4,0.0,43.5,Uncommitted
+Louisa,100.0,0.0,0.0,0.0,0.0,Bernie Sanders
+Lucas,0.0,100.0,0.0,0.0,0.0,Hillary Clinton
+Madison,27.8,0.0,44.4,0.0,27.8,Martin O'Malley
+Mahaska,100.0,0.0,0.0,0.0,0.0,Bernie Sanders
+Marion,14.3,0.0,0.0,50.0,35.7,Other
+Marshall,100.0,0.0,0.0,0.0,0.0,Bernie Sanders
+Mills,0,0,0,0,0,""
+Monona,100.0,0.0,0.0,0.0,0.0,Bernie Sanders
+Monroe,0,0,0,0,0,""
+Muscatine,40.0,0.0,0.0,20.0,40.0,Bernie Sanders
+O'Brien,100.0,0.0,0.0,0.0,0.0,Bernie Sanders
+Osceola,0.0,0.0,100.0,0.0,0.0,Martin O'Malley
+Page,0,0,0,0,0,""
+Palo Alto,0.0,100.0,0.0,0.0,0.0,Hillary Clinton
+Pocahontas,0,0,0,0,0,""
+Polk,12.2,26.0,16.8,30.5,14.5,Other
+Pottawattamie,17.4,12.0,10.9,33.7,26.1,Other
+Poweshiek,100.0,0.0,0.0,0.0,0.0,Bernie Sanders
+Ringgold,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Sac,0,0,0,0,0,""
+Scott,17.5,15.0,17.5,35.0,15.0,Other
+Sioux,0.0,0.0,37.5,0.0,62.5,Uncommitted
+Story,35.5,0.0,32.3,29.0,3.2,Bernie Sanders
+Tama,0.0,100.0,0.0,0.0,0.0,Hillary Clinton
+Taylor,100.0,0.0,0.0,0.0,0.0,Bernie Sanders
+Union,0.0,0.0,0.0,100.0,0.0,Other
+Van Buren,0,0,0,0,0,""
+Wapello,0.0,0.0,0.0,100.0,0.0,Other
+Warren,0.0,0.0,58.3,0.0,41.7,Martin O'Malley
+Washington,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Wayne,0,0,0,0,0,""
+Webster,14.0,28.1,19.3,0.0,38.6,Uncommitted
+Winnebago,0.0,0.0,37.5,62.5,0.0,Other
+Winneshiek,0.0,100.0,0.0,0.0,0.0,Hillary Clinton
+Woodbury,0.0,0.0,100.0,0.0,0.0,Martin O'Malley
+Worth,0.0,100.0,0.0,0.0,0.0,Hillary Clinton
+Wright,0,0,0,0,0,""
+Dubuque,42.3,0.0,26.9,30.8,0.0,Bernie Sanders
+Jackson,0,0,0,0,0,""
+Linn,12.0,12.0,40.0,20.0,16.0,Martin O'Malley
+Lyon,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Mitchell,0.0,0.0,0.0,0.0,100.0,Uncommitted
+Montgomery,0,0,0,0,0,""
+Plymouth,0.0,46.7,0.0,53.3,0.0,Other
+Shelby,0,0,0,0,0,""
+DEMO,0,0,0,0,0,""
+Caucus Expansion Results,0,0,0,0,0,""
