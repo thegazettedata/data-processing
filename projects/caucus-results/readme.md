@@ -1,5 +1,7 @@
 #About this project
-These scripts are used to download caucus results from the APIs of each of the state's parties. They grab all the county and statewide data for each caucus and create CSV files with it. They use [Ruby](https://github.com/ruby/ruby) to convert the JSON data from the APIs into CSV files.
+These scripts are used to download caucus results from the APIs of each of the state's parties. They grab all the precinct, county and statewide data for each caucus and create CSV files with it. They use [Ruby](https://github.com/ruby/ruby) to convert the JSON data from the APIs into CSV files.
+
+For precinct data, we also convert the data back into a JSON file with several, unneccesary columns trimmed out.
 
 ###APIs
 These are the sites we are downloading data from:
