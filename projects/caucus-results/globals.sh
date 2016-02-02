@@ -8,6 +8,5 @@ TEST=true
 # We'll grab data from these parties:
 # iagop = Republican party
 # idp = Democratic party
-PARTIES=("iagop" "idp")
-
 # If you want to download data from just one party, remove one
+PARTIES=("iagop" "idp")

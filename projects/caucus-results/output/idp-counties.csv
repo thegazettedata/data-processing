@@ -1,21 +1,21 @@
 counties,Clinton,O'Malley,Other,Sanders,Uncommitted,winner,precincts reporting,precincts total
-Adair,52.5,0.0,0.0,47.5,0.0,Clinton,4,5
+Adair,56.0,0.0,0.0,44.0,0.0,Clinton,5,5
 Adams,56.7,0.0,0.0,43.3,0.0,Clinton,5,5
 Allamakee,50.7,0.0,0.0,49.3,0.0,Clinton,11,11
-Appanoose,53.3,1.3,0.0,45.3,0.0,Clinton,12,12
+Appanoose,54.7,0.0,0.0,45.3,0.0,Clinton,12,12
 Audubon,62.5,0.0,0.0,37.5,0.0,Clinton,2,2
-Benton,56.3,0.0,0.0,43.7,0.0,Clinton,18,19
-Black Hawk,45.6,0.3,0.0,54.1,0.0,Sanders,58,62
-Boone,44.6,0.0,0.0,55.4,0.0,Sanders,13,15
+Benton,56.0,0.0,0.0,44.0,0.0,Clinton,19,19
+Black Hawk,46.7,0.2,0.0,52.9,0.2,Sanders,62,62
+Boone,45.0,0.0,0.0,55.0,0.0,Sanders,15,15
 Bremer,53.3,1.3,0.0,45.3,0.0,Clinton,13,13
 Buchanan,52.5,0.0,0.0,47.5,0.0,Clinton,15,15
-Buena Vista,50.0,3.3,0.0,46.7,0.0,Clinton,9,10
+Buena Vista,48.6,2.9,0.0,48.6,0.0,Sanders,10,10
 Butler,41.7,0.0,0.0,58.3,0.0,Sanders,8,8
 Calhoun,50.0,0.0,0.0,50.0,0.0,Clinton,10,10
 Carroll,63.0,0.0,0.0,37.0,0.0,Clinton,13,13
 Cass,60.0,2.0,0.0,38.0,0.0,Clinton,13,13
 Cedar,44.3,0.0,0.0,55.7,0.0,Sanders,12,12
-Cerro Gordo,49.2,0.0,0.0,50.8,0.0,Sanders,25,26
+Cerro Gordo,49.6,0.0,0.0,50.4,0.0,Sanders,26,26
 Cherokee,45.5,0.0,0.0,54.5,0.0,Sanders,7,7
 Chickasaw,60.0,1.0,0.0,39.0,0.0,Clinton,13,13
 Clarke,58.0,0.0,0.0,42.0,0.0,Clinton,7,7
@@ -25,76 +25,76 @@ Clinton,48.6,0.0,0.0,51.4,0.0,Sanders,26,26
 Crawford,45.0,13.3,0.0,41.7,0.0,Clinton,8,8
 Dallas,57.5,0.8,0.0,41.7,0.0,Clinton,34,34
 Davis,58.0,0.0,0.0,42.0,0.0,Clinton,8,8
-Decatur,48.5,1.5,0.0,48.5,1.5,Clinton,6,7
+Decatur,50.0,1.4,0.0,47.1,1.4,Clinton,7,7
 Delaware,55.0,2.0,0.0,43.0,0.0,Clinton,12,12
-Des Moines,46.4,0.0,0.0,53.6,0.0,Sanders,15,16
-Dickinson,48.7,0.0,0.0,51.3,0.0,Sanders,14,15
+Des Moines,46.7,0.0,0.0,53.3,0.0,Sanders,16,16
+Dickinson,48.8,0.0,0.0,51.2,0.0,Sanders,15,15
 Dubuque,52.2,0.4,0.0,47.4,0.0,Clinton,35,35
 Emmet,56.0,0.0,0.0,44.0,0.0,Clinton,11,11
-Fayette,53.1,0.0,0.0,46.3,0.6,Clinton,24,25
+Fayette,52.6,0.0,0.0,46.9,0.6,Clinton,25,25
 Floyd,56.7,0.0,0.0,43.3,0.0,Clinton,8,8
-Franklin,53.0,1.2,0.0,45.8,0.0,Clinton,11,12
-Fremont,44.4,5.6,0.0,50.0,0.0,Sanders,4,5
+Franklin,56.7,1.1,0.0,42.2,0.0,Clinton,12,12
+Fremont,44.4,5.6,0.0,50.0,0.0,Sanders,5,5
 Greene,53.8,0.0,0.0,46.2,0.0,Clinton,7,7
 Grundy,46.7,1.7,0.0,51.7,0.0,Sanders,7,7
 Guthrie,55.0,0.0,0.0,45.0,0.0,Clinton,8,8
 Hamilton,58.9,0.0,0.0,41.1,0.0,Clinton,8,8
-Hancock,62.5,0.0,0.0,37.5,0.0,Clinton,6,10
+Hancock,61.2,0.0,0.0,38.8,0.0,Clinton,10,10
 Hardin,57.6,0.0,0.0,42.4,0.0,Clinton,8,8
 Harrison,45.3,0.0,0.0,54.7,0.0,Sanders,13,13
-Henry,51.1,0.0,0.0,48.9,0.0,Clinton,8,9
+Henry,50.0,0.0,0.0,50.0,0.0,Sanders,9,9
 Howard,46.2,0.0,0.0,53.8,0.0,Sanders,9,9
 Humboldt,55.6,0.0,0.0,44.4,0.0,Clinton,9,9
 Ida,53.3,0.0,0.0,46.7,0.0,Clinton,7,7
-Iowa,52.2,0.0,0.0,47.8,0.0,Clinton,10,11
+Iowa,51.0,0.0,0.0,49.0,0.0,Clinton,11,11
 Jackson,50.0,4.0,0.0,46.0,0.0,Clinton,16,16
 Jasper,51.5,3.5,0.0,45.0,0.0,Clinton,20,20
-Jefferson,27.7,0.0,0.0,72.3,0.0,Sanders,11,12
+Jefferson,27.3,0.0,0.0,72.7,0.0,Sanders,12,12
 Johnson,40.2,0.3,0.0,59.5,0.0,Sanders,57,57
 Jones,46.7,0.0,0.0,53.3,0.0,Sanders,14,14
 Keokuk,62.5,2.5,0.0,35.0,0.0,Clinton,15,15
-Kossuth,60.7,2.2,0.0,36.0,1.1,Clinton,19,20
-Lee,54.9,0.0,0.0,45.1,0.0,Clinton,20,22
-Linn,47.1,0.3,0.0,52.6,0.0,Sanders,82,86
+Kossuth,60.7,2.2,0.0,36.0,1.1,Clinton,20,20
+Lee,54.7,0.0,0.0,45.3,0.0,Clinton,22,22
+Linn,47.4,0.3,0.0,52.3,0.0,Sanders,86,86
 Louisa,56.0,2.0,0.0,42.0,0.0,Clinton,5,5
 Lucas,60.0,0.0,0.0,40.0,0.0,Clinton,7,7
 Lyon,40.0,3.3,0.0,56.7,0.0,Sanders,8,8
-Madison,51.9,0.0,0.0,48.1,0.0,Clinton,8,9
-Mahaska,55.4,0.0,0.0,44.6,0.0,Clinton,10,11
+Madison,53.3,0.0,0.0,46.7,0.0,Clinton,9,9
+Mahaska,56.2,0.0,0.0,43.8,0.0,Clinton,11,11
 Marion,50.0,2.0,0.0,48.0,0.0,Clinton,17,17
 Marshall,46.7,0.0,0.0,53.3,0.0,Sanders,19,19
-Mills,52.3,0.0,0.0,47.7,0.0,Clinton,10,11
-Mitchell,65.3,1.4,0.0,33.3,0.0,Clinton,10,11
+Mills,51.1,0.0,0.0,48.9,0.0,Clinton,11,11
+Mitchell,65.0,1.3,0.0,33.8,0.0,Clinton,11,11
 Monona,60.0,1.3,0.0,38.8,0.0,Clinton,11,11
 Monroe,43.1,12.3,0.0,44.6,0.0,Sanders,7,7
 Montgomery,36.0,0.0,0.0,64.0,0.0,Sanders,7,7
-Muscatine,46.2,0.0,0.0,53.8,0.0,Sanders,22,23
+Muscatine,46.0,0.0,0.0,54.0,0.0,Sanders,23,23
 O'Brien,50.9,1.8,0.0,47.3,0.0,Clinton,9,9
-Osceola,64.2,0.0,0.0,35.8,0.0,Clinton,7,8
+Osceola,56.7,5.0,0.0,38.3,0.0,Clinton,8,8
 Page,49.3,0.0,0.0,50.7,0.0,Sanders,8,8
 Palo Alto,53.3,0.0,0.0,46.7,0.0,Clinton,6,6
-Plymouth,55.0,0.0,0.0,45.0,0.0,Clinton,12,13
+Plymouth,55.4,0.0,0.0,44.6,0.0,Clinton,13,13
 Pocahontas,66.0,4.0,0.0,30.0,0.0,Clinton,7,7
-Polk,53.5,0.8,0.0,45.7,0.0,Clinton,156,177
+Polk,53.2,0.7,0.0,46.2,0.0,Clinton,177,177
 Pottawattamie,49.0,0.0,0.0,50.7,0.3,Sanders,40,40
-Poweshiek,51.5,0.0,0.0,48.5,0.0,Clinton,9,10
+Poweshiek,47.2,0.0,0.0,52.8,0.0,Sanders,10,10
 Ringgold,66.3,0.0,0.0,33.8,0.0,Clinton,7,7
-Sac,55.6,0.0,0.0,44.4,0.0,Clinton,7,9
+Sac,55.0,0.0,0.0,45.0,0.0,Clinton,9,9
 Scott,49.1,0.4,0.0,50.5,0.0,Sanders,63,63
 Shelby,42.0,0.0,0.0,58.0,0.0,Sanders,9,9
 Sioux,48.0,0.0,0.0,50.7,1.3,Sanders,16,16
-Story,41.3,0.0,0.0,58.7,0.0,Sanders,42,43
-Tama,55.7,0.0,0.0,44.3,0.0,Clinton,15,16
+Story,40.5,0.0,0.0,59.5,0.0,Sanders,43,43
+Tama,52.9,0.0,0.0,47.1,0.0,Clinton,16,16
 Taylor,70.0,0.0,0.0,30.0,0.0,Clinton,7,7
 Union,46.3,0.0,0.0,53.8,0.0,Sanders,8,8
 Van Buren,46.7,0.0,0.0,53.3,0.0,Sanders,8,8
-Wapello,54.6,0.5,0.0,44.9,0.0,Clinton,19,22
-Warren,56.0,1.3,0.0,42.7,0.0,Clinton,31,31
+Wapello,54.8,0.5,0.0,44.7,0.0,Clinton,22,22
+Warren,55.3,1.3,0.0,43.3,0.0,Clinton,31,31
 Washington,53.8,0.0,0.0,46.2,0.0,Clinton,10,10
 Wayne,65.0,0.0,0.0,35.0,0.0,Clinton,4,4
 Webster,54.2,0.8,0.0,45.0,0.0,Clinton,28,28
 Winnebago,42.5,0.0,0.0,57.5,0.0,Sanders,10,10
 Winneshiek,44.0,0.0,0.0,56.0,0.0,Sanders,11,11
-Woodbury,46.4,0.4,0.0,53.2,0.0,Sanders,41,44
+Woodbury,46.3,0.4,0.0,53.3,0.0,Sanders,44,44
 Worth,45.3,0.0,0.0,54.7,0.0,Sanders,7,7
-Wright,56.1,0.0,0.0,43.9,0.0,Clinton,8,10
+Wright,54.7,0.0,0.0,45.3,0.0,Clinton,10,10

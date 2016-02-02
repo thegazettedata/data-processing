@@ -4,8 +4,6 @@ require "csv"
 
 # Grab arguments
 ARGV.each_with_index do |argument, num|
-	puts argument
-
 	# Whether or not we are working
 	# With county or statewide data
 	if num == 0
@@ -85,7 +83,12 @@ $data['StateResults'].each_with_index do |candidate, num_candidate|
 	else
 		# Percentage of the vote for this candidate
 		result = candidate['WinPercentage']
-		result_format = (result * 100).round(1)
+		
+		if !result.nil?
+			result_format = (result * 100).round(1)
+		else
+			result_format = 0
+		end
 	end
 
 	ind_row[candidate_index] = result_format
