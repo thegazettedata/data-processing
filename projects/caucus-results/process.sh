@@ -6,8 +6,8 @@ function convertData() {
 	echo "Convert data to CSVs"
 	rm $CSV_COUNTIES_OUTPUT
 	rm $CSV_STATEWIDE_OUTPUT
-	ruby scripts/json-to-csv-counties.rb $JSON_COUNTIES $CSV_COUNTIES_OUTPUT
-	ruby scripts/json-to-csv-statewide.rb $JSON_STATEWIDE $CSV_STATEWIDE_OUTPUT
+	ruby scripts/json-to-csv-counties.rb $JSON_COUNTIES $CSV_COUNTIES_OUTPUT $party
+	ruby scripts/json-to-csv-statewide.rb $JSON_STATEWIDE $CSV_STATEWIDE_OUTPUT $party
 }
 
 function downloadData() {

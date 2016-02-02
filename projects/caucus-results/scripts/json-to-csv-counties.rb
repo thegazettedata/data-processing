@@ -10,6 +10,8 @@ ARGV.each_with_index do |argument, num|
 	# Our CSV file
 	elsif num == 1
 		$csv = argument
+	elsif num == 2
+		$party = argument
 	end
 end
 
@@ -21,9 +23,12 @@ header_appended = false
 header_row = ['counties']
 candidates_array = []
 
+# Sort counties alphabetically
+data_alphabetical = $data['CountyResults'].sort! { |a,b| a['County']['Name'].downcase <=> b['County']['Name'].downcase }
+
 # Loop through each result
 # And append header row
-$data['CountyResults'].each_with_index do |result, num_result|
+data_alphabetical.each_with_index do |result, num_result|
 	candidates_obj = result['Candidates']
 
 	# Loop through each candidate
@@ -35,7 +40,7 @@ $data['CountyResults'].each_with_index do |result, num_result|
 			# Append candidate names to empty array
 			# That will become our header row
 			candidates_obj.each_with_index do |candidates, num_candidates|
-				candidates_array << candidates['Candidate']['DisplayName']
+				candidates_array << candidates['Candidate']['LastName']
 			end
 
 			# Alphabetize candidates
@@ -46,7 +51,9 @@ $data['CountyResults'].each_with_index do |result, num_result|
 			
 			# Final column indicates if there is a winner in the results
 			header_row << 'winner'
-			
+			header_row << 'precincts reporting'
+			header_row << 'precincts total'
+
 			# Append header row
 			CSV.open($csv, "a+") do |csv|
 				csv << header_row
@@ -71,49 +78,74 @@ $data['CountyResults'].each_with_index do |county, num_county|
 	# Number of results
 	num_of_results = candidates_obj.length
 
-	# Enter default values for each county
-	# Which will be zero percent for each candidate
-	# And a false value for winner column
-	for i in 1..num_of_candidates
-		ind_row << 0
-	end
+	if county_name != 'Military' && county_name != 'DEMO' && county_name != 'Caucus Expansion Results'
+		# Enter default values for each county
+		# Which will be zero percent for each candidate
+		# And a false value for winner column
+		for i in 1..num_of_candidates
+			ind_row << 0
+		end
 
-	ind_row << ''
+		ind_row << ''
 
-	# If we have candidate result data
-	# We'll add it to the empty array for this row
-	if num_of_results > 0
-		candidates_obj.each_with_index do |candidate, num_candidate|
-			# Result for this canidate
-			# It may be blank
-			result = candidate['WinPercentage']
-			is_winner = candidate['IsWinner']
+		# If we have candidate result data
+		# We'll add it to the empty array for this row
+		if num_of_results > 0
+			candidates_obj.each_with_index do |candidate, num_candidate|
+				# Result for this canidate
+				# It may be blank
+				if $party == 'iagop'
+					# Percentage of the vote for this candidate
+					result = candidate['Result']
+				else
+					# Percentage of the vote for this candidate
+					result = candidate['WinPercentage']
+				end
+				
+				is_winner = candidate['IsWinner']
 
-			# Candidate name
-			name = candidate['Candidate']['DisplayName']
-			# Detects the column number in the CSV
-			# For this particular candidate
-			candidate_index = header_row.index(name)
+				# Candidate name
+				name = candidate['Candidate']['LastName']
+				# Detects the column number in the CSV
+				# For this particular candidate
+				candidate_index = header_row.index(name)
 
-			# If blank, let's make zero
-			if result.nil?
-				result = 0
-			end
+				# If blank, let's make zero
+				if result.nil?
+					result = 0
+				end
 
-			# Format the result to percentages
-			# And append to CSV
-			result_format = (result * 100).round(1)
-			ind_row[candidate_index] = result_format
+				# Format the result to percentages
+				# And append to CSV
+				if $party == 'iagop'
+					result_format = result
+				else
+					result_format = (result * 100).round(1)
+				end
 
-			if is_winner
-				ind_row[ind_row.length - 1] = name
+				ind_row[candidate_index] = result_format
+
+				if is_winner
+					ind_row[ind_row.length - 1] = name
+				end
 			end
 		end
-	end
 
-	# Append data to CSV
-	CSV.open($csv, "a+") do |csv|
-		csv << ind_row
+		# Append precincts
+		precincts_reporting = county['PrecinctsReporting']
+		if precincts_reporting.nil?
+			precincts_reporting = 0
+		end
+		precincts_total = county['TotalPrecincts']
+
+		ind_row << precincts_reporting
+		ind_row << precincts_total
+		# Append data to CSV
+		CSV.open($csv, "a+") do |csv|
+			csv << ind_row
+		end
+	
+	# Close if not military, demo, etc.
 	end
 end
 

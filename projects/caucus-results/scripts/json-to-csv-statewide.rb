@@ -4,6 +4,8 @@ require "csv"
 
 # Grab arguments
 ARGV.each_with_index do |argument, num|
+	puts argument
+
 	# Whether or not we are working
 	# With county or statewide data
 	if num == 0
@@ -11,6 +13,8 @@ ARGV.each_with_index do |argument, num|
 	# Our CSV file
 	elsif num == 1
 		$csv = argument
+	elsif num == 2
+		$party = argument
 	end
 end
 
@@ -27,7 +31,7 @@ candidates_array = []
 $data['StateResults'].each_with_index do |result, num_result|
 	# Loop through each candidate
 	if result.length > 0
-		candidates_array << result['Candidate']['DisplayName']
+		candidates_array << result['Candidate']['LastName']
 	end
 end
 
@@ -39,6 +43,8 @@ candidates_array = candidates_array.sort_by{|word| word.downcase}
 
 # Final column indicates if there is a winner in the results
 header_row << 'winner'
+header_row << 'precincts reporting'
+header_row << 'precincts total'
 
 # Append header row
 CSV.open($csv, "a+") do |csv|
@@ -60,19 +66,28 @@ ind_row << ''
 
 # With the header created, we will now append actual data
 $data['StateResults'].each_with_index do |candidate, num_candidate|
+
 	# Name of candidate
-	name = candidate['Candidate']['DisplayName']
+	name = candidate['Candidate']['LastName']
 	# If this candidate is the winner
 	is_winner = candidate['IsWinner']
-	# Percentage of the vote for this candidate
-	result = candidate['WinPercentage']
+
 	# Detects the column number in the CSV
 	# For this particular candidate
 	candidate_index = header_row.index(name)
 
 	# Format the result to percentages
 	# And append to CSV
-	result_format = (result * 100).round(1)
+	if $party == 'iagop'
+		# Percentage of the vote for this candidate
+		result = candidate['Result']
+		result_format = result
+	else
+		# Percentage of the vote for this candidate
+		result = candidate['WinPercentage']
+		result_format = (result * 100).round(1)
+	end
+
 	ind_row[candidate_index] = result_format
 
 	# Append winning candidate information
@@ -80,6 +95,16 @@ $data['StateResults'].each_with_index do |candidate, num_candidate|
 		ind_row[ind_row.length - 1] = name
 	end
 end
+
+# Append precincts
+precincts_reporting = $data['PrecinctsReporting']
+if precincts_reporting.nil?
+	precincts_reporting = 0
+end
+precincts_total = $data['TotalPrecincts']
+
+ind_row << precincts_reporting
+ind_row << precincts_total
 
 # Append data to CSV
 CSV.open($csv, "a+") do |csv|

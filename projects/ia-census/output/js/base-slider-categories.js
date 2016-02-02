@@ -41,7 +41,7 @@ var slider_categories = {
   "MEDIAN_AGE": {
     "text": "Median age",
     "text-before": "",
-    "text-after": "",
+    "text-after": "%",
     "categories": {
       "subcategories": false,
       "min": 26,
@@ -77,7 +77,7 @@ var slider_categories = {
   "RACE": {
     "text": "Race",
     "text-before": "",
-    "text-after": "%",
+    "text-after": "",
     "categories": {
       "subcategories": true,
       "WHITE": {
@@ -125,20 +125,20 @@ var slider_categories = {
     }
   },
   "EDU": {
-    "text": "Education",
+    "text": "Edu",
     "text-before": "",
-    "text-after": "%",
+    "text-after": "",
     "categories": {
       "subcategories": true,
       "LESS_THAN_HS": {
-        "text": "Less than high school",
+        "text": "Less than hs",
         "county-avg": 0,
         "min": 4,
         "max": 22,
         "state-avg": 9.0
       },
       "HS_GRAD": {
-        "text": "High school grad",
+        "text": "Hs grad",
         "county-avg": 0,
         "min": 17,
         "max": 47,
@@ -152,14 +152,14 @@ var slider_categories = {
         "state-avg": 32.3
       },
       "BACHELORS": {
-        "text": "Bachelor's degree",
+        "text": "Bachelors",
         "county-avg": 0,
         "min": 7,
         "max": 33,
         "state-avg": 17.7
       },
       "GRADUATE": {
-        "text": "Graduate degree",
+        "text": "Graduate",
         "county-avg": 0,
         "min": 2,
         "max": 24,
@@ -170,11 +170,11 @@ var slider_categories = {
   "INDUSTRY": {
     "text": "Industry",
     "text-before": "",
-    "text-after": "%",
+    "text-after": "",
     "categories": {
       "subcategories": true,
       "AG": {
-        "text": "Agriculture",
+        "text": "Ag",
         "county-avg": 0,
         "min": 0,
         "max": 17,
