@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+111424,GNRL,"DentalEZ, Inc.",PA,100000005683,1616.10,12/27/2014,GNRL,160378918
+111424,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,25.86,04/28/2015,GNRL,300950206
+111424,GNRL,"Hu-Friedy Mfg. Co., LLC",IL,100000005588,15.65,12/04/2013,GNRL,105370922
+111424,GNRL,"Raintree Essix Inc",PA,100000010628,13.58,10/28/2015,GNRL,329238194
+111424,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,10.00,06/10/2014,GNRL,164138772

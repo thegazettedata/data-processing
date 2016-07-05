@@ -1,0 +1,8 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1033057,"DJO, LLC",CA,100000005579,5465.92,03/20/2014,"Cash or cash equivalent",220798424,Grant,"Orthopaedic Rsrch and Educ Found","","","Travelling Fellowship"
+1033057,"Stryker Corporation",MI,100000010503,96.35,11/01/2014,"Cash or cash equivalent",199061358,"Food and Beverage","","","",""
+1033057,"Stryker Corporation",MI,100000010503,36.38,08/05/2015,"Cash or cash equivalent",316755912,"Food and Beverage","","","",""
+1033057,"RSW Medical Company, Inc.",SD,100000010409,34.25,02/11/2015,"In-kind items and services",292568460,Education,"","","",""
+1033057,"Zimmer Holding Inc",IN,100000000103,18.46,10/07/2014,"In-kind items and services",216362180,"Food and Beverage","","","","Food and beverage provided in the context of a Zimmer event oractivity related to business meetings and medical training and education on safe and effective use of Zimmer products."
+1033057,"Stryker Corporation",MI,100000010503,17.53,01/12/2015,"Cash or cash equivalent",316878076,"Food and Beverage","","","",""
+1033057,"Stryker Corporation",MI,100000010503,16.26,02/24/2015,"Cash or cash equivalent",316787040,"Food and Beverage","","","",""

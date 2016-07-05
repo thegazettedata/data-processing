@@ -1,0 +1,13 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+616218,GNRL,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,2500.00,10/31/2013,GNRL,31070872
+616218,GNRL,"Genentech USA, Inc.",CA,100000000226,1500.00,06/03/2014,GNRL,208127078
+616218,GNRL,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,839.38,11/01/2013,GNRL,31070081
+616218,GNRL,"Genentech USA, Inc.",CA,100000000226,549.05,06/03/2014,GNRL,208127084
+616218,GNRL,"Biocompatibles, Inc.",CT,100000011081,243.28,08/12/2015,GNRL,340053444
+616218,GNRL,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,241.48,11/01/2013,GNRL,31053734
+616218,GNRL,"Biocompatibles, Inc.",CT,100000011081,185.56,08/12/2015,GNRL,340053448
+616218,GNRL,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,166.63,11/01/2013,GNRL,31054495
+616218,GNRL,"Genentech USA, Inc.",CA,100000000226,164.17,06/03/2014,GNRL,208127082
+616218,GNRL,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,150.00,11/14/2013,GNRL,31073765
+616218,GNRL,"Genentech USA, Inc.",CA,100000000226,150.00,06/03/2014,GNRL,208127080
+616218,GNRL,"Biocompatibles, Inc.",CT,100000011081,150.00,08/12/2015,GNRL,340053442

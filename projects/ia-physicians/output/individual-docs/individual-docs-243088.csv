@@ -1,0 +1,17 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+243088,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,608.20,10/09/2015,GNRL,310715196
+243088,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,206.31,11/05/2015,GNRL,310750578
+243088,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,124.99,09/17/2014,GNRL,137242128
+243088,GNRL,"Boston Scientific Corporation",MA,100000005674,123.73,04/14/2014,GNRL,152939187
+243088,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,117.37,05/26/2015,GNRL,296280018
+243088,GNRL,"Cardiac Assist, Inc.",PA,100000010798,114.26,04/15/2014,GNRL,197098374
+243088,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,110.00,11/05/2015,GNRL,310750546
+243088,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,95.00,02/26/2015,GNRL,296280008
+243088,GNRL,"MAQUET Cardiovascular U.S. Sales, L.L.C.",NJ,100000010724,68.45,10/17/2013,GNRL,104254062
+243088,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,59.94,02/12/2015,GNRL,296280014
+243088,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,50.00,11/06/2015,GNRL,310750535
+243088,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,47.80,11/06/2015,GNRL,310750526
+243088,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,36.66,11/05/2015,GNRL,310750585
+243088,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,25.27,11/05/2015,GNRL,310750556
+243088,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,25.00,11/06/2015,GNRL,310750568
+243088,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,13.94,06/19/2014,GNRL,155836252

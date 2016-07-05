@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+618790,GNRL,"Salix Pharmaceuticals, Ltd",NC,100000010796,5885.00,11/25/2014,GNRL,158763496
+618790,GNRL,"Ferring Pharmaceuticals Inc.",NJ,100000000309,65.45,11/11/2015,GNRL,317485296
+618790,GNRL,"Actavis Pharma Inc",NJ,100000010642,13.27,06/19/2015,GNRL,339395414

@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1032101,GNRL,"Midmark Corporation",OH,100000010765,1031.31,03/30/2015,GNRL,337751396
+1032101,GNRL,"American Orthodontics Corporation",WI,100000010599,325.00,07/09/2015,GNRL,300519442
+1032101,GNRL,"American Orthodontics Corporation",WI,100000010599,292.31,01/15/2015,GNRL,300519334
+1032101,GNRL,"Midmark Corporation",OH,100000010765,184.93,03/30/2015,GNRL,337751398
+1032101,GNRL,"Ormco Corporation",CA,100000005626,179.00,06/06/2015,GNRL,334493410
+1032101,GNRL,"Ormco Corporation",CA,100000005626,179.00,06/05/2015,GNRL,334493448
+1032101,GNRL,"Kerr Corporation",CA,100000005552,128.92,08/26/2015,GNRL,336320818
+1032101,GNRL,"3M Company",MN,100000000301,12.08,09/03/2014,GNRL,164062338
+1032101,GNRL,"Raintree Essix Inc",PA,100000010628,10.86,06/09/2015,GNRL,329233444

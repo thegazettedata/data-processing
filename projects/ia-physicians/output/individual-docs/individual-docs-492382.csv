@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+492382,GNRL,"A-dec, Inc.",OR,100000005393,1675.00,02/16/2015,GNRL,294289050
+492382,GNRL,"A-dec, Inc.",OR,100000005393,1675.00,04/27/2015,GNRL,294294020
+492382,GNRL,"A-dec, Inc.",OR,100000005393,1675.00,06/30/2015,GNRL,294292026
+492382,GNRL,"DASH MEDICAL GLOVES INC",WI,100000000242,10.00,07/17/2014,GNRL,159569277

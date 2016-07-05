@@ -1,0 +1,4 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+375423,"Covidien Sales LLC",MA,100000000098,927.16,11/23/2015,"In-kind items and services",283272658,"Travel and Lodging","","","",""
+375423,"Covidien Sales LLC",MA,100000000098,199.27,11/05/2015,"In-kind items and services",283272664,"Travel and Lodging","","","",""
+375423,"Covidien Sales LLC",MA,100000000098,12.88,11/06/2015,"In-kind items and services",283272666,"Food and Beverage","","","",""

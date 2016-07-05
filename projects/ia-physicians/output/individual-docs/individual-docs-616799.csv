@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+616799,GNRL,"Amgen Inc.",CA,100000000203,289.84,09/12/2014,GNRL,227563374
+616799,GNRL,"Amgen Inc.",CA,100000000203,148.39,09/13/2014,GNRL,227563500
+616799,GNRL,"Amgen Inc.",CA,100000000203,65.00,09/12/2014,GNRL,227563620
+616799,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,23.75,12/13/2013,GNRL,31542093
+616799,GNRL,"LILLY USA, LLC",IN,100000000066,14.15,06/16/2014,GNRL,137627210
+616799,GNRL,"Prometheus Laboratories Inc.",CA,100000010425,12.03,10/14/2015,GNRL,326481402

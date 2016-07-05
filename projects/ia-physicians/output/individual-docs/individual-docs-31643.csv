@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+31643,GNRL,"Kerr Corporation",CA,100000005552,429.30,12/18/2013,GNRL,103694146
+31643,GNRL,"Kerr Corporation",CA,100000005552,429.30,12/16/2013,GNRL,103694140
+31643,GNRL,"National Dentex Corporation",FL,100000000065,19.35,12/01/2013,GNRL,105325336

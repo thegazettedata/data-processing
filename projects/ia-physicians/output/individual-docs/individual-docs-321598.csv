@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+321598,GNRL,"Ortho-Clinical Diagnostics, Inc.",NJ,100000005670,5000.00,04/18/2014,GNRL,217370924
+321598,GNRL,"Roche Molecular Systems, Inc.",CA,100000005630,1500.00,11/07/2013,GNRL,103695320
+321598,GNRL,"Terumo BCT, Inc.",CO,100000010660,500.00,11/18/2014,GNRL,155080374
+321598,GNRL,"Roche Diagnostics Corporation",IN,100000005419,117.42,08/29/2013,GNRL,103807582
+321598,GNRL,"Terumo BCT, Inc.",CO,100000010660,116.36,10/24/2014,GNRL,155080370

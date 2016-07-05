@@ -1,0 +1,14 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+174475,GNRL,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,129.93,09/17/2015,GNRL,337512316
+174475,GNRL,"Janssen Scientific Affairs, LLC",NJ,100000000332,101.00,09/11/2013,GNRL,23917007
+174475,GNRL,"Salix Pharmaceuticals, Ltd",NC,100000010796,100.65,04/24/2014,GNRL,158887980
+174475,GNRL,"AbbVie, Inc.",IL,100000000204,92.70,03/12/2014,GNRL,189211694
+174475,GNRL,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,91.21,10/09/2014,GNRL,194748878
+174475,GNRL,"AbbVie, Inc.",IL,100000000204,91.17,11/12/2014,GNRL,189597160
+174475,GNRL,"Janssen Scientific Affairs, LLC",NJ,100000000332,90.90,09/11/2013,GNRL,23917006
+174475,GNRL,"AbbVie, Inc.",IL,100000000204,86.31,10/16/2013,GNRL,104616200
+174475,GNRL,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,75.56,08/01/2013,GNRL,103336096
+174475,GNRL,"Prometheus Laboratories Inc.",CA,100000010425,67.03,11/18/2014,GNRL,219506570
+174475,GNRL,"Janssen Scientific Affairs, LLC",NJ,100000000332,60.99,10/03/2013,GNRL,23917008
+174475,GNRL,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,15.38,07/10/2014,GNRL,194748876
+174475,GNRL,"Actavis Pharma Inc",NJ,100000010642,13.06,11/24/2015,GNRL,339384182

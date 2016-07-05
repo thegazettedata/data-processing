@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+378570,GNRL,"Duchesnay USA Incorporated",PA,100000000315,1250.00,10/25/2013,GNRL,23392860
+378570,GNRL,"Duchesnay USA Incorporated",PA,100000000315,1250.00,10/25/2013,GNRL,23392859
+378570,GNRL,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,150.00,09/25/2013,GNRL,14066789

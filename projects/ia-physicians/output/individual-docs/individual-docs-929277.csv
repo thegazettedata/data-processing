@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+929277,GNRL,"Arthrex, Inc.",FL,100000005371,2200.00,10/10/2013,GNRL,23189733
+929277,GNRL,"Stryker Corporation",MI,100000010503,96.35,11/01/2014,GNRL,199187164
+929277,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,12.38,01/30/2014,GNRL,120887097

@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1312927,"AstraZeneca Pharmaceuticals LP",DE,100000000146,124.94,02/27/2014,"In-kind items and services",150462844,"Food and Beverage","",BRILINTA,"","Educational Program"
+1312927,"Amgen Inc.",CA,100000000203,108.11,09/10/2015,"In-kind items and services",297532174,"Food and Beverage","",Repatha,"",""
+1312927,"Pfizer Inc.",NY,100000000286,107.13,04/01/2015,"In-kind items and services",323119140,"Food and Beverage","",ELIQUIS,"",""
+1312927,"Janssen Pharmaceuticals, Inc",NJ,100000000232,99.00,01/05/2015,"In-kind items and services",275319940,Education,"",Xarelto,"","Medical Textbook"
+1312927,"AstraZeneca Pharmaceuticals LP",DE,100000000146,87.65,01/14/2015,"In-kind items and services",260087556,"Food and Beverage","","","","Informational Meal"
+1312927,"AstraZeneca Pharmaceuticals LP",DE,100000000146,74.69,03/25/2015,"In-kind items and services",260114532,"Food and Beverage","",BYDUREON,"","Educational Program"
+1312927,"SANOFI-AVENTIS U.S. LLC",NJ,100000000076,68.56,05/28/2015,"In-kind items and services",318511385,"Food and Beverage","",TOUJEO,"",""
+1312927,"Novo Nordisk Inc",NJ,100000000144,68.17,07/22/2015,"In-kind items and services",269994446,"Food and Beverage","",Levemir,"",""
+1312927,"AstraZeneca Pharmaceuticals LP",DE,100000000146,67.24,09/17/2015,"In-kind items and services",260038502,"Food and Beverage","","","","Informational Meal"
+1312927,"AstraZeneca Pharmaceuticals LP",DE,100000000146,61.46,04/30/2015,"In-kind items and services",260128086,"Food and Beverage","","","","Informational Meal"
+1312927,"Janssen Pharmaceuticals, Inc",NJ,100000000232,42.28,09/24/2014,"In-kind items and services",156346210,"Food and Beverage","",Xarelto,"",""

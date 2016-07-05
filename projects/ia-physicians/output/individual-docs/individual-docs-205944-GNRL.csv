@@ -1,0 +1,11 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+205944,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,1500.00,09/04/2013,"Cash or cash equivalent",100333992,"Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program","",TUDORZA,"",""
+205944,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,47.46,09/04/2013,"In-kind items and services",100333990,"Travel and Lodging","",TUDORZA,"",""
+205944,"ResMed Corp",CA,100000005736,26.34,10/29/2015,"In-kind items and services",277459732,"Food and Beverage","","","",""
+205944,"Merck Sharp & Dohme Corporation",NJ,100000000053,14.25,01/16/2014,"In-kind items and services",201175298,Education,"",Non-Product,"",""
+205944,"GlaxoSmithKline, LLC.",NC,100000005449,13.58,05/06/2015,"In-kind items and services",318822182,"Food and Beverage","",BREO,ANORO,""
+205944,"GlaxoSmithKline, LLC.",NC,100000005449,10.59,05/29/2015,"In-kind items and services",318822224,"Food and Beverage","",ANORO,"",""
+205944,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,10.29,02/05/2014,"In-kind items and services",196020172,"Food and Beverage","",SPIRIVA,"COMBIVENT RESPIMAT",""
+205944,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,8.40,09/04/2013,"In-kind items and services",100333988,"Food and Beverage","",TUDORZA,"",""
+205944,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,2.28,08/30/2013,"In-kind items and services",100333996,"Food and Beverage","",TUDORZA,DALIRESP,""
+205944,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,1.05,11/15/2013,"In-kind items and services",100333994,"Food and Beverage","",TUDORZA,DALIRESP,""

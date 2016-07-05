@@ -1,0 +1,12 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+571099,GNRL,"Roche Products Limited","",100000010364,3000.00,05/13/2014,GNRL,208177430
+571099,RSRCH,"Roche TCRC, Inc.",NY,100000000166,3000.00,07/28/2014,RSRCH,207418022
+571099,GNRL,"Roche Products Limited","",100000010364,1272.72,05/13/2014,GNRL,208172854
+571099,GNRL,"Roche Products Limited","",100000010364,369.55,05/13/2014,GNRL,208172864
+571099,GNRL,"Roche Products Limited","",100000010364,337.62,05/13/2014,GNRL,208172860
+571099,RSRCH,"Otsuka Pharmaceutical Development & Commercialization, Inc.",NJ,100000010725,300.00,03/21/2014,RSRCH,216063236
+571099,RSRCH,"Roche TCRC, Inc.",NY,100000000166,185.63,07/15/2014,RSRCH,207427612
+571099,GNRL,"Roche Products Limited","",100000010364,63.00,05/13/2014,GNRL,208172858
+571099,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,51.78,08/28/2013,GNRL,31945803
+571099,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,16.56,08/28/2013,GNRL,31945799
+571099,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,16.56,08/28/2013,GNRL,31945801

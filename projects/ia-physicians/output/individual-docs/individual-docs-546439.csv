@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+546439,GNRL,"Celgene Corporation",NJ,100000000343,2500.00,06/28/2014,GNRL,189886252
+546439,GNRL,"Celgene Corporation",NJ,100000000343,275.00,06/28/2014,GNRL,189925960
+546439,GNRL,"Celgene Corporation",NJ,100000000343,197.20,06/28/2014,GNRL,189886254
+546439,GNRL,"Novartis Pharmaceuticals Corporation",NJ,100000000228,175.00,03/03/2014,GNRL,224025236
+546439,GNRL,"Amgen Inc.",CA,100000000203,119.36,11/07/2015,GNRL,297321798

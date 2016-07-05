@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+65519,GNRL,"Alcon Laboratories Inc",TX,100000005405,285.00,08/29/2013,GNRL,102439718
+65519,GNRL,"Allergan Inc.",CA,100000000278,138.01,04/25/2014,GNRL,203756680
+65519,GNRL,"Bausch and Lomb Inc.",NY,100000010937,49.62,04/27/2014,GNRL,216845484
+65519,GNRL,"Abbott Laboratories",IL,100000010680,19.33,10/03/2013,GNRL,102319292
+65519,GNRL,"Alcon Laboratories Inc",TX,100000005405,15.32,07/29/2015,GNRL,315307349
+65519,GNRL,"Alcon Laboratories Inc",TX,100000005405,14.00,10/08/2013,GNRL,102409376
+65519,GNRL,"Alcon Laboratories Inc",TX,100000005405,7.50,12/19/2013,GNRL,102422076
+65519,GNRL,"Alcon Laboratories Inc",TX,100000005405,1.48,10/02/2013,GNRL,102408282

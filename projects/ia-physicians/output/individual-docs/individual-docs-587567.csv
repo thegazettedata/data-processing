@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+587567,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,466.67,12/09/2015,GNRL,295585572
+587567,GNRL,"Alcon Laboratories Inc",TX,100000005405,94.99,07/14/2014,GNRL,167488345
+587567,GNRL,"Allergan Inc.",CA,100000000278,18.35,08/27/2014,GNRL,198103278
+587567,GNRL,"Allergan Inc.",CA,100000000278,16.65,03/18/2015,GNRL,288588456
+587567,GNRL,"Alcon Laboratories Inc",TX,100000005405,12.35,07/30/2014,GNRL,167488342
+587567,GNRL,"Allergan Inc.",CA,100000000278,6.64,01/10/2014,GNRL,198103268

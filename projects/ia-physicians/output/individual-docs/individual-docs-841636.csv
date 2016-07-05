@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+841636,RSRCH,"GlaxoSmithKline, LLC.",NC,100000005449,580.00,11/01/2013,RSRCH,31509894
+841636,RSRCH,"GlaxoSmithKline, LLC.",NC,100000005449,150.00,12/10/2013,RSRCH,31509897
+841636,RSRCH,"GlaxoSmithKline, LLC.",NC,100000005449,115.00,12/04/2013,RSRCH,31509895
+841636,RSRCH,"GlaxoSmithKline, LLC.",NC,100000005449,115.00,12/04/2013,RSRCH,31509896

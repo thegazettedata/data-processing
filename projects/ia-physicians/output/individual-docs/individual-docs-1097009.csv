@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1097009,GNRL,"Skeletal Dynamics LLC",FL,100000011109,698.00,12/06/2014,GNRL,217598020
+1097009,GNRL,"Skeletal Dynamics LLC",FL,100000011109,100.05,03/26/2015,GNRL,260385594
+1097009,GNRL,"SANOFI-AVENTIS U.S. LLC",NJ,100000000076,19.99,05/29/2014,GNRL,188697310
+1097009,GNRL,"Endo Pharmaceuticals Inc.",PA,100000000285,14.69,05/13/2015,GNRL,338842180
+1097009,GNRL,"Smith & Nephew, Inc.",TN,100000005456,14.42,04/23/2015,GNRL,303247200

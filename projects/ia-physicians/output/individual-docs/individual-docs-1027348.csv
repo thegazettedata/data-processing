@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1027348,GNRL,"Stryker Corporation",MI,100000010503,600.00,01/28/2014,GNRL,199006362
+1027348,GNRL,"Cochlear Americas",CO,100000005734,539.32,09/19/2014,GNRL,187128002
+1027348,GNRL,"Cochlear Americas",CO,100000005734,471.70,08/05/2014,GNRL,187130964
+1027348,GNRL,"Stryker Corporation",MI,100000010503,350.00,01/28/2014,GNRL,199006366
+1027348,GNRL,"Cochlear Americas",CO,100000005734,148.52,09/19/2014,GNRL,187128004
+1027348,GNRL,"Cochlear Americas",CO,100000005734,78.66,07/10/2014,GNRL,187127996
+1027348,GNRL,"Cochlear Americas",CO,100000005734,41.25,09/05/2014,GNRL,187131050
+1027348,GNRL,"Cochlear Americas",CO,100000005734,33.00,09/07/2014,GNRL,187131114
+1027348,GNRL,"Cochlear Americas",CO,100000005734,26.00,09/06/2014,GNRL,187131188

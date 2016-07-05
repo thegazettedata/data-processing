@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+280044,"Integra LifeSciences Corporation",NJ,100000010950,1375.00,08/01/2014,"Cash or cash equivalent",197031664,"Consulting Fee","","","",""
+280044,"Integra LifeSciences Corporation",NJ,100000010950,1000.00,12/15/2014,"Cash or cash equivalent",197031661,"Consulting Fee","","","",""
+280044,"SeaSpine, Inc.",CA,100000010972,105.30,08/01/2013,"In-kind items and services",103650496,"Travel and Lodging","","","",""
+280044,"SeaSpine, Inc.",CA,100000010972,75.37,08/12/2013,"In-kind items and services",103650490,"Food and Beverage","","","",""
+280044,"SeaSpine, Inc.",CA,100000010972,33.75,08/02/2013,"In-kind items and services",103650498,"Travel and Lodging","","","",""
+280044,"SeaSpine, Inc.",CA,100000010972,27.04,08/01/2013,"In-kind items and services",103650494,"Food and Beverage","","","",""
+280044,"SeaSpine, Inc.",CA,100000010972,25.14,08/01/2013,"In-kind items and services",103650454,"Food and Beverage","","","",""
+280044,"BIOMET SPINE, LLC",NJ,100000005652,18.99,08/07/2013,"In-kind items and services",102285764,"Food and Beverage","","","",""

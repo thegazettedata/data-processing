@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+280351,GNRL,"Sirtex Medical Inc",MA,100000010918,144.27,10/31/2013,GNRL,174237054
+280351,GNRL,"Tenex Health Inc.",CA,100000010494,124.29,03/20/2014,GNRL,213963796
+280351,GNRL,"Sirtex Medical Inc",MA,100000010918,100.81,07/15/2014,GNRL,220505524
+280351,GNRL,"Sirtex Medical Inc",MA,100000010918,91.51,04/30/2014,GNRL,220505522
+280351,GNRL,"Sirtex Medical Inc",MA,100000010918,64.84,05/20/2015,GNRL,340907896

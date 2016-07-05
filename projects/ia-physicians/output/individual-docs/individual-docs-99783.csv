@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+99783,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,340.54,10/19/2015,GNRL,301090335
+99783,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,179.64,08/13/2014,GNRL,120843795
+99783,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,179.64,08/13/2014,GNRL,120843793
+99783,GNRL,"Biomet Microfixation, LLC",FL,100000005651,31.80,12/11/2013,GNRL,102229440

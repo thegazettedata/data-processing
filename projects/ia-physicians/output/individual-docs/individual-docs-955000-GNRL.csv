@@ -1,0 +1,6 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+955000,"A-dec, Inc.",OR,100000005393,800.00,08/05/2013,"Cash or cash equivalent",23400776,"Travel and Lodging","","","",""
+955000,"A-dec, Inc.",OR,100000005393,225.00,01/08/2014,"In-kind items and services",200757904,Gift,"","","",""
+955000,"A-dec, Inc.",OR,100000005393,93.00,06/18/2014,"In-kind items and services",200757912,Gift,"","","",""
+955000,"A-dec, Inc.",OR,100000005393,48.00,07/18/2014,"In-kind items and services",200757918,Gift,"","","",""
+955000,"A-dec, Inc.",OR,100000005393,20.00,09/01/2015,"In-kind items and services",294295848,Gift,"","","",""

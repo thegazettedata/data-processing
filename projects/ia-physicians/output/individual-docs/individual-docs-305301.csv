@@ -1,0 +1,12 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+305301,GNRL,"Sanofi Pasteur Inc.",PA,100000000299,528.80,12/17/2013,GNRL,14682808
+305301,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,107.30,11/19/2013,GNRL,104468872
+305301,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,99.62,04/14/2015,GNRL,260123870
+305301,GNRL,"Sanofi Pasteur Inc.",PA,100000000299,66.10,12/05/2013,GNRL,14682728
+305301,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,16.96,04/15/2014,GNRL,196355494
+305301,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,14.46,01/22/2014,GNRL,196355496
+305301,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,12.75,11/05/2013,GNRL,104370862
+305301,GNRL,"Sanofi Pasteur Inc.",PA,100000000299,11.62,12/05/2013,GNRL,14682729
+305301,GNRL,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,10.99,12/02/2013,GNRL,100315006
+305301,GNRL,"Smith & Nephew, Inc.",TN,100000005456,10.65,08/16/2013,GNRL,101831550
+305301,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,0.60,11/05/2013,GNRL,104278796

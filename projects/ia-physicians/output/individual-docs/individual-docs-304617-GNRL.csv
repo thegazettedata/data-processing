@@ -1,0 +1,11 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+304617,"Medtronic USA, Inc.",MN,100000010383,453.00,06/25/2014,"Cash or cash equivalent",140663610,"Consulting Fee","","","",""
+304617,"Purdue Pharma L.P.",CT,100000005432,19.34,09/25/2013,"Cash or cash equivalent",24376591,"Food and Beverage","",BUTRANS,OXYCONTIN,""
+304617,"Purdue Pharma L.P.",CT,100000005432,17.48,11/13/2013,"Cash or cash equivalent",24376593,"Food and Beverage","",BUTRANS,OXYCONTIN,""
+304617,"Purdue Pharma L.P.",CT,100000005432,14.57,08/13/2013,"Cash or cash equivalent",24376590,"Food and Beverage","",BUTRANS,OXYCONTIN,""
+304617,"Pfizer Inc.",NY,100000000286,14.55,02/06/2014,"In-kind items and services",206633176,"Food and Beverage","",LYRICA,"",""
+304617,"Pfizer Inc.",NY,100000000286,13.28,10/17/2013,"In-kind items and services",206007720,"Food and Beverage","",LYRICA,"",""
+304617,"Depomed, Inc.",CA,100000000324,12.92,11/21/2013,"Cash or cash equivalent",104234328,"Food and Beverage","","Gralise and Zipsor","",23397-82419-77531-77531136818-DEPOMED
+304617,"Purdue Pharma L.P.",CT,100000005432,12.16,10/29/2013,"Cash or cash equivalent",24376592,"Food and Beverage","",OXYCONTIN,BUTRANS,""
+304617,"Depomed, Inc.",CA,100000000324,10.63,08/28/2013,"Cash or cash equivalent",104235732,"Food and Beverage","",Gralise,"",21786-79412-61301-61301136818-DEPOMED
+304617,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,10.38,08/20/2013,"In-kind items and services",102176836,"Food and Beverage","",NUVIGIL,"",""

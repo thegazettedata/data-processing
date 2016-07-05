@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+223084,"Siemens Medical Solutions USA, Inc.",PA,100000010755,1402.50,09/28/2015,"In-kind items and services",254156664,"Travel and Lodging","","","",""
+223084,"Siemens Medical Solutions USA, Inc.",PA,100000010755,28.06,08/01/2013,"In-kind items and services",105375706,"Food and Beverage","","","",""
+223084,"Mallinckrodt LLC",MO,100000005429,16.96,02/10/2015,"In-kind items and services",334342422,"Food and Beverage","",OFIRMEV,"",""
+223084,"Mallinckrodt LLC",MO,100000005429,13.63,05/27/2015,"In-kind items and services",334342438,"Food and Beverage","",OFIRMEV,"",""
+223084,"Cadence Pharmaceuticals, Inc.",CA,100000005571,13.00,08/01/2013,"In-kind items and services",101425598,"Food and Beverage","",OFIRMEV,"",""
+223084,"Mallinckrodt LLC",MO,100000005429,12.90,08/20/2015,"In-kind items and services",334342442,"Food and Beverage","",OFIRMEV,"",""
+223084,"Cadence Pharmaceuticals, Inc.",CA,100000005571,12.31,10/22/2013,"In-kind items and services",101425600,"Food and Beverage","",OFIRMEV,"",""
+223084,"Mallinckrodt LLC",MO,100000005429,12.01,10/02/2014,"In-kind items and services",210856924,"Food and Beverage","",Ofirmev,"",""
+223084,"Mallinckrodt LLC",MO,100000005429,11.88,03/27/2015,"In-kind items and services",334342434,"Food and Beverage","",OFIRMEV,"",""
+223084,"Baxter Healthcare",IL,100000011010,10.96,05/19/2014,"In-kind items and services",211143390,"Food and Beverage","","Specialty Pharmaceuticals - ANESTHESIA SUPRANE","",""
+223084,"Siemens Medical Solutions USA, Inc.",PA,100000010755,4.48,09/28/2015,"In-kind items and services",254156658,"Food and Beverage","","","",""

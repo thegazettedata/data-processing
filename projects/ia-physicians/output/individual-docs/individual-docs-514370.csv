@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+514370,GNRL,"Novadaq Technologies Inc.","",100000011117,770.00,06/12/2015,GNRL,333198550
+514370,GNRL,"Novadaq Technologies Inc.","",100000011117,636.16,06/12/2015,GNRL,333198656
+514370,GNRL,"Novadaq Technologies Inc.","",100000011117,399.79,06/12/2015,GNRL,333198632
+514370,GNRL,"LifeCell Corporation",NJ,100000010566,16.96,10/16/2015,GNRL,293248692

@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1169735,GNRL,"WARDLOW ENTERPRISES",IA,100000010546,339.75,08/06/2014,GNRL,153916136
+1169735,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,79.87,03/26/2015,GNRL,301264305
+1169735,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,65.44,03/24/2015,GNRL,301314218
+1169735,GNRL,"Stryker Corporation",MI,100000010503,12.63,08/26/2015,GNRL,324377980
+1169735,GNRL,"Stryker Corporation",MI,100000010503,11.91,03/25/2014,GNRL,199008986
+1169735,GNRL,"Mallinckrodt LLC",MO,100000005429,11.65,02/09/2015,GNRL,334362928

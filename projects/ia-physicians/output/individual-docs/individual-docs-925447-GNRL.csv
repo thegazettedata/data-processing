@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+925447,"Arthrex, Inc.",FL,100000005371,525.38,11/11/2015,"In-kind items and services",301693126,"Travel and Lodging","","","",""
+925447,"Arthrex, Inc.",FL,100000005371,125.87,11/11/2015,"In-kind items and services",301693120,"Food and Beverage","","","",""
+925447,"Smith & Nephew, Inc.",TN,100000005456,25.53,12/17/2015,"In-kind items and services",303429914,"Food and Beverage","","","",""
+925447,"Smith & Nephew, Inc.",TN,100000005456,23.00,12/18/2014,"In-kind items and services",183014280,"Food and Beverage","","","",""
+925447,"Zimmer Biomet Holdings, Inc.",IN,100000000103,18.84,09/10/2015,"In-kind items and services",301178630,"Food and Beverage","","","",""
+925447,"Bioventus LLC",NC,100000000302,18.70,04/02/2015,"In-kind items and services",311841441,"Food and Beverage","","","",""
+925447,"Blue Belt Technologies, Inc.",PA,100000000177,14.46,08/27/2015,"In-kind items and services",283643920,"Food and Beverage","","","",""
+925447,"Pfizer Inc.",NY,100000000286,14.17,04/15/2015,"In-kind items and services",323841974,"Food and Beverage","",ELIQUIS,"",""
+925447,"Pfizer Inc.",NY,100000000286,13.36,06/25/2015,"In-kind items and services",323725780,"Food and Beverage","",ELIQUIS,"",""
+925447,"Pfizer Inc.",NY,100000000286,10.51,08/12/2014,"In-kind items and services",206709396,"Food and Beverage","",ELIQUIS,"",""
+925447,"Arthrex, Inc.",FL,100000005371,2.27,10/15/2015,"In-kind items and services",301693114,Education,"","","",""

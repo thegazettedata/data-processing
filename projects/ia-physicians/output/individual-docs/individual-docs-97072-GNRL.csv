@@ -1,0 +1,6 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+97072,"St. Jude Medical, Inc.",MN,100000000310,303.39,12/12/2015,"Cash or cash equivalent",259456680,"Food and Beverage","","","",""
+97072,"Medtronic USA, Inc.",MN,100000010383,122.63,12/11/2015,"In-kind items and services",294891370,"Food and Beverage","","","",""
+97072,"St. Jude Medical, Inc.",MN,100000000310,102.57,12/12/2015,"Cash or cash equivalent",259456682,"Food and Beverage","","","",""
+97072,"Medtronic USA, Inc.",MN,100000010383,45.61,12/10/2015,"In-kind items and services",294891376,"Food and Beverage","","","",""
+97072,"Stryker Corporation",MI,100000010503,36.57,06/04/2015,"Cash or cash equivalent",324373912,"Food and Beverage","","","",""

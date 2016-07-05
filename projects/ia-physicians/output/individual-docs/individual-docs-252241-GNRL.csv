@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+252241,"Intuitive Surgical, Inc.",CA,100000005384,958.90,10/28/2014,"In-kind items and services",211791402,"Travel and Lodging","","","",""
+252241,"Intuitive Surgical, Inc.",CA,100000005384,181.70,12/09/2014,"In-kind items and services",211791406,"Food and Beverage","","","",""
+252241,"COMSORT, Inc",MD,100000000055,150.00,12/04/2015,"Cash or cash equivalent",331178517,"Consulting Fee","",ENTEREG,"","Provided for COMSORT survey."
+252241,"Medivation Inc.",CA,100000010858,95.27,10/09/2013,"Cash or cash equivalent",104766996,"Food and Beverage","",XTANDI,"",""
+252241,"Intuitive Surgical, Inc.",CA,100000005384,86.25,11/05/2014,"In-kind items and services",211791404,"Travel and Lodging","","","",""
+252241,"Astellas Pharma US Inc",IL,100000000137,80.01,12/06/2013,"In-kind items and services",111747764,"Food and Beverage","",XTANDI,"",""
+252241,"AbbVie, Inc.",IL,100000000204,78.57,10/25/2013,"In-kind items and services",104616364,"Food and Beverage","",Lupron,"",""
+252241,ABIOMED,MA,100000010740,64.96,05/13/2015,"In-kind items and services",337555234,"Food and Beverage","","","",""
+252241,"Photocure Inc",NJ,100000010742,63.66,09/12/2014,"In-kind items and services",214157136,"Food and Beverage","",Cysview,"",""
+252241,"Medivation Inc.",CA,100000010858,59.64,12/05/2014,"Cash or cash equivalent",221256792,"Food and Beverage","",XTANDI,"",""
+252241,"Intuitive Surgical, Inc.",CA,100000005384,47.18,06/25/2014,"In-kind items and services",211863828,"Travel and Lodging","","","",""
+252241,"Endo Pharmaceuticals Inc.",PA,100000000285,36.69,05/19/2014,"In-kind items and services",136238728,"Food and Beverage","",Aveed,"",""

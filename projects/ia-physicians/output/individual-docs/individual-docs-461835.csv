@@ -1,0 +1,11 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+461835,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,592.22,10/17/2015,GNRL,296912386
+461835,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,587.70,11/16/2015,GNRL,296912384
+461835,GNRL,"LifeCell Corporation",NJ,100000010566,69.20,09/02/2015,GNRL,293234014
+461835,GNRL,"Salix Pharmaceuticals, Ltd",NC,100000010796,21.81,03/04/2014,GNRL,159353612
+461835,GNRL,"Braintree Laboratories, Inc.",MA,100000000153,15.03,01/15/2015,GNRL,252766192
+461835,GNRL,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,14.08,04/08/2015,GNRL,337077120
+461835,GNRL,"Salix Pharmaceuticals, Ltd",NC,100000010796,13.99,04/29/2014,GNRL,159362372
+461835,GNRL,"LifeCell Corporation",NJ,100000010566,11.89,07/30/2015,GNRL,293228504
+461835,GNRL,"Salix Pharmaceuticals, Ltd",NC,100000010796,11.41,03/07/2014,GNRL,159353966
+461835,GNRL,"Actavis Pharma Inc",NJ,100000010642,10.45,09/01/2015,GNRL,339166476

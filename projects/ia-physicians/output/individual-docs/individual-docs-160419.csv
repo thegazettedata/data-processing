@@ -1,0 +1,12 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+160419,GNRL,"Stryker Corporation",MI,100000010503,145.50,10/04/2013,GNRL,104176120
+160419,GNRL,"WRIGHT MEDICAL TECHNOLOGY, INC.",TN,100000086401,141.85,10/02/2014,GNRL,220696650
+160419,GNRL,"Integra LifeSciences Corporation",NJ,100000010950,123.08,10/03/2014,GNRL,187656422
+160419,GNRL,"Orthofix International N.V.",TX,100000005619,113.63,10/01/2014,GNRL,213406774
+160419,GNRL,"Wright Medical Technology, Inc.",TN,100000011065,83.82,10/03/2013,GNRL,105165010
+160419,GNRL,"BioMedical Enterprises Inc",TX,100000010927,19.86,09/24/2013,GNRL,213391740
+160419,GNRL,"Stryker Corporation",MI,100000010503,18.93,05/09/2014,GNRL,199065144
+160419,GNRL,"Smith & Nephew, Inc.",TN,100000005456,10.74,05/13/2015,GNRL,303153966
+160419,GNRL,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,10.73,09/13/2013,GNRL,103339238
+160419,GNRL,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,3.29,10/09/2013,GNRL,103339242
+160419,GNRL,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,2.56,09/19/2013,GNRL,103339240

@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1159847,GNRL,"Mentor Worldwide LLC",CA,100000010472,275.00,10/07/2013,GNRL,13157652
+1159847,GNRL,"Mentor Worldwide LLC",CA,100000010472,275.00,10/07/2013,GNRL,13157653
+1159847,GNRL,"LifeCell Corporation",NJ,100000010566,148.65,10/11/2014,GNRL,188353710

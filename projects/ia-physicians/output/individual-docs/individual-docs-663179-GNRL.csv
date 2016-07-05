@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+663179,"A-dec, Inc.",OR,100000005393,320.00,06/26/2015,"In-kind items and services",294293960,Gift,"","","",""
+663179,"A-dec, Inc.",OR,100000005393,200.00,01/27/2015,"In-kind items and services",294283756,Gift,"","","",""
+663179,"A-dec, Inc.",OR,100000005393,185.00,06/15/2015,"In-kind items and services",294293953,Gift,"","","",""
+663179,"A-dec, Inc.",OR,100000005393,157.00,08/29/2013,"Cash or cash equivalent",23400783,"Food and Beverage","","","",""
+663179,"A-dec, Inc.",OR,100000005393,115.00,06/15/2015,"In-kind items and services",294293956,Gift,"","","",""
+663179,"A-dec, Inc.",OR,100000005393,41.50,11/08/2013,"Cash or cash equivalent",23401183,"Travel and Lodging","","","",""
+663179,"National Dentex Corporation",FL,100000000065,40.00,12/10/2015,"In-kind items and services",234980218,Gift,"","","",""
+663179,"Henry Schein, Inc.",NY,100000005547,11.85,12/11/2014,"In-kind items and services",178618508,"Food and Beverage","","","",""
+663179,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,11.55,04/21/2014,"In-kind items and services",216921054,"Food and Beverage","",ARESTIN,"",""

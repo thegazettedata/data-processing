@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+345420,"Davol Inc.",RI,100000005490,457.16,09/10/2013,"Cash or cash equivalent",101626102,"Travel and Lodging","","","",""
+345420,"Intuitive Surgical, Inc.",CA,100000005384,108.25,09/23/2015,"Cash or cash equivalent",341639752,"Food and Beverage","","","",""
+345420,"Davol Inc.",RI,100000005490,28.16,07/14/2014,"Cash or cash equivalent",215188666,"Food and Beverage","","","",""
+345420,"Intuitive Surgical, Inc.",CA,100000005384,21.03,09/23/2015,"Cash or cash equivalent",341639746,"Food and Beverage","","","",""
+345420,"Davol Inc.",RI,100000005490,19.01,10/18/2013,"Cash or cash equivalent",101627814,"Food and Beverage","","","",""
+345420,"Davol Inc.",RI,100000005490,17.96,08/24/2015,"Cash or cash equivalent",317687662,"Food and Beverage","","","",""
+345420,"KCI USA, Inc",TX,100000010396,15.10,08/10/2015,"In-kind items and services",333388294,"Food and Beverage","","","",""
+345420,"Covidien Sales LLC",MA,100000000098,13.77,01/22/2015,"In-kind items and services",295139354,"Food and Beverage","","","",""
+345420,"Intuitive Surgical, Inc.",CA,100000005384,11.89,09/23/2015,"Cash or cash equivalent",341639740,"Food and Beverage","","","",""
+345420,"Ferring Pharmaceuticals Inc.",NJ,100000000309,11.12,09/16/2015,"In-kind items and services",317539642,"Food and Beverage","",PREPOPIK,"",""
+345420,"Ferring Pharmaceuticals Inc.",NJ,100000000309,10.56,10/14/2015,"In-kind items and services",317539644,"Food and Beverage","",PREPOPIK,"",""

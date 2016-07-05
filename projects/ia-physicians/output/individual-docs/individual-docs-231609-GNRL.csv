@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+231609,"Becton, Dickinson and Company",NJ,100000005485,162.50,06/05/2014,"Cash or cash equivalent",215941894,"Consulting Fee","","","",""
+231609,"Becton, Dickinson and Company",NJ,100000005485,150.00,10/16/2014,"Cash or cash equivalent",215942738,"Consulting Fee","","","",""
+231609,"Becton, Dickinson and Company",NJ,100000005485,137.50,07/23/2015,"Cash or cash equivalent",331347625,"Consulting Fee","","","","This transfer of value was provided to a covered recipient through a third-party vendor on behalf of BD"
+231609,"Becton, Dickinson and Company",NJ,100000005485,90.00,02/14/2014,"Cash or cash equivalent",215941872,"Consulting Fee","","","",""
+231609,"Dr.Reddy's Laboratories,Inc.",NJ,100000005388,32.00,01/16/2015,"Cash or cash equivalent",337651262,"Consulting Fee","","","",""
+231609,"AstraZeneca Pharmaceuticals LP",DE,100000000146,24.37,11/23/2015,"In-kind items and services",256387064,"Food and Beverage","","BYDUREON PEN","","Informational Meal"
+231609,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,24.00,12/08/2014,"In-kind items and services",196329802,"Food and Beverage","",SPIRIVA,"",""
+231609,"GlaxoSmithKline, LLC.",NC,100000005449,18.09,01/30/2015,"In-kind items and services",320614548,"Food and Beverage","",BREO,"",""
+231609,"Eisai Inc.",NJ,100000000136,15.00,09/11/2013,"Cash or cash equivalent",152541748,Education,"",BELVIQ,"",""

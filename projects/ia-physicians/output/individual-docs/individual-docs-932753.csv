@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+932753,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,258.44,11/30/2015,GNRL,267441151
+932753,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,245.00,07/30/2014,GNRL,120901667
+932753,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,118.15,11/30/2015,GNRL,267441156
+932753,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,88.32,07/30/2014,GNRL,120901665

@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+41922,GNRL,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,927.04,05/15/2015,GNRL,269337436
+41922,GNRL,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,212.75,05/15/2015,GNRL,269337438
+41922,GNRL,"Alcon Laboratories Inc",TX,100000005405,75.93,06/25/2014,GNRL,167488769
+41922,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,47.86,05/29/2015,GNRL,295347890
+41922,GNRL,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,40.00,05/15/2015,GNRL,269337440
+41922,GNRL,"Allergan Inc.",CA,100000000278,11.08,04/24/2014,GNRL,203694480
+41922,GNRL,"Allergan Inc.",CA,100000000278,10.98,11/21/2013,GNRL,102599690
+41922,GNRL,"Allergan Inc.",CA,100000000278,5.24,04/24/2014,GNRL,203694472

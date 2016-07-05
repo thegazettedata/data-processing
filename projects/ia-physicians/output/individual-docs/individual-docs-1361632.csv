@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1361632,GNRL,"Boston Scientific Corporation",MA,100000005674,13250.00,04/06/2015,GNRL,246092860
+1361632,GNRL,"Boston Scientific Corporation",MA,100000005674,477.03,03/28/2015,GNRL,246092864
+1361632,GNRL,"St. Jude Medical, Inc.",MN,100000000310,185.92,03/07/2015,GNRL,259522914
+1361632,GNRL,"Boston Scientific Corporation",MA,100000005674,157.63,03/28/2015,GNRL,246092868
+1361632,GNRL,"Boston Scientific Corporation",MA,100000005674,96.41,03/28/2015,GNRL,246092862
+1361632,GNRL,"Boston Scientific Corporation",MA,100000005674,48.63,03/28/2015,GNRL,246092872
+1361632,GNRL,"Boston Scientific Corporation",MA,100000005674,34.62,03/28/2015,GNRL,246092866
+1361632,GNRL,"Boston Scientific Corporation",MA,100000005674,29.53,03/27/2015,GNRL,246092870

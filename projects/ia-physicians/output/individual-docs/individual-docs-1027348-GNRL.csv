@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1027348,"Stryker Corporation",MI,100000010503,600.00,01/28/2014,"Cash or cash equivalent",199006362,"Travel and Lodging","","","",""
+1027348,"Cochlear Americas",CO,100000005734,539.32,09/19/2014,"Cash or cash equivalent",187128002,"Travel and Lodging","","","","Travel related to educational conference"
+1027348,"Cochlear Americas",CO,100000005734,471.70,08/05/2014,"Cash or cash equivalent",187130964,"Travel and Lodging","","","","Travel related to educational conference"
+1027348,"Stryker Corporation",MI,100000010503,350.00,01/28/2014,"Cash or cash equivalent",199006366,"Travel and Lodging","","","",""
+1027348,"Cochlear Americas",CO,100000005734,148.52,09/19/2014,"Cash or cash equivalent",187128004,"Food and Beverage","","","","Food expense associated with business interaction"
+1027348,"Cochlear Americas",CO,100000005734,78.66,07/10/2014,"Cash or cash equivalent",187127996,"Food and Beverage","","","","Food expense associated with business interaction"
+1027348,"Cochlear Americas",CO,100000005734,41.25,09/05/2014,"Cash or cash equivalent",187131050,"Travel and Lodging","","","","Travel related to educational conference"
+1027348,"Cochlear Americas",CO,100000005734,33.00,09/07/2014,"Cash or cash equivalent",187131114,"Travel and Lodging","","","","Travel related to educational conference"
+1027348,"Cochlear Americas",CO,100000005734,26.00,09/06/2014,"In-kind items and services",187131188,Gift,"","","","Book provided as part of an educational conference"

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+61224,GNRL,"Crawford Healthcare Inc",PA,100000136570,483.60,05/20/2015,GNRL,340134252
+61224,GNRL,"Integra LifeSciences Corporation",NJ,100000010950,159.00,04/22/2015,GNRL,292401048
+61224,GNRL,"Crawford Healthcare Inc",PA,100000136570,156.10,05/20/2015,GNRL,340134256
+61224,GNRL,"Integra LifeSciences Corporation",NJ,100000010950,15.23,06/26/2014,GNRL,187632908

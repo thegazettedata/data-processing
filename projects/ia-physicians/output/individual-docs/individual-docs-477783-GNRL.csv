@@ -1,0 +1,6 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+477783,"A-dec, Inc.",OR,100000005393,1505.00,03/06/2014,"In-kind items and services",200748380,Gift,"","","",""
+477783,"A-dec, Inc.",OR,100000005393,108.00,04/11/2014,"In-kind items and services",200748398,Gift,"","","",""
+477783,"Zimmer Biomet Holdings, Inc.",IN,100000000103,50.60,11/06/2015,"In-kind items and services",301129694,"Food and Beverage","","","",""
+477783,"A-dec, Inc.",OR,100000005393,40.00,04/11/2014,"In-kind items and services",200748396,Gift,"","","",""
+477783,"A-dec, Inc.",OR,100000005393,40.00,04/11/2014,"In-kind items and services",200748388,Gift,"","","",""

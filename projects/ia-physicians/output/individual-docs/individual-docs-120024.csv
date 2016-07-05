@@ -1,0 +1,11 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+120024,GNRL,"Alcon Research Ltd",TX,100000000218,150.00,09/25/2013,GNRL,101953934
+120024,GNRL,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,150.00,09/25/2013,GNRL,14067001
+120024,GNRL,"Abbott Laboratories",IL,100000010680,93.36,04/04/2014,GNRL,195920524
+120024,GNRL,"Abbott Laboratories",IL,100000010680,54.01,04/17/2015,GNRL,333057842
+120024,GNRL,"Alcon Laboratories Inc",TX,100000005405,39.61,04/18/2015,GNRL,314895590
+120024,GNRL,"Carl Zeiss Meditec, Inc.",CA,100000005433,27.46,04/10/2014,GNRL,215828020
+120024,GNRL,"Carl Zeiss Meditec, Inc.",CA,100000005433,27.45,04/10/2014,GNRL,215828018
+120024,GNRL,"Abbott Laboratories",IL,100000010680,19.34,10/03/2013,GNRL,102319104
+120024,GNRL,"Genentech USA, Inc.",CA,100000000226,10.78,02/24/2015,GNRL,318019958
+120024,GNRL,"Abbott Laboratories",IL,100000010680,8.44,04/24/2014,GNRL,195968700

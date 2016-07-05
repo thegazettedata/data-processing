@@ -1,0 +1,14 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1007714,"Lundbeck LLC",IL,100000000236,150.00,01/07/2014,"Cash or cash equivalent",145254781,Honoraria,"",XENAZINE,"",9157
+1007714,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,110.74,07/11/2014,"In-kind items and services",173723520,Education,"","","",""
+1007714,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,110.70,09/25/2015,"In-kind items and services",293827176,Gift,"",Unclassified,"",""
+1007714,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,109.75,05/01/2014,"In-kind items and services",173723514,Education,"","","",""
+1007714,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,93.74,10/23/2015,"In-kind items and services",293827174,Gift,"",Unclassified,"",""
+1007714,"COMSORT, Inc",MD,100000000055,75.00,01/23/2014,"Cash or cash equivalent",201331740,"Consulting Fee","",Non-Product,"",""
+1007714,"Purdue Transdermal Technologies L.P.",CT,100000005455,47.19,11/13/2014,"Cash or cash equivalent",158309444,"Food and Beverage","",BUTRANS,"",""
+1007714,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,18.03,09/04/2014,"In-kind items and services",173723508,"Food and Beverage","",COPAXONE,"",""
+1007714,"Supernus Pharmaceuticals, Inc.",MD,100000011150,17.99,07/09/2015,"Cash or cash equivalent",335887840,"Food and Beverage","","TROKENDI XR","",""
+1007714,"Sunovion Pharmaceuticals Inc.",MA,100000000254,5.59,04/17/2014,"In-kind items and services",178522568,Education,"",Aptiom,"",""
+1007714,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,4.91,03/18/2014,"In-kind items and services",173723524,Education,"",COPAXONE,"",""
+1007714,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,3.77,04/08/2014,"In-kind items and services",173723528,Education,"",AZILECT,"",""
+1007714,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,2.49,04/02/2015,"In-kind items and services",293827172,"Food and Beverage","",COPAXONE,"",""

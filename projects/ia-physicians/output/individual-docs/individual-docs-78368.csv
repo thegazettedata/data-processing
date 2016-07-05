@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+78368,GNRL,"PureLife, LLC",CA,100000010486,327.41,11/13/2013,GNRL,103357306
+78368,GNRL,"PureLife, LLC",CA,100000010486,199.00,12/30/2013,GNRL,103357308
+78368,GNRL,"PureLife, LLC",CA,100000010486,40.00,10/03/2013,GNRL,103357304

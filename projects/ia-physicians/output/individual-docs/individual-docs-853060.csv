@@ -1,0 +1,13 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+853060,GNRL,"Boston Scientific Corporation",MA,100000005674,867.89,04/24/2015,GNRL,246116708
+853060,GNRL,"Boston Scientific Corporation",MA,100000005674,337.94,04/24/2015,GNRL,246116704
+853060,GNRL,"Boston Scientific Corporation",MA,100000005674,261.05,07/15/2015,GNRL,246116700
+853060,GNRL,"Boston Scientific Corporation",MA,100000005674,252.37,04/24/2015,GNRL,246116702
+853060,GNRL,"St. Jude Medical, Inc.",MN,100000000310,225.24,10/07/2015,GNRL,259522916
+853060,GNRL,"Boston Scientific Corporation",MA,100000005674,150.00,11/06/2013,GNRL,19764607
+853060,GNRL,"Boston Scientific Corporation",MA,100000005674,134.38,11/03/2015,GNRL,246116698
+853060,GNRL,"Medtronic Xomed, Inc.",MN,100000010388,120.78,08/18/2015,GNRL,299380414
+853060,GNRL,"Boston Scientific Corporation",MA,100000005674,102.55,04/24/2015,GNRL,246116706
+853060,GNRL,"Boston Scientific Corporation",MA,100000005674,52.10,11/06/2013,GNRL,19764608
+853060,GNRL,"ZOLL Services LLC (A/K/A ZOLL LifeCor Corp)",PA,100000000178,15.00,09/10/2015,GNRL,252506740
+853060,GNRL,"Boston Scientific Corporation",MA,100000005674,9.63,09/11/2015,GNRL,246116710

@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+156057,"Grifols Diagnostic Solutions Inc.",CA,100000061352,606.44,08/29/2015,"In-kind items and services",330008135,"Food and Beverage","","","",""
+156057,"Grifols Diagnostic Solutions Inc.",CA,100000061352,435.89,08/29/2015,"In-kind items and services",330008345,"Travel and Lodging","","","",""
+156057,"Roche Diagnostics Corporation",IN,100000005419,117.42,08/29/2013,"Cash or cash equivalent",107345460,"Food and Beverage","","","",""
+156057,"Terumo BCT, Inc.",CO,100000010660,105.47,05/08/2015,"Cash or cash equivalent",283440188,Entertainment,"","","",""
+156057,"Terumo BCT, Inc.",CO,100000010660,79.55,07/23/2014,"Cash or cash equivalent",155080170,"Food and Beverage","","","",""
+156057,"Terumo Medical Corporation",NJ,100000000291,75.56,10/25/2014,"Cash or cash equivalent",223779830,"Food and Beverage","","INTERVENTIONAL PRODUCT","",""
+156057,"Terumo BCT, Inc.",CO,100000010660,58.72,04/04/2014,"Cash or cash equivalent",155080166,"Food and Beverage","","","",""
+156057,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,30.23,12/08/2015,"In-kind items and services",295392534,"Food and Beverage","",PROVENGE,"",""

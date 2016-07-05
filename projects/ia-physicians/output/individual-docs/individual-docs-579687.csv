@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+579687,GNRL,"Takeda Pharmaceutical Company, Limited","",100000010889,3769.00,03/24/2014,GNRL,195806646
+579687,GNRL,"Pfizer Inc.",NY,100000000286,2500.00,03/20/2015,GNRL,323197289
+579687,GNRL,"Takeda Pharmaceutical Company, Limited","",100000010889,855.95,03/24/2014,GNRL,195806648
+579687,GNRL,"Takeda Pharmaceutical Company, Limited","",100000010889,322.17,03/24/2014,GNRL,195806650
+579687,GNRL,"Takeda Pharmaceutical Company, Limited","",100000010889,220.70,03/26/2014,GNRL,195806652
+579687,GNRL,"Janssen Scientific Affairs, LLC",NJ,100000000332,124.40,06/13/2014,GNRL,156068780
+579687,GNRL,"Takeda Pharmaceuticals International, Inc.",IL,100000000336,105.48,01/29/2014,GNRL,193890010
+579687,GNRL,"Pfizer Inc.",NY,100000000286,93.91,02/26/2015,GNRL,323445186
+579687,GNRL,"Pfizer Inc.",NY,100000000286,9.86,02/26/2015,GNRL,322915289

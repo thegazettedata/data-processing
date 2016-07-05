@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+31784,GNRL,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,1500.00,11/02/2013,GNRL,6797611
+31784,GNRL,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,1189.76,11/02/2013,GNRL,6797610
+31784,GNRL,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,55.72,11/02/2013,GNRL,6797609

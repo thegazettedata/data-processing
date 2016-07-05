@@ -1,0 +1,8 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+835322,"American Medical Systems Inc.",MN,100000000345,138.11,05/16/2015,"In-kind items and services",246208918,"Food and Beverage","","","",""
+835322,"Boston Scientific Corporation",MA,100000005674,123.25,11/12/2015,"In-kind items and services",246105984,"Food and Beverage","","","",""
+835322,"American Medical Systems Inc.",MN,100000000345,109.20,07/27/2015,"In-kind items and services",246209394,"Food and Beverage","","","",""
+835322,"Medtronic USA, Inc.",MN,100000010383,96.37,03/26/2015,"In-kind items and services",294936370,"Food and Beverage","","","",""
+835322,"American Medical Systems Inc.",MN,100000000345,60.60,11/24/2014,"In-kind items and services",148652221,"Food and Beverage","","","",""
+835322,"Boston Scientific Corporation",MA,100000005674,22.04,09/29/2015,"In-kind items and services",246105986,"Food and Beverage","","","",""
+835322,"Boston Scientific Corporation",MA,100000005674,18.19,10/13/2015,"In-kind items and services",246105988,"Food and Beverage","","","",""

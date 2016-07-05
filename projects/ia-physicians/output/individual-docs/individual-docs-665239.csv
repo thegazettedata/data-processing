@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+665239,GNRL,"Covidien Sales LLC",MA,100000000098,650.98,03/16/2015,GNRL,295154348
+665239,GNRL,"Covidien Sales LLC",MA,100000000098,276.94,03/19/2015,GNRL,295154372
+665239,GNRL,"Covidien Sales LLC",MA,100000000098,56.83,03/25/2015,GNRL,295154343
+665239,GNRL,"Covidien Sales LLC",MA,100000000098,28.00,05/06/2015,GNRL,295154358
+665239,GNRL,"Cook Research Incorporated",IN,100000005386,23.00,01/27/2015,GNRL,336408882
+665239,GNRL,"Covidien Sales LLC",MA,100000000098,18.61,03/28/2015,GNRL,295154366
+665239,GNRL,"Baxter Healthcare",IL,100000011010,12.69,03/26/2014,GNRL,211109474

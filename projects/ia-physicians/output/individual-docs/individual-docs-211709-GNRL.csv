@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+211709,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,493.81,03/28/2014,"In-kind items and services",152195552,"Travel and Lodging","","","",""
+211709,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,478.30,03/28/2014,"In-kind items and services",152195452,"Travel and Lodging","","","",""
+211709,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,60.17,03/29/2014,"In-kind items and services",152180962,"Food and Beverage","","","",""
+211709,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,60.12,03/29/2014,"In-kind items and services",152180948,"Travel and Lodging","","","",""
+211709,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,48.25,03/29/2014,"In-kind items and services",152178478,"Food and Beverage","","","",""
+211709,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,39.65,03/29/2014,"In-kind items and services",152175798,"Food and Beverage","","","",""
+211709,"St. Jude Medical, Inc.",MN,100000000310,37.64,05/20/2014,"Cash or cash equivalent",164711928,"Food and Beverage","","","",""
+211709,"Boston Scientific Corporation",MA,100000005674,34.99,02/26/2015,"In-kind items and services",246082542,"Food and Beverage","","","",""
+211709,"Boston Scientific Corporation",MA,100000005674,17.91,09/21/2015,"In-kind items and services",246082546,"Food and Beverage","","","",""
+211709,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,15.19,08/20/2013,"In-kind items and services",101222710,"Food and Beverage","",Prolia,"",""
+211709,"Boston Scientific Corporation",MA,100000005674,11.55,10/26/2015,"In-kind items and services",246082544,"Food and Beverage","","","",""
+211709,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,7.85,03/29/2014,"In-kind items and services",152117344,"Food and Beverage","","","",""

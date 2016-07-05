@@ -1,0 +1,4 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+572098,"A-dec, Inc.",OR,100000005393,295.00,09/22/2015,"In-kind items and services",294305608,Gift,"","","",""
+572098,"A-dec, Inc.",OR,100000005393,295.00,08/06/2015,"In-kind items and services",294293812,Gift,"","","",""
+572098,"Henry Schein, Inc.",NY,100000005547,48.50,12/16/2014,"In-kind items and services",178624566,Gift,"","","",""

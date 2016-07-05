@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+150748,GNRL,"Allergan Inc.",CA,100000000278,1650.00,07/22/2015,GNRL,289694326
+150748,GNRL,"LifeCell Corporation",NJ,100000010566,18.49,10/26/2013,GNRL,103145680
+150748,GNRL,"Allergan Inc.",CA,100000000278,14.97,04/15/2015,GNRL,289713544

@@ -1,0 +1,4 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1181801,"Amendia, Inc.",GA,100000011196,363.08,09/17/2014,"Cash or cash equivalent",218303604,"Travel and Lodging","","Spinal Implant","",""
+1181801,"Amendia, Inc.",GA,100000011196,182.50,09/16/2014,"Cash or cash equivalent",218303602,"Food and Beverage","","Spinal Implant","",""
+1181801,"Amendia, Inc.",GA,100000011196,38.59,09/16/2014,"Cash or cash equivalent",218303600,Entertainment,"","Spinal Implant","",""

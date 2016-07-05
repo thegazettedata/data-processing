@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+876582,GNRL,"Novartis Pharmaceuticals Corporation",NJ,100000000228,121.52,09/25/2013,GNRL,24119970
+876582,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,99.52,10/08/2013,GNRL,31977679
+876582,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,99.52,02/18/2014,GNRL,156756630
+876582,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,91.04,10/21/2014,GNRL,149994554
+876582,GNRL,"Novartis Pharmaceuticals Corporation",NJ,100000000228,90.25,11/21/2013,GNRL,24119971
+876582,GNRL,"Eisai Inc.",NJ,100000000136,89.22,02/11/2014,GNRL,184479500
+876582,GNRL,"Pfizer Inc.",NY,100000000286,86.95,10/19/2014,GNRL,206291484
+876582,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,4.38,08/28/2014,GNRL,156756632

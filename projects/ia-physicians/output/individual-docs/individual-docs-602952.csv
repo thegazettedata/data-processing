@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+602952,GNRL,"Pfizer Inc.",NY,100000000286,1500.00,06/13/2014,GNRL,207081024
+602952,GNRL,"Pfizer Inc.",NY,100000000286,29.15,10/08/2014,GNRL,206288704
+602952,GNRL,"AbbVie, Inc.",IL,100000000204,16.34,04/10/2014,GNRL,189263866

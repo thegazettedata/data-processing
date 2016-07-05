@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+136641,GNRL,"Kerr Corporation",CA,100000005552,2617.90,11/11/2013,GNRL,103694448
+136641,GNRL,"Kerr Corporation",CA,100000005552,2617.90,08/20/2013,GNRL,103694158
+136641,GNRL,"Kerr Corporation",CA,100000005552,2617.90,10/29/2013,GNRL,103694432
+136641,GNRL,"Tulsa Dental Products LLC",PA,100000010600,10.23,06/29/2015,GNRL,327539396

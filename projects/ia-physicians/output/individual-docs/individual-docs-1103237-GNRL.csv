@@ -1,0 +1,8 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1103237,"Intuitive Surgical, Inc.",CA,100000005384,156.39,03/24/2015,"In-kind items and services",341424474,"Food and Beverage","","","",""
+1103237,"Intuitive Surgical, Inc.",CA,100000005384,156.39,03/24/2015,"Cash or cash equivalent",341511254,"Food and Beverage","","","",""
+1103237,"Baxter Healthcare",IL,100000011010,99.75,12/12/2014,"In-kind items and services",211137028,"Food and Beverage","","BioSurgery - VERITAS","",""
+1103237,"KCI USA, Inc",TX,100000010396,82.78,03/24/2015,"In-kind items and services",333394120,"Food and Beverage","","","",""
+1103237,"Intuitive Surgical, Inc.",CA,100000005384,22.00,09/15/2015,"Cash or cash equivalent",341511250,"Food and Beverage","","","",""
+1103237,"Intuitive Surgical, Inc.",CA,100000005384,16.80,07/22/2014,"In-kind items and services",211847836,"Food and Beverage","","","",""
+1103237,"Mallinckrodt LLC",MO,100000005429,16.66,03/13/2015,"In-kind items and services",334176416,"Food and Beverage","",OFIRMEV,"",""

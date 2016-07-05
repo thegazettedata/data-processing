@@ -1,0 +1,13 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+211709,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,493.81,03/28/2014,GNRL,152195552
+211709,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,478.30,03/28/2014,GNRL,152195452
+211709,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,60.17,03/29/2014,GNRL,152180962
+211709,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,60.12,03/29/2014,GNRL,152180948
+211709,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,48.25,03/29/2014,GNRL,152178478
+211709,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,39.65,03/29/2014,GNRL,152175798
+211709,GNRL,"St. Jude Medical, Inc.",MN,100000000310,37.64,05/20/2014,GNRL,164711928
+211709,GNRL,"Boston Scientific Corporation",MA,100000005674,34.99,02/26/2015,GNRL,246082542
+211709,GNRL,"Boston Scientific Corporation",MA,100000005674,17.91,09/21/2015,GNRL,246082546
+211709,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,15.19,08/20/2013,GNRL,101222710
+211709,GNRL,"Boston Scientific Corporation",MA,100000005674,11.55,10/26/2015,GNRL,246082544
+211709,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,7.85,03/29/2014,GNRL,152117344

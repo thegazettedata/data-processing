@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+729658,GNRL,"Covidien LP",MA,100000000083,952.00,04/09/2014,GNRL,218063428
+729658,GNRL,"Covidien LP",MA,100000000083,112.64,06/18/2014,GNRL,218063432
+729658,GNRL,"Covidien LP",MA,100000000083,60.72,06/18/2014,GNRL,218063430
+729658,GNRL,"Covidien LP",MA,100000000083,59.87,06/18/2014,GNRL,218063426

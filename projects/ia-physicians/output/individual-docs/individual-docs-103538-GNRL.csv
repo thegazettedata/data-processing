@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+103538,"CooperVision Inc.",NY,100000005728,179.14,06/03/2014,"In-kind items and services",169246720,"Food and Beverage","","","",""
+103538,"Allergan Inc.",CA,100000000278,124.94,09/11/2013,"In-kind items and services",102555194,"Food and Beverage","",RESTASIS,"",""
+103538,"Allergan Inc.",CA,100000000278,124.94,01/14/2014,"In-kind items and services",192424606,"Food and Beverage","",RESTASIS,"",""
+103538,"Alcon Laboratories Inc",TX,100000005405,113.74,06/04/2014,"In-kind items and services",167486770,"Food and Beverage","","","",""
+103538,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,99.65,03/29/2014,"In-kind items and services",124124847,"Food and Beverage","","","",""
+103538,"Carl Zeiss Meditec, Inc.",CA,100000005433,23.11,04/29/2015,"In-kind items and services",330676731,Gift,"","","","Educational book Chandler and Grants Glaucoma, Fifth Edition handed out at Vision Source at Maximize Your OCT Potential 2.0 Advanced Imaging on April 29 2015"
+103538,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,7.00,09/30/2014,"In-kind items and services",124124851,"Food and Beverage","","","",""
+103538,"Alcon Laboratories Inc",TX,100000005405,6.30,08/15/2014,"In-kind items and services",167486766,"Food and Beverage","","","",""
+103538,"Alcon Laboratories Inc",TX,100000005405,5.56,10/15/2014,"In-kind items and services",167486773,"Food and Beverage","","","",""
+103538,"Alcon Laboratories Inc",TX,100000005405,5.42,03/17/2014,"In-kind items and services",167486762,"Food and Beverage","","","",""
+103538,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,2.44,09/10/2014,"In-kind items and services",124124849,"Food and Beverage","","","",""

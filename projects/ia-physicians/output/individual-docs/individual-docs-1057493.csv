@@ -1,0 +1,3 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1057493,RSRCH,"Eli Lilly and Company",IN,100000000088,4561.05,07/24/2015,RSRCH,263815028
+1057493,RSRCH,"Eli Lilly and Company",IN,100000000088,353.30,04/06/2015,RSRCH,263815030

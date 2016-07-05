@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+698436,GNRL,"Gilead Sciences Inc",CA,100000000108,96.20,11/19/2014,GNRL,168743634
+698436,GNRL,"Gilead Sciences Inc",CA,100000000108,93.34,10/01/2014,GNRL,168743626
+698436,GNRL,"Gilead Sciences Inc",CA,100000000108,93.11,11/07/2014,GNRL,168743630
+698436,GNRL,"Gilead Sciences Inc",CA,100000000108,88.77,06/12/2014,GNRL,168743622
+698436,GNRL,"Gilead Sciences Inc",CA,100000000108,88.09,06/16/2015,GNRL,316677834
+698436,GNRL,"Gilead Sciences Inc",CA,100000000108,82.08,05/22/2014,GNRL,168743618
+698436,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,74.51,11/09/2014,GNRL,202814686
+698436,GNRL,"AbbVie, Inc.",IL,100000000204,25.66,11/15/2015,GNRL,316968068
+698436,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,14.25,04/22/2014,GNRL,201659542

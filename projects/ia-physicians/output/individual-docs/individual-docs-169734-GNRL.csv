@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+169734,"Coopervision Inc.",NY,100000005728,124.07,10/08/2015,"In-kind items and services",330806787,"Food and Beverage","","","",""
+169734,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,115.04,03/05/2015,"In-kind items and services",321373888,"Food and Beverage","","EYLEA (aflibercept) Injection","",""
+169734,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,115.04,03/05/2015,"In-kind items and services",321373848,"Food and Beverage","","EYLEA (aflibercept) Injection","",""
+169734,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,106.49,03/06/2015,"In-kind items and services",295433024,"Food and Beverage","","","",""
+169734,"Bausch and Lomb Inc.",NY,100000010937,99.98,06/05/2014,"In-kind items and services",216845726,"Food and Beverage","","","",""
+169734,"The Walman Optical Company",GA,100000000161,91.00,10/06/2015,"Cash or cash equivalent",338094898,"Food and Beverage","","","",""
+169734,"Bausch and Lomb Inc.",NY,100000010937,82.22,11/12/2014,"In-kind items and services",216845728,"Food and Beverage","",BESIFLOX,"",""
+169734,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,72.08,05/14/2015,"Cash or cash equivalent",295433026,"Compensation for serving as faculty or as a speaker for a non-accredited and noncertified continuing education program","","","",""
+169734,"Allergan Inc.",CA,100000000278,23.28,09/11/2013,"In-kind items and services",102586540,"Food and Beverage","",RESTASIS,"",""
+169734,"Allergan Inc.",CA,100000000278,11.08,08/28/2014,"In-kind items and services",198350404,Education,"",LUMIGAN,"",""
+169734,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,10.23,02/01/2015,"In-kind items and services",295433020,"Food and Beverage","","","",""
+169734,"Rapid Pathogen Screening, Inc.",FL,100000010778,7.22,05/13/2015,"Cash or cash equivalent",298647718,"Food and Beverage","Jimmy Johns","","",""

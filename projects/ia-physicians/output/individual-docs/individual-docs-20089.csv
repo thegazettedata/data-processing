@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+20089,GNRL,"Stryker Corporation",MI,100000010503,253.92,04/23/2015,GNRL,316873128
+20089,GNRL,"Stryker Corporation",MI,100000010503,144.24,04/23/2015,GNRL,316873124
+20089,GNRL,"Stryker Corporation",MI,100000010503,130.22,04/25/2015,GNRL,316873126
+20089,GNRL,"Stryker Corporation",MI,100000010503,119.87,02/19/2015,GNRL,316873122
+20089,GNRL,"Keystone Surgical Systems, Inc.",PA,100000010460,102.77,06/17/2015,GNRL,264411796
+20089,GNRL,"Keystone Surgical Systems, Inc.",PA,100000010460,8.14,02/11/2015,GNRL,264411790

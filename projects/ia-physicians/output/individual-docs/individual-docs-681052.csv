@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+681052,GNRL,"Sanofi Pasteur Inc.",PA,100000000299,1500.00,01/23/2014,GNRL,182325908
+681052,GNRL,"Sanofi Pasteur Inc.",PA,100000000299,1000.00,03/04/2014,GNRL,182326976
+681052,GNRL,"SANOFI PASTEUR INC.",PA,100000000299,1000.00,09/24/2015,GNRL,319346818
+681052,GNRL,"Sanofi Pasteur Inc.",PA,100000000299,200.00,01/23/2014,GNRL,182322664
+681052,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,102.17,01/29/2015,GNRL,296187882
+681052,GNRL,"Organogenesis Inc.",MA,100000011175,96.37,12/08/2014,GNRL,324364192
+681052,GNRL,"Sanofi Pasteur Inc.",PA,100000000299,91.25,03/04/2014,GNRL,182329878

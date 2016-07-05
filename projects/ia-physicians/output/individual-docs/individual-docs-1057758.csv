@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1057758,GNRL,"DentalEZ, Inc.",PA,100000005683,565.35,09/27/2013,GNRL,11831423
+1057758,GNRL,"BIomet 3i, LLC",FL,100000005638,246.00,10/18/2013,GNRL,110062286
+1057758,GNRL,"Henry Schein, Inc.",NY,100000005547,61.74,12/09/2013,GNRL,22384804
+1057758,GNRL,"Henry Schein, Inc.",NY,100000005547,48.60,12/09/2013,GNRL,22384802
+1057758,GNRL,"Henry Schein, Inc.",NY,100000005547,28.88,12/09/2013,GNRL,22384800
+1057758,GNRL,"Henry Schein, Inc.",NY,100000005547,26.32,12/09/2013,GNRL,22384798

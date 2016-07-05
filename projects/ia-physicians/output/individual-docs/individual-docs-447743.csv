@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+447743,GNRL,"Pfizer Inc.",NY,100000000286,2000.00,09/27/2013,GNRL,205174282
+447743,GNRL,"Pfizer Inc.",NY,100000000286,1209.61,11/05/2013,GNRL,205243810
+447743,GNRL,"Pfizer Inc.",NY,100000000286,74.43,08/21/2013,GNRL,205879368
+447743,GNRL,"Pfizer Inc.",NY,100000000286,25.28,08/22/2013,GNRL,205675300

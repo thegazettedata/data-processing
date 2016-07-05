@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+505503,RSRCH,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,1480.00,04/24/2015,RSRCH,294360452
+505503,RSRCH,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,1295.00,08/13/2015,RSRCH,294360458
+505503,RSRCH,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,1295.00,12/10/2015,RSRCH,294360462

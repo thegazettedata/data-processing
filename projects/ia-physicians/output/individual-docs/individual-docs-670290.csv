@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+670290,GNRL,"DePuy Orthopaedics Inc.",IN,100000005706,1500.00,05/08/2014,GNRL,136702437
+670290,GNRL,"DePuy Orthopaedics Inc.",IN,100000005706,1000.00,05/08/2014,GNRL,136702446
+670290,GNRL,"Pfizer Inc.",NY,100000000286,13.09,09/11/2014,GNRL,207282812

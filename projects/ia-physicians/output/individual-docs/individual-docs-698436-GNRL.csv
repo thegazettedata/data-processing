@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+698436,"Gilead Sciences Inc",CA,100000000108,96.20,11/19/2014,"In-kind items and services",168743634,"Food and Beverage","","","","745953-1850745-8034708 - 1649560 - 30000814-1649560-Gilead Sciences"
+698436,"Gilead Sciences Inc",CA,100000000108,93.34,10/01/2014,"In-kind items and services",168743626,"Food and Beverage","","","","709855-1801979-8032744 - 1623764 - 20668482-1623764-Gilead Sciences"
+698436,"Gilead Sciences Inc",CA,100000000108,93.11,11/07/2014,"In-kind items and services",168743630,"Food and Beverage","",Sovaldi,"","718677-1812845-4871326-375-Gilead Sciences"
+698436,"Gilead Sciences Inc",CA,100000000108,88.77,06/12/2014,"In-kind items and services",168743622,"Food and Beverage","","","","696585-1781539-8029316 - 1584507 - 20668482-1584507-Gilead Sciences"
+698436,"Gilead Sciences Inc",CA,100000000108,88.09,06/16/2015,"In-kind items and services",316677834,"Food and Beverage","","","",CONCUR;5533223;3015;10018428;VPL
+698436,"Gilead Sciences Inc",CA,100000000108,82.08,05/22/2014,"In-kind items and services",168743618,"Food and Beverage","",Sovaldi,"","617606-1663450-4411503-4114-Gilead Sciences"
+698436,"Merck Sharp & Dohme Corporation",NJ,100000000053,74.51,11/09/2014,"In-kind items and services",202814686,"Food and Beverage","",VICTRELIS,"",""
+698436,"AbbVie, Inc.",IL,100000000204,25.66,11/15/2015,"In-kind items and services",316968068,"Food and Beverage","",Viekira,"",""
+698436,"Merck Sharp & Dohme Corporation",NJ,100000000053,14.25,04/22/2014,"In-kind items and services",201659542,Education,"",Non-Product,"",""

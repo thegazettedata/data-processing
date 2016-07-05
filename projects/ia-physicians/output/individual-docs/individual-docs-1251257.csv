@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1251257,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,454.20,12/10/2015,GNRL,254156894
+1251257,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,430.60,12/10/2015,GNRL,254156896
+1251257,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,55.00,12/10/2015,GNRL,254160218
+1251257,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,55.00,12/10/2015,GNRL,254156892

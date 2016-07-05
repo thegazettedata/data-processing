@@ -1,0 +1,12 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+878011,GNRL,"St. Jude Medical, Inc.",MN,100000000310,167.75,11/20/2015,GNRL,259522408
+878011,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,159.63,05/11/2015,GNRL,296152182
+878011,GNRL,"St. Jude Medical, Inc.",MN,100000000310,155.36,01/21/2015,GNRL,259522406
+878011,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,139.81,12/11/2013,GNRL,13137661
+878011,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,129.85,09/23/2015,GNRL,296152186
+878011,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,77.12,08/23/2013,GNRL,13137660
+878011,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,59.15,05/22/2014,GNRL,136948594
+878011,GNRL,"AltaThera Pharmaceuticals LLC",IL,100000121360,52.00,05/13/2015,GNRL,331497163
+878011,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,51.55,05/14/2015,GNRL,296152184
+878011,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,44.10,05/09/2014,GNRL,136939624
+878011,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,10.04,11/19/2015,GNRL,296152188

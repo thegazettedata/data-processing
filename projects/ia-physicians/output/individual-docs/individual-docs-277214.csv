@@ -1,0 +1,3 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+277214,GNRL,"SANOFI-AVENTIS U.S. LLC",NJ,100000000076,8660.32,08/08/2014,GNRL,188480954
+277214,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,13.13,10/30/2014,GNRL,196019458

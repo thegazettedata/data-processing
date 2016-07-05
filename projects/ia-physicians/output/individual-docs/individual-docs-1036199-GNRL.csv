@@ -1,0 +1,7 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1036199,"Covidien LP",MA,100000000083,724.20,04/28/2015,"In-kind items and services",274913162,"Travel and Lodging","","","",""
+1036199,"Covidien LP",MA,100000000083,133.43,05/07/2015,"In-kind items and services",274913166,"Travel and Lodging","","","",""
+1036199,"AngioDynamics, Inc.",NY,100000005504,90.53,06/26/2014,"In-kind items and services",192796730,"Food and Beverage","","","",""
+1036199,"Covidien LP",MA,100000000083,82.39,05/07/2015,"In-kind items and services",274913174,"Travel and Lodging","","","",""
+1036199,"Covidien LP",MA,100000000083,19.00,05/07/2015,"In-kind items and services",274913170,"Food and Beverage","","","",""
+1036199,"Genentech USA, Inc.",CA,100000000226,14.17,09/26/2013,"In-kind items and services",29778626,"Food and Beverage","",Xolair,"",""

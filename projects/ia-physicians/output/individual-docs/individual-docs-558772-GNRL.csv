@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+558772,"Pfizer Inc.",NY,100000000286,107.13,04/01/2015,"In-kind items and services",323119128,"Food and Beverage","",ELIQUIS,"",""
+558772,"Pfizer Inc.",NY,100000000286,105.65,07/01/2014,"In-kind items and services",205951390,"Food and Beverage","",LYRICA,"",""
+558772,"AbbVie, Inc.",IL,100000000204,103.92,08/26/2014,"In-kind items and services",189472972,"Food and Beverage","","","",""
+558772,"AstraZeneca Pharmaceuticals LP",DE,100000000146,87.80,09/16/2014,"In-kind items and services",148931940,"Food and Beverage","",BRILINTA,"","Educational Program"
+558772,"Pfizer Inc.",NY,100000000286,79.01,11/22/2014,"In-kind items and services",206685130,"Food and Beverage","","PREVNAR  13","",""
+558772,"Amgen Inc.",CA,100000000203,23.68,10/06/2015,"In-kind items and services",297885692,"Food and Beverage","",Repatha,"",""
+558772,"Pfizer Inc.",NY,100000000286,13.06,01/26/2015,"In-kind items and services",323648732,"Food and Beverage","","PREVNAR - 13","",""
+558772,"SANOFI-AVENTIS U.S. LLC",NJ,100000000076,10.47,11/23/2015,"In-kind items and services",319469733,"Food and Beverage","",PRALUENT,"",""

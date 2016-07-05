@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1189224,RSRCH,"Tornier, Inc.",MN,100000010814,371.85,09/27/2013,RSRCH,106220331
+1189224,GNRL,"Stryker Corporation",MI,100000010503,67.75,12/18/2013,GNRL,29860417
+1189224,GNRL,"Tornier, Inc.",MN,100000010814,16.44,05/13/2015,GNRL,282005054
+1189224,GNRL,"Stryker Corporation",MI,100000010503,14.13,02/25/2015,GNRL,324507358
+1189224,GNRL,"Tornier, Inc.",MN,100000010814,12.94,08/18/2015,GNRL,282005052
+1189224,GNRL,"Pfizer Inc.",NY,100000000286,11.71,08/19/2014,GNRL,206063152
+1189224,GNRL,"Stryker Corporation",MI,100000010503,10.56,12/31/2013,GNRL,29860416

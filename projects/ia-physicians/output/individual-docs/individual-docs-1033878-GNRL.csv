@@ -1,0 +1,4 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1033878,"DePuy Synthes Sales Inc.",MA,100000005615,335.50,01/30/2015,"In-kind items and services",267323832,Education,"","","","MEDICAL TEXTBOOK"
+1033878,"DePuy Synthes Sales Inc.",MA,100000005615,268.75,01/09/2014,"In-kind items and services",120853541,Education,"","","","Medical Textbook"
+1033878,"DePuy Synthes Sales Inc.",MA,100000005615,100.79,01/09/2014,"In-kind items and services",120853543,Education,"","","","Medical Textbook"

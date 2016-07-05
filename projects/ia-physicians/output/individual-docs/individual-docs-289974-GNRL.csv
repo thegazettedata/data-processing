@@ -1,0 +1,7 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+289974,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,2500.00,08/22/2013,"Cash or cash equivalent",102169274,Honoraria,"",AZILECT,"",""
+289974,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,500.00,12/31/2013,"Cash or cash equivalent",102169276,Honoraria,"",AZILECT,"",""
+289974,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,11.41,12/10/2013,"In-kind items and services",102169282,"Food and Beverage","",AZILECT,"",""
+289974,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,8.23,12/18/2013,"In-kind items and services",102169284,"Food and Beverage","",NUVIGIL,"",""
+289974,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,7.61,08/21/2013,"In-kind items and services",102169280,"Food and Beverage","",COPAXONE,"",""
+289974,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,7.49,08/02/2013,"In-kind items and services",102169278,"Food and Beverage","",COPAXONE,"",""

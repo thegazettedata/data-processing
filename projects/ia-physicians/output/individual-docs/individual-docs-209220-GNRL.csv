@@ -1,0 +1,6 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+209220,"Tornier, Inc.",MN,100000010814,1293.60,10/19/2013,"In-kind items and services",105415118,"Travel and Lodging","","UE - Aequalis Ascend Flex","UE - Lat EV Total Elbow",""
+209220,"Tornier, Inc.",MN,100000010814,317.68,10/18/2013,"In-kind items and services",105415114,"Travel and Lodging","","UE - Aequalis Ascend Flex","UE - Lat EV Total Elbow",""
+209220,"Tornier, Inc.",MN,100000010814,48.18,10/19/2013,"In-kind items and services",105415116,"Food and Beverage","","UE - Lat EV Total Elbow","",""
+209220,"Tornier, Inc.",MN,100000010814,13.77,10/18/2013,"In-kind items and services",105415112,"Food and Beverage","","UE - Lat EV Total Elbow","",""
+209220,"Tornier, Inc.",MN,100000010814,11.90,10/18/2013,"In-kind items and services",105415110,"Food and Beverage","","UE - Aequalis Ascend Flex","UE - Aequlis Reversed II",""

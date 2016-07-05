@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+333609,GNRL,"Stryker Corporation",MI,100000010503,465.00,12/04/2013,GNRL,104162626
+333609,GNRL,"Stryker Corporation",MI,100000010503,269.00,11/27/2013,GNRL,104162624
+333609,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,51.30,08/05/2015,GNRL,267341150
+333609,GNRL,"Stryker Corporation",MI,100000010503,22.68,02/16/2015,GNRL,316820006
+333609,GNRL,"Stryker Corporation",MI,100000010503,15.62,10/01/2013,GNRL,104162622
+333609,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,12.71,12/10/2015,GNRL,301075244
+333609,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,12.00,12/10/2015,GNRL,301164744
+333609,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,11.12,12/10/2015,GNRL,301072680

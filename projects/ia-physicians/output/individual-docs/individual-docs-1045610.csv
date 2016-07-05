@@ -1,0 +1,3 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1045610,RSRCH,"Genentech, Inc.",CA,100000000089,750.00,12/30/2013,RSRCH,29766256
+1045610,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,69.00,11/06/2013,GNRL,31918401

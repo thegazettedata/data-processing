@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+81032,GNRL,"Medtronic USA, Inc.",MN,100000010383,800.97,06/02/2014,GNRL,140623678
+81032,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,54.73,08/06/2014,GNRL,211843722
+81032,GNRL,"Covidien Sales LLC",MA,100000000098,39.41,07/21/2014,GNRL,222086590
+81032,GNRL,"Covidien Sales LLC",MA,100000000098,31.76,12/07/2013,GNRL,104908632
+81032,GNRL,"Covidien Sales LLC",MA,100000000098,23.49,04/01/2014,GNRL,222086588
+81032,GNRL,"Medtronic USA, Inc.",MN,100000010383,12.85,06/02/2014,GNRL,140623676

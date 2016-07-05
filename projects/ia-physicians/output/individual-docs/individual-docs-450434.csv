@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+450434,GNRL,"A-dec, Inc.",OR,100000005393,147.00,03/10/2015,GNRL,294281332
+450434,GNRL,"A-dec, Inc.",OR,100000005393,147.00,03/30/2015,GNRL,294281336
+450434,GNRL,"A-dec, Inc.",OR,100000005393,98.00,04/16/2015,GNRL,294281340
+450434,GNRL,"VOCO America Inc.",NC,100000011159,89.98,04/21/2015,GNRL,259256838
+450434,GNRL,"A-dec, Inc.",OR,100000005393,41.00,04/07/2014,GNRL,200741536
+450434,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,15.29,07/10/2014,GNRL,216889248
+450434,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,15.18,10/29/2014,GNRL,216889250
+450434,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,10.36,02/12/2015,GNRL,295371546

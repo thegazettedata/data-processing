@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+411609,GNRL,"Biogen, Inc.",MA,100000000193,89.73,12/18/2015,GNRL,320687360
+411609,GNRL,"Biogen Idec Inc.",MA,100000000193,86.73,06/04/2014,GNRL,204170318
+411609,GNRL,"Biogen, Inc.",MA,100000000193,85.02,08/26/2015,GNRL,320687380
+411609,GNRL,"Biogen Idec Inc.",MA,100000000193,84.43,12/10/2014,GNRL,204158548
+411609,GNRL,"Biogen, Inc.",MA,100000000193,84.34,05/20/2015,GNRL,320687374
+411609,GNRL,"Biogen, Inc.",MA,100000000193,83.65,02/16/2015,GNRL,320687370
+411609,GNRL,"Biogen Idec Inc.",MA,100000000193,42.00,01/24/2014,GNRL,204170316

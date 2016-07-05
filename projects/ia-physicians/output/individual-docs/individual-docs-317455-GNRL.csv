@@ -1,0 +1,11 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+317455,"Olympus Corporation of the Americas",PA,100000000173,574.00,08/25/2014,"In-kind items and services",221499466,"Travel and Lodging","","","",""
+317455,"Olympus Corporation of the Americas",PA,100000000173,146.96,08/25/2014,"In-kind items and services",221499484,"Travel and Lodging","","","",""
+317455,"Olympus Corporation of the Americas",PA,100000000173,99.83,08/26/2014,"In-kind items and services",221500606,"Food and Beverage","","","",""
+317455,"Olympus Corporation of the Americas",PA,100000000173,20.03,08/26/2014,"In-kind items and services",221501600,"Food and Beverage","","","",""
+317455,"Astellas Pharma US Inc",IL,100000000137,14.94,11/01/2013,"In-kind items and services",101673524,"Food and Beverage","",Myrbetriq,"",""
+317455,"SHIONOGI INC",NJ,100000005589,14.74,08/29/2013,"In-kind items and services",25410046,"Food and Beverage","",Osphena,"",""
+317455,"Olympus Corporation of the Americas",PA,100000000173,14.42,08/26/2014,"In-kind items and services",221500570,"Food and Beverage","","","",""
+317455,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,13.48,09/10/2013,"Cash or cash equivalent",31047858,"Food and Beverage","",Mirena,"",""
+317455,"SHIONOGI INC",NJ,100000005589,11.48,08/14/2013,"In-kind items and services",25412497,"Food and Beverage","",Osphena,"",""
+317455,"Olympus Corporation of the Americas",PA,100000000173,10.12,08/26/2014,"In-kind items and services",221500566,"Food and Beverage","","","",""

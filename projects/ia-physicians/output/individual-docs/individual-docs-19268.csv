@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+19268,GNRL,"Gilead Sciences Inc",CA,100000000108,1407.91,11/08/2013,GNRL,102289730
+19268,GNRL,"Gilead Sciences Inc",CA,100000000108,125.00,11/07/2013,GNRL,101948724
+19268,GNRL,"Gilead Sciences Inc",CA,100000000108,106.00,11/08/2013,GNRL,101948722
+19268,GNRL,"Gilead Sciences Inc",CA,100000000108,73.00,11/08/2013,GNRL,101948720
+19268,GNRL,"Gilead Sciences Inc",CA,100000000108,60.00,11/08/2013,GNRL,101948718
+19268,GNRL,"AbbVie, Inc.",IL,100000000204,21.35,10/11/2013,GNRL,104615912
+19268,GNRL,"AbbVie, Inc.",IL,100000000204,16.34,04/10/2014,GNRL,189264664

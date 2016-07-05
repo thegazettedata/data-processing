@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1014744,GNRL,"F. Hoffmann-La Roche AG","",100000005656,280.00,07/16/2015,GNRL,317925470
+1014744,GNRL,"Janssen Diagnostics, LLC",NJ,100000005596,118.21,05/31/2015,GNRL,270972162
+1014744,GNRL,"Pfizer Inc.",NY,100000000286,100.00,08/03/2015,GNRL,323571752
+1014744,GNRL,"F. Hoffmann-La Roche AG","",100000005656,99.00,07/16/2015,GNRL,317925498
+1014744,GNRL,"Janssen Scientific Affairs, LLC",NJ,100000000332,83.20,08/07/2013,GNRL,23916973
+1014744,GNRL,"Celgene Corporation",NJ,100000000343,15.84,01/28/2014,GNRL,189913312

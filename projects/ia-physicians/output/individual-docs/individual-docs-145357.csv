@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+145357,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,810.60,11/19/2013,GNRL,103747268
+145357,GNRL,"Salix Pharmaceuticals, Ltd",NC,100000010796,105.95,04/02/2014,GNRL,158809882
+145357,GNRL,"Salix Pharmaceuticals, Ltd",NC,100000010796,104.94,04/02/2014,GNRL,158739934
+145357,GNRL,"Salix Pharmaceuticals, Ltd",NC,100000010796,98.96,10/12/2013,GNRL,29419752
+145357,GNRL,"Gilead Sciences Inc",CA,100000000108,88.77,06/12/2014,GNRL,167367661
+145357,GNRL,"AbbVie, Inc.",IL,100000000204,37.28,11/04/2015,GNRL,317234294
+145357,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,27.00,11/19/2013,GNRL,103747270
+145357,GNRL,"Grifols USA, LLC",CA,100000005420,19.37,12/09/2015,GNRL,330077923

@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1217888,GNRL,"BIOTRONIK INC.",OR,100000010579,1500.00,04/24/2015,GNRL,334888934
+1217888,GNRL,"BIOTRONIK INC.",OR,100000010579,1500.00,11/10/2015,GNRL,334888884
+1217888,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,452.47,06/24/2015,GNRL,298625692
+1217888,GNRL,"Astellas Pharma US Inc",IL,100000000137,44.95,12/14/2015,GNRL,294685500
+1217888,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,30.93,06/24/2015,GNRL,298628554
+1217888,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,25.86,06/24/2015,GNRL,298626446

@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+101735,GNRL,"Alexion Pharmaceuticals, Inc.",CT,100000005462,750.00,11/12/2014,GNRL,218605378
+101735,GNRL,"Alexion Pharmaceuticals, Inc.",CT,100000005462,151.40,12/06/2014,GNRL,218603740
+101735,GNRL,"Alexion Pharmaceuticals, Inc.",CT,100000005462,133.10,11/12/2014,GNRL,218605380

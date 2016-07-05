@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+623048,GNRL,"A-dec, Inc.",OR,100000005393,715.00,05/28/2015,GNRL,294291926
+623048,GNRL,"A-dec, Inc.",OR,100000005393,605.00,05/28/2015,GNRL,294291930
+623048,GNRL,"A-dec, Inc.",OR,100000005393,200.00,04/03/2015,GNRL,294279560
+623048,GNRL,"Henry Schein, Inc.",NY,100000005547,20.00,11/04/2015,GNRL,333259204
+623048,GNRL,"Henry Schein, Inc.",NY,100000005547,16.49,06/09/2015,GNRL,333249898
+623048,GNRL,"Henry Schein, Inc.",NY,100000005547,12.99,09/18/2015,GNRL,333256052
+623048,GNRL,"Tulsa Dental Products LLC",PA,100000010600,11.18,10/21/2014,GNRL,186893070
+623048,GNRL,"Henry Schein, Inc.",NY,100000005547,10.86,09/17/2015,GNRL,333256026

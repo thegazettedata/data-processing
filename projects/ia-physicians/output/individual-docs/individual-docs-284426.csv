@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+284426,GNRL,"A-dec, Inc.",OR,100000005393,310.00,10/25/2013,GNRL,23400184
+284426,GNRL,"Salvin Dental Specialties, Inc.",NC,100000131376,67.57,01/16/2014,GNRL,227659964
+284426,GNRL,"National Dentex Corporation",FL,100000000065,45.00,12/01/2013,GNRL,105324986
+284426,GNRL,"National Dentex Corporation",FL,100000000065,40.00,12/18/2014,GNRL,155021952
+284426,GNRL,"National Dentex Corporation",FL,100000000065,40.00,12/10/2015,GNRL,234980202
+284426,GNRL,"Tulsa Dental Products LLC",PA,100000010600,15.71,03/18/2015,GNRL,327534244

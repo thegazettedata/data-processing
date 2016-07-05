@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+100792,GNRL,"Cook Incorporated",IN,100000010458,997.00,06/18/2014,GNRL,211346146
+100792,GNRL,"Cook Incorporated",IN,100000010458,151.31,03/25/2015,GNRL,336580072
+100792,GNRL,"Covidien Sales LLC",MA,100000000098,125.17,10/06/2013,GNRL,104900770
+100792,GNRL,"Cook Incorporated",IN,100000010458,113.35,08/08/2014,GNRL,211346142
+100792,GNRL,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,13.25,08/28/2014,GNRL,188046786
+100792,GNRL,"Cardiovascular Systems Inc.",MN,100000000117,5.39,03/27/2015,GNRL,318329420
+100792,GNRL,"Cook Incorporated",IN,100000010458,4.06,10/27/2014,GNRL,211346144
+100792,GNRL,"Cook Incorporated",IN,100000010458,3.30,06/04/2014,GNRL,211346140

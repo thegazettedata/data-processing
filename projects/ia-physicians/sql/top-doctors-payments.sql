@@ -6,6 +6,5 @@ WHERE Physician_Profile_ID IN (
 	WHERE Physician_Profile_ID > 0
 	GROUP BY Physician_Profile_ID
 	ORDER BY SUM( CAST(Total_Amount_of_Payment_USDollars AS REAL) ) DESC
-	LIMIT 100
 )
 ORDER BY Physician_Profile_ID DESC;

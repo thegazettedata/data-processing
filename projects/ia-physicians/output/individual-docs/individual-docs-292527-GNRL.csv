@@ -1,0 +1,5 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+292527,"Intuitive Surgical, Inc.",CA,100000005384,1316.52,01/07/2015,"In-kind items and services",341476481,"Travel and Lodging","","","",""
+292527,"Intuitive Surgical, Inc.",CA,100000005384,173.65,01/17/2015,"In-kind items and services",341476478,"Travel and Lodging","","","",""
+292527,"Intuitive Surgical, Inc.",CA,100000005384,23.00,01/07/2015,"In-kind items and services",341476462,"Travel and Lodging","","","",""
+292527,"Ethicon US, LLC",OH,100000061307,10.75,03/25/2015,"In-kind items and services",269825305,"Food and Beverage","","","",""

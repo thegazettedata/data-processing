@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1083610,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,487.04,03/01/2015,GNRL,254867914
+1083610,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,13.16,05/28/2014,GNRL,156510924
+1083610,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,2.38,02/24/2014,GNRL,156510922

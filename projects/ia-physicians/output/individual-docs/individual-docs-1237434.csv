@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1237434,GNRL,"Cook Incorporated",IN,100000010458,552.80,05/20/2015,GNRL,336566132
+1237434,GNRL,"Cook Incorporated",IN,100000010458,552.80,05/20/2015,GNRL,336601104
+1237434,GNRL,"Bard Peripheral Vascular, Inc.",AZ,100000005481,446.84,01/16/2015,GNRL,317637216
+1237434,GNRL,"Bard Peripheral Vascular, Inc.",AZ,100000005481,17.02,01/30/2015,GNRL,317638796
+1237434,GNRL,"Cook Incorporated",IN,100000010458,13.40,05/14/2015,GNRL,336566050
+1237434,GNRL,"Cook Incorporated",IN,100000010458,13.40,05/14/2015,GNRL,336601102

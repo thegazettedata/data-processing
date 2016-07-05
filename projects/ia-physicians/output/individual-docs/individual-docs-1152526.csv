@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1152526,GNRL,"Genentech USA, Inc.",CA,100000000226,2000.00,08/15/2013,GNRL,29785280
+1152526,GNRL,"Genentech USA, Inc.",CA,100000000226,793.56,08/15/2013,GNRL,29785277
+1152526,GNRL,"Genentech USA, Inc.",CA,100000000226,295.29,08/15/2013,GNRL,29785282
+1152526,GNRL,"Genentech USA, Inc.",CA,100000000226,284.98,08/15/2013,GNRL,29785281
+1152526,GNRL,"Genentech USA, Inc.",CA,100000000226,42.38,08/15/2013,GNRL,29785279
+1152526,GNRL,"Genentech USA, Inc.",CA,100000000226,10.00,08/15/2013,GNRL,29785278

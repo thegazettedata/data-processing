@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+359339,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,100.20,02/11/2014,GNRL,136968656
+359339,GNRL,ABIOMED,MA,100000010740,98.07,04/18/2014,GNRL,214331352
+359339,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,93.13,04/10/2014,GNRL,137218222
+359339,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,82.02,05/08/2014,GNRL,137209932
+359339,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,80.11,12/16/2014,GNRL,137208678
+359339,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,38.03,03/27/2014,GNRL,137161224
+359339,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,33.62,04/22/2014,GNRL,136932164

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+402024,GNRL,"Varian Medical Systems, Inc.",CA,100000010850,777.00,10/26/2015,GNRL,317497658
+402024,GNRL,"Varian Medical Systems, Inc.",CA,100000010850,113.31,11/09/2015,GNRL,317499564
+402024,GNRL,"Varian Medical Systems, Inc.",CA,100000010850,29.97,09/24/2015,GNRL,317496274
+402024,GNRL,"Varian Medical Systems, Inc.",CA,100000010850,14.32,12/16/2014,GNRL,186198214

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+105254,GNRL,"LeMaitre Vascular, Inc.",MA,100000010674,1498.90,08/26/2014,GNRL,192814534
+105254,GNRL,"LeMaitre Vascular, Inc.",MA,100000010674,484.83,10/07/2014,GNRL,192814536
+105254,GNRL,"LeMaitre Vascular, Inc.",MA,100000010674,74.12,09/07/2014,GNRL,192814540
+105254,GNRL,"Olympus America Inc.",PA,100000005451,18.10,09/24/2013,GNRL,104498798

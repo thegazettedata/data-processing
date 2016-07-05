@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+506933,GNRL,"Septodont Inc.",PA,100000005685,1147.50,10/09/2013,GNRL,20206505
+506933,GNRL,"Septodont Inc.",PA,100000005685,1144.00,10/09/2013,GNRL,20206506
+506933,GNRL,"Septodont Inc.",PA,100000005685,464.00,10/09/2013,GNRL,20206504
+506933,GNRL,"A-dec, Inc.",OR,100000005393,120.00,11/26/2013,GNRL,23399038
+506933,GNRL,"A-dec, Inc.",OR,100000005393,80.00,04/10/2015,GNRL,294281541
+506933,GNRL,"A-dec, Inc.",OR,100000005393,52.00,11/26/2013,GNRL,23400778
+506933,GNRL,"A-dec, Inc.",OR,100000005393,40.00,09/16/2013,GNRL,23399037

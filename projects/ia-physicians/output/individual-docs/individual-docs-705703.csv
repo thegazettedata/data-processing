@@ -1,0 +1,11 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+705703,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,117.60,12/03/2015,GNRL,301150268
+705703,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,117.60,12/04/2015,GNRL,301150278
+705703,GNRL,"BIomet 3i, LLC",FL,100000005638,82.00,02/13/2014,GNRL,200287464
+705703,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,80.47,12/04/2015,GNRL,301108486
+705703,GNRL,"BIomet 3i, LLC",FL,100000005638,56.48,09/26/2014,GNRL,200233592
+705703,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,53.73,12/03/2015,GNRL,301108095
+705703,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,16.34,12/06/2015,GNRL,301108846
+705703,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,12.38,08/31/2015,GNRL,295542702
+705703,GNRL,"Philips Electronics North America Corporation",MA,100000000198,12.28,12/17/2015,GNRL,298654688
+705703,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,8.90,12/09/2015,GNRL,301041242

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+797915,GNRL,"Ethicon Inc.",NJ,100000000122,802.10,10/30/2013,GNRL,10416490
+797915,GNRL,"Ethicon Inc.",NJ,100000000122,160.43,11/29/2013,GNRL,10417065
+797915,GNRL,"Ethicon Inc.",NJ,100000000122,69.61,11/29/2013,GNRL,10417064
+797915,GNRL,"Ethicon Inc.",NJ,100000000122,48.97,11/29/2013,GNRL,10417063

@@ -1,0 +1,11 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+705703,"Zimmer Biomet Holdings, Inc.",IN,100000000103,117.60,12/03/2015,"In-kind items and services",301150268,"Travel and Lodging","","","",""
+705703,"Zimmer Biomet Holdings, Inc.",IN,100000000103,117.60,12/04/2015,"In-kind items and services",301150278,"Travel and Lodging","","","",""
+705703,"BIomet 3i, LLC",FL,100000005638,82.00,02/13/2014,"In-kind items and services",200287464,Education,"","","",""
+705703,"Zimmer Biomet Holdings, Inc.",IN,100000000103,80.47,12/04/2015,"In-kind items and services",301108486,"Food and Beverage","","","",""
+705703,"BIomet 3i, LLC",FL,100000005638,56.48,09/26/2014,"In-kind items and services",200233592,"Food and Beverage","","","",""
+705703,"Zimmer Biomet Holdings, Inc.",IN,100000000103,53.73,12/03/2015,"In-kind items and services",301108095,"Food and Beverage","","","",""
+705703,"Zimmer Biomet Holdings, Inc.",IN,100000000103,16.34,12/06/2015,"In-kind items and services",301108846,"Food and Beverage","","","",""
+705703,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,12.38,08/31/2015,"In-kind items and services",295542702,"Food and Beverage","",ARESTIN,"",""
+705703,"Philips Electronics North America Corporation",MA,100000000198,12.28,12/17/2015,"Cash or cash equivalent",298654688,"Food and Beverage","","","",""
+705703,"Zimmer Biomet Holdings, Inc.",IN,100000000103,8.90,12/09/2015,"In-kind items and services",301041242,"Travel and Lodging","","","",""

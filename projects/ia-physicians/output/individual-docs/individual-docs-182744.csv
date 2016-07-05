@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+182744,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,369.20,09/05/2014,GNRL,136809514
+182744,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,176.92,04/24/2014,GNRL,137264092
+182744,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,5.08,06/19/2014,GNRL,136843392

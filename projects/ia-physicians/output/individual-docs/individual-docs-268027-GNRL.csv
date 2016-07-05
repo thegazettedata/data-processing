@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+268027,"Covidien Sales LLC",MA,100000000098,602.60,09/06/2013,"Cash or cash equivalent",104905138,"Travel and Lodging","","","",""
+268027,"Davol Inc.",RI,100000005490,535.68,08/06/2013,"Cash or cash equivalent",101624760,"Travel and Lodging","","","",""
+268027,"Davol Inc.",RI,100000005490,510.71,07/24/2014,"Cash or cash equivalent",215189852,"Travel and Lodging","","","",""
+268027,"Davol Inc.",RI,100000005490,368.25,08/27/2014,"Cash or cash equivalent",215191766,"Travel and Lodging","","","",""
+268027,"Davol Inc.",RI,100000005490,230.30,08/06/2013,"Cash or cash equivalent",101624860,"Food and Beverage","","","",""
+268027,"Davol Inc.",RI,100000005490,119.70,08/27/2014,"Cash or cash equivalent",215191912,"Food and Beverage","","","",""
+268027,"Covidien Sales LLC",MA,100000000098,40.24,09/06/2013,"Cash or cash equivalent",104905142,"Food and Beverage","","","",""
+268027,"Covidien Sales LLC",MA,100000000098,38.19,09/06/2013,"Cash or cash equivalent",104905140,"Travel and Lodging","","","",""
+268027,"Davol Inc.",RI,100000005490,22.66,09/29/2014,"Cash or cash equivalent",215193828,"Food and Beverage","","","",""
+268027,"Covidien Sales LLC",MA,100000000098,11.45,02/19/2015,"In-kind items and services",295150708,"Food and Beverage","","","",""
+268027,"Covidien Sales LLC",MA,100000000098,6.80,08/09/2013,"Cash or cash equivalent",104905144,"Food and Beverage","","","",""

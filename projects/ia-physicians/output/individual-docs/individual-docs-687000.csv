@@ -1,0 +1,12 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+687000,GNRL,"Patterson Companies, Inc.",MN,100000011158,1600.00,11/07/2014,GNRL,221554666
+687000,GNRL,"Patterson Companies, Inc.",MN,100000011158,1600.00,11/07/2014,GNRL,221554664
+687000,GNRL,"Patterson Companies, Inc.",MN,100000011158,300.00,11/07/2014,GNRL,221554660
+687000,GNRL,"Patterson Companies, Inc.",MN,100000011158,300.00,11/07/2014,GNRL,221554662
+687000,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,114.56,11/23/2015,GNRL,281499970
+687000,GNRL,"National Dentex Corporation",FL,100000000065,50.00,12/20/2013,GNRL,32408885
+687000,GNRL,"National Dentex Corporation",FL,100000000065,50.00,12/20/2014,GNRL,155022328
+687000,GNRL,"National Dentex Corporation",FL,100000000065,50.00,12/16/2015,GNRL,234979620
+687000,GNRL,"Dentsply International",PA,100000000185,46.92,08/20/2013,GNRL,31323063
+687000,GNRL,"Zimmer Holding Inc",IN,100000000103,39.01,10/02/2014,GNRL,216397093
+687000,GNRL,"Sirona Dental Systems Inc.",NY,100000076368,24.12,05/02/2014,GNRL,215292614

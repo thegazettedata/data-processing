@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+678452,GNRL,"Johnson and Johnson International",NJ,100000005609,337.00,07/22/2015,GNRL,264611198
+678452,GNRL,"Johnson & Johnson Medical Devices & Diagnostics Group - Latin America, L.L.C.",FL,100000005473,312.76,08/29/2015,GNRL,264601566
+678452,GNRL,"Johnson and Johnson International",NJ,100000005609,60.00,07/22/2015,GNRL,264611200
+678452,GNRL,"Roche Diagnostics Corporation",IN,100000005419,49.42,05/28/2015,GNRL,300031588

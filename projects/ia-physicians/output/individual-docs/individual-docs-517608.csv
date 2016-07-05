@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+517608,GNRL,"Volcano Corporation",CA,100000000212,708.70,03/27/2015,GNRL,338776574
+517608,GNRL,"Volcano Corporation",CA,100000000212,263.93,05/19/2015,GNRL,338771124
+517608,GNRL,"Volcano Corporation",CA,100000000212,190.63,05/17/2015,GNRL,338768895
+517608,GNRL,"Volcano Corporation",CA,100000000212,30.79,03/27/2015,GNRL,338776570
+517608,GNRL,"LILLY USA, LLC",IN,100000000066,18.00,04/22/2014,GNRL,137679302
+517608,GNRL,"Allergan Inc.",CA,100000000278,14.68,04/14/2014,GNRL,203497924
+517608,GNRL,"HOLOGIC INC",MA,100000010400,12.15,06/30/2014,GNRL,181514568

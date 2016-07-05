@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+681491,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,261.07,07/23/2015,GNRL,296905380
+681491,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,168.14,12/03/2015,GNRL,296905382
+681491,GNRL,"CeloNova BioSciences, Inc.",TX,100000010417,94.01,05/08/2014,GNRL,219421308
+681491,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,91.17,11/30/2015,GNRL,254159092
+681491,GNRL,"Bard Peripheral Vascular, Inc.",AZ,100000005481,18.39,04/27/2015,GNRL,317647126

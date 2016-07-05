@@ -1,0 +1,14 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+247564,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,88.99,09/23/2014,GNRL,216454452
+247564,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,87.00,10/20/2014,GNRL,155808232
+247564,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,86.04,09/19/2013,GNRL,105138180
+247564,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,83.65,11/21/2013,GNRL,105138184
+247564,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,69.00,10/28/2013,GNRL,105138182
+247564,GNRL,"Shire North American Group Inc",MA,100000061292,17.17,10/14/2015,GNRL,301167696
+247564,GNRL,"Shire North American Group Inc",MA,100000061292,16.16,03/11/2015,GNRL,299217904
+247564,GNRL,"Novartis Pharmaceuticals Corporation",NJ,100000000228,14.84,10/10/2014,GNRL,152567160
+247564,GNRL,"Lundbeck LLC",IL,100000000236,13.93,05/30/2014,GNRL,145279866
+247564,GNRL,"Shire North American Group Inc",MA,100000061292,13.29,06/24/2015,GNRL,300386444
+247564,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,11.11,03/14/2014,GNRL,150864486
+247564,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,10.38,09/13/2013,GNRL,12218761
+247564,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,10.30,11/22/2013,GNRL,12214243

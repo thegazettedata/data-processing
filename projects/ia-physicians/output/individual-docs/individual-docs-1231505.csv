@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1231505,GNRL,"Eli Lilly and Company",IN,100000000088,3942.00,02/25/2015,GNRL,268029302
+1231505,GNRL,"Eli Lilly and Company",IN,100000000088,2847.00,06/05/2015,GNRL,268029300
+1231505,GNRL,"Eli Lilly and Company",IN,100000000088,1314.00,11/03/2015,GNRL,268029296
+1231505,GNRL,"Eli Lilly and Company",IN,100000000088,876.00,11/10/2015,GNRL,268029298
+1231505,GNRL,"Eli Lilly and Company",IN,100000000088,75.76,02/17/2015,GNRL,268029304

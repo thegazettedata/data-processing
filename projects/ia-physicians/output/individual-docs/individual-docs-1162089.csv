@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1162089,GNRL,"Genentech, Inc.",CA,100000000089,349.55,08/22/2013,GNRL,29762921
+1162089,GNRL,"Genentech, Inc.",CA,100000000089,243.28,08/22/2013,GNRL,29762915
+1162089,GNRL,"Genentech, Inc.",CA,100000000089,243.28,08/22/2013,GNRL,174460406
+1162089,GNRL,"Genentech, Inc.",CA,100000000089,126.00,08/22/2013,GNRL,29762917
+1162089,GNRL,"Genentech, Inc.",CA,100000000089,126.00,08/22/2013,GNRL,174460404
+1162089,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,119.76,05/19/2015,GNRL,290167554
+1162089,GNRL,"Gilead Sciences Inc",CA,100000000108,32.00,05/18/2015,GNRL,316556122
+1162089,GNRL,"Genentech, Inc.",CA,100000000089,17.40,08/22/2013,GNRL,29762919
+1162089,GNRL,"Genentech, Inc.",CA,100000000089,17.40,08/22/2013,GNRL,174460408

@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+150790,GNRL,"STERIS Corporation",OH,100000010516,2736.96,11/20/2013,GNRL,103141036
+150790,GNRL,"Stryker Corporation",MI,100000010503,623.52,11/19/2013,GNRL,29860093
+150790,GNRL,"Stryker Corporation",MI,100000010503,256.93,12/05/2013,GNRL,29860092
+150790,GNRL,"Stryker Corporation",MI,100000010503,140.50,12/11/2013,GNRL,29860090
+150790,GNRL,"STERIS Corporation",OH,100000010516,30.00,11/20/2013,GNRL,103141038
+150790,GNRL,"Mallinckrodt LLC",MO,100000005429,16.66,02/06/2015,GNRL,334510582
+150790,GNRL,"Stryker Corporation",MI,100000010503,15.69,12/03/2013,GNRL,29860091

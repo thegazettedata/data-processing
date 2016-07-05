@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+149242,"Bioventus LLC",NC,100000000302,2700.00,06/23/2015,"Cash or cash equivalent",311882401,"Consulting Fee","","","",""
+149242,"Bioventus LLC",NC,100000000302,2400.00,11/11/2015,"Cash or cash equivalent",311894574,"Consulting Fee","","","",""
+149242,"Bioventus LLC",NC,100000000302,1500.00,06/29/2015,"Cash or cash equivalent",311882394,"Consulting Fee","","","",""
+149242,"Bioventus LLC",NC,100000000302,1200.00,12/01/2014,"Cash or cash equivalent",214136886,"Consulting Fee","","","",""
+149242,"BIOVENTUS LLC",NC,100000000302,800.00,11/08/2013,"Cash or cash equivalent",102295358,"Consulting Fee","","","",""
+149242,"Bioventus LLC",NC,100000000302,123.93,10/19/2015,"In-kind items and services",311876880,"Food and Beverage","","","",""
+149242,"BIOVENTUS LLC",NC,100000000302,102.40,10/09/2013,"In-kind items and services",102297736,"Food and Beverage","","","",""
+149242,"Bioventus LLC",NC,100000000302,97.70,10/15/2014,"In-kind items and services",214135522,"Food and Beverage","","","",""
+149242,"Bioventus LLC",NC,100000000302,76.99,03/26/2015,"In-kind items and services",311812180,"Food and Beverage","","","",""

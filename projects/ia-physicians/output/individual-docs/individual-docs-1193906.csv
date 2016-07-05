@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1193906,GNRL,"Trilliant Surgical Ltd.",TX,100000010369,600.00,07/18/2014,GNRL,136498984
+1193906,GNRL,"Smith & Nephew, Inc.",TN,100000005456,140.12,10/01/2014,GNRL,182901451
+1193906,GNRL,"Trilliant Surgical Ltd.",TX,100000010369,85.00,09/30/2015,GNRL,293832460
+1193906,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,34.13,04/07/2015,GNRL,300934188
+1193906,GNRL,"Smith & Nephew, Inc.",TN,100000005456,13.74,09/15/2014,GNRL,182872696
+1193906,GNRL,"Shire North American Group Inc",MA,100000061292,11.96,01/15/2014,GNRL,136352424

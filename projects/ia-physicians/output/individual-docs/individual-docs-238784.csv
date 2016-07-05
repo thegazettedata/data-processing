@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+238784,GNRL,"Davol Inc.",RI,100000005490,670.56,08/05/2013,GNRL,101624536
+238784,GNRL,"Davol Inc.",RI,100000005490,396.69,10/18/2013,GNRL,101627642
+238784,GNRL,"Davol Inc.",RI,100000005490,150.21,10/18/2013,GNRL,101627728
+238784,GNRL,"Braintree Laboratories, Inc.",MA,100000000153,25.00,05/14/2014,GNRL,149685326

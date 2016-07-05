@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+610526,GNRL,"American Orthodontics Corporation",WI,100000010599,259.08,03/11/2015,GNRL,300519218
+610526,GNRL,"American Orthodontics Corporation",WI,100000010599,248.10,11/12/2014,GNRL,192472586
+610526,GNRL,"American Orthodontics Corporation",WI,100000010599,120.50,10/01/2013,GNRL,32652291

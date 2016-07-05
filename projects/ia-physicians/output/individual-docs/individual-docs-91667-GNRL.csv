@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+91667,"Daiichi Sankyo Inc.",NJ,100000000195,109.28,09/10/2013,"In-kind items and services",100860060,"Food and Beverage","",Welchol,"",""
+91667,"Janssen Pharmaceuticals, Inc",NJ,100000000232,106.30,02/23/2015,"In-kind items and services",275176892,"Food and Beverage","",Xarelto,"",""
+91667,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,96.06,06/16/2015,"In-kind items and services",290278046,"Food and Beverage","",Pradaxa,"",""
+91667,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,90.71,05/29/2014,"In-kind items and services",194003074,"Food and Beverage","",BRINTELLIX,"",""
+91667,"Janssen Pharmaceuticals, Inc",NJ,100000000232,69.99,09/16/2013,"In-kind items and services",23818329,Education,"",Invokana,"","Medical Textbook"
+91667,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,66.07,05/15/2014,"In-kind items and services",145909014,"Food and Beverage","",FETZIMA,VIIBRYD,""
+91667,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,51.26,01/09/2014,"In-kind items and services",145909016,"Food and Beverage","",LINZESS,"",""
+91667,"Meda Pharmaceuticals, Inc.",NJ,100000011184,27.98,11/13/2013,"In-kind items and services",105174298,"Food and Beverage","",Dymista,"",""
+91667,"Horizon Pharma USA, Inc.",IL,100000005713,2.88,11/07/2013,"Cash or cash equivalent",101987782,Education,"","DUEXIS-800mg Ibuprofen- 26.6mg Famotidine","",""
+91667,"Horizon Pharma USA, Inc.",IL,100000005713,2.88,11/07/2013,"Cash or cash equivalent",101987784,Education,"","DUEXIS-800mg Ibuprofen- 26.6mg Famotidine","",""
+91667,"Horizon Pharma USA, Inc.",IL,100000005713,2.88,10/04/2013,"Cash or cash equivalent",101987780,Education,"","DUEXIS-800mg Ibuprofen- 26.6mg Famotidine","",""
+91667,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,1.59,09/15/2014,"In-kind items and services",145909024,"Food and Beverage","",FETZIMA,VIIBRYD,""

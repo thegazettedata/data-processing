@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+97072,GNRL,"St. Jude Medical, Inc.",MN,100000000310,303.39,12/12/2015,GNRL,259456680
+97072,GNRL,"Medtronic USA, Inc.",MN,100000010383,122.63,12/11/2015,GNRL,294891370
+97072,GNRL,"St. Jude Medical, Inc.",MN,100000000310,102.57,12/12/2015,GNRL,259456682
+97072,GNRL,"Medtronic USA, Inc.",MN,100000010383,45.61,12/10/2015,GNRL,294891376
+97072,GNRL,"Stryker Corporation",MI,100000010503,36.57,06/04/2015,GNRL,324373912

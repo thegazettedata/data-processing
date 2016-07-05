@@ -1,0 +1,16 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1253145,GNRL,"Philips Electronics North America Corporation",MA,100000000198,678.20,03/14/2015,GNRL,298668974
+1253145,GNRL,"Philips Electronics North America Corporation",MA,100000000198,590.22,04/01/2015,GNRL,298668976
+1253145,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,575.55,09/04/2015,GNRL,286240978
+1253145,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,234.74,09/22/2015,GNRL,286241380
+1253145,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,118.44,09/23/2015,GNRL,286241378
+1253145,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,88.04,09/11/2014,GNRL,158738446
+1253145,GNRL,"Philips Electronics North America Corporation",MA,100000000198,71.34,03/31/2015,GNRL,298672406
+1253145,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,69.37,09/22/2015,GNRL,286241374
+1253145,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,55.98,09/22/2015,GNRL,286241370
+1253145,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,46.04,04/10/2014,GNRL,152021884
+1253145,GNRL,"Philips Electronics North America Corporation",MA,100000000198,34.74,03/30/2015,GNRL,298672404
+1253145,GNRL,"Philips Electronics North America Corporation",MA,100000000198,26.70,04/01/2015,GNRL,298672408
+1253145,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,22.59,09/22/2015,GNRL,286241368
+1253145,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,21.49,11/10/2015,GNRL,254159070
+1253145,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,20.57,09/23/2015,GNRL,286241372

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+284210,GNRL,"Elekta, Inc.",GA,100000011116,871.60,08/27/2013,GNRL,223376700
+284210,GNRL,"Elekta, Inc.",GA,100000011116,91.03,08/27/2013,GNRL,105406128
+284210,GNRL,"Elekta, Inc.",GA,100000011116,29.04,12/04/2013,GNRL,105406756
+284210,GNRL,"Elekta, Inc.",GA,100000011116,25.65,08/27/2013,GNRL,105406130

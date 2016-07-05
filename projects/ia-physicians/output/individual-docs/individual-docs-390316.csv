@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+390316,GNRL,"Boston Scientific Corporation",MA,100000005674,343.51,12/09/2015,GNRL,246091088
+390316,GNRL,"Boston Scientific Corporation",MA,100000005674,312.34,10/23/2015,GNRL,246091094
+390316,GNRL,"Boston Scientific Corporation",MA,100000005674,186.51,11/18/2015,GNRL,246091090
+390316,GNRL,"Boston Scientific Corporation",MA,100000005674,146.66,10/24/2015,GNRL,246091098
+390316,GNRL,"Allergan Inc.",CA,100000000278,126.00,12/18/2014,GNRL,192441346
+390316,GNRL,"Boston Scientific Corporation",MA,100000005674,49.98,12/09/2015,GNRL,246091086
+390316,GNRL,"Boston Scientific Corporation",MA,100000005674,38.34,10/23/2015,GNRL,246091096
+390316,GNRL,"Boston Scientific Corporation",MA,100000005674,10.00,11/18/2015,GNRL,246091092
+390316,GNRL,"Boston Scientific Corporation",MA,100000005674,10.00,10/24/2015,GNRL,246091100

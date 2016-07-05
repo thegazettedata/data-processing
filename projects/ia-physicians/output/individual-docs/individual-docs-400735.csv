@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+400735,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,454.74,03/02/2015,GNRL,341418044
+400735,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,454.74,03/02/2015,GNRL,341418048
+400735,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,23.00,03/02/2015,GNRL,341418030
+400735,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,23.00,03/02/2015,GNRL,341418034
+400735,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,23.00,03/02/2015,GNRL,341418038
+400735,GNRL,"Covidien Sales LLC",MA,100000000098,13.62,11/16/2015,GNRL,295163952
+400735,GNRL,"Covidien Sales LLC",MA,100000000098,11.20,09/22/2014,GNRL,227601706
+400735,GNRL,"Covidien Sales LLC",MA,100000000098,5.56,08/27/2015,GNRL,295163960

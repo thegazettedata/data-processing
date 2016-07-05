@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+34606,RSRCH,"Janssen Research & Development, LLC",NJ,100000005592,1481.57,08/04/2015,RSRCH,263670958
+34606,GNRL,"Janssen Research & Development, LLC",NJ,100000005592,1062.01,11/13/2014,GNRL,155726064
+34606,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,630.00,11/27/2013,GNRL,171867424
+34606,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,630.00,12/02/2014,GNRL,202813496
+34606,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,630.00,11/25/2015,GNRL,331129949
+34606,RSRCH,"Janssen Research & Development, LLC",NJ,100000005592,97.12,08/04/2015,RSRCH,263670960
+34606,GNRL,"Takeda Pharmaceuticals International, Inc.",IL,100000000336,61.00,12/03/2013,GNRL,103344950
+34606,GNRL,"Janssen Research & Development, LLC",NJ,100000005592,44.40,11/13/2014,GNRL,155726066

@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+342699,GNRL,"A-dec, Inc.",OR,100000005393,173.50,02/20/2015,GNRL,294281046
+342699,GNRL,"A-dec, Inc.",OR,100000005393,160.00,02/20/2015,GNRL,294281034
+342699,GNRL,"A-dec, Inc.",OR,100000005393,160.00,03/16/2015,GNRL,294281054
+342699,GNRL,"A-dec, Inc.",OR,100000005393,43.25,02/20/2015,GNRL,294281042
+342699,GNRL,"A-dec, Inc.",OR,100000005393,39.00,02/20/2015,GNRL,294281040
+342699,GNRL,"A-dec, Inc.",OR,100000005393,39.00,03/16/2015,GNRL,294281050
+342699,GNRL,"Henry Schein, Inc.",NY,100000005547,12.88,09/13/2013,GNRL,102272902

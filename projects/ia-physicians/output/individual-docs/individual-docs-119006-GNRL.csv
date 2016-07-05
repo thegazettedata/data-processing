@@ -1,0 +1,5 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+119006,"WARDLOW ENTERPRISES",IA,100000010546,469.98,01/17/2015,"In-kind items and services",263814422,Education,"","","",""
+119006,"Pfizer Inc.",NY,100000000286,69.73,07/18/2014,"In-kind items and services",206837014,"Food and Beverage","",ZYVOX,"",""
+119006,"WARDLOW ENTERPRISES",IA,100000010546,64.25,01/17/2015,"In-kind items and services",263814420,"Food and Beverage","","","",""
+119006,"ABL Medical, LLC",UT,100000010958,14.10,08/15/2013,"In-kind items and services",104567702,"Food and Beverage","","","","Lunch to discuss product use."

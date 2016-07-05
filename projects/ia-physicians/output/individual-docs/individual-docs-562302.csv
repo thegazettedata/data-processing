@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+562302,GNRL,"KaVo Dental Technologies LLC",NC,100000005724,631.32,04/16/2015,GNRL,338071286
+562302,GNRL,"VOCO America Inc.",NC,100000011159,165.25,06/12/2014,GNRL,186410686
+562302,GNRL,"Shofu Dental corp",CA,100000011096,132.98,08/20/2015,GNRL,335510114
+562302,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,53.32,12/10/2015,GNRL,301108766
+562302,GNRL,"VOCO America Inc.",NC,100000011159,35.82,06/18/2014,GNRL,186410684
+562302,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,14.98,04/22/2014,GNRL,216962178
+562302,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,14.01,05/05/2014,GNRL,216962184
+562302,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,13.55,07/22/2015,GNRL,295640852
+562302,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,12.51,10/09/2014,GNRL,216962190

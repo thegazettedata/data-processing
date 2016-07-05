@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1012018,GNRL,"St. Jude Medical, Inc.",MN,100000000310,385.93,05/27/2015,GNRL,259522816
+1012018,GNRL,"Thoratec Corporation",CA,100000000296,114.66,09/26/2015,GNRL,263744684
+1012018,GNRL,"Thoratec Corporation",CA,100000000296,107.68,12/21/2015,GNRL,263744678
+1012018,GNRL,"Thoratec Corporation",CA,100000000296,84.12,09/28/2015,GNRL,263744682
+1012018,GNRL,"Thoratec Corporation",CA,100000000296,45.60,04/01/2015,GNRL,263744680

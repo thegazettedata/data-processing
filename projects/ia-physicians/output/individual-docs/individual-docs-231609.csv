@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+231609,GNRL,"Becton, Dickinson and Company",NJ,100000005485,162.50,06/05/2014,GNRL,215941894
+231609,GNRL,"Becton, Dickinson and Company",NJ,100000005485,150.00,10/16/2014,GNRL,215942738
+231609,GNRL,"Becton, Dickinson and Company",NJ,100000005485,137.50,07/23/2015,GNRL,331347625
+231609,GNRL,"Becton, Dickinson and Company",NJ,100000005485,90.00,02/14/2014,GNRL,215941872
+231609,GNRL,"Dr.Reddy's Laboratories,Inc.",NJ,100000005388,32.00,01/16/2015,GNRL,337651262
+231609,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,24.37,11/23/2015,GNRL,256387064
+231609,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,24.00,12/08/2014,GNRL,196329802
+231609,GNRL,"GlaxoSmithKline, LLC.",NC,100000005449,18.09,01/30/2015,GNRL,320614548
+231609,GNRL,"Eisai Inc.",NJ,100000000136,15.00,09/11/2013,GNRL,152541748

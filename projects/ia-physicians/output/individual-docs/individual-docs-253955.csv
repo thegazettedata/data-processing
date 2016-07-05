@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+253955,GNRL,"Arthrex, Inc.",FL,100000005371,517.00,03/05/2015,GNRL,301719488
+253955,GNRL,"The Medicines Company",NJ,100000010428,120.64,10/09/2015,GNRL,337725426
+253955,GNRL,"Arthrex, Inc.",FL,100000005371,32.00,03/05/2015,GNRL,301719479

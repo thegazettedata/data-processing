@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+33913,"FUJIFILM Medical Systems USA, Inc.",CT,100000000181,1253.00,12/31/2014,"In-kind items and services",174212385,Gift,"",EC-530LS,"","Loaner during Equipment Service"
+33913,"FUJIFILM Medical Systems USA, Inc.",CT,100000000181,666.00,09/09/2014,"In-kind items and services",174212374,Gift,"",EC-530LS,"","Loaner during Equipment Service"
+33913,"FUJIFILM Medical Systems USA, Inc.",CT,100000000181,493.00,12/31/2014,"In-kind items and services",174212396,Gift,"",EC-530LS,"","Loaner during Equipment Service"
+33913,"FUJIFILM Medical Systems USA, Inc.",CT,100000000181,427.84,12/31/2013,"In-kind items and services",103139692,Gift,"","","","Loaner during Equipment Service"
+33913,"Salix Pharmaceuticals, Ltd",NC,100000010796,107.95,09/05/2013,"In-kind items and services",104005080,"Food and Beverage","",APRISO,"",""
+33913,"FUJIFILM Medical Systems USA, Inc.",CT,100000000181,105.00,12/31/2014,"In-kind items and services",174212346,Gift,"",EG-530WR,"","Loaner during Equipment Service"
+33913,"AstraZeneca Pharmaceuticals LP",DE,100000000146,13.57,08/14/2013,"In-kind items and services",100915380,"Food and Beverage","",NEXIUM,"","Informational Meal"
+33913,"Boston Scientific Corporation",MA,100000005674,11.22,10/30/2013,"In-kind items and services",101919790,"Food and Beverage","","","",""
+33913,"FUJIFILM Medical Systems USA, Inc.",CT,100000000181,9.00,12/31/2014,"In-kind items and services",174212358,Gift,"",EC-530LS,"","Loaner during Equipment Service"

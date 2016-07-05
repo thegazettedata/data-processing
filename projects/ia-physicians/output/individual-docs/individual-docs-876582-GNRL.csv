@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+876582,"Novartis Pharmaceuticals Corporation",NJ,100000000228,121.52,09/25/2013,"In-kind items and services",24119970,"Food and Beverage","","NON BRAND","",""
+876582,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,99.52,10/08/2013,"In-kind items and services",31977679,"Food and Beverage","",SAMSCA,"",""
+876582,"Janssen Pharmaceuticals, Inc",NJ,100000000232,99.52,02/18/2014,"In-kind items and services",156756630,"Food and Beverage","",Invokana,"",""
+876582,"AstraZeneca Pharmaceuticals LP",DE,100000000146,91.04,10/21/2014,"In-kind items and services",149994554,"Food and Beverage","",BYDUREON,"","Educational Program"
+876582,"Novartis Pharmaceuticals Corporation",NJ,100000000228,90.25,11/21/2013,"In-kind items and services",24119971,"Food and Beverage","","NON BRAND","",""
+876582,"Eisai Inc.",NJ,100000000136,89.22,02/11/2014,"Cash or cash equivalent",184479500,"Food and Beverage","",Belviq,"",""
+876582,"Pfizer Inc.",NY,100000000286,86.95,10/19/2014,"In-kind items and services",206291484,"Food and Beverage","",ELIQUIS,"",""
+876582,"Janssen Pharmaceuticals, Inc",NJ,100000000232,4.38,08/28/2014,"In-kind items and services",156756632,Education,"",Xarelto,"","Journal Article"

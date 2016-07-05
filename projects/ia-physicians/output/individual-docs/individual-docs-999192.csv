@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+999192,GNRL,"Midmark Corporation",OH,100000010765,1031.31,03/30/2015,GNRL,337751400
+999192,GNRL,"Midmark Corporation",OH,100000010765,184.93,03/30/2015,GNRL,337751402
+999192,GNRL,"A-dec, Inc.",OR,100000005393,110.00,11/24/2014,GNRL,200782400
+999192,GNRL,"Tulsa Dental Products LLC",PA,100000010600,22.50,05/20/2014,GNRL,186874094
+999192,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,15.74,07/08/2014,GNRL,150260902
+999192,GNRL,"A-dec, Inc.",OR,100000005393,0.64,11/24/2014,GNRL,200782394

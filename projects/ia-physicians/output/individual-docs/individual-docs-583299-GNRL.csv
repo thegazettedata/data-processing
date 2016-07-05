@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+583299,"Sirtex Medical Inc",MA,100000010918,953.52,10/17/2015,"Cash or cash equivalent",340397966,"Travel and Lodging","","SIR-Spheres Microspheres","",""
+583299,"Sirtex Medical Inc",MA,100000010918,598.20,10/15/2015,"Cash or cash equivalent",339327716,"Travel and Lodging","","SIR-Spheres Microspheres","",""
+583299,"Sirtex Medical Inc",MA,100000010918,550.23,10/17/2015,"Cash or cash equivalent",340397968,"Food and Beverage","","SIR-Spheres Microspheres","",""
+583299,"Biocompatibles, Inc.",CT,100000011081,308.00,09/22/2015,"Cash or cash equivalent",340056116,"Travel and Lodging","","","",""
+583299,"Biocompatibles, Inc.",CT,100000011081,243.28,08/12/2015,"In-kind items and services",340056110,"Travel and Lodging","","","",""
+583299,"Biocompatibles, Inc.",CT,100000011081,185.56,08/12/2015,"In-kind items and services",340056112,"Food and Beverage","","","",""
+583299,"Biocompatibles, Inc.",CT,100000011081,150.00,08/12/2015,"In-kind items and services",340056108,Education,"","","",""
+583299,"Sirtex Medical Inc",MA,100000010918,127.00,10/15/2015,"Cash or cash equivalent",340397958,"Travel and Lodging","","SIR-Spheres Microspheres","",""
+583299,"Sirtex Medical Inc",MA,100000010918,90.87,10/15/2015,"Cash or cash equivalent",340397954,"Food and Beverage","","SIR-Spheres Microspheres","",""
+583299,"Sirtex Medical Inc",MA,100000010918,77.00,10/17/2015,"Cash or cash equivalent",340397962,"Travel and Lodging","","SIR-Spheres Microspheres","",""
+583299,"Biocompatibles, Inc.",CT,100000011081,65.00,09/22/2015,"Cash or cash equivalent",340056114,"Travel and Lodging","","","",""

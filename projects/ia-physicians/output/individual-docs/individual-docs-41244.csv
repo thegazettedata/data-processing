@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+41244,GNRL,"Henry Schein, Inc.",NY,100000005547,406.20,10/08/2014,GNRL,178653080
+41244,GNRL,"ELLMAN INTERNATIONAL",NY,100000000157,200.00,11/19/2014,GNRL,217691714
+41244,GNRL,"DENTSPLY IH Inc.",PA,100000010676,15.70,12/06/2013,GNRL,105337006

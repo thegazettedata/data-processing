@@ -1,0 +1,4 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1228020,"A-dec, Inc.",OR,100000005393,1405.00,01/31/2014,"In-kind items and services",200751036,Gift,"","","",""
+1228020,"Ivoclar Vivadent, Inc.",NY,100000010562,15.00,04/08/2014,"Cash or cash equivalent",164138816,"Food and Beverage","","","",""
+1228020,"Ivoclar Vivadent, Inc.",NY,100000010562,12.00,08/01/2014,"Cash or cash equivalent",164138818,"Food and Beverage","","","",""

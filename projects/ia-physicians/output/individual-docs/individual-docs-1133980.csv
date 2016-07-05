@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1133980,GNRL,"Synergetics USA, Inc",MO,100000010708,2673.00,03/11/2014,GNRL,158492062
+1133980,GNRL,"Genentech USA, Inc.",CA,100000000226,129.08,11/16/2013,GNRL,29798326
+1133980,GNRL,"Genentech, Inc.",CA,100000000089,19.71,11/15/2013,GNRL,29798325

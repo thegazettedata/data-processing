@@ -1,0 +1,11 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+403903,GNRL,"W. L. Gore & Associates, Inc.",DE,100000010774,222.10,06/18/2015,GNRL,295957998
+403903,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,152.48,09/12/2014,GNRL,136761898
+403903,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,75.00,09/13/2014,GNRL,136761216
+403903,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,51.24,09/13/2014,GNRL,136760902
+403903,GNRL,"Bolton Medical Inc",FL,100000005629,49.46,04/16/2014,GNRL,195498925
+403903,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,45.26,09/13/2014,GNRL,136760824
+403903,GNRL,"W. L. Gore & Associates, Inc.",DE,100000010774,44.49,07/23/2014,GNRL,182721478
+403903,GNRL,"Bolton Medical Inc",FL,100000005629,31.82,04/16/2014,GNRL,195498922
+403903,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,24.76,09/13/2014,GNRL,136760527
+403903,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,24.76,09/14/2014,GNRL,136760536

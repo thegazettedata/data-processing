@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+69921,GNRL,"A-dec, Inc.",OR,100000005393,285.00,10/20/2014,GNRL,200744822
+69921,GNRL,"A-dec, Inc.",OR,100000005393,100.00,04/11/2014,GNRL,200778696
+69921,GNRL,"Henry Schein, Inc.",NY,100000005547,48.50,12/23/2014,GNRL,178624576
+69921,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,28.59,05/18/2015,GNRL,301271271
+69921,GNRL,"National Dentex Corporation",FL,100000000065,21.15,12/01/2013,GNRL,105325222
+69921,GNRL,"DENTSPLY IH Inc.",PA,100000010676,12.22,08/24/2013,GNRL,105335054
+69921,GNRL,"Henry Schein, Inc.",NY,100000005547,11.31,03/31/2015,GNRL,333247066

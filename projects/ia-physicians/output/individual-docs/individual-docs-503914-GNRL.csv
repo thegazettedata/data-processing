@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+503914,"Allergan Inc.",CA,100000000278,124.94,01/14/2014,"In-kind items and services",192485968,"Food and Beverage","",RESTASIS,"",""
+503914,"Alcon Laboratories Inc",TX,100000005405,101.34,05/11/2015,"In-kind items and services",315192072,"Food and Beverage","","","",""
+503914,"Alcon Laboratories Inc",TX,100000005405,75.22,03/02/2015,"In-kind items and services",314889152,"Food and Beverage","","","",""
+503914,"Coopervision Inc.",NY,100000005728,72.12,04/08/2015,"In-kind items and services",330766813,"Food and Beverage","","","",""
+503914,"Alcon Laboratories Inc",TX,100000005405,65.44,10/02/2013,"In-kind items and services",23018816,"Food and Beverage","","","",""
+503914,"Alcon Laboratories Inc",TX,100000005405,61.94,07/10/2014,"In-kind items and services",167486300,"Food and Beverage","","","",""
+503914,"Alcon Laboratories Inc",TX,100000005405,13.48,09/11/2015,"In-kind items and services",315399758,"Food and Beverage","","","",""
+503914,"Alcon Laboratories Inc",TX,100000005405,11.00,05/08/2015,"In-kind items and services",315073844,"Food and Beverage","","","",""

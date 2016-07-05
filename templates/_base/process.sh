@@ -44,6 +44,9 @@ function createDB() {
 	# DATABASE TASKS
 	echo "DATABASE TASKS"
 
+	echo "Remove old DB"
+	rm $PROJECT_NAME.db
+
 	echo "Create table SQL statement"
 	csvsql -i sqlite --table data $CSV_THREE > sql/data-create.sql
 

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+527528,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,539.20,10/28/2014,GNRL,211826052
+527528,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,273.80,02/03/2015,GNRL,341638656
+527528,GNRL,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,96.52,10/14/2015,GNRL,293910492
+527528,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,23.00,10/28/2014,GNRL,211826050

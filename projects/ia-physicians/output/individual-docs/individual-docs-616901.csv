@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+616901,GNRL,"Henry Schein, Inc.",NY,100000005547,404.13,02/06/2014,GNRL,178586340
+616901,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,128.50,10/10/2015,GNRL,301411958
+616901,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,126.50,10/10/2015,GNRL,301411977
+616901,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,28.59,05/18/2015,GNRL,301271426
+616901,GNRL,"DASH MEDICAL GLOVES INC",WI,100000000242,10.00,06/02/2014,GNRL,159565967

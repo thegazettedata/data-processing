@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+913591,GNRL,"Arthrex, Inc.",FL,100000005371,1215.00,04/11/2015,GNRL,301675782
+913591,GNRL,"Arthrex, Inc.",FL,100000005371,568.76,04/15/2015,GNRL,301675792
+913591,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,154.00,02/26/2015,GNRL,300908834
+913591,GNRL,"Arthrex, Inc.",FL,100000005371,84.79,04/15/2015,GNRL,301675790
+913591,GNRL,"Steelhead Surgical Inc",OR,100000061317,67.81,04/11/2015,GNRL,264022048
+913591,GNRL,"Stryker Corporation",MI,100000010503,27.00,09/09/2015,GNRL,316867706
+913591,GNRL,"Steelhead Surgical Inc",OR,100000061317,16.95,04/11/2015,GNRL,264022052
+913591,GNRL,"Steelhead Surgical Inc",OR,100000061317,13.00,04/11/2015,GNRL,264022046

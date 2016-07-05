@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+962971,GNRL,"W. L. Gore & Associates, Inc.",DE,100000010774,750.00,10/30/2015,GNRL,296003916
+962971,GNRL,"Stryker Corporation",MI,100000010503,136.90,11/18/2015,GNRL,316835294
+962971,GNRL,"Stryker Corporation",MI,100000010503,96.41,03/10/2015,GNRL,316835292

@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+291206,"OPTOS, INC.",MA,100000000312,1283.80,09/07/2014,"Cash or cash equivalent",124195973,"Travel and Lodging",Travizon,"","",""
+291206,"OPTOS PLC","",100000010442,527.80,09/07/2014,"Cash or cash equivalent",124186621,"Travel and Lodging","Radisson Blu","","",""
+291206,"OPTOS PLC","",100000010442,160.14,09/07/2014,"Cash or cash equivalent",124188159,"Travel and Lodging","LR Executives","","",""
+291206,"Alcon Laboratories Inc",TX,100000005405,99.95,02/19/2014,"In-kind items and services",167186520,"Food and Beverage","","","",""
+291206,"Allergan Inc.",CA,100000000278,90.48,09/01/2015,"In-kind items and services",289779164,"Food and Beverage","",RESTASIS,"",""
+291206,"Alcon Laboratories Inc",TX,100000005405,74.77,07/21/2015,"In-kind items and services",315268718,"Food and Beverage","","","",""
+291206,"Alcon Laboratories Inc",TX,100000005405,65.34,05/19/2015,"In-kind items and services",315135938,"Food and Beverage","",Durezol,"",""
+291206,"OPTOS PLC","",100000010442,30.37,09/07/2014,"Cash or cash equivalent",124186965,Education,"Guest Speaker","","",""
+291206,"OPTOS, INC.",MA,100000000312,23.57,09/07/2014,"Cash or cash equivalent",124196385,Gift,"Curry Printing","","",""
+291206,"Coopervision Inc.",NY,100000005728,13.19,11/25/2013,"In-kind items and services",103358000,"Food and Beverage","","","",""
+291206,"OPTOS PLC","",100000010442,9.54,09/07/2014,"Cash or cash equivalent",124187789,"Food and Beverage","Queensferry House","","",""
+291206,"OPTOS PLC","",100000010442,2.39,09/07/2014,"Cash or cash equivalent",124187341,Gift,Photography,"","",""

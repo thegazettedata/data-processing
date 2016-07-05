@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1033057,GNRL,"DJO, LLC",CA,100000005579,5465.92,03/20/2014,GNRL,220798424
+1033057,GNRL,"Stryker Corporation",MI,100000010503,96.35,11/01/2014,GNRL,199061358
+1033057,GNRL,"Stryker Corporation",MI,100000010503,36.38,08/05/2015,GNRL,316755912
+1033057,GNRL,"RSW Medical Company, Inc.",SD,100000010409,34.25,02/11/2015,GNRL,292568460
+1033057,GNRL,"Zimmer Holding Inc",IN,100000000103,18.46,10/07/2014,GNRL,216362180
+1033057,GNRL,"Stryker Corporation",MI,100000010503,17.53,01/12/2015,GNRL,316878076
+1033057,GNRL,"Stryker Corporation",MI,100000010503,16.26,02/24/2015,GNRL,316787040

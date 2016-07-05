@@ -1,0 +1,11 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1380733,"St. Jude Medical, Inc.",MN,100000000310,168.97,11/13/2015,"Cash or cash equivalent",259515544,"Travel and Lodging","","","",""
+1380733,"St. Jude Medical, Inc.",MN,100000000310,140.00,11/13/2015,"Cash or cash equivalent",259515542,"Food and Beverage","","","",""
+1380733,"St. Jude Medical, Inc.",MN,100000000310,99.08,11/14/2015,"Cash or cash equivalent",259515548,"Food and Beverage","","","",""
+1380733,"Lantheus Medical Imaging, Inc.",MA,100000005400,82.29,12/01/2015,"In-kind items and services",265071738,"Food and Beverage","",Definity,"",""
+1380733,"St. Jude Medical, Inc.",MN,100000000310,36.72,11/13/2015,"Cash or cash equivalent",259515538,"Food and Beverage","","","",""
+1380733,"St. Jude Medical, Inc.",MN,100000000310,21.02,11/13/2015,"Cash or cash equivalent",259515540,"Travel and Lodging","","","",""
+1380733,"St. Jude Medical, Inc.",MN,100000000310,20.00,11/14/2015,"Cash or cash equivalent",259515546,"Food and Beverage","","","",""
+1380733,"St. Jude Medical, Inc.",MN,100000000310,16.37,11/14/2015,"Cash or cash equivalent",259515550,"Food and Beverage","","","",""
+1380733,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,13.96,12/09/2015,"Cash or cash equivalent",332222435,"Food and Beverage","",ELIQUIS,"",""
+1380733,"Lilly USA, LLC",IN,100000000066,11.18,08/21/2015,"In-kind items and services",267645078,"Food and Beverage","",EFFIENT,"",""

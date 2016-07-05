@@ -1,0 +1,11 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1141139,GNRL,"Meda Pharmaceuticals, Inc.",NJ,100000011184,1700.00,04/08/2015,GNRL,326844456
+1141139,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,956.00,06/27/2014,GNRL,150259838
+1141139,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,518.05,06/27/2014,GNRL,150259334
+1141139,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,350.30,06/27/2014,GNRL,148503882
+1141139,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,104.00,06/27/2014,GNRL,149324365
+1141139,GNRL,"Meda Pharmaceuticals, Inc.",NJ,100000011184,59.07,04/08/2015,GNRL,326845182
+1141139,GNRL,"Chiesi USA, Inc.",NC,100000010860,46.10,02/03/2015,GNRL,340915656
+1141139,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,38.98,10/21/2014,GNRL,202275258
+1141139,GNRL,"Chiesi USA, Inc.",NC,100000010860,23.05,02/19/2015,GNRL,340915658
+1141139,GNRL,"Chiesi USA, Inc.",NC,100000010860,10.98,08/20/2014,GNRL,214250018

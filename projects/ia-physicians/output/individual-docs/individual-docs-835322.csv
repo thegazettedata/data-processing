@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+835322,GNRL,"American Medical Systems Inc.",MN,100000000345,138.11,05/16/2015,GNRL,246208918
+835322,GNRL,"Boston Scientific Corporation",MA,100000005674,123.25,11/12/2015,GNRL,246105984
+835322,GNRL,"American Medical Systems Inc.",MN,100000000345,109.20,07/27/2015,GNRL,246209394
+835322,GNRL,"Medtronic USA, Inc.",MN,100000010383,96.37,03/26/2015,GNRL,294936370
+835322,GNRL,"American Medical Systems Inc.",MN,100000000345,60.60,11/24/2014,GNRL,148652221
+835322,GNRL,"Boston Scientific Corporation",MA,100000005674,22.04,09/29/2015,GNRL,246105986
+835322,GNRL,"Boston Scientific Corporation",MA,100000005674,18.19,10/13/2015,GNRL,246105988

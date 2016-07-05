@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+46352,GNRL,"Cook Incorporated",IN,100000010458,563.60,10/16/2013,GNRL,103218514
+46352,GNRL,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,25.00,12/17/2013,GNRL,14023672
+46352,GNRL,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,25.00,12/17/2013,GNRL,14023671

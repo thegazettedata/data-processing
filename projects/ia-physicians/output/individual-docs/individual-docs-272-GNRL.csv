@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+272,"ARIAD Pharmaceuticals, Inc.",MA,100000010550,750.00,04/20/2015,"Cash or cash equivalent",325876108,"Consulting Fee","",Iclusig,"",""
+272,"McKesson Specialty Care Distribution Corp.",CA,100000010520,198.00,12/01/2013,"Cash or cash equivalent",104886530,"Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program","Cedar Valley Med Specialists, PC","","",""
+272,"AstraZeneca Pharmaceuticals LP",DE,100000000146,20.05,04/14/2015,"In-kind items and services",260123374,"Food and Beverage","",FASLODEX,"","Informational Meal"
+272,"Pfizer Inc.",NY,100000000286,17.50,11/04/2013,"In-kind items and services",205230802,Education,"",XALKORI,"",""
+272,"Toshiba America Medical Systems, Inc.",CA,100000000344,17.26,08/18/2014,"Cash or cash equivalent",158738348,"Food and Beverage","","","",""
+272,"Ipsen Biopharmaceuticals, Inc",NJ,100000000123,16.92,05/27/2015,"Cash or cash equivalent",341508670,"Food and Beverage","","Somatuline Depot 120mg-.5ml","",""
+272,"Amgen Inc.",CA,100000000203,14.28,04/08/2015,"In-kind items and services",297249954,"Food and Beverage","",Neulasta,Vectibix,""
+272,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,13.76,07/14/2015,"In-kind items and services",337914422,"Food and Beverage","",Stivarga,Xofigo,""

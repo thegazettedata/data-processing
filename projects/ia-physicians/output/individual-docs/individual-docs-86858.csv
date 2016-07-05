@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+86858,GNRL,"McKesson Specialty Care Distribution Corp.",CA,100000010520,1046.47,05/15/2014,GNRL,211755950
+86858,GNRL,"McKesson Specialty Care Distribution Corp.",CA,100000010520,993.35,08/01/2013,GNRL,104886458
+86858,GNRL,"Janssen Products, LP",PA,100000000325,64.99,11/07/2013,GNRL,17399974
+86858,GNRL,"Janssen Biotech, Inc.",PA,100000000329,62.99,08/12/2014,GNRL,156681246
+86858,GNRL,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,20.00,04/16/2015,GNRL,337909344
+86858,GNRL,"Novartis Pharmaceuticals Corporation",NJ,100000000228,12.43,10/22/2013,GNRL,24054088

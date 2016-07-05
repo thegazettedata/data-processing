@@ -1,0 +1,8 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+962743,"ACUMED LLC",OR,100000000216,884.64,02/07/2014,"Cash or cash equivalent",174496952,"Food and Beverage","","","",""
+962743,"ACUMED LLC",OR,100000000216,450.26,02/07/2014,"Cash or cash equivalent",174740158,"Travel and Lodging","","","",""
+962743,"ACUMED LLC",OR,100000000216,400.00,02/06/2014,"Cash or cash equivalent",174496956,"Travel and Lodging","","","",""
+962743,"ACUMED LLC",OR,100000000216,320.04,02/07/2014,"Cash or cash equivalent",174740038,"Food and Beverage","","","",""
+962743,"Lilly USA, LLC",IN,100000000066,12.62,11/19/2015,"In-kind items and services",268227538,"Food and Beverage","",FORTEO,"",""
+962743,"Zimmer Biomet Holdings, Inc.",IN,100000000103,11.86,09/18/2015,"In-kind items and services",301061809,"Food and Beverage","","","",""
+962743,"Zimmer Biomet Holdings, Inc.",IN,100000000103,11.85,09/18/2015,"In-kind items and services",301061276,"Food and Beverage","","","",""

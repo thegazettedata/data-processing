@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,3500.00,04/17/2015,"Cash or cash equivalent",321536900,Honoraria,"","","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,902.91,04/17/2015,"In-kind items and services",321536904,"Travel and Lodging","","","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,536.30,11/19/2014,"In-kind items and services",188814950,"Travel and Lodging","","","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,134.79,12/08/2014,"In-kind items and services",188814960,"Travel and Lodging","","","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,134.79,12/08/2014,"In-kind items and services",188814962,"Travel and Lodging","","","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,112.25,12/04/2014,"In-kind items and services",188814958,"Travel and Lodging","","","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,104.25,12/08/2014,"In-kind items and services",188814966,"Travel and Lodging","","","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,51.00,06/30/2014,"In-kind items and services",188814970,"Food and Beverage","","EYLEA aflibercept injection","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,38.42,04/17/2015,"In-kind items and services",321536886,"Food and Beverage","","","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,24.00,04/17/2015,"In-kind items and services",321536894,"Travel and Lodging","","","",""
+203349,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,22.00,11/19/2014,"In-kind items and services",188814956,"Travel and Lodging","","","",""
+203349,"Allergan Inc.",CA,100000000278,15.80,11/12/2013,"In-kind items and services",102645540,Education,"",OZURDEX,"",""

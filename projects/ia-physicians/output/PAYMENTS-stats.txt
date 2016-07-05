@@ -10,221 +10,221 @@
 	<type 'int'>
 	Nulls: True
 	Min: 342
-	Max: 1762
-	Sum: 4381923
-	Mean: 1387.56269791
+	Max: 2949
+	Sum: 11859295
+	Mean: 2008.00795801
 	Median: 1761.0
-	Standard Deviation: 548.018505893
-	Unique values: 34
+	Standard Deviation: 885.890003123
+	Unique values: 51
 	5 most frequent values:
-		1761:	1724
-		582:	722
-		1751:	81
-		1757:	57
-		1521:	56
+		2948:	1927
+		1761:	1855
+		582:	880
+		2946:	118
+		1751:	99
   4. Teaching_Hospital_Name
 	<type 'unicode'>
 	Nulls: True
-	Unique values: 57
+	Unique values: 61
 	5 most frequent values:
-		UNIV OF IOWA HOSP & CLINIC:	1688
-		State University Of Iowa:	597
-		STATE UNIVERSITY OF IOWA:	110
-		MERCY MEDICAL CENTER-DES MOINES:	73
-		BROADLAWNS MEDICAL CENTER:	57
+		UNIV OF IOWA HOSP & CLINIC:	3669
+		State University Of Iowa:	754
+		GENESIS MEDICAL CENTER:	163
+		MERCY MEDICAL CENTER-DES MOINES:	155
+		STATE UNIVERSITY OF IOWA:	111
 	Max length: 37
   5. Physician_Profile_ID
 	<type 'int'>
 	Nulls: True
 	Min: 12
-	Max: 1316891
-	Sum: 25365097177
-	Mean: 298982.733881
-	Median: 219359.0
-	Standard Deviation: 291473.48762
-	Unique values: 6010
+	Max: 1400263
+	Sum: 48446671405
+	Mean: 318820.391462
+	Median: 227068.0
+	Standard Deviation: 311378.995117
+	Unique values: 7427
 	5 most frequent values:
-		55276:	491
-		62683:	380
-		12930:	342
-		46454:	318
-		145520:	309
+		55276:	916
+		62683:	723
+		12930:	639
+		46454:	590
+		145520:	550
   6. Physician_First_Name
 	<type 'unicode'>
 	Nulls: True
-	Unique values: 2529
+	Unique values: 3034
 	5 most frequent values:
-		MICHAEL:	2360
-		DAVID:	2112
-		ROBERT:	2061
-		MARK:	1494
-		JOHN:	1487
+		MICHAEL:	4036
+		DAVID:	3807
+		ROBERT:	3638
+		MARK:	2793
+		JOHN:	2683
 	Max length: 20
   7. Physician_Middle_Name
 	<type 'unicode'>
 	Nulls: True
-	Unique values: 1303
+	Unique values: 1587
 	5 most frequent values:
-		L:	3095
-		A:	3009
-		J:	2999
-		C:	1963
-		M:	1880
+		J:	7254
+		A:	7199
+		L:	6906
+		M:	4902
+		C:	4337
 	Max length: 18
   8. Physician_Last_Name
 	<type 'unicode'>
 	Nulls: True
-	Unique values: 5778
+	Unique values: 7010
 	5 most frequent values:
-		JOHNSON:	699
-		SMITH:	569
-		PETERSON:	507
-		JENNISCH:	488
-		CARLSON:	376
-	Max length: 21
+		JOHNSON:	1350
+		SMITH:	1065
+		JENNISCH:	905
+		PETERSON:	844
+		CARLSON:	717
+	Max length: 24
   9. Recipient_Primary_Business_Street_Address_Line1
 	<type 'unicode'>
 	Nulls: False
-	Unique values: 5358
+	Unique values: 6707
 	5 most frequent values:
-		200 HAWKINS DR:	3685
-		200 Hawkins Dr:	2429
-		1 EDMUNDSON PL:	906
-		300 N 4TH AVE E:	894
-		5950 UNIVERSITY AVE:	793
+		200 HAWKINS DR:	6670
+		200 Hawkins Dr:	3845
+		1 EDMUNDSON PL:	2005
+		300 N 4TH AVE E:	1966
+		1111 6TH AVE:	1705
 	Max length: 55
  10. Recipient_Primary_Business_Street_Address_Line2
 	<type 'unicode'>
 	Nulls: True
-	Unique values: 1464
+	Unique values: 1878
 	5 most frequent values:
-		SUITE 200:	889
-		STE 200:	791
-		SUITE 100:	665
-		STE 100:	564
-		SUITE 210:	549
+		SUITE 200:	2059
+		SUITE 100:	1414
+		STE 200:	1267
+		SUITE 210:	939
+		STE 100:	873
 	Max length: 55
  11. Recipient_City
 	<type 'unicode'>
 	Nulls: False
-	Unique values: 528
+	Unique values: 794
 	5 most frequent values:
-		DES MOINES:	7978
-		IOWA CITY:	6192
-		COUNCIL BLUFFS:	4477
-		WATERLOO:	4430
-		WEST DES MOINES:	4363
-	Max length: 16
+		DES MOINES:	14118
+		IOWA CITY:	11910
+		COUNCIL BLUFFS:	9041
+		WEST DES MOINES:	8110
+		WATERLOO:	7734
+	Max length: 17
  12. Recipient_Zip_Code
 	<type 'unicode'>
 	Nulls: False
-	Unique values: 1694
+	Unique values: 2045
 	5 most frequent values:
-		52242:	5687
-		50266:	3246
-		51503:	2965
-		50314:	2889
-		50702:	2413
+		52242:	9968
+		50266:	5723
+		51503:	5218
+		50314:	5092
+		50702:	3984
 	Max length: 10
  13. Physician_Primary_Type
 	<type 'unicode'>
 	Nulls: True
 	Unique values: 6
 	5 most frequent values:
-		Medical Doctor:	64041
-		Doctor of Osteopathy:	14288
-		Doctor of Dentistry:	2506
-		Doctor of Optometry:	2329
-		Doctor of Podiatric Medicine:	1648
+		Medical Doctor:	115098
+		Doctor of Osteopathy:	25893
+		Doctor of Dentistry:	4318
+		Doctor of Optometry:	3771
+		Doctor of Podiatric Medicine:	2832
 	Max length: 28
  14. Physician_Specialty
 	<type 'unicode'>
 	Nulls: True
-	Unique values: 181
+	Unique values: 202
 	5 most frequent values:
-		Allopathic & Osteopathic Physicians/ Family Medicine:	29765
-		Allopathic & Osteopathic Physicians/ Internal Medicine:	7675
-		Allopathic & Osteopathic Physicians/ Internal Medicine/ Cardiovascular Disease:	4814
-		Allopathic & Osteopathic Physicians/ Psychiatry & Neurology/ Psychiatry:	4410
-		Eye and Vision Services Providers/ Optometrist:	2391
-	Max length: 117
+		Allopathic & Osteopathic Physicians|Family Medicine:	53018
+		Allopathic & Osteopathic Physicians|Internal Medicine:	13878
+		Allopathic & Osteopathic Physicians|Internal Medicine|Cardiovascular Disease:	8756
+		Allopathic & Osteopathic Physicians|Psychiatry & Neurology|Psychiatry:	8213
+		Allopathic & Osteopathic Physicians|Internal Medicine|Gastroenterology:	4303
+	Max length: 115
  15. Submitting_Applicable_Manufacturer_or_Applicable_GPO_Name
 	<type 'unicode'>
 	Nulls: False
-	Unique values: 544
+	Unique values: 685
 	5 most frequent values:
-		AstraZeneca Pharmaceuticals LP:	6022
-		Janssen Pharmaceuticals, Inc:	5714
-		Pfizer Inc.:	5203
-		Novo Nordisk Inc:	4412
-		Forest Laboratories, Inc.:	4358
-	Max length: 51
+		Pfizer Inc.:	10682
+		Janssen Pharmaceuticals, Inc:	10285
+		AstraZeneca Pharmaceuticals LP:	9722
+		Novo Nordisk Inc:	7744
+		Boehringer Ingelheim Pharmaceuticals, Inc.:	7358
+	Max length: 77
  16. Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID
 	<type 'int'>
 	Nulls: False
 	Min: 100000000053
-	Max: 100000086401
-	Sum: 9074600323497837
-	Mean: 1.00000003565e+11
+	Max: 100000136570
+	Sum: 16348600732619355
+	Mean: 1.00000004481e+11
 	Median: 1.00000000286e+11
-	Standard Deviation: 7339.99844003
-	Unique values: 582
+	Standard Deviation: 11644.7749003
+	Unique values: 712
 	5 most frequent values:
-		100000000146:	5958
-		100000000286:	5202
-		100000000232:	4831
-		100000000144:	4412
-		100000005529:	4325
+		100000000286:	10681
+		100000000146:	9630
+		100000000232:	8696
+		100000000234:	7358
+		100000000144:	7336
  17. Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name
 	<type 'unicode'>
 	Nulls: False
-	Unique values: 607
+	Unique values: 755
 	5 most frequent values:
-		AstraZeneca Pharmaceuticals LP:	5958
-		Pfizer Inc.:	5202
-		Janssen Pharmaceuticals, Inc:	4831
-		Novo Nordisk Inc:	4412
-		FOREST PHARMACEUTICALS, INC.:	4325
-	Max length: 59
+		Pfizer Inc.:	10681
+		AstraZeneca Pharmaceuticals LP:	9630
+		Janssen Pharmaceuticals, Inc:	8696
+		Boehringer Ingelheim Pharmaceuticals, Inc.:	7358
+		Novo Nordisk Inc:	7336
+	Max length: 77
  18. Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State
 	<type 'unicode'>
 	Nulls: True
-	Unique values: 37
+	Unique values: 40
 	5 most frequent values:
-		NJ:	26186
-		CA:	9114
-		IL:	8084
-		DE:	6447
-		NY:	6088
+		NJ:	47882
+		CA:	15333
+		IL:	14120
+		NY:	12261
+		MA:	10359
 	Max length: 4
  19. Total_Amount_of_Payment_USDollars
 	<type 'float'>
 	Nulls: False
 	Min: 0.0
 	Max: 660312.74
-	Sum: 39113860.93
-	Mean: 431.02573039
-	Median: 14.03
-	Standard Deviation: 7417.19769081
-	Unique values: 12724
+	Sum: 71253131.51
+	Mean: 435.836288795
+	Median: 14.0
+	Standard Deviation: 6804.08995021
+	Unique values: 18382
 	5 most frequent values:
-		100.0:	376
-		1000.0:	249
-		1500.0:	249
-		69.0:	236
-		14.25:	231
+		100.0:	619
+		1000.0:	394
+		1500.0:	385
+		500.0:	376
+		2500.0:	352
  20. Date_of_Payment
 	<type 'datetime.date'>
 	Nulls: False
 	Min: 2013-08-01
-	Max: 2014-12-31
-	Unique values: 515
+	Max: 2015-12-31
+	Unique values: 878
 	5 most frequent values:
-		2014-04-10:	392
-		2014-10-15:	372
-		2014-04-01:	365
-		2013-11-07:	365
-		2013-11-12:	360
+		2015-04-30:	414
+		2015-04-14:	404
+		2014-04-10:	396
+		2015-12-10:	389
+		2015-10-13:	385
  21. Form_of_Payment_or_Transfer_of_Value
 	<type 'unicode'>
 	Nulls: False
@@ -233,11 +233,11 @@
 	<type 'int'>
 	Nulls: False
 	Min: 1924253
-	Max: 222237588
-	Sum: 13667869862912
-	Mean: 150616774.986
-	Median: 162114727.0
-	Standard Deviation: 58995146.7816
-	Unique values: 90746
+	Max: 343069371
+	Sum: 35518072634941
+	Mean: 217254521.09
+	Median: 207420916.0
+	Standard Deviation: 89561281.6734
+	Unique values: 163486
 
-Row count: 90746
+Row count: 163486

@@ -1,0 +1,11 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+230092,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,3500.00,10/31/2013,GNRL,103748576
+230092,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,455.21,11/19/2013,GNRL,103748578
+230092,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,154.56,04/01/2014,GNRL,211867030
+230092,GNRL,"American Medical Systems Inc.",MN,100000000345,122.79,07/24/2014,GNRL,148611680
+230092,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,40.29,07/01/2014,GNRL,211794870
+230092,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,27.00,11/19/2013,GNRL,103748580
+230092,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,21.53,11/14/2013,GNRL,103748582
+230092,GNRL,"Ethicon Inc.",NJ,100000000122,20.48,10/25/2013,GNRL,10425528
+230092,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,18.10,11/14/2013,GNRL,103748584
+230092,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,12.33,12/23/2015,GNRL,341447460

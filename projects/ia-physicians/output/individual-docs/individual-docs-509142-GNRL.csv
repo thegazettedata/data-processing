@@ -1,0 +1,11 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+509142,"Intuitive Surgical, Inc.",CA,100000005384,251.55,04/29/2014,"In-kind items and services",211911896,"Travel and Lodging","","","",""
+509142,"Intuitive Surgical, Inc.",CA,100000005384,243.28,01/28/2014,"In-kind items and services",211911892,"Travel and Lodging","","","",""
+509142,"Baxter Healthcare",IL,100000011010,58.33,03/06/2014,"In-kind items and services",211103148,"Food and Beverage","","BioSurgery - TISSEEL","",""
+509142,"Convatec Inc.",NC,100000000289,22.03,05/12/2015,"Cash or cash equivalent",260176495,"Food and Beverage","","","",""
+509142,"Ethicon US, LLC",OH,100000061307,18.66,08/04/2015,"In-kind items and services",269811570,"Food and Beverage","",Evarrest,"","Related to product discussion"
+509142,"Mallinckrodt LLC",MO,100000005429,17.99,06/10/2014,"In-kind items and services",210973448,"Food and Beverage","","Pennsaid 2 percent Topical Solution","",""
+509142,"Intuitive Surgical, Inc.",CA,100000005384,17.69,03/19/2014,"In-kind items and services",211911894,"Food and Beverage","","","",""
+509142,"Actavis Pharma Inc",NJ,100000010642,12.77,07/07/2015,"In-kind items and services",339367676,"Food and Beverage","",DALVANCE,"",""
+509142,"Mallinckrodt LLC",MO,100000005429,12.54,12/08/2014,"In-kind items and services",210911486,"Food and Beverage","","Xartemis XR","",""
+509142,"Covidien Sales LLC",MA,100000000098,11.65,11/26/2014,"Cash or cash equivalent",220654694,"Food and Beverage","","","",""

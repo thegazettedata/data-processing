@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+485275,GNRL,"A-dec, Inc.",OR,100000005393,415.00,10/24/2013,GNRL,23398808
+485275,GNRL,"Henry Schein, Inc.",NY,100000005547,33.50,11/05/2015,GNRL,333259246
+485275,GNRL,"Henry Schein, Inc.",NY,100000005547,16.49,06/09/2015,GNRL,333249892
+485275,GNRL,"Patterson Companies, Inc.",MN,100000011158,13.94,06/19/2014,GNRL,217567432
+485275,GNRL,"Patterson Companies, Inc.",MN,100000011158,13.94,06/19/2014,GNRL,219312458
+485275,GNRL,"Patterson Companies, Inc.",MN,100000011158,13.94,06/19/2014,GNRL,221543721
+485275,GNRL,"Patterson Companies, Inc.",MN,100000011158,13.94,06/19/2014,GNRL,221543720
+485275,GNRL,"Patterson Companies, Inc.",MN,100000011158,13.94,06/19/2014,GNRL,217587648

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+819901,GNRL,"Boston Scientific Corporation",MA,100000005674,393.40,10/25/2013,GNRL,19761668
+819901,GNRL,"Boston Scientific Corporation",MA,100000005674,129.59,10/26/2013,GNRL,19761669
+819901,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,82.88,09/18/2013,GNRL,12876411
+819901,GNRL,"Boston Scientific Corporation",MA,100000005674,36.02,10/25/2013,GNRL,19761667

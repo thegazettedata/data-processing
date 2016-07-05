@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+313141,GNRL,"A-dec, Inc.",OR,100000005393,864.00,02/24/2015,GNRL,294288930
+313141,GNRL,"3M Company",MN,100000000301,122.00,08/22/2013,GNRL,103623432
+313141,GNRL,"3M Company",MN,100000000301,30.50,08/22/2013,GNRL,103623434
+313141,GNRL,"3M Company",MN,100000000301,28.88,07/15/2015,GNRL,269463684
+313141,GNRL,"3M Company",MN,100000000301,27.36,04/01/2014,GNRL,164057280
+313141,GNRL,"Raintree Essix Inc",PA,100000010628,12.76,07/08/2015,GNRL,329235582
+313141,GNRL,"Philips Electronics North America Corporation",MA,100000000198,10.88,10/21/2015,GNRL,298659608

@@ -1,0 +1,12 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+703165,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,105.85,11/10/2015,GNRL,290649122
+703165,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,99.52,05/21/2015,GNRL,275606442
+703165,GNRL,"GENZYME CORPORATION",MA,100000000297,94.86,04/07/2014,GNRL,188523110
+703165,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,93.33,05/28/2015,GNRL,333312690
+703165,GNRL,"Gilead Sciences Inc",CA,100000000108,92.02,09/17/2015,GNRL,316505816
+703165,GNRL,"Cordis Corporation",CA,100000005411,22.16,10/07/2013,GNRL,10402256
+703165,GNRL,"Cordis Corporation",CA,100000005411,21.70,11/07/2013,GNRL,10403309
+703165,GNRL,"Cordis Corporation",CA,100000005411,21.37,08/28/2013,GNRL,10401447
+703165,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,5.40,02/20/2015,GNRL,275606438
+703165,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,2.21,03/11/2015,GNRL,275606436
+703165,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,2.21,02/11/2015,GNRL,275606440

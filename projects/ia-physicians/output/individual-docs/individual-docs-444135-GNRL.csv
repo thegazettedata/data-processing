@@ -1,0 +1,7 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+444135,"Allergan Inc.",CA,100000000278,125.91,11/03/2015,"In-kind items and services",289800476,"Food and Beverage","",RESTASIS,"",""
+444135,"Allergan Inc.",CA,100000000278,124.94,01/14/2014,"In-kind items and services",192425992,"Food and Beverage","",RESTASIS,"",""
+444135,"Alcon Laboratories Inc",TX,100000005405,114.00,03/04/2014,"In-kind items and services",167486932,"Food and Beverage","","","",""
+444135,"Bausch and Lomb Inc.",NY,100000010937,99.98,06/05/2014,"In-kind items and services",216844786,"Food and Beverage","","","",""
+444135,"Alcon Laboratories Inc",TX,100000005405,64.31,09/16/2014,"In-kind items and services",167486936,"Food and Beverage","","","",""
+444135,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,17.03,04/23/2015,"In-kind items and services",295424441,"Food and Beverage","",PROLENSA,ALREX,""

@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+621531,GNRL,"A-dec, Inc.",OR,100000005393,690.00,05/08/2014,GNRL,200764046
+621531,GNRL,"A-dec, Inc.",OR,100000005393,310.00,05/08/2014,GNRL,200799547
+621531,GNRL,"Zimmer Holding Inc",IN,100000000103,37.54,06/26/2014,GNRL,216395446
+621531,GNRL,"Sirona Dental Systems Inc.",NY,100000076368,24.11,05/02/2014,GNRL,217394614
+621531,GNRL,"Dentsply International",PA,100000000185,12.83,05/07/2014,GNRL,170950796
+621531,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,6.32,05/27/2015,GNRL,281499968

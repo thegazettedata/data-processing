@@ -1,0 +1,7 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+587567,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,466.67,12/09/2015,"Cash or cash equivalent",295585572,"Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program","Heart of America Contact Lens Society",BEPREVE,"",""
+587567,"Alcon Laboratories Inc",TX,100000005405,94.99,07/14/2014,"In-kind items and services",167488345,"Food and Beverage","","","",""
+587567,"Allergan Inc.",CA,100000000278,18.35,08/27/2014,"In-kind items and services",198103278,"Food and Beverage","",RESTASIS,"",""
+587567,"Allergan Inc.",CA,100000000278,16.65,03/18/2015,"In-kind items and services",288588456,"Food and Beverage","",RESTASIS,"",""
+587567,"Alcon Laboratories Inc",TX,100000005405,12.35,07/30/2014,"In-kind items and services",167488342,"Food and Beverage","","","",""
+587567,"Allergan Inc.",CA,100000000278,6.64,01/10/2014,"In-kind items and services",198103268,"Food and Beverage","",RESTASIS,"",""

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+594739,GNRL,"Ferring Pharmaceuticals Inc.",NJ,100000000309,762.00,08/02/2014,GNRL,213437464
+594739,GNRL,"Ferring Pharmaceuticals Inc.",NJ,100000000309,264.12,08/02/2014,GNRL,213437462
+594739,GNRL,"Ferring Pharmaceuticals Inc.",NJ,100000000309,116.02,07/31/2014,GNRL,213437458
+594739,GNRL,"Ferring Pharmaceuticals Inc.",NJ,100000000309,70.05,08/02/2014,GNRL,213437460

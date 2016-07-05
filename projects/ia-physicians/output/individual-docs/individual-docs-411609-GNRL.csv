@@ -1,0 +1,8 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+411609,"Biogen, Inc.",MA,100000000193,89.73,12/18/2015,"Cash or cash equivalent",320687360,"Food and Beverage","",TYSABRI,TECFIDERA,""
+411609,"Biogen Idec Inc.",MA,100000000193,86.73,06/04/2014,"Cash or cash equivalent",204170318,"Food and Beverage","",TYSABRI,TECFIDERA,""
+411609,"Biogen, Inc.",MA,100000000193,85.02,08/26/2015,"Cash or cash equivalent",320687380,"Food and Beverage","",TYSABRI,"",""
+411609,"Biogen Idec Inc.",MA,100000000193,84.43,12/10/2014,"Cash or cash equivalent",204158548,"Food and Beverage","",TYSABRI,TECFIDERA,""
+411609,"Biogen, Inc.",MA,100000000193,84.34,05/20/2015,"Cash or cash equivalent",320687374,"Food and Beverage","",TYSABRI,"",""
+411609,"Biogen, Inc.",MA,100000000193,83.65,02/16/2015,"Cash or cash equivalent",320687370,"Food and Beverage","",TYSABRI,"",""
+411609,"Biogen Idec Inc.",MA,100000000193,42.00,01/24/2014,"Cash or cash equivalent",204170316,Education,"",TECFIDERA,"",""

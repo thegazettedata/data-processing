@@ -1,0 +1,4 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+962971,"W. L. Gore & Associates, Inc.",DE,100000010774,750.00,10/30/2015,"Cash or cash equivalent",296003916,"Consulting Fee","","","",""
+962971,"Stryker Corporation",MI,100000010503,136.90,11/18/2015,"Cash or cash equivalent",316835294,"Food and Beverage","","","",""
+962971,"Stryker Corporation",MI,100000010503,96.41,03/10/2015,"Cash or cash equivalent",316835292,"Food and Beverage","","","",""

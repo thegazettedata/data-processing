@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1036199,GNRL,"Covidien LP",MA,100000000083,724.20,04/28/2015,GNRL,274913162
+1036199,GNRL,"Covidien LP",MA,100000000083,133.43,05/07/2015,GNRL,274913166
+1036199,GNRL,"AngioDynamics, Inc.",NY,100000005504,90.53,06/26/2014,GNRL,192796730
+1036199,GNRL,"Covidien LP",MA,100000000083,82.39,05/07/2015,GNRL,274913174
+1036199,GNRL,"Covidien LP",MA,100000000083,19.00,05/07/2015,GNRL,274913170
+1036199,GNRL,"Genentech USA, Inc.",CA,100000000226,14.17,09/26/2013,GNRL,29778626

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1190298,GNRL,"Volcano Corporation",CA,100000000212,2132.10,04/30/2014,GNRL,215750112
+1190298,GNRL,"AngioDynamics, Inc.",NY,100000005504,363.25,08/18/2015,GNRL,270267936
+1190298,GNRL,"AngioDynamics, Inc.",NY,100000005504,181.57,09/20/2015,GNRL,270267926
+1190298,GNRL,"Volcano Corporation",CA,100000000212,35.40,04/30/2014,GNRL,215750114

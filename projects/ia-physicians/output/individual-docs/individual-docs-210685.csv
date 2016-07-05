@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+210685,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,463.10,02/05/2015,GNRL,341484354
+210685,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,182.60,02/05/2015,GNRL,341484348
+210685,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,23.00,02/05/2015,GNRL,341484340
+210685,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,23.00,02/05/2015,GNRL,341484344

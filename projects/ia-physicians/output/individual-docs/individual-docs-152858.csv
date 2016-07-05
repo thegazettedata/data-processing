@@ -1,0 +1,13 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+152858,GNRL,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,115.04,03/05/2015,GNRL,321374022
+152858,GNRL,"Alcon Laboratories Inc",TX,100000005405,114.00,03/04/2014,GNRL,167485762
+152858,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,112.75,07/20/2015,GNRL,295505008
+152858,GNRL,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,108.12,11/13/2014,GNRL,124143839
+152858,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,106.49,03/06/2015,GNRL,295505006
+152858,GNRL,"Alcon Laboratories Inc",TX,100000005405,105.75,10/23/2013,GNRL,23051253
+152858,GNRL,"Bausch and Lomb Inc.",NY,100000010937,82.22,11/12/2014,GNRL,216856860
+152858,GNRL,"Alcon Laboratories Inc",TX,100000005405,64.31,09/16/2014,GNRL,167485766
+152858,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,14.25,08/12/2013,GNRL,171936314
+152858,GNRL,"Alcon Laboratories Inc",TX,100000005405,12.33,04/14/2015,GNRL,315053628
+152858,GNRL,"Alcon Laboratories Inc",TX,100000005405,10.97,04/28/2015,GNRL,315075268
+152858,GNRL,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,10.06,07/21/2014,GNRL,124143841

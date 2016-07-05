@@ -1,0 +1,3 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+667585,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,5000.00,11/01/2015,GNRL,255417638
+667585,GNRL,"Pfizer Inc.",NY,100000000286,99.00,11/20/2015,GNRL,322912618

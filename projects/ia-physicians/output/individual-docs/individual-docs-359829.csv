@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+359829,GNRL,"Geistlich Pharma, North America, Inc.",NJ,100000010711,433.82,09/14/2014,GNRL,218113908
+359829,GNRL,"BioHorizons Implant Systems Inc.",AL,100000005633,22.26,02/25/2015,GNRL,324617194
+359829,GNRL,"DENTSPLY IH Inc.",PA,100000010676,19.86,04/01/2015,GNRL,328659192
+359829,GNRL,"DENTSPLY IH Inc.",PA,100000010676,15.95,02/05/2014,GNRL,178780298
+359829,GNRL,"DENTSPLY IH Inc.",PA,100000010676,12.50,10/22/2013,GNRL,105333246
+359829,GNRL,"Zimmer Holding Inc",IN,100000000103,11.66,06/03/2014,GNRL,216340203

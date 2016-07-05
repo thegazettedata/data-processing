@@ -1,0 +1,5 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+105254,"LeMaitre Vascular, Inc.",MA,100000010674,1498.90,08/26/2014,"Cash or cash equivalent",192814534,"Travel and Lodging","","","",""
+105254,"LeMaitre Vascular, Inc.",MA,100000010674,484.83,10/07/2014,"Cash or cash equivalent",192814536,"Travel and Lodging","","","",""
+105254,"LeMaitre Vascular, Inc.",MA,100000010674,74.12,09/07/2014,"Cash or cash equivalent",192814540,"Food and Beverage","","","",""
+105254,"Olympus America Inc.",PA,100000005451,18.10,09/24/2013,"In-kind items and services",104498798,"Food and Beverage","","","",""

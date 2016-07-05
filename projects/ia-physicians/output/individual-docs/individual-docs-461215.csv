@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+461215,GNRL,"Cook Incorporated",IN,100000010458,347.00,09/18/2014,GNRL,211328968
+461215,GNRL,"Cook Incorporated",IN,100000010458,97.07,09/18/2014,GNRL,211329522
+461215,GNRL,"Cook Incorporated",IN,100000010458,25.00,03/03/2014,GNRL,211362748
+461215,GNRL,"Cook Incorporated",IN,100000010458,14.50,03/03/2014,GNRL,211362750
+461215,GNRL,"Cook Incorporated",IN,100000010458,14.50,03/04/2014,GNRL,211362752
+461215,GNRL,"Stryker Corporation",MI,100000010503,11.01,12/30/2015,GNRL,316905648

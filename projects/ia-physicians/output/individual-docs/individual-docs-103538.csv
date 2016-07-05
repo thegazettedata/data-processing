@@ -1,0 +1,12 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+103538,GNRL,"CooperVision Inc.",NY,100000005728,179.14,06/03/2014,GNRL,169246720
+103538,GNRL,"Allergan Inc.",CA,100000000278,124.94,09/11/2013,GNRL,102555194
+103538,GNRL,"Allergan Inc.",CA,100000000278,124.94,01/14/2014,GNRL,192424606
+103538,GNRL,"Alcon Laboratories Inc",TX,100000005405,113.74,06/04/2014,GNRL,167486770
+103538,GNRL,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,99.65,03/29/2014,GNRL,124124847
+103538,GNRL,"Carl Zeiss Meditec, Inc.",CA,100000005433,23.11,04/29/2015,GNRL,330676731
+103538,GNRL,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,7.00,09/30/2014,GNRL,124124851
+103538,GNRL,"Alcon Laboratories Inc",TX,100000005405,6.30,08/15/2014,GNRL,167486766
+103538,GNRL,"Alcon Laboratories Inc",TX,100000005405,5.56,10/15/2014,GNRL,167486773
+103538,GNRL,"Alcon Laboratories Inc",TX,100000005405,5.42,03/17/2014,GNRL,167486762
+103538,GNRL,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,2.44,09/10/2014,GNRL,124124849

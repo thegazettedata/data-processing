@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1384198,GNRL,"Boston Scientific Corporation",MA,100000005674,947.60,10/09/2015,GNRL,246096286
+1384198,GNRL,"Boston Scientific Corporation",MA,100000005674,330.76,10/09/2015,GNRL,246096282
+1384198,GNRL,"Boston Scientific Corporation",MA,100000005674,173.80,11/30/2015,GNRL,246096278
+1384198,GNRL,"Boston Scientific Corporation",MA,100000005674,126.72,10/09/2015,GNRL,246096284
+1384198,GNRL,"Boston Scientific Corporation",MA,100000005674,109.64,10/10/2015,GNRL,246096288
+1384198,GNRL,"Boston Scientific Corporation",MA,100000005674,89.00,11/30/2015,GNRL,246096280
+1384198,GNRL,"Boston Scientific Corporation",MA,100000005674,10.00,10/10/2015,GNRL,246096290

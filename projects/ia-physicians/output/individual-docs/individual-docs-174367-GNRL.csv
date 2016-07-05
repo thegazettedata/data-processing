@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+174367,"A-dec, Inc.",OR,100000005393,540.00,01/22/2015,"In-kind items and services",294281212,Gift,"","","",""
+174367,"Ormco Corporation",CA,100000005626,295.00,09/17/2014,"In-kind items and services",192934444,Grant,"","","",""
+174367,"Ormco Corporation",CA,100000005626,295.00,05/12/2014,"In-kind items and services",192934454,Grant,"","","",""
+174367,"A-dec, Inc.",OR,100000005393,152.00,01/28/2015,"In-kind items and services",294281228,Gift,"","","",""
+174367,"A-dec, Inc.",OR,100000005393,95.00,03/16/2015,"In-kind items and services",294281232,Gift,"","","",""
+174367,"VOCO America Inc.",NC,100000011159,47.16,07/01/2015,"In-kind items and services",259256222,"Food and Beverage","","","",""
+174367,"Zimmer Holding Inc",IN,100000000103,34.73,10/18/2013,"In-kind items and services",103165182,"Food and Beverage","","","","Food and beverage provided in the context of a Zimmer event or activity related to business meetings and medical training and education on safe and effective use of Zimmer products."
+174367,"Integra York PA, Inc.",PA,100000010991,11.71,11/21/2013,"In-kind items and services",103647032,"Food and Beverage","","","",""
+174367,"A-dec, Inc.",OR,100000005393,2.64,01/28/2015,"In-kind items and services",294281224,Gift,"","","",""
+174367,"A-dec, Inc.",OR,100000005393,0.60,01/28/2015,"In-kind items and services",294281216,Gift,"","","",""
+174367,"A-dec, Inc.",OR,100000005393,0.40,01/28/2015,"In-kind items and services",294281220,Gift,"","","",""

@@ -1,0 +1,11 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+242985,GNRL,"A-dec, Inc.",OR,100000005393,150.00,12/19/2013,GNRL,23399075
+242985,GNRL,"BIOMET 3I, LLC",FL,100000005638,82.00,09/10/2013,GNRL,103032898
+242985,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,65.51,11/13/2015,GNRL,301104114
+242985,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,64.99,02/03/2015,GNRL,301275350
+242985,GNRL,"National Dentex Corporation",FL,100000000065,45.00,12/01/2013,GNRL,105325060
+242985,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,44.86,09/16/2015,GNRL,301002961
+242985,GNRL,"National Dentex Corporation",FL,100000000065,40.00,12/01/2014,GNRL,155021900
+242985,GNRL,"National Dentex Corporation",FL,100000000065,40.00,12/10/2015,GNRL,234980204
+242985,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,38.88,05/13/2015,GNRL,300950320
+242985,GNRL,"BIomet 3i, LLC",FL,100000005638,25.41,01/30/2014,GNRL,200299994

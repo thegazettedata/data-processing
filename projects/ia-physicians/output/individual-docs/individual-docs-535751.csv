@@ -1,0 +1,3 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+535751,GNRL,"Alcon Laboratories Inc",TX,100000005405,500.00,10/11/2013,GNRL,22988860
+535751,GNRL,"Alcon Laboratories Inc",TX,100000005405,8.19,08/20/2013,GNRL,23002615

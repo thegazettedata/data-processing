@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+837511,GNRL,"Ventana Medical Systems, Inc.",AZ,100000005735,684.65,05/10/2015,GNRL,295714118
+837511,GNRL,"Ventana Medical Systems, Inc.",AZ,100000005735,295.54,05/12/2015,GNRL,295714116
+837511,GNRL,"Ventana Medical Systems, Inc.",AZ,100000005735,7.72,05/11/2015,GNRL,295714124

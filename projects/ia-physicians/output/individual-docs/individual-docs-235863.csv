@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+235863,GNRL,"Lilly USA, LLC",IN,100000000066,515.46,03/05/2015,GNRL,267657464
+235863,GNRL,"Sandoz Inc.",NJ,100000000062,99.00,08/08/2013,GNRL,101607762
+235863,GNRL,"EMD Serono, Inc.",MA,100000000127,99.00,02/14/2014,GNRL,209191672
+235863,GNRL,"Pfizer Inc.",NY,100000000286,99.00,11/20/2015,GNRL,322578980
+235863,GNRL,"Novo Nordisk Inc",NJ,100000000144,62.04,09/18/2014,GNRL,160600718

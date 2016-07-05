@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1000922,"Merck Sharp & Dohme Corporation",NJ,100000000053,175.00,11/06/2013,"Cash or cash equivalent",171850346,"Consulting Fee","",MK-3102,"",""
+1000922,"Merck Sharp & Dohme Corporation",NJ,100000000053,175.00,11/06/2013,"Cash or cash equivalent",171850348,"Consulting Fee","",MK-3102,"",""
+1000922,"Merck Sharp & Dohme Corporation",NJ,100000000053,125.00,08/30/2013,"Cash or cash equivalent",171850342,"Consulting Fee","","SCH 420814--Preladenant","",""
+1000922,"Merck Sharp & Dohme Corporation",NJ,100000000053,125.00,11/20/2013,"Cash or cash equivalent",171850350,"Consulting Fee","",MK-0663,"",""
+1000922,"Merck Sharp & Dohme Corporation",NJ,100000000053,125.00,11/14/2013,"Cash or cash equivalent",171850344,"Consulting Fee","",MK0859,"",""
+1000922,"Merck Sharp & Dohme Corporation",NJ,100000000053,125.00,04/25/2014,"Cash or cash equivalent",201890428,"Consulting Fee","",JANUVIA,"",""
+1000922,"Merck Sharp & Dohme Corporation",NJ,100000000053,62.50,07/23/2014,"Cash or cash equivalent",202278594,"Consulting Fee","",JANUVIA,"",""
+1000922,"Merck Sharp & Dohme Corporation",NJ,100000000053,62.50,07/23/2014,"Cash or cash equivalent",202136150,"Consulting Fee","",JANUVIA,"",""

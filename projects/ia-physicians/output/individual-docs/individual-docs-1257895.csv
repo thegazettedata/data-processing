@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1257895,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,253.20,11/25/2014,GNRL,211846024
+1257895,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,151.15,11/25/2014,GNRL,211846026
+1257895,GNRL,"Questcor Pharmaceuticals",CA,100000010569,94.95,06/24/2014,GNRL,211729202
+1257895,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,84.54,11/25/2014,GNRL,211846028

@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+579687,"Takeda Pharmaceutical Company, Limited","",100000010889,3769.00,03/24/2014,"Cash or cash equivalent",195806646,"Consulting Fee","","","","Takeda Medical and Scientific Group Related Activity"
+579687,"Pfizer Inc.",NY,100000000286,2500.00,03/20/2015,"Cash or cash equivalent",323197289,"Consulting Fee","EVAN DALE ABEL","","",""
+579687,"Takeda Pharmaceutical Company, Limited","",100000010889,855.95,03/24/2014,"In-kind items and services",195806648,"Travel and Lodging","","","","Takeda Medical and Scientific Group Related Activity"
+579687,"Takeda Pharmaceutical Company, Limited","",100000010889,322.17,03/24/2014,"In-kind items and services",195806650,"Food and Beverage","","","","Takeda Medical and Scientific Group Related Activity"
+579687,"Takeda Pharmaceutical Company, Limited","",100000010889,220.70,03/26/2014,"In-kind items and services",195806652,"Travel and Lodging","","","","Takeda Medical and Scientific Group Related Activity"
+579687,"Janssen Scientific Affairs, LLC",NJ,100000000332,124.40,06/13/2014,"In-kind items and services",156068780,"Food and Beverage","",Invokana,"",""
+579687,"Takeda Pharmaceuticals International, Inc.",IL,100000000336,105.48,01/29/2014,"In-kind items and services",193890010,"Food and Beverage","","","",""
+579687,"Pfizer Inc.",NY,100000000286,93.91,02/26/2015,"In-kind items and services",323445186,"Food and Beverage","","","",""
+579687,"Pfizer Inc.",NY,100000000286,9.86,02/26/2015,"In-kind items and services",322915289,"Food and Beverage","","","",""

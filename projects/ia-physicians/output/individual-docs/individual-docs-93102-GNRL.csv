@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+93102,"Covidien Sales LLC",MA,100000000098,277.89,11/14/2014,"Cash or cash equivalent",222089720,"Travel and Lodging","","","",""
+93102,"Covidien Sales LLC",MA,100000000098,200.00,10/16/2014,"Cash or cash equivalent",222089722,"Travel and Lodging","","","",""
+93102,"Covidien Sales LLC",MA,100000000098,158.11,10/30/2014,"Cash or cash equivalent",222089718,"Travel and Lodging","","","",""
+93102,"Covidien Sales LLC",MA,100000000098,123.33,10/16/2014,"Cash or cash equivalent",222089726,"Travel and Lodging","","","",""
+93102,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,90.07,10/16/2015,"In-kind items and services",333504940,"Food and Beverage","",REXULTI,"",""
+93102,"Genentech USA, Inc.",CA,100000000226,19.53,09/30/2015,"In-kind items and services",317982332,"Food and Beverage","",GAZYVA,"",""
+93102,"VERTEX PHARMACEUTICALS INCORPORATED",MA,100000000184,16.45,10/23/2013,"In-kind items and services",103155766,"Food and Beverage","",INCIVEK,"",""
+93102,"Janssen Biotech, Inc.",PA,100000000329,15.46,03/26/2014,"In-kind items and services",156877124,"Food and Beverage","",Simponi,OLYSIO,""

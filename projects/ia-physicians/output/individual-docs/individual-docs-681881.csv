@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+681881,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,600.00,12/11/2015,GNRL,290464716
+681881,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,234.00,11/05/2015,GNRL,290464714
+681881,GNRL,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,150.00,09/25/2013,GNRL,14066069
+681881,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,150.00,05/14/2015,GNRL,290464712

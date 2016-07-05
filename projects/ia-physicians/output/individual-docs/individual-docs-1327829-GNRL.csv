@@ -1,0 +1,5 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1327829,"D4D Technologies, LLC",TX,100000010841,1052.00,12/05/2015,"Cash or cash equivalent",234350828,"Travel and Lodging","","","",""
+1327829,"Henry Schein, Inc.",NY,100000005547,721.45,12/04/2015,"In-kind items and services",333261386,"Travel and Lodging","","","",""
+1327829,"Patterson Companies, Inc.",MN,100000011158,125.00,10/17/2015,"Cash or cash equivalent",326212930,Gift,"","","",""
+1327829,"Ivoclar Vivadent, Inc.",NY,100000010562,114.56,11/23/2015,"In-kind items and services",281502424,"Food and Beverage","","","",""

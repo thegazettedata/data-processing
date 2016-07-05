@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+637065,RSRCH,"Merck Sharp & Dohme Corporation",NJ,100000000053,496.60,11/06/2013,RSRCH,24484181
+637065,GNRL,"Novo Nordisk Inc",NJ,100000000144,62.04,09/18/2014,GNRL,160598512
+637065,GNRL,"Sandoz Inc.",NJ,100000000062,61.95,04/30/2014,GNRL,195701944
+637065,GNRL,"Novo Nordisk Inc",NJ,100000000144,32.27,12/21/2015,GNRL,280514690

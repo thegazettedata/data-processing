@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+258494,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,798.20,02/27/2015,GNRL,341470058
+258494,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,156.38,03/24/2015,GNRL,341470054
+258494,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,156.38,03/24/2015,GNRL,341611948
+258494,GNRL,"Baxter Healthcare",IL,100000011010,99.75,12/12/2014,GNRL,211137034
+258494,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,23.00,02/27/2015,GNRL,341470050
+258494,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,22.00,09/15/2015,GNRL,341611945
+258494,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,19.48,11/06/2013,GNRL,104442554
+258494,GNRL,"Baxter Healthcare",IL,100000011010,11.34,11/20/2013,GNRL,104776042

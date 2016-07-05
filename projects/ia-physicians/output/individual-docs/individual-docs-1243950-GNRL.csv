@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1243950,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,1000.00,08/30/2013,"Cash or cash equivalent",6707131,"Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program","",TUDORZA,DALIRESP,""
+1243950,"AstraZeneca Pharmaceuticals LP",DE,100000000146,52.31,08/15/2013,"In-kind items and services",12257325,"Food and Beverage","",SYMBICORT,"","Educational Program"
+1243950,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,24.95,09/11/2013,"In-kind items and services",6707129,Education,"",TEFLARO,"",""
+1243950,"GlaxoSmithKline, LLC.",NC,100000005449,15.48,11/13/2014,"In-kind items and services",197642058,"Food and Beverage","","","",""
+1243950,"GlaxoSmithKline, LLC.",NC,100000005449,11.25,10/09/2014,"In-kind items and services",197625320,"Food and Beverage","","","",""
+1243950,"GlaxoSmithKline, LLC.",NC,100000005449,10.72,02/25/2014,"In-kind items and services",197522044,"Food and Beverage","",BREO,"",""
+1243950,"Novo Nordisk Inc",NJ,100000000144,10.46,11/05/2014,"In-kind items and services",162155524,"Food and Beverage","","","",""
+1243950,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,9.68,09/11/2013,"In-kind items and services",6707128,"Food and Beverage","",TEFLARO,"",""
+1243950,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,9.15,08/30/2013,"In-kind items and services",6707130,"Food and Beverage","",TUDORZA,DALIRESP,""

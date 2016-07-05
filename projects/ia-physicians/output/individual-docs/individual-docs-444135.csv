@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+444135,GNRL,"Allergan Inc.",CA,100000000278,125.91,11/03/2015,GNRL,289800476
+444135,GNRL,"Allergan Inc.",CA,100000000278,124.94,01/14/2014,GNRL,192425992
+444135,GNRL,"Alcon Laboratories Inc",TX,100000005405,114.00,03/04/2014,GNRL,167486932
+444135,GNRL,"Bausch and Lomb Inc.",NY,100000010937,99.98,06/05/2014,GNRL,216844786
+444135,GNRL,"Alcon Laboratories Inc",TX,100000005405,64.31,09/16/2014,GNRL,167486936
+444135,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,17.03,04/23/2015,GNRL,295424441

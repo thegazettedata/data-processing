@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+941843,GNRL,"A-dec, Inc.",OR,100000005393,174.00,12/04/2014,GNRL,200782510
+941843,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,128.50,10/10/2015,GNRL,301411914
+941843,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,126.50,10/10/2015,GNRL,301412009
+941843,GNRL,"Sunstar Americas, Inc.",IL,100000005557,69.08,03/10/2015,GNRL,265946742
+941843,GNRL,"Dentsply International",PA,100000000185,38.29,10/10/2013,GNRL,31324619
+941843,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,28.59,05/18/2015,GNRL,301271390

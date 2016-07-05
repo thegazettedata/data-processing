@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+538515,RSRCH,"ELI LILLY AND COMPANY",IN,100000000088,1175.00,01/01/2014,RSRCH,144081846
+538515,GNRL,"QIAGEN Sciences LLC",MD,100000136538,16.19,01/07/2015,GNRL,338311806
+538515,GNRL,"Janssen Biotech, Inc.",PA,100000000329,13.91,08/14/2013,GNRL,23870317

@@ -1,0 +1,7 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1169735,"WARDLOW ENTERPRISES",IA,100000010546,339.75,08/06/2014,"In-kind items and services",153916136,Education,"","","",""
+1169735,"Zimmer Biomet Holdings, Inc.",IN,100000000103,79.87,03/26/2015,"In-kind items and services",301264305,"Food and Beverage","","","",""
+1169735,"Zimmer Biomet Holdings, Inc.",IN,100000000103,65.44,03/24/2015,"In-kind items and services",301314218,"Food and Beverage","","","",""
+1169735,"Stryker Corporation",MI,100000010503,12.63,08/26/2015,"Cash or cash equivalent",324377980,"Food and Beverage","","","",""
+1169735,"Stryker Corporation",MI,100000010503,11.91,03/25/2014,"Cash or cash equivalent",199008986,"Food and Beverage","","","",""
+1169735,"Mallinckrodt LLC",MO,100000005429,11.65,02/09/2015,"In-kind items and services",334362928,"Food and Beverage","","XARTEMIS XR","",""

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+819901,"Boston Scientific Corporation",MA,100000005674,393.40,10/25/2013,"In-kind items and services",19761668,"Travel and Lodging","","","",""
+819901,"Boston Scientific Corporation",MA,100000005674,129.59,10/26/2013,"In-kind items and services",19761669,"Food and Beverage","","","",""
+819901,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,82.88,09/18/2013,"In-kind items and services",12876411,"Food and Beverage","","","",""
+819901,"Boston Scientific Corporation",MA,100000005674,36.02,10/25/2013,"In-kind items and services",19761667,"Food and Beverage","","","",""

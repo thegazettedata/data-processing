@@ -1,0 +1,8 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+517608,"Volcano Corporation",CA,100000000212,708.70,03/27/2015,"In-kind items and services",338776574,"Travel and Lodging","","","",""
+517608,"Volcano Corporation",CA,100000000212,263.93,05/19/2015,"In-kind items and services",338771124,"Travel and Lodging","","","",""
+517608,"Volcano Corporation",CA,100000000212,190.63,05/17/2015,"In-kind items and services",338768895,"Food and Beverage","","","",""
+517608,"Volcano Corporation",CA,100000000212,30.79,03/27/2015,"In-kind items and services",338776570,"Travel and Lodging","","","",""
+517608,"LILLY USA, LLC",IN,100000000066,18.00,04/22/2014,"In-kind items and services",137679302,Education,"","","",""
+517608,"Allergan Inc.",CA,100000000278,14.68,04/14/2014,"In-kind items and services",203497924,"Food and Beverage","",BOTOX,"",""
+517608,"HOLOGIC INC",MA,100000010400,12.15,06/30/2014,"In-kind items and services",181514568,"Food and Beverage","","","",""

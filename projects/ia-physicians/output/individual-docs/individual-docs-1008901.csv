@@ -1,0 +1,14 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,1500.00,06/24/2015,GNRL,300007306
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,1145.31,06/09/2014,GNRL,159795276
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,535.44,06/10/2015,GNRL,300007382
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,408.31,07/08/2015,GNRL,300007336
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,304.97,06/11/2015,GNRL,300007390
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,187.19,06/10/2015,GNRL,300007386
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,160.17,06/09/2014,GNRL,159795278
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,145.64,06/10/2014,GNRL,159795280
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,140.32,06/12/2015,GNRL,300007392
+1008901,GNRL,"Luminex Corporation",TX,100000010759,137.47,11/06/2015,GNRL,340622658
+1008901,GNRL,"Life Technologies Corporation",CA,100000010795,116.84,11/13/2014,GNRL,194660180
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,62.98,06/25/2014,GNRL,159795272
+1008901,GNRL,"Roche Diagnostics Corporation",IN,100000005419,35.51,06/25/2014,GNRL,159795274

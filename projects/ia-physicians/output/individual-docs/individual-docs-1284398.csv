@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1284398,GNRL,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,125.00,07/29/2015,GNRL,332455059
+1284398,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,119.70,02/11/2015,GNRL,256193846
+1284398,GNRL,"Pfizer Inc.",NY,100000000286,107.13,04/01/2015,GNRL,323119088
+1284398,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,89.89,12/10/2015,GNRL,275200360
+1284398,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,87.65,01/14/2015,GNRL,255695058
+1284398,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,67.24,09/17/2015,GNRL,255502906
+1284398,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,61.46,04/30/2015,GNRL,255922265

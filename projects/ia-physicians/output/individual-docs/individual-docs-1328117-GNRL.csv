@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1328117,"DePuy Synthes Sales Inc.",MA,100000005615,224.85,08/11/2015,"In-kind items and services",267239808,Education,"","","","Medical Textbook"
+1328117,"DePuy Synthes Sales Inc.",MA,100000005615,165.59,08/11/2015,"In-kind items and services",267239812,Education,"","","","Medical Textbook"
+1328117,"Stryker Corporation",MI,100000010503,136.13,10/02/2015,"Cash or cash equivalent",316886696,"Food and Beverage","","","",""
+1328117,"WRIGHT MEDICAL TECHNOLOGY, INC.",TN,100000086401,94.43,10/12/2015,"In-kind items and services",301493452,"Food and Beverage","","","",""
+1328117,"WRIGHT MEDICAL TECHNOLOGY, INC.",TN,100000086401,94.43,10/12/2015,"In-kind items and services",301487304,"Food and Beverage","","","",""
+1328117,"WRIGHT MEDICAL TECHNOLOGY, INC.",TN,100000086401,91.64,10/01/2015,"In-kind items and services",301488110,"Food and Beverage","","","",""
+1328117,"Pfizer Inc.",NY,100000000286,64.98,08/27/2015,"In-kind items and services",323616402,"Food and Beverage","",LYRICA,"",""
+1328117,"Stryker Corporation",MI,100000010503,44.80,07/23/2015,"Cash or cash equivalent",316821076,"Food and Beverage","","","",""

@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+3995,"Allergan Inc.",CA,100000000278,124.94,09/11/2013,"In-kind items and services",102569136,"Food and Beverage","",RESTASIS,"",""
+3995,"Allergan Inc.",CA,100000000278,124.94,01/14/2014,"In-kind items and services",192476418,"Food and Beverage","",RESTASIS,"",""
+3995,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,99.65,03/29/2014,"In-kind items and services",124129405,"Food and Beverage","","","",""
+3995,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,97.29,09/24/2015,"In-kind items and services",269323510,"Food and Beverage","","","",""
+3995,"CooperVision Inc.",NY,100000005728,35.42,03/19/2014,"In-kind items and services",169235232,"Food and Beverage","","","",""
+3995,"Coopervision Inc.",NY,100000005728,18.13,04/07/2015,"In-kind items and services",330768069,"Food and Beverage","","","",""
+3995,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,13.44,09/16/2015,"In-kind items and services",269323516,"Food and Beverage","","","",""
+3995,"Coopervision Inc.",NY,100000005728,13.12,01/06/2015,"In-kind items and services",330748301,"Food and Beverage","","","",""
+3995,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,9.50,07/09/2015,"In-kind items and services",269323512,"Food and Beverage","","","",""
+3995,"Allergan Inc.",CA,100000000278,6.88,12/18/2013,"In-kind items and services",102569134,"Food and Beverage","",COMBIGAN,"",""
+3995,"Johnson & Johnson Vision Care, Inc.",FL,100000005397,4.61,11/19/2015,"In-kind items and services",269323514,"Food and Beverage","","","",""
+3995,"Allergan Inc.",CA,100000000278,0.85,12/18/2013,"In-kind items and services",102569132,"Food and Beverage","","ALPHAGAN P","",""

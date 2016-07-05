@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+268952,"Pfizer Inc.",NY,100000000286,1731.26,01/16/2014,"In-kind items and services",206935428,"Travel and Lodging","","","",""
+268952,"Pfizer Inc.",NY,100000000286,538.71,02/07/2014,"In-kind items and services",206594756,"Travel and Lodging","MARK ANDERSON","","",""
+268952,ABIOMED,MA,100000010740,368.09,11/21/2013,"In-kind items and services",104091508,"Travel and Lodging","","","",""
+268952,"Pfizer Inc.",NY,100000000286,227.88,04/10/2014,"In-kind items and services",206336862,"Travel and Lodging","MARK ANDERSON","","",""
+268952,"Pfizer Inc.",NY,100000000286,112.30,04/04/2014,"In-kind items and services",205623917,"Food and Beverage","","","",""
+268952,ABIOMED,MA,100000010740,39.46,11/21/2013,"In-kind items and services",104091504,"Food and Beverage","","","",""
+268952,"Pfizer Inc.",NY,100000000286,26.79,04/04/2014,"In-kind items and services",205531353,"Food and Beverage","","","",""
+268952,"Pfizer Inc.",NY,100000000286,20.18,04/24/2014,"In-kind items and services",206733498,"Food and Beverage","","","",""

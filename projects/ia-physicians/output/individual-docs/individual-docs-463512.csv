@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+463512,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,424.32,11/17/2015,GNRL,331191428
+463512,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,418.36,06/23/2015,GNRL,330934227
+463512,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,418.36,08/06/2015,GNRL,330979253
+463512,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,418.36,08/26/2015,GNRL,330979255
+463512,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,418.29,05/27/2015,GNRL,330934225
+463512,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,418.29,05/14/2015,GNRL,330933841
+463512,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,83.13,05/14/2015,GNRL,330933843
+463512,GNRL,"Meridian Bioscience Inc.",OH,100000010483,27.00,12/12/2014,GNRL,163951580

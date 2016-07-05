@@ -1,0 +1,15 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+551578,GNRL,"COMSORT, Inc",MD,100000000055,125.00,07/30/2014,GNRL,202231700
+551578,GNRL,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,93.20,05/12/2015,GNRL,335098508
+551578,GNRL,"Sanofi Pasteur Inc.",PA,100000000299,91.25,03/04/2014,GNRL,182341726
+551578,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,88.09,09/11/2014,GNRL,196155174
+551578,GNRL,"Genentech USA, Inc.",CA,100000000226,66.76,09/03/2015,GNRL,318234360
+551578,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,8.05,10/17/2014,GNRL,192960466
+551578,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,5.37,11/12/2014,GNRL,192960486
+551578,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,5.01,02/12/2014,GNRL,192960472
+551578,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,4.03,12/10/2014,GNRL,192960476
+551578,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,3.22,08/13/2014,GNRL,192960481
+551578,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,3.22,09/10/2014,GNRL,192960468
+551578,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,3.22,06/26/2014,GNRL,192960478
+551578,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,3.22,04/09/2014,GNRL,192960490
+551578,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,2.68,01/08/2014,GNRL,192960484

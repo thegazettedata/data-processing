@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1353291,GNRL,"Veran Medical Technologies, Inc.",MO,100000011087,970.70,09/26/2015,GNRL,340670666
+1353291,GNRL,"Veran Medical Technologies, Inc.",MO,100000011087,436.61,09/26/2015,GNRL,340670674
+1353291,GNRL,"Covidien Sales LLC",MA,100000000098,82.50,06/30/2015,GNRL,318310636
+1353291,GNRL,"Veran Medical Technologies, Inc.",MO,100000011087,71.80,09/26/2015,GNRL,340670670
+1353291,GNRL,"Covidien Sales LLC",MA,100000000098,30.97,08/25/2015,GNRL,318310654
+1353291,GNRL,"Covidien Sales LLC",MA,100000000098,24.17,10/23/2015,GNRL,318310646

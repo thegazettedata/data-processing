@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+318547,GNRL,"CSL Behring",PA,100000005563,1000.00,11/15/2013,GNRL,102299168
+318547,GNRL,"CSL Behring",PA,100000005563,488.37,11/15/2013,GNRL,102299170
+318547,GNRL,"CSL Behring",PA,100000005563,232.13,11/15/2013,GNRL,102299172
+318547,GNRL,"Grifols USA, LLC",CA,100000005420,50.89,03/13/2014,GNRL,220189998

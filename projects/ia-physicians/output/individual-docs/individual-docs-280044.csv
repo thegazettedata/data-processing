@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+280044,GNRL,"Integra LifeSciences Corporation",NJ,100000010950,1375.00,08/01/2014,GNRL,197031664
+280044,GNRL,"Integra LifeSciences Corporation",NJ,100000010950,1000.00,12/15/2014,GNRL,197031661
+280044,GNRL,"SeaSpine, Inc.",CA,100000010972,105.30,08/01/2013,GNRL,103650496
+280044,GNRL,"SeaSpine, Inc.",CA,100000010972,75.37,08/12/2013,GNRL,103650490
+280044,GNRL,"SeaSpine, Inc.",CA,100000010972,33.75,08/02/2013,GNRL,103650498
+280044,GNRL,"SeaSpine, Inc.",CA,100000010972,27.04,08/01/2013,GNRL,103650494
+280044,GNRL,"SeaSpine, Inc.",CA,100000010972,25.14,08/01/2013,GNRL,103650454
+280044,GNRL,"BIOMET SPINE, LLC",NJ,100000005652,18.99,08/07/2013,GNRL,102285764

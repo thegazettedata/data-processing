@@ -1,0 +1,3 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+123316,GNRL,"Carestream Health, Inc.",NY,100000000328,372.20,10/28/2014,GNRL,198076888
+123316,GNRL,"AngioDynamics, Inc.",NY,100000005504,141.27,11/08/2013,GNRL,104989700

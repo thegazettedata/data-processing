@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1004586,"Bausch and Lomb Inc.",NY,100000010937,1500.00,02/28/2014,"Cash or cash equivalent",216826044,"Consulting Fee","","LOTEMAX GEL",PROLENSA,""
+1004586,"Bausch and Lomb Inc.",NY,100000010937,1500.00,02/28/2014,"Cash or cash equivalent",216826046,"Consulting Fee","","LOTEMAX GEL",PROLENSA,""
+1004586,"Omeros Corporation",WA,100000136485,121.21,09/17/2015,"Cash or cash equivalent",315227266,"Food and Beverage","",Omidria,"",""
+1004586,"Alcon Laboratories Inc",TX,100000005405,107.94,02/05/2014,"In-kind items and services",167488986,"Food and Beverage","",CataractEquipment,"",""
+1004586,"Bausch and Lomb Inc.",NY,100000010937,95.48,10/17/2014,"In-kind items and services",216826050,"Food and Beverage","","LOTEMAX GEL","",""
+1004586,"Alcon Laboratories Inc",TX,100000005405,83.46,04/18/2015,"In-kind items and services",314894272,"Food and Beverage","","","",""
+1004586,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,79.38,04/17/2015,"In-kind items and services",295313230,"Food and Beverage","",BESIVANCE,"LOTEMAX GEL",""
+1004586,"Bausch and Lomb Inc.",NY,100000010937,57.36,02/01/2014,"In-kind items and services",216826034,"Food and Beverage","","LOTEMAX GEL",PROLENSA,""
+1004586,"Bausch and Lomb Inc.",NY,100000010937,57.36,02/01/2014,"In-kind items and services",216826026,"Food and Beverage","","LOTEMAX GEL",PROLENSA,""
+1004586,"Alcon Laboratories Inc",TX,100000005405,21.49,10/21/2014,"In-kind items and services",167488990,"Food and Beverage","",IOL,CataractEquipment,""
+1004586,"Bausch and Lomb Inc.",NY,100000010937,20.94,08/22/2013,"In-kind items and services",31516729,"Food and Beverage","","LOTEMAX GEL",ALREX,""
+1004586,"GLAUKOS CORPORATION",CA,100000000102,18.75,12/02/2013,"Cash or cash equivalent",1924253,"Food and Beverage","","","",""

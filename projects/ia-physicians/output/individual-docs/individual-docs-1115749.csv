@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1115749,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,429.92,10/23/2015,GNRL,267213670
+1115749,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,135.13,10/23/2015,GNRL,267213674
+1115749,GNRL,"Stryker Corporation",MI,100000010503,116.83,03/13/2014,GNRL,199034791
+1115749,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,99.00,10/23/2015,GNRL,267213672
+1115749,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,33.00,10/24/2015,GNRL,267213676
+1115749,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,16.25,10/24/2015,GNRL,267213668
+1115749,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,10.50,10/24/2015,GNRL,267213680
+1115749,GNRL,"Stryker Corporation",MI,100000010503,8.08,09/25/2014,GNRL,199034788
+1115749,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,4.50,10/24/2015,GNRL,267213678

@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+63128,GNRL,"Arthrex, Inc.",FL,100000005371,4400.00,12/13/2013,GNRL,102444768
+63128,GNRL,"Arthrex, Inc.",FL,100000005371,327.80,02/07/2014,GNRL,187657830
+63128,GNRL,"Arthrex, Inc.",FL,100000005371,92.50,12/13/2013,GNRL,102444766
+63128,GNRL,"Arthrex, Inc.",FL,100000005371,68.26,02/07/2014,GNRL,187657832
+63128,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,17.39,12/06/2014,GNRL,227488422
+63128,GNRL,"Stryker Corporation",MI,100000010503,14.53,04/24/2014,GNRL,199028630
+63128,GNRL,"KCI USA, Inc",TX,100000010396,13.16,11/06/2014,GNRL,198862234

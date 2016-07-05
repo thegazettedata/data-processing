@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1012176,GNRL,"CooperSurgical, Inc.",CT,100000005513,2100.00,05/21/2015,GNRL,318004534
+1012176,GNRL,"CooperSurgical, Inc.",CT,100000005513,1800.00,06/18/2015,GNRL,318004542
+1012176,GNRL,"CooperSurgical, Inc.",CT,100000005513,1200.00,02/26/2015,GNRL,318004520
+1012176,GNRL,"Allergan Inc.",CA,100000000278,11.06,01/14/2014,GNRL,203481312

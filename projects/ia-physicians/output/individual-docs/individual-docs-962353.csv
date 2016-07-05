@@ -1,0 +1,11 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+962353,GNRL,"SurgiQuest, Inc.",CT,100000010951,348.38,12/03/2013,GNRL,105412138
+962353,GNRL,"SurgiQuest, Inc.",CT,100000010951,348.38,12/03/2013,GNRL,216663832
+962353,GNRL,"Biomet Trauma, LLC",IN,100000005645,129.31,09/18/2014,GNRL,195638892
+962353,GNRL,"Merck Sharp & Dohme Corporation",NJ,100000000053,101.60,07/07/2015,GNRL,330667379
+962353,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,89.45,02/04/2014,GNRL,156707146
+962353,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,89.45,02/04/2014,GNRL,156707148
+962353,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,84.66,08/28/2014,GNRL,216201632
+962353,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,18.15,06/11/2015,GNRL,275659254
+962353,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,17.53,06/12/2014,GNRL,156707144
+962353,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,12.45,03/19/2015,GNRL,275659252

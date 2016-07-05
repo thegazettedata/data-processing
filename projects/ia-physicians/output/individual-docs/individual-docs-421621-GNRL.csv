@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+421621,"Aesculap, Inc.",PA,100000000268,784.61,12/07/2013,"Cash or cash equivalent",26168624,"Travel and Lodging","","","",""
+421621,"Aesculap, Inc.",PA,100000000268,239.76,12/08/2013,"Cash or cash equivalent",26168537,"Food and Beverage","","","",""
+421621,"Aesculap, Inc.",PA,100000000268,145.73,12/07/2013,"Cash or cash equivalent",26168559,"Food and Beverage","","","",""
+421621,"Medtronic USA, Inc.",MN,100000010383,93.12,09/27/2015,"In-kind items and services",294934730,"Food and Beverage","","","",""
+421621,"Aesculap, Inc.",PA,100000000268,58.32,12/08/2013,"Cash or cash equivalent",26168579,"Travel and Lodging","","","",""
+421621,"KARLSTORZ Endoscopy-America",CA,100000005515,40.69,10/18/2014,"In-kind items and services",218017112,"Food and Beverage","","","",""
+421621,"Stryker Corporation",MI,100000010503,26.09,10/18/2014,"Cash or cash equivalent",198913932,"Food and Beverage","","","",""
+421621,"Stryker Corporation",MI,100000010503,23.82,02/01/2014,"Cash or cash equivalent",198913928,"Food and Beverage","","","",""
+421621,"Medtronic Xomed, Inc.",MN,100000010388,11.45,07/12/2014,"In-kind items and services",152138020,"Food and Beverage","","","",""

@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+292333,GNRL,"Kerr Corporation",CA,100000005552,715.50,12/13/2013,GNRL,103694486
+292333,GNRL,"BIOMET 3I, LLC",FL,100000005638,82.00,09/10/2013,GNRL,103032918
+292333,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,64.99,02/03/2015,GNRL,301275434
+292333,GNRL,"National Dentex Corporation",FL,100000000065,40.00,12/10/2015,GNRL,234980248
+292333,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,38.88,05/13/2015,GNRL,300950358
+292333,GNRL,"National Dentex Corporation",FL,100000000065,21.15,12/01/2013,GNRL,105325122
+292333,GNRL,"BIomet 3i, LLC",FL,100000005638,13.36,07/30/2014,GNRL,200219380
+292333,GNRL,"Tulsa Dental Products LLC",PA,100000010600,10.74,11/18/2014,GNRL,186890518

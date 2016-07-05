@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1031030,GNRL,"Henry Schein, Inc.",NY,100000005547,743.05,03/13/2014,GNRL,178592214
+1031030,GNRL,"Dental Imaging Technologies Corp.",PA,100000010701,668.79,04/11/2014,GNRL,187909864
+1031030,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,50.60,11/06/2015,GNRL,301129594
+1031030,GNRL,"Philips Electronics North America Corporation",MA,100000000198,44.59,12/19/2013,GNRL,24602484
+1031030,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,17.72,05/05/2015,GNRL,300950190
+1031030,GNRL,"Henry Schein, Inc.",NY,100000005547,10.58,04/24/2014,GNRL,178570942
+1031030,GNRL,"Zimmer Biomet Holdings, Inc.",IN,100000000103,10.21,05/04/2015,GNRL,300950156

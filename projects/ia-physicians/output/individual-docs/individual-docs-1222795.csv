@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1222795,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,198.45,08/10/2015,GNRL,267384828
+1222795,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,196.95,08/03/2015,GNRL,267384842
+1222795,GNRL,"NOVARTIS PHARMACEUTICALS CORPORATION",NJ,100000000228,150.00,02/18/2015,GNRL,263312678
+1222795,GNRL,"Actavis Pharma Inc",NJ,100000010642,13.04,02/04/2015,GNRL,339382910
+1222795,GNRL,"Medtronic Xomed, Inc.",MN,100000010388,11.45,07/12/2014,GNRL,152138024

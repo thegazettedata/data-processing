@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+548512,GNRL,"Philips Electronics North America Corporation",MA,100000000198,628.20,03/14/2015,GNRL,298653078
+548512,GNRL,"Philips Electronics North America Corporation",MA,100000000198,590.22,04/01/2015,GNRL,298672326
+548512,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,88.05,09/11/2014,GNRL,158738396
+548512,GNRL,"Philips Electronics North America Corporation",MA,100000000198,71.33,03/31/2015,GNRL,298672322
+548512,GNRL,"Philips Electronics North America Corporation",MA,100000000198,34.74,03/30/2015,GNRL,298672320
+548512,GNRL,"Philips Electronics North America Corporation",MA,100000000198,26.70,04/01/2015,GNRL,298672324
+548512,GNRL,"Merge Healthcare Incorporated",IL,100000136537,14.27,05/27/2015,GNRL,341938290

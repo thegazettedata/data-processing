@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1106851,GNRL,"HeartWare, Inc.",MA,100000011163,1142.20,10/21/2015,GNRL,324682504
+1106851,GNRL,"HeartWare, Inc.",MA,100000011163,111.96,04/28/2014,GNRL,219342820
+1106851,GNRL,"HeartWare, Inc.",MA,100000011163,92.25,11/01/2015,GNRL,324682502
+1106851,GNRL,"HeartWare, Inc.",MA,100000011163,36.04,11/02/2015,GNRL,324682500

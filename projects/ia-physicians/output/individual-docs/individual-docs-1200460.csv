@@ -1,0 +1,12 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1200460,GNRL,"Cardiovascular Systems Inc.",MN,100000000117,1498.20,11/12/2015,GNRL,318252152
+1200460,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,471.24,09/25/2015,GNRL,286241300
+1200460,GNRL,"Cardiovascular Systems Inc.",MN,100000000117,204.41,11/17/2015,GNRL,318252920
+1200460,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,159.14,09/08/2015,GNRL,254158950
+1200460,GNRL,"Astellas Pharma US Inc",IL,100000000137,34.95,05/08/2014,GNRL,168633836
+1200460,GNRL,"Cardiovascular Systems Inc.",MN,100000000117,18.56,10/09/2015,GNRL,318277504
+1200460,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,17.78,11/06/2015,GNRL,254158978
+1200460,GNRL,"Cardiovascular Systems Inc.",MN,100000000117,16.34,11/10/2015,GNRL,318252496
+1200460,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,16.06,11/06/2015,GNRL,254158976
+1200460,GNRL,"Cardiovascular Systems Inc.",MN,100000000117,15.67,11/09/2015,GNRL,318252550
+1200460,GNRL,"Pfizer Inc.",NY,100000000286,12.11,11/22/2013,GNRL,205290102

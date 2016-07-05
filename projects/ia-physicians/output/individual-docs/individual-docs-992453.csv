@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+992453,GNRL,"BioHorizons Implant Systems Inc.",AL,100000005633,740.80,01/19/2014,GNRL,208697608
+992453,GNRL,"Altatec GmbH","",100000011070,14.61,01/29/2015,GNRL,333967960
+992453,GNRL,"BIomet 3i, LLC",FL,100000005638,14.32,08/16/2013,GNRL,110059888
+992453,GNRL,"Altatec GmbH","",100000011070,12.52,01/09/2015,GNRL,333967732
+992453,GNRL,"Altatec GmbH","",100000011070,12.27,01/20/2015,GNRL,333968342

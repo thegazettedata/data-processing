@@ -1,0 +1,11 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+253659,"Nobel Biocare USA",CA,100000010559,357.73,06/20/2014,"Cash or cash equivalent",210126842,"Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program","","","",""
+253659,"Nobel Biocare USA",CA,100000010559,68.46,06/20/2014,"Cash or cash equivalent",210126840,"Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program","","","",""
+253659,"Astellas Pharma US Inc",IL,100000000137,22.80,11/21/2013,"In-kind items and services",101706636,"Food and Beverage","",Myrbetriq,"",""
+253659,"Astellas Pharma US Inc",IL,100000000137,21.28,12/19/2013,"In-kind items and services",101702544,"Food and Beverage","",Myrbetriq,"",""
+253659,"Zimmer Holding Inc",IN,100000000103,21.26,07/22/2014,"In-kind items and services",216369902,"Food and Beverage","","","","Food and beverage provided in the context of a Zimmer event oractivity related to business meetings and medical training and education on safe and effective use of Zimmer products."
+253659,"Astellas Pharma US Inc",IL,100000000137,20.66,10/30/2013,"In-kind items and services",101686822,"Food and Beverage","",Myrbetriq,"",""
+253659,"Actavis Pharma Inc",NJ,100000010642,18.47,12/07/2015,"In-kind items and services",339680120,"Food and Beverage","",LINZESS,"",""
+253659,"Actavis Pharma Inc",NJ,100000010642,16.69,10/13/2015,"In-kind items and services",339603528,"Food and Beverage","",NAMZARIC,"",""
+253659,"Actavis Pharma Inc",NJ,100000010642,16.69,10/13/2015,"In-kind items and services",339603530,"Food and Beverage","",NAMZARIC,"",""
+253659,"Actavis Pharma Inc",NJ,100000010642,15.80,09/30/2015,"In-kind items and services",339548128,"Food and Beverage","",LINZESS,"",""

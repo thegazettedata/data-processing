@@ -1,0 +1,14 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1180135,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,2500.00,01/16/2015,GNRL,290150814
+1180135,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,790.78,11/14/2014,GNRL,196025868
+1180135,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,123.17,11/14/2014,GNRL,196025866
+1180135,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,115.00,01/16/2015,GNRL,290093552
+1180135,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,40.01,11/15/2014,GNRL,196026032
+1180135,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,35.00,11/15/2014,GNRL,196026028
+1180135,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,35.00,01/16/2015,GNRL,290150812
+1180135,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,30.22,03/24/2015,GNRL,295509410
+1180135,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,30.22,03/24/2015,GNRL,295509408
+1180135,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,24.09,11/15/2014,GNRL,196026026
+1180135,GNRL,"Valeant Pharmaceuticals North America LLC",NJ,100000010935,23.03,03/24/2015,GNRL,295509412
+1180135,GNRL,"SANOFI-AVENTIS U.S. LLC",NJ,100000000076,18.00,07/27/2015,GNRL,319614333
+1180135,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,12.28,11/15/2014,GNRL,196026030

@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1327829,GNRL,"D4D Technologies, LLC",TX,100000010841,1052.00,12/05/2015,GNRL,234350828
+1327829,GNRL,"Henry Schein, Inc.",NY,100000005547,721.45,12/04/2015,GNRL,333261386
+1327829,GNRL,"Patterson Companies, Inc.",MN,100000011158,125.00,10/17/2015,GNRL,326212930
+1327829,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,114.56,11/23/2015,GNRL,281502424

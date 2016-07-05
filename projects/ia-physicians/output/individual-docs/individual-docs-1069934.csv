@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1069934,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,592.22,10/17/2015,GNRL,296913958
+1069934,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,572.80,10/05/2015,GNRL,296913960
+1069934,GNRL,"Boston Scientific Corporation",MA,100000005674,219.79,01/09/2014,GNRL,152959118
+1069934,GNRL,"Boston Scientific Corporation",MA,100000005674,178.04,01/09/2014,GNRL,152959114
+1069934,GNRL,"Boston Scientific Corporation",MA,100000005674,90.00,01/10/2014,GNRL,152959120
+1069934,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,37.17,09/02/2015,GNRL,254158808
+1069934,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,37.03,02/25/2015,GNRL,254157370
+1069934,GNRL,"Siemens Medical Solutions USA, Inc.",PA,100000010755,24.46,09/23/2014,GNRL,152018378

@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+703165,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,105.85,11/10/2015,"In-kind items and services",290649122,"Food and Beverage","",Pradaxa,"",""
+703165,"Janssen Pharmaceuticals, Inc",NJ,100000000232,99.52,05/21/2015,"In-kind items and services",275606442,"Food and Beverage","",Xarelto,"",""
+703165,"GENZYME CORPORATION",MA,100000000297,94.86,04/07/2014,"In-kind items and services",188523110,"Food and Beverage","",KYNAMRO,"",""
+703165,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,93.33,05/28/2015,"In-kind items and services",333312690,"Food and Beverage","",SAMSCA,"",""
+703165,"Gilead Sciences Inc",CA,100000000108,92.02,09/17/2015,"In-kind items and services",316505816,"Food and Beverage","",Ranexa,"","AHM;8037660 - 1686854 - 20886176;1686854;10059655;VPL"
+703165,"Cordis Corporation",CA,100000005411,22.16,10/07/2013,"In-kind items and services",10402256,"Food and Beverage","","","",""
+703165,"Cordis Corporation",CA,100000005411,21.70,11/07/2013,"In-kind items and services",10403309,"Food and Beverage","","","",""
+703165,"Cordis Corporation",CA,100000005411,21.37,08/28/2013,"In-kind items and services",10401447,"Food and Beverage","","","",""
+703165,"Janssen Pharmaceuticals, Inc",NJ,100000000232,5.40,02/20/2015,"In-kind items and services",275606438,Education,"",XARELTO,"","Journal Article"
+703165,"Janssen Pharmaceuticals, Inc",NJ,100000000232,2.21,03/11/2015,"In-kind items and services",275606436,Education,"",XARELTO,"","Journal Article"
+703165,"Janssen Pharmaceuticals, Inc",NJ,100000000232,2.21,02/11/2015,"In-kind items and services",275606440,Education,"",XARELTO,"","Journal Article"

@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1312783,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,119.70,02/11/2015,GNRL,255268220
+1312783,GNRL,"Pfizer Inc.",NY,100000000286,107.13,04/01/2015,GNRL,323119104
+1312783,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,89.89,12/10/2015,GNRL,275536334
+1312783,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,88.04,12/18/2014,GNRL,156586322
+1312783,GNRL,"Novo Nordisk Inc",NJ,100000000144,86.67,06/30/2015,GNRL,270055678
+1312783,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,74.69,03/25/2015,GNRL,255452174
+1312783,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,67.24,09/17/2015,GNRL,256137808
+1312783,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,61.46,04/30/2015,GNRL,256379070

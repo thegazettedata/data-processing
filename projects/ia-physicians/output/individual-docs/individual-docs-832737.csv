@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+832737,GNRL,"Novo Nordisk Health Care AG","",100000000155,3471.00,10/27/2013,GNRL,21477303
+832737,GNRL,"Novo Nordisk Health Care AG","",100000000155,1110.00,10/27/2013,GNRL,21477302
+832737,GNRL,"Novo Nordisk Health Care AG","",100000000155,72.63,10/27/2013,GNRL,21477309
+832737,GNRL,"ARIAD Pharmaceuticals, Inc.",MA,100000010550,16.00,08/03/2015,GNRL,325875072

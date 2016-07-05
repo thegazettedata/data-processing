@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1202654,GNRL,"BIOTRONIK INC.",OR,100000010579,5000.00,06/17/2015,GNRL,334887762
+1202654,GNRL,"Biosense Webster, Inc.",CA,100000005693,842.46,11/14/2014,GNRL,120510295
+1202654,GNRL,"Biosense Webster, Inc.",CA,100000005693,158.98,01/08/2015,GNRL,266224356
+1202654,GNRL,"Biosense Webster, Inc.",CA,100000005693,158.98,01/08/2015,GNRL,266224366
+1202654,GNRL,"St. Jude Medical, Inc.",MN,100000000310,135.00,05/15/2015,GNRL,259522808
+1202654,GNRL,"Boston Scientific Corporation",MA,100000005674,82.00,05/07/2014,GNRL,153131728
+1202654,GNRL,"Boston Scientific Corporation",MA,100000005674,54.74,05/07/2014,GNRL,153131722

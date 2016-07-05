@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+14262,"Genentech USA, Inc.",CA,100000000226,2100.00,10/03/2015,"Cash or cash equivalent",317791686,"Consulting Fee","",Herceptin,"",""
+14262,"Genentech USA, Inc.",CA,100000000226,257.60,10/03/2015,"In-kind items and services",317798624,"Food and Beverage","",Herceptin,"",""
+14262,"Davol Inc.",RI,100000005490,120.63,12/31/2014,"Cash or cash equivalent",215200932,"Food and Beverage","","","",""
+14262,"Stryker Corporation",MI,100000010503,84.64,10/17/2015,"Cash or cash equivalent",316866882,"Food and Beverage","","","",""
+14262,"Stryker Corporation",MI,100000010503,43.55,10/17/2015,"Cash or cash equivalent",316866886,"Food and Beverage","","","",""
+14262,"Davol Inc.",RI,100000005490,37.80,12/31/2014,"Cash or cash equivalent",215201478,"Travel and Lodging","","","",""
+14262,"Davol Inc.",RI,100000005490,32.22,04/08/2014,"Cash or cash equivalent",215180048,"Food and Beverage","","","",""
+14262,"Stryker Corporation",MI,100000010503,14.77,02/04/2014,"Cash or cash equivalent",199007094,"Food and Beverage","","","",""
+14262,"Mallinckrodt LLC",MO,100000005429,13.45,08/18/2014,"In-kind items and services",210911540,"Food and Beverage","",Ofirmev,"",""
+14262,"Stryker Corporation",MI,100000010503,12.53,10/16/2015,"Cash or cash equivalent",316866884,"Food and Beverage","","","",""
+14262,"Ferring Pharmaceuticals Inc.",NJ,100000000309,11.04,09/19/2013,"In-kind items and services",102101952,"Food and Beverage","",PREPOPIK,"",""
+14262,"DePuy Synthes Sales Inc.",MA,100000005615,10.98,01/23/2014,"In-kind items and services",120868383,"Food and Beverage","","","","RELATED TO PRODUCT TRAINING ACTIVITY"

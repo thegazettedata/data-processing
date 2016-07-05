@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+137798,"Actavis Pharma Inc",NJ,100000010642,91.33,03/30/2015,"In-kind items and services",339876248,"Food and Beverage","",SAPHRIS,"",""
+137798,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,76.22,09/24/2014,"In-kind items and services",147306200,"Food and Beverage","",SAPHRIS,"",""
+137798,"Takeda Pharmaceuticals U.S.A., Inc.",IL,100000000337,69.00,10/25/2013,"In-kind items and services",103234890,"Consulting Fee","",Brintellix,"",""
+137798,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,69.00,09/19/2013,"In-kind items and services",31939160,Education,"","ABILIFY TABLET","",""
+137798,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,66.33,07/15/2014,"In-kind items and services",147306194,"Food and Beverage","",SAPHRIS,"",""
+137798,"Sunovion Pharmaceuticals Inc.",MA,100000000254,64.65,09/04/2013,"In-kind items and services",101236726,"Food and Beverage","",Latuda,"",""
+137798,"Takeda Pharmaceuticals U.S.A., Inc.",IL,100000000337,38.53,10/25/2013,"In-kind items and services",103234888,"Consulting Fee","",Brintellix,"",""
+137798,"Actavis Pharma Inc",NJ,100000010642,9.15,06/18/2015,"In-kind items and services",339115350,"Food and Beverage","",SAPHRIS,"",""
+137798,"Actavis Pharma Inc",NJ,100000010642,5.78,05/01/2015,"In-kind items and services",339021370,"Food and Beverage","",FETZIMA,VIIBRYD,""
+137798,"Actavis Pharma Inc",NJ,100000010642,4.01,05/07/2015,"In-kind items and services",338976632,"Food and Beverage","",SAPHRIS,"",""
+137798,"Actavis Pharma Inc",NJ,100000010642,3.35,07/13/2015,"In-kind items and services",338958736,"Food and Beverage","",SAPHRIS,"",""
+137798,"Actavis Pharma Inc",NJ,100000010642,2.73,07/13/2015,"In-kind items and services",338928968,"Food and Beverage","",SAPHRIS,"",""

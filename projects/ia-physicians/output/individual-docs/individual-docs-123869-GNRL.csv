@@ -1,0 +1,49 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+123869,"Gilead Sciences Inc",CA,100000000108,2200.00,05/15/2015,"Cash or cash equivalent",310335485,Honoraria,"","","",CMIND;ehurry20150721152019-24;ehurry20150721152019-24-24;10054506;VPL
+123869,"Gilead Sciences Inc",CA,100000000108,2000.00,03/08/2015,"Cash or cash equivalent",310335494,Honoraria,"",Harvoni,"",CARAVEL;DD20150327160646-21;DD20150327160646-21-21;10054506;VPL
+123869,"Gilead Sciences Inc",CA,100000000108,575.70,03/13/2015,"In-kind items and services",313973392,"Travel and Lodging","",Harvoni,"",CARAVEL;20150403142154-138;20150403142154-138-138;10054506;VPL
+123869,"Gilead Sciences Inc",CA,100000000108,538.20,03/13/2015,"In-kind items and services",313973402,"Travel and Lodging","",Harvoni,"",CARAVEL;20150403142154-139;20150403142154-139-139;10054506;VPL
+123869,"Gilead Sciences Inc",CA,100000000108,525.20,05/15/2015,"In-kind items and services",313973416,"Travel and Lodging","","","","CMIND;Kristen Petitto20151002142409-105;Kristen Petitto20151002142409-105-105;10054506;VPL"
+123869,"Gilead Sciences Inc",CA,100000000108,334.70,03/13/2015,"In-kind items and services",313973408,"Travel and Lodging","",Harvoni,"",CARAVEL;20150403142154-140;20150403142154-140-140;10054506;VPL
+123869,"COMSORT, Inc",MD,100000000055,100.00,04/23/2015,"Cash or cash equivalent",330522557,"Consulting Fee","",PEGINTRON,REBETOL,"Provided for COMSORT survey."
+123869,"COMSORT, Inc",MD,100000000055,100.00,12/18/2015,"Cash or cash equivalent",331176963,"Consulting Fee","",ZERBAXA,"","Provided for COMSORT survey."
+123869,"AbbVie, Inc.",IL,100000000204,99.56,07/21/2015,"In-kind items and services",317287486,"Food and Beverage","",Viekira,"",""
+123869,"Gilead Sciences Inc",CA,100000000108,74.62,03/13/2015,"In-kind items and services",316602202,"Food and Beverage","",Harvoni,"",CARAVEL;20150403142154-141;20150403142154-141-141;10054506;VPL
+123869,"The Medicines Company",NJ,100000010428,61.21,12/15/2015,"In-kind items and services",337716112,"Food and Beverage","",ORBACTIV,"",""
+123869,"Sanofi Pasteur Inc.",PA,100000000299,57.25,08/19/2014,"In-kind items and services",182410164,"Food and Beverage","","","",""
+123869,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,56.25,09/24/2013,"In-kind items and services",100364304,"Food and Beverage","",TEFLARO,"",""
+123869,"Gilead Sciences Inc",CA,100000000108,50.00,05/15/2015,"In-kind items and services",316602204,"Food and Beverage","","","","CMIND;Kristen Petitto20151002142409-74;Kristen Petitto20151002142409-74-74;10054506;VPL"
+123869,"Gilead Sciences Inc",CA,100000000108,46.24,03/13/2015,"In-kind items and services",316602198,"Food and Beverage","",Harvoni,"",CARAVEL;20150403142154-142;20150403142154-142-142;10054506;VPL
+123869,"Gilead Sciences Inc",CA,100000000108,46.24,03/13/2015,"In-kind items and services",316602206,"Food and Beverage","",Harvoni,"",CARAVEL;20150403142154-143;20150403142154-143-143;10054506;VPL
+123869,"Actavis Pharma Inc",NJ,100000010642,43.14,05/26/2015,"In-kind items and services",339853992,"Food and Beverage","",DALVANCE,"",""
+123869,"Gilead Sciences Inc",CA,100000000108,40.90,03/13/2015,"In-kind items and services",316602200,"Food and Beverage","",Harvoni,"",CARAVEL;20150403142154-144;20150403142154-144-144;10054506;VPL
+123869,"Actavis Pharma Inc",NJ,100000010642,36.88,03/05/2015,"In-kind items and services",339851852,"Food and Beverage","",TEFLARO,"",""
+123869,"AbbVie, Inc.",IL,100000000204,35.93,09/14/2015,"In-kind items and services",317249218,Education,"",Viekira,Technivie,""
+123869,"Sanofi Pasteur Inc.",PA,100000000299,33.51,12/03/2013,"In-kind items and services",14686234,"Food and Beverage","","","",""
+123869,"Cubist Pharmaceuticals Inc",MA,100000010606,27.29,12/09/2013,"In-kind items and services",105347706,Education,"",Anti-Bacterial,"",""
+123869,"Gilead Sciences Inc",CA,100000000108,27.04,08/25/2015,"In-kind items and services",316602210,"Food and Beverage","",Harvoni,"","AHM;8042495 - 1757998 - 20615030;1757998;10054506;VPL"
+123869,"Gilead Sciences Inc",CA,100000000108,24.46,05/19/2015,"In-kind items and services",316602208,"Food and Beverage","","","","AHM;8039910 - 1718640 - 20615030;1718640;10054506;VPL"
+123869,"The Medicines Company",NJ,100000010428,23.47,11/04/2014,"In-kind items and services",211971392,"Food and Beverage","","","",""
+123869,"AbbVie, Inc.",IL,100000000204,22.68,08/04/2015,"In-kind items and services",317225064,"Food and Beverage","",Viekira,Technivie,""
+123869,"AbbVie, Inc.",IL,100000000204,18.11,01/07/2015,"In-kind items and services",317129630,"Food and Beverage","",Humira,Viekira,""
+123869,"AbbVie, Inc.",IL,100000000204,17.07,03/04/2014,"In-kind items and services",189194702,"Food and Beverage","",Moderiba,"",""
+123869,"Actavis Pharma Inc",NJ,100000010642,17.06,07/21/2015,"In-kind items and services",339618252,"Food and Beverage","",DALVANCE,"",""
+123869,"The Medicines Company",NJ,100000010428,15.85,03/11/2015,"In-kind items and services",337716108,"Food and Beverage","",ORBACTIV,"",""
+123869,"Actavis Pharma Inc",NJ,100000010642,15.35,01/29/2015,"In-kind items and services",339513792,"Food and Beverage","",DALVANCE,"",""
+123869,"Actavis Pharma Inc",NJ,100000010642,15.28,08/11/2015,"In-kind items and services",339507820,"Food and Beverage","",AVYCAZ,"",""
+123869,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,14.89,08/06/2013,"In-kind items and services",100364302,"Food and Beverage","",TEFLARO,"",""
+123869,"Actavis Pharma Inc",NJ,100000010642,13.91,04/14/2015,"In-kind items and services",339432330,"Food and Beverage","",AVYCAZ,"",""
+123869,"Genentech USA, Inc.",CA,100000000226,13.69,11/13/2013,"In-kind items and services",29800949,"Food and Beverage","",Pegasys,"",""
+123869,"Actavis Pharma Inc",NJ,100000010642,13.08,03/03/2015,"In-kind items and services",339385120,"Food and Beverage","",DALVANCE,"",""
+123869,"Merck Sharp & Dohme Corporation",NJ,100000000053,13.07,08/18/2015,"In-kind items and services",330792341,"Food and Beverage","",CUBICIN,ZERBAXA,""
+123869,"Gilead Sciences Inc",CA,100000000108,12.84,10/02/2013,"In-kind items and services",100726528,Education,"","","","546838-1545171-a05A000000BuvTaIAJ-a05A000000BuvTaIAJ-Gilead Sciences-"
+123869,"Cubist Pharmaceuticals Inc",MA,100000010606,12.74,11/19/2013,"In-kind items and services",105347702,"Food and Beverage","",CUBICIN,DIFICID,""
+123869,"Cubist Pharmaceuticals Inc",MA,100000010606,12.74,08/27/2013,"In-kind items and services",105347704,"Food and Beverage","",CUBICIN,DIFICID,""
+123869,"Actavis Pharma Inc",NJ,100000010642,12.67,09/29/2015,"In-kind items and services",339361758,"Food and Beverage","",DALVANCE,"",""
+123869,"Actavis Pharma Inc",NJ,100000010642,12.50,05/27/2015,"In-kind items and services",339351616,"Food and Beverage","",DALVANCE,"",""
+123869,"Actavis Pharma Inc",NJ,100000010642,12.18,10/28/2015,"In-kind items and services",339331272,"Food and Beverage","",DALVANCE,"",""
+123869,"The Medicines Company",NJ,100000010428,11.77,08/11/2015,"In-kind items and services",337716110,"Food and Beverage","",ORBACTIV,"",""
+123869,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,10.75,09/10/2013,"In-kind items and services",100364300,"Food and Beverage","",TEFLARO,"",""
+123869,"Electromed, Inc.",MN,100000011148,10.70,09/16/2013,"Cash or cash equivalent",104975292,"Food and Beverage","",HFCWO,"",""
+123869,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,10.58,06/17/2014,"In-kind items and services",147186685,"Food and Beverage","",TEFLARO,"",""
+123869,"Actavis Pharma Inc",NJ,100000010642,2.67,04/14/2015,"In-kind items and services",338926590,"Food and Beverage","",AVYCAZ,"",""

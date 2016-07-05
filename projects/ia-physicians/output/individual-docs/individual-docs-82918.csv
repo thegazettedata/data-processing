@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+82918,GNRL,"Celgene Corporation",NJ,100000000343,2000.00,08/20/2013,GNRL,101784314
+82918,GNRL,"Celgene Corporation",NJ,100000000343,280.80,08/02/2013,GNRL,101786670
+82918,GNRL,"Celgene Corporation",NJ,100000000343,273.30,08/02/2013,GNRL,101786702
+82918,GNRL,"Celgene Corporation",NJ,100000000343,237.46,08/02/2013,GNRL,101786900
+82918,GNRL,"Celgene Corporation",NJ,100000000343,167.27,08/02/2013,GNRL,101787510
+82918,GNRL,"Celgene Corporation",NJ,100000000343,105.01,08/27/2013,GNRL,101788896

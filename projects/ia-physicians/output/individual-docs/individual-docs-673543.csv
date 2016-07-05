@@ -1,0 +1,3 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+673543,GNRL,"SANOFI-AVENTIS U.S. LLC",NJ,100000000076,310.00,06/19/2014,GNRL,188472632
+673543,GNRL,"SANOFI US SERVICES INC.",NJ,100000000067,300.00,01/24/2014,GNRL,188453302

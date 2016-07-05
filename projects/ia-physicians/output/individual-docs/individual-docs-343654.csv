@@ -1,0 +1,13 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+343654,GNRL,"Boston Scientific Corporation",MA,100000005674,6250.00,03/10/2015,GNRL,246058154
+343654,GNRL,"Boston Scientific Corporation",MA,100000005674,118.63,02/17/2015,GNRL,246058152
+343654,GNRL,"Stryker Corporation",MI,100000010503,32.60,07/16/2015,GNRL,316734904
+343654,GNRL,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,15.54,08/27/2015,GNRL,293798868
+343654,GNRL,"Boston Scientific Corporation",MA,100000005674,14.62,07/23/2015,GNRL,246058146
+343654,GNRL,"Boston Scientific Corporation",MA,100000005674,12.40,08/13/2015,GNRL,246058148
+343654,GNRL,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,12.18,04/14/2015,GNRL,293798872
+343654,GNRL,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,11.24,03/25/2015,GNRL,299083626
+343654,GNRL,"Boston Scientific Corporation",MA,100000005674,7.50,11/11/2015,GNRL,246058144
+343654,GNRL,"Boston Scientific Corporation",MA,100000005674,4.71,12/21/2015,GNRL,246058142
+343654,GNRL,"Boston Scientific Corporation",MA,100000005674,4.58,03/31/2015,GNRL,246058156
+343654,GNRL,"Boston Scientific Corporation",MA,100000005674,4.18,01/16/2015,GNRL,246058150

@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+631878,GNRL,"Synergetics USA, Inc",MO,100000010708,2733.00,09/01/2015,GNRL,295295402
+631878,GNRL,"Genentech USA, Inc.",CA,100000000226,129.08,11/16/2013,GNRL,29789915
+631878,GNRL,"Alcon Laboratories Inc",TX,100000005405,115.77,11/14/2015,GNRL,314923438
+631878,GNRL,"Genentech USA, Inc.",CA,100000000226,112.53,10/18/2014,GNRL,223996098
+631878,GNRL,"Regeneron Pharmaceuticals, Inc.",NY,100000000069,108.95,05/02/2014,GNRL,188815012

@@ -1,0 +1,4 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+31643,"Kerr Corporation",CA,100000005552,429.30,12/18/2013,"In-kind items and services",103694146,Grant,"","","",""
+31643,"Kerr Corporation",CA,100000005552,429.30,12/16/2013,"In-kind items and services",103694140,Grant,"","","",""
+31643,"National Dentex Corporation",FL,100000000065,19.35,12/01/2013,"In-kind items and services",105325336,Gift,"","TAP 3","",""

@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+812906,"DJO, LLC",CA,100000005579,138.86,07/13/2015,"In-kind items and services",270461950,"Food and Beverage","","","",""
+812906,"Stryker Corporation",MI,100000010503,114.22,04/09/2014,"Cash or cash equivalent",199157274,"Food and Beverage","","","",""
+812906,"WRIGHT MEDICAL TECHNOLOGY, INC.",TN,100000086401,99.99,11/16/2015,"In-kind items and services",301484550,"Food and Beverage","","","",""
+812906,"Stryker Corporation",MI,100000010503,64.14,01/30/2014,"Cash or cash equivalent",199157270,"Food and Beverage","","","",""
+812906,"Stryker Corporation",MI,100000010503,41.03,05/23/2015,"Cash or cash equivalent",324518742,"Food and Beverage","","","",""
+812906,"Smith & Nephew, Inc.",TN,100000005456,36.80,09/30/2014,"In-kind items and services",183002880,"Food and Beverage","","","",""
+812906,"WRIGHT MEDICAL TECHNOLOGY, INC.",TN,100000086401,26.92,07/16/2015,"In-kind items and services",301447914,"Food and Beverage","","","",""
+812906,"WRIGHT MEDICAL TECHNOLOGY, INC.",TN,100000086401,22.17,03/03/2015,"In-kind items and services",301327765,"Food and Beverage","","","",""
+812906,"Pfizer Inc.",NY,100000000286,11.30,05/08/2014,"In-kind items and services",205743878,"Food and Beverage","","FLECTOR PATCH",CELEBREX,""

@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+70956,GNRL,"Henry Schein, Inc.",NY,100000005547,520.94,05/15/2015,GNRL,333250600
+70956,GNRL,"Dental Imaging Technologies Corp.",PA,100000010701,160.20,06/18/2015,GNRL,338069008
+70956,GNRL,"Henry Schein, Inc.",NY,100000005547,47.93,08/26/2014,GNRL,178579252
+70956,GNRL,"National Dentex Corporation",FL,100000000065,21.15,12/01/2013,GNRL,105325232
+70956,GNRL,"Dental Imaging Technologies Corp.",PA,100000010701,15.27,06/19/2015,GNRL,338069010
+70956,GNRL,"Henry Schein, Inc.",NY,100000005547,14.42,02/28/2015,GNRL,333244806
+70956,GNRL,"DENTSPLY IH Inc.",PA,100000010676,12.22,08/24/2013,GNRL,105335070

@@ -1,0 +1,11 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+84226,GNRL,"Covidien LP",MA,100000000083,859.80,11/29/2013,GNRL,104816418
+84226,GNRL,"Covidien LP",MA,100000000083,223.14,12/06/2013,GNRL,104816420
+84226,GNRL,"Covidien LP",MA,100000000083,157.15,12/17/2013,GNRL,104816424
+84226,GNRL,"Covidien LP",MA,100000000083,64.83,12/06/2013,GNRL,104816422
+84226,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,16.41,08/13/2015,GNRL,290633312
+84226,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,14.45,03/11/2015,GNRL,275130970
+84226,GNRL,"Boston Scientific Corporation",MA,100000005674,13.64,01/07/2014,GNRL,153166432
+84226,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,13.03,05/28/2014,GNRL,148392006
+84226,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,11.04,09/16/2015,GNRL,290633310
+84226,GNRL,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,10.44,07/03/2014,GNRL,146880644

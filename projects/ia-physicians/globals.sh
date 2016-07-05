@@ -11,8 +11,8 @@ FOLDER="payments"
 TOPIC=("GNRL" "RSRCH")
 
 # Filename variables specific for payments
-BEGIN_DATE=("2013" "2014")
-END_DATE="P06302015"
+BEGIN_DATE=("2013" "2014" "2015")
+END_DATE="P06302016"
 
 # File path for supplemental
 FILENAME_SUPPLEMENTAL="raw/"$FOLDER"/OP_PH_PRFL_"$TOPIC"_"$END_DATE".csv"

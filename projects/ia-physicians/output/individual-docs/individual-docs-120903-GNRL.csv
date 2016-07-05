@@ -1,0 +1,11 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+120903,"SANOFI-AVENTIS U.S. LLC",NJ,100000000076,570.00,05/08/2014,"In-kind items and services",188476222,Gift,"","","",""
+120903,"US WorldMeds, LLC",KY,100000000354,30.42,09/22/2014,"Cash or cash equivalent",193026016,Education,"",Apokyn,Myobloc,""
+120903,"Horizon Pharma USA, Inc.",IL,100000005713,19.61,09/10/2013,"Cash or cash equivalent",102030176,"Food and Beverage","","DUEXIS-800mg Ibuprofen- 26.6mg Famotidine","",""
+120903,"Horizon Pharma plc","",100000131389,17.89,03/27/2015,"In-kind items and services",281877202,"Food and Beverage","",PENNSAID,"",""
+120903,"US WorldMeds, LLC",KY,100000000354,14.28,09/20/2014,"Cash or cash equivalent",193026012,Education,"",Apokyn,Myobloc,""
+120903,"Mallinckrodt LLC",MO,100000005429,14.07,08/21/2013,"In-kind items and services",101726916,"Food and Beverage","","Pennsaid Topical Solution","",""
+120903,"Purdue Pharma L.P.",CT,100000005432,13.21,08/28/2013,"Cash or cash equivalent",24369684,"Food and Beverage","",BUTRANS,OXYCONTIN,""
+120903,"Purdue Pharma L.P.",CT,100000005432,12.78,10/02/2013,"Cash or cash equivalent",24369685,"Food and Beverage","",BUTRANS,OXYCONTIN,""
+120903,"Mallinckrodt LLC",MO,100000005429,11.74,09/30/2014,"In-kind items and services",210939468,"Food and Beverage","","Xartemis XR","",""
+120903,"Mallinckrodt LLC",MO,100000005429,10.18,10/24/2013,"In-kind items and services",101726918,"Food and Beverage","","Pennsaid Topical Solution","",""

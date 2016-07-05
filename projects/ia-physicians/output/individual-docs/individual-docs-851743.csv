@@ -1,0 +1,13 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,683.85,03/26/2015,GNRL,296050732
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,292.58,03/26/2015,GNRL,296050740
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,90.06,03/27/2015,GNRL,296050742
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,59.94,03/26/2015,GNRL,296050738
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,37.48,03/27/2015,GNRL,296050748
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,31.74,03/28/2015,GNRL,296050736
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,28.91,03/28/2015,GNRL,296050730
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,22.05,03/27/2015,GNRL,296050746
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,11.06,03/28/2015,GNRL,296050734
+851743,GNRL,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,10.79,08/24/2015,GNRL,290781958
+851743,GNRL,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,10.62,09/21/2015,GNRL,331960455
+851743,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,5.13,03/27/2015,GNRL,296050744

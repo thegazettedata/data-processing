@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+591989,GNRL,"Globus Medical, Inc.",PA,100000005532,501.20,10/09/2015,GNRL,330631367
+591989,GNRL,"Globus Medical, Inc.",PA,100000005532,330.87,10/10/2015,GNRL,330631365
+591989,GNRL,"Globus Medical, Inc.",PA,100000005532,104.68,10/10/2015,GNRL,330631369
+591989,GNRL,"Globus Medical, Inc.",PA,100000005532,87.49,10/09/2015,GNRL,330631359

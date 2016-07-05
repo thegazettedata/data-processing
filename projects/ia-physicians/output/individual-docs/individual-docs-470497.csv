@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+470497,GNRL,"Shire North American Group Inc",MA,100000061292,1699.28,10/02/2015,GNRL,301162421
+470497,GNRL,"Shire North American Group Inc",MA,100000061292,237.00,10/02/2015,GNRL,301162414
+470497,GNRL,"Shire North American Group Inc",MA,100000061292,186.55,10/02/2015,GNRL,301162428
+470497,GNRL,"Alexion Pharmaceuticals, Inc.",CT,100000005462,65.40,10/30/2014,GNRL,218606270
+470497,GNRL,"Raptor Pharmaceuticals",CA,100000000217,16.00,07/09/2015,GNRL,338788268

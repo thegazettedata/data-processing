@@ -1,0 +1,13 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+207306,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,124.98,04/15/2015,GNRL,333349126
+207306,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,118.05,09/05/2013,GNRL,105041650
+207306,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,116.80,07/30/2014,GNRL,216177344
+207306,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,115.74,04/23/2014,GNRL,155930980
+207306,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,107.64,11/13/2013,GNRL,101234052
+207306,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,102.03,05/08/2015,GNRL,321282416
+207306,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,95.70,09/19/2013,GNRL,105041652
+207306,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,90.79,03/12/2015,GNRL,274940984
+207306,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,11.89,10/22/2013,GNRL,101234050
+207306,GNRL,"Sunovion Pharmaceuticals Inc.",MA,100000000254,8.91,10/22/2013,GNRL,101234048
+207306,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,3.00,01/17/2014,GNRL,216177340
+207306,GNRL,"Otsuka America Pharmaceutical, Inc.",MD,100000010723,2.28,09/19/2013,GNRL,105041654

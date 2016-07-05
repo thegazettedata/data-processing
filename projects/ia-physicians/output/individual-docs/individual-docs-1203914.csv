@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1203914,GNRL,"Davol Inc.",RI,100000005490,444.01,06/05/2014,GNRL,215185530
+1203914,GNRL,"Davol Inc.",RI,100000005490,302.01,06/24/2014,GNRL,215187002
+1203914,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,101.10,12/06/2015,GNRL,255298890
+1203914,GNRL,"Davol Inc.",RI,100000005490,47.03,06/05/2014,GNRL,215185660

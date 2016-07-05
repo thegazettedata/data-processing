@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1199410,GNRL,"A-dec, Inc.",OR,100000005393,1275.00,08/04/2015,GNRL,294292870
+1199410,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,12.00,07/16/2014,GNRL,164138778
+1199410,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,10.00,10/31/2013,GNRL,105404388

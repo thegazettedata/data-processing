@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+219351,GNRL,"A-dec, Inc.",OR,100000005393,400.00,07/15/2014,GNRL,200772358
+219351,GNRL,"A-dec, Inc.",OR,100000005393,250.00,07/25/2014,GNRL,200760493
+219351,GNRL,"A-dec, Inc.",OR,100000005393,230.00,07/10/2014,GNRL,200760490
+219351,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,56.48,06/25/2015,GNRL,281499972
+219351,GNRL,"Kerr Corporation",CA,100000005552,20.62,05/28/2014,GNRL,212672444
+219351,GNRL,"BIomet 3i, LLC",FL,100000005638,15.73,08/11/2014,GNRL,200230958
+219351,GNRL,"Tulsa Dental Products LLC",PA,100000010600,12.04,09/05/2013,GNRL,104979624

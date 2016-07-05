@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+882211,GNRL,"Boston Scientific Corporation",MA,100000005674,415.28,07/09/2014,GNRL,153039270
+882211,GNRL,"Boston Scientific Corporation",MA,100000005674,140.12,07/09/2014,GNRL,153039262
+882211,GNRL,"Boston Scientific Corporation",MA,100000005674,68.40,04/25/2014,GNRL,153039278
+882211,GNRL,"Pfizer Inc.",NY,100000000286,47.78,11/21/2014,GNRL,206180898
+882211,GNRL,"Allergan Inc.",CA,100000000278,14.46,09/25/2013,GNRL,23622696
+882211,GNRL,"Allergan Inc.",CA,100000000278,4.86,09/25/2013,GNRL,23622697

@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+198259,GNRL,"Actelion Pharmaceuticals US, Inc.",CA,100000010813,3000.00,02/27/2015,GNRL,326582480
+198259,GNRL,"Actelion Pharmaceuticals US, Inc.",CA,100000010813,1900.00,08/21/2015,GNRL,326582486
+198259,GNRL,"Actelion Pharmaceuticals US, Inc.",CA,100000010813,22.05,08/21/2015,GNRL,326582488
+198259,GNRL,"United Therapeutics Corporation",NC,100000010739,16.77,12/16/2015,GNRL,340230268
+198259,GNRL,"Actelion Pharmaceuticals US, Inc.",CA,100000010813,13.36,08/12/2015,GNRL,326582484
+198259,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,13.29,11/17/2015,GNRL,275706760
+198259,GNRL,"Actelion Pharmaceuticals US, Inc.",CA,100000010813,13.16,08/07/2015,GNRL,326582482
+198259,GNRL,"NOVARTIS PHARMACEUTICALS CORPORATION",NJ,100000000228,11.16,12/09/2015,GNRL,263310322

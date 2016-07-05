@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+140045,GNRL,"Torax Medical, Inc.",MN,100000011080,569.45,11/20/2014,GNRL,182280298
+140045,GNRL,"Torax Medical, Inc.",MN,100000011080,90.42,04/15/2015,GNRL,310154790
+140045,GNRL,"Torax Medical, Inc.",MN,100000011080,58.44,01/15/2015,GNRL,331315059
+140045,GNRL,"Covidien Sales LLC",MA,100000000098,41.38,11/27/2013,GNRL,104904928
+140045,GNRL,"Apollo Endosurgery Inc",TX,100000016245,16.28,04/04/2014,GNRL,194307547

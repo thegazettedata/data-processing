@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+272,GNRL,"ARIAD Pharmaceuticals, Inc.",MA,100000010550,750.00,04/20/2015,GNRL,325876108
+272,GNRL,"McKesson Specialty Care Distribution Corp.",CA,100000010520,198.00,12/01/2013,GNRL,104886530
+272,GNRL,"AstraZeneca Pharmaceuticals LP",DE,100000000146,20.05,04/14/2015,GNRL,260123374
+272,GNRL,"Pfizer Inc.",NY,100000000286,17.50,11/04/2013,GNRL,205230802
+272,GNRL,"Toshiba America Medical Systems, Inc.",CA,100000000344,17.26,08/18/2014,GNRL,158738348
+272,GNRL,"Ipsen Biopharmaceuticals, Inc",NJ,100000000123,16.92,05/27/2015,GNRL,341508670
+272,GNRL,"Amgen Inc.",CA,100000000203,14.28,04/08/2015,GNRL,297249954
+272,GNRL,"Bayer HealthCare Pharmaceuticals Inc.",NJ,100000005467,13.76,07/14/2015,GNRL,337914422

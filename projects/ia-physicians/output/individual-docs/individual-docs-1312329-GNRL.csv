@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1312329,"Janssen Pharmaceuticals, Inc",NJ,100000000232,123.95,11/12/2015,"In-kind items and services",275127584,"Food and Beverage","",Invokana,"","Related to product discussion"
+1312329,"AstraZeneca Pharmaceuticals LP",DE,100000000146,121.07,11/05/2015,"In-kind items and services",255106842,"Food and Beverage","",BRILINTA,"","Educational Program"
+1312329,"Janssen Pharmaceuticals, Inc",NJ,100000000232,99.00,11/13/2014,"In-kind items and services",156136526,Education,"",Xarelto,"","Medical Textbook"
+1312329,"Janssen Pharmaceuticals, Inc",NJ,100000000232,88.04,12/18/2014,"In-kind items and services",156136524,"Food and Beverage","",Xarelto,"",""
+1312329,"AstraZeneca Pharmaceuticals LP",DE,100000000146,87.65,01/14/2015,"In-kind items and services",254937644,"Food and Beverage","","","","Informational Meal"
+1312329,"AstraZeneca Pharmaceuticals LP",DE,100000000146,74.69,03/25/2015,"In-kind items and services",255631936,"Food and Beverage","",BYDUREON,"","Educational Program"
+1312329,"AstraZeneca Pharmaceuticals LP",DE,100000000146,61.46,04/30/2015,"In-kind items and services",255452243,"Food and Beverage","","","","Informational Meal"
+1312329,"Janssen Pharmaceuticals, Inc",NJ,100000000232,42.28,09/24/2014,"In-kind items and services",156136522,"Food and Beverage","",Xarelto,"",""
+1312329,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,15.58,12/04/2015,"Cash or cash equivalent",332222365,"Food and Beverage","",ELIQUIS,"",""
+1312329,"Novo Nordisk Inc",NJ,100000000144,12.26,10/30/2015,"In-kind items and services",270191324,"Food and Beverage","",Levemir,"",""
+1312329,"ZOLL Services LLC (A/K/A ZOLL LifeCor Corp)",PA,100000000178,11.58,12/08/2015,"In-kind items and services",252562636,"Food and Beverage","","","",""
+1312329,"AstraZeneca Pharmaceuticals LP",DE,100000000146,4.82,12/14/2015,"In-kind items and services",256452936,"Food and Beverage","",BRILINTA,"","Informational Meal"

@@ -1,0 +1,7 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+32143,"QOL Medical, LLC",FL,100000010804,300.00,10/09/2015,"Cash or cash equivalent",252632828,Honoraria,"",Sucraid,"",""
+32143,"AbbVie, Inc.",IL,100000000204,154.90,11/13/2014,"In-kind items and services",189600252,"Food and Beverage","",Humira,"",""
+32143,"QOL Medical, LLC",FL,100000010804,143.20,10/09/2015,"Cash or cash equivalent",252632830,"Food and Beverage","",Sucraid,"",""
+32143,"Advanced Respiratory, Inc",MN,100000005391,93.19,10/18/2013,"In-kind items and services",103638014,"Food and Beverage","","","",""
+32143,"Janssen Scientific Affairs, LLC",NJ,100000000332,88.06,01/30/2014,"In-kind items and services",156032988,"Food and Beverage","",Remicade,"",""
+32143,"AbbVie, Inc.",IL,100000000204,2.67,11/13/2014,"In-kind items and services",189600250,"Food and Beverage","",Humira,"",""

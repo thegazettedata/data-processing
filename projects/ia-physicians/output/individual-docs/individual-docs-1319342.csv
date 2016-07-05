@@ -1,0 +1,14 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1319342,GNRL,"The Spectranetics Corporation",CO,100000005380,144.00,02/12/2015,GNRL,294874884
+1319342,GNRL,"The Spectranetics Corporation",CO,100000005380,138.84,04/15/2015,GNRL,294874900
+1319342,GNRL,"Boston Scientific Corporation",MA,100000005674,136.02,11/04/2015,GNRL,246076078
+1319342,GNRL,"The Spectranetics Corporation",CO,100000005380,125.01,04/10/2015,GNRL,294874894
+1319342,GNRL,"The Spectranetics Corporation",CO,100000005380,124.21,05/19/2015,GNRL,294874904
+1319342,GNRL,"The Spectranetics Corporation",CO,100000005380,122.28,03/10/2015,GNRL,294874888
+1319342,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,96.03,06/24/2015,GNRL,296230362
+1319342,GNRL,"The Spectranetics Corporation",CO,100000005380,56.50,04/12/2015,GNRL,294874898
+1319342,GNRL,"Boston Scientific Corporation",MA,100000005674,49.42,04/10/2015,GNRL,246076082
+1319342,GNRL,"The Spectranetics Corporation",CO,100000005380,22.97,03/11/2015,GNRL,294874892
+1319342,GNRL,"Boston Scientific Corporation",MA,100000005674,16.36,02/18/2015,GNRL,246076080
+1319342,GNRL,"Medtronic Vascular, Inc.",MN,100000010384,14.08,06/24/2015,GNRL,296230364
+1319342,GNRL,"Boston Scientific Corporation",MA,100000005674,6.04,04/15/2015,GNRL,246076084

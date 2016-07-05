@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+240269,"Astellas Pharma US Inc",IL,100000000137,750.00,09/20/2014,"Cash or cash equivalent",168477374,"Consulting Fee","",Xtandi,"",""
+240269,"Astellas Pharma US Inc",IL,100000000137,19.87,06/02/2014,"In-kind items and services",168658790,"Food and Beverage","",Xtandi,Tarceva,""
+240269,"Astellas Pharma US Inc",IL,100000000137,11.26,10/20/2014,"In-kind items and services",168827566,"Food and Beverage","",Xtandi,"",""
+240269,"Astellas Pharma US Inc",IL,100000000137,10.94,11/22/2014,"In-kind items and services",168624826,"Food and Beverage","",Xtandi,"",""
+240269,"Astellas Pharma US Inc",IL,100000000137,10.93,08/04/2014,"In-kind items and services",168507722,"Food and Beverage","",Xtandi,"",""
+240269,"Astellas Pharma US Inc",IL,100000000137,9.29,02/12/2014,"In-kind items and services",168431882,"Food and Beverage","",Xtandi,Tarceva,""
+240269,"Astellas Pharma US Inc",IL,100000000137,8.04,06/19/2014,"In-kind items and services",168479382,"Food and Beverage","",Xtandi,Tarceva,""
+240269,"Astellas Pharma US Inc",IL,100000000137,0.69,02/12/2014,"In-kind items and services",168494310,"Food and Beverage","",Xtandi,Tarceva,""

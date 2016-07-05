@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+623059,GNRL,"A-dec, Inc.",OR,100000005393,390.00,08/27/2014,GNRL,200755028
+623059,GNRL,"A-dec, Inc.",OR,100000005393,380.00,08/27/2014,GNRL,200755024
+623059,GNRL,"A-dec, Inc.",OR,100000005393,154.00,08/27/2014,GNRL,200755034

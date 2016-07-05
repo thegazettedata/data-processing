@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+611679,GNRL,"AngioDynamics, Inc.",NY,100000005504,4800.00,12/31/2015,GNRL,266603868
+611679,GNRL,"AngioDynamics, Inc.",NY,100000005504,1413.33,12/31/2014,GNRL,166068306
+611679,GNRL,"AngioDynamics, Inc.",NY,100000005504,67.11,06/25/2014,GNRL,192797246
+611679,GNRL,"AngioDynamics, Inc.",NY,100000005504,36.84,08/18/2015,GNRL,270274368
+611679,GNRL,"Biocompatibles, Inc.",CT,100000011081,10.97,03/20/2014,GNRL,220826516

@@ -1,0 +1,10 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+371819,GNRL,"Abbott Laboratories",IL,100000010680,718.12,09/11/2015,GNRL,332929094
+371819,GNRL,"Abbott Laboratories",IL,100000010680,475.04,11/06/2015,GNRL,333079008
+371819,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,203.71,04/21/2015,GNRL,310622851
+371819,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,187.36,04/21/2015,GNRL,310622858
+371819,GNRL,"Abbott Laboratories",IL,100000010680,106.56,12/14/2015,GNRL,332982940
+371819,GNRL,"Abbott Laboratories",IL,100000010680,82.00,11/02/2015,GNRL,333079474
+371819,GNRL,"Abbott Laboratories",IL,100000010680,41.00,11/02/2015,GNRL,333017320
+371819,GNRL,"Abbott Laboratories",IL,100000010680,41.00,11/02/2015,GNRL,333068132
+371819,GNRL,"Abbott Laboratories",IL,100000010680,16.93,11/20/2015,GNRL,333081648

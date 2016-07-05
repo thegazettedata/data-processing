@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+27191,"Alcon Laboratories Inc",TX,100000005405,251.00,10/11/2013,"Cash or cash equivalent",22988764,"Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program","","","",""
+27191,"Coopervision Inc.",NY,100000005728,138.61,10/22/2013,"In-kind items and services",103362086,"Food and Beverage","","","",""
+27191,"Alcon Laboratories Inc",TX,100000005405,82.01,08/27/2013,"In-kind items and services",23002612,"Food and Beverage","","","",""
+27191,"Allergan Inc.",CA,100000000278,15.27,09/18/2013,"In-kind items and services",102504266,"Food and Beverage","",RESTASIS,"",""
+27191,"Alcon Laboratories Inc",TX,100000005405,15.10,05/22/2014,"In-kind items and services",167488722,"Food and Beverage","","","",""
+27191,"Coopervision Inc.",NY,100000005728,13.87,09/17/2015,"In-kind items and services",330806699,"Food and Beverage","","","",""
+27191,"Allergan Inc.",CA,100000000278,13.04,04/30/2015,"In-kind items and services",288641716,"Food and Beverage","",RESTASIS,"",""
+27191,"Alcon Laboratories Inc",TX,100000005405,11.94,02/19/2014,"In-kind items and services",167488718,"Food and Beverage","","","",""
+27191,"Alcon Laboratories Inc",TX,100000005405,11.70,02/23/2015,"In-kind items and services",315029396,"Food and Beverage","","","",""
+27191,"Alcon Laboratories Inc",TX,100000005405,11.63,08/29/2013,"In-kind items and services",23002544,"Food and Beverage","","","",""
+27191,"Alcon Laboratories Inc",TX,100000005405,11.13,08/01/2013,"In-kind items and services",22992885,"Food and Beverage","","","",""
+27191,"Allergan Inc.",CA,100000000278,10.54,06/23/2014,"In-kind items and services",198182162,"Food and Beverage","",RESTASIS,"",""

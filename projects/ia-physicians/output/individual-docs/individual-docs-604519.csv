@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+604519,RSRCH,"GlaxoSmithKline, LLC.",NC,100000005449,640.06,09/04/2014,RSRCH,247859894
+604519,RSRCH,"GlaxoSmithKline, LLC.",NC,100000005449,633.04,12/22/2014,RSRCH,208664322
+604519,GNRL,"Sanofi Pasteur Inc.",PA,100000000299,13.08,02/18/2014,GNRL,182352518

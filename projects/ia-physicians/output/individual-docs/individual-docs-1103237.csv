@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1103237,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,156.39,03/24/2015,GNRL,341424474
+1103237,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,156.39,03/24/2015,GNRL,341511254
+1103237,GNRL,"Baxter Healthcare",IL,100000011010,99.75,12/12/2014,GNRL,211137028
+1103237,GNRL,"KCI USA, Inc",TX,100000010396,82.78,03/24/2015,GNRL,333394120
+1103237,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,22.00,09/15/2015,GNRL,341511250
+1103237,GNRL,"Intuitive Surgical, Inc.",CA,100000005384,16.80,07/22/2014,GNRL,211847836
+1103237,GNRL,"Mallinckrodt LLC",MO,100000005429,16.66,03/13/2015,GNRL,334176416

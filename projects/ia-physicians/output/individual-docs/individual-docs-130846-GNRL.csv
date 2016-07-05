@@ -1,0 +1,10 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+130846,"Amgen Inc.",CA,100000000203,121.65,09/30/2015,"In-kind items and services",297465608,"Food and Beverage","",Enbrel,"",""
+130846,"Amgen Inc.",CA,100000000203,102.63,07/29/2015,"In-kind items and services",297465614,"Food and Beverage","",Enbrel,"",""
+130846,"Amgen Inc.",CA,100000000203,92.61,06/23/2015,"In-kind items and services",297465612,"Food and Beverage","",Enbrel,"",""
+130846,"Amgen Inc.",CA,100000000203,87.60,10/07/2015,"In-kind items and services",297465610,"Food and Beverage","",Enbrel,"",""
+130846,"Amgen Inc.",CA,100000000203,84.92,08/12/2015,"In-kind items and services",297465600,"Food and Beverage","",Enbrel,"",""
+130846,"Amgen Inc.",CA,100000000203,43.51,07/28/2015,"In-kind items and services",297465604,"Food and Beverage","",Enbrel,"",""
+130846,"Amgen Inc.",CA,100000000203,22.75,07/29/2015,"In-kind items and services",297465602,"Food and Beverage","",Enbrel,"",""
+130846,"Amgen Inc.",CA,100000000203,18.42,07/29/2015,"In-kind items and services",297465606,"Food and Beverage","",Enbrel,"",""
+130846,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,13.62,09/26/2013,"In-kind items and services",104386490,"Food and Beverage","",SPIRIVA,PRADAXA,""

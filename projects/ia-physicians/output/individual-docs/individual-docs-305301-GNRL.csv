@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+305301,"Sanofi Pasteur Inc.",PA,100000000299,528.80,12/17/2013,"In-kind items and services",14682808,Education,"","","",""
+305301,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,107.30,11/19/2013,"In-kind items and services",104468872,"Food and Beverage","",Pradaxa,"",""
+305301,"AstraZeneca Pharmaceuticals LP",DE,100000000146,99.62,04/14/2015,"In-kind items and services",260123870,"Food and Beverage","",BYDUREON,"","Educational Program"
+305301,"Sanofi Pasteur Inc.",PA,100000000299,66.10,12/05/2013,"In-kind items and services",14682728,Education,"","","",""
+305301,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,16.96,04/15/2014,"In-kind items and services",196355494,"Food and Beverage","",SPIRIVA,"",""
+305301,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,14.46,01/22/2014,"In-kind items and services",196355496,"Food and Beverage","",PRADAXA,"",""
+305301,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,12.75,11/05/2013,"In-kind items and services",104370862,"Food and Beverage","",PRADAXA,"",""
+305301,"Sanofi Pasteur Inc.",PA,100000000299,11.62,12/05/2013,"In-kind items and services",14682729,"Compensation for services other than consulting, including serving as faculty or as a speaker at a venue other than a continuing education program","","","",""
+305301,"FOREST PHARMACEUTICALS, INC.",NJ,100000005529,10.99,12/02/2013,"In-kind items and services",100315006,"Food and Beverage","",DALIRESP,TUDORZA,""
+305301,"Smith & Nephew, Inc.",TN,100000005456,10.65,08/16/2013,"In-kind items and services",101831550,"Food and Beverage","",Santyl,"",""
+305301,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,0.60,11/05/2013,"In-kind items and services",104278796,"Food and Beverage","",PRADAXA,"",""

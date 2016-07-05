@@ -1,0 +1,6 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1097009,"Skeletal Dynamics LLC",FL,100000011109,698.00,12/06/2014,"Cash or cash equivalent",217598020,Education,"","","",""
+1097009,"Skeletal Dynamics LLC",FL,100000011109,100.05,03/26/2015,"Cash or cash equivalent",260385594,"Food and Beverage","","","",""
+1097009,"SANOFI-AVENTIS U.S. LLC",NJ,100000000076,19.99,05/29/2014,"In-kind items and services",188697310,"Food and Beverage","","","",""
+1097009,"Endo Pharmaceuticals Inc.",PA,100000000285,14.69,05/13/2015,"In-kind items and services",338842180,"Food and Beverage","",XIAFLEX,"",""
+1097009,"Smith & Nephew, Inc.",TN,100000005456,14.42,04/23/2015,"In-kind items and services",303247200,"Food and Beverage","",Santyl,Regranex,""

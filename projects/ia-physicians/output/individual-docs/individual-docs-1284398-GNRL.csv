@@ -1,0 +1,8 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1284398,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,125.00,07/29/2015,"Cash or cash equivalent",332455059,"Food and Beverage","",ELIQUIS,"",""
+1284398,"AstraZeneca Pharmaceuticals LP",DE,100000000146,119.70,02/11/2015,"In-kind items and services",256193846,"Food and Beverage","",BYDUREON,"","Educational Program"
+1284398,"Pfizer Inc.",NY,100000000286,107.13,04/01/2015,"In-kind items and services",323119088,"Food and Beverage","",ELIQUIS,"",""
+1284398,"Janssen Pharmaceuticals, Inc",NJ,100000000232,89.89,12/10/2015,"In-kind items and services",275200360,"Food and Beverage","",Xarelto,"","Related to product discussion"
+1284398,"AstraZeneca Pharmaceuticals LP",DE,100000000146,87.65,01/14/2015,"In-kind items and services",255695058,"Food and Beverage","","","","Informational Meal"
+1284398,"AstraZeneca Pharmaceuticals LP",DE,100000000146,67.24,09/17/2015,"In-kind items and services",255502906,"Food and Beverage","","","","Informational Meal"
+1284398,"AstraZeneca Pharmaceuticals LP",DE,100000000146,61.46,04/30/2015,"In-kind items and services",255922265,"Food and Beverage","","","","Informational Meal"

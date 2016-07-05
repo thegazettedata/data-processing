@@ -1,0 +1,12 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+536674,"COMSORT, Inc",MD,100000000055,150.00,11/14/2014,"Cash or cash equivalent",202753932,"Consulting Fee","",ZOSTAVAX,"PNEUMOVAX 23",""
+536674,"AstraZeneca Pharmaceuticals LP",DE,100000000146,125.61,04/14/2015,"In-kind items and services",256193536,"Food and Beverage","",SYMBICORT,"","Educational Program"
+536674,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,125.00,06/24/2015,"Cash or cash equivalent",332434725,"Food and Beverage","",ELIQUIS,"",""
+536674,"E.R. Squibb & Sons, L.L.C.",NJ,100000005499,114.78,04/02/2015,"Cash or cash equivalent",332378189,"Food and Beverage","",ELIQUIS,"",""
+536674,"Purdue Pharma L.P.",CT,100000005432,89.57,02/19/2015,"Cash or cash equivalent",251005612,"Food and Beverage","","HYSINGLA ER","",""
+536674,"Purdue Transdermal Technologies L.P.",CT,100000005455,88.49,11/04/2014,"Cash or cash equivalent",158307130,"Food and Beverage","",BUTRANS,"",""
+536674,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,72.60,10/22/2015,"In-kind items and services",290133406,"Food and Beverage","","STIOLTO RESPIMAT","",""
+536674,"Tenex Health Inc.",CA,100000010494,39.72,04/10/2014,"In-kind items and services",213963046,"Food and Beverage","","","",N
+536674,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,22.55,06/20/2014,"In-kind items and services",196677800,"Food and Beverage","","","",""
+536674,"GlaxoSmithKline, LLC.",NC,100000005449,15.44,11/12/2014,"In-kind items and services",198888714,"Food and Beverage","",ANORO,ADVAIR,""
+536674,"Boehringer Ingelheim Pharmaceuticals, Inc.",CT,100000000234,14.23,09/09/2015,"In-kind items and services",290856898,"Food and Beverage","",STIOLTO,"",""

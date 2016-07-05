@@ -1,0 +1,6 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1069521,GNRL,"Lilly USA, LLC",IN,100000000066,1130.00,03/21/2015,GNRL,267732016
+1069521,GNRL,"Lilly USA, LLC",IN,100000000066,886.20,03/18/2015,GNRL,267732020
+1069521,GNRL,"Lilly USA, LLC",IN,100000000066,633.99,03/21/2015,GNRL,267732018
+1069521,GNRL,"Lilly USA, LLC",IN,100000000066,46.20,06/01/2015,GNRL,267732022
+1069521,GNRL,"Lilly USA, LLC",IN,100000000066,37.83,06/01/2015,GNRL,267732024

@@ -1,0 +1,11 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+461835,"Medtronic Vascular, Inc.",MN,100000010384,592.22,10/17/2015,"In-kind items and services",296912386,"Travel and Lodging","","","",""
+461835,"Medtronic Vascular, Inc.",MN,100000010384,587.70,11/16/2015,"In-kind items and services",296912384,"Travel and Lodging","","","",""
+461835,"LifeCell Corporation",NJ,100000010566,69.20,09/02/2015,"In-kind items and services",293234014,"Food and Beverage","","","",""
+461835,"Salix Pharmaceuticals, Ltd",NC,100000010796,21.81,03/04/2014,"In-kind items and services",159353612,"Food and Beverage","",APRISO,"",""
+461835,"Braintree Laboratories, Inc.",MA,100000000153,15.03,01/15/2015,"In-kind items and services",252766192,"Food and Beverage","",SUPREP,"",""
+461835,"Takeda Pharmaceuticals America, Inc.",IL,100000000339,14.08,04/08/2015,"In-kind items and services",337077120,"Food and Beverage","",Amitiza,"",""
+461835,"Salix Pharmaceuticals, Ltd",NC,100000010796,13.99,04/29/2014,"In-kind items and services",159362372,"Food and Beverage","",MOVIPREP,APRISO,""
+461835,"LifeCell Corporation",NJ,100000010566,11.89,07/30/2015,"In-kind items and services",293228504,"Food and Beverage","","","",""
+461835,"Salix Pharmaceuticals, Ltd",NC,100000010796,11.41,03/07/2014,"In-kind items and services",159353966,"Food and Beverage","",MOVIPREP,"",""
+461835,"Actavis Pharma Inc",NJ,100000010642,10.45,09/01/2015,"In-kind items and services",339166476,"Food and Beverage","",DALVANCE,"",""

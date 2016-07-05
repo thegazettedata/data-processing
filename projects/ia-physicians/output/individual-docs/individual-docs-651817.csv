@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+651817,GNRL,"Novartis Pharma AG","",100000000058,2665.00,04/02/2014,GNRL,213657104
+651817,GNRL,"Novartis Pharma AG","",100000000058,1537.00,03/10/2015,GNRL,254051892
+651817,GNRL,"Carl Zeiss Meditec, Inc.",CA,100000005433,31.02,10/19/2014,GNRL,215826192

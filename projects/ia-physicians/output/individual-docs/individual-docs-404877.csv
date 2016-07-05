@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+404877,RSRCH,"Covidien LP",MA,100000000083,2800.00,01/23/2014,RSRCH,215234216
+404877,RSRCH,"Covidien LP",MA,100000000083,709.52,01/21/2014,RSRCH,215233080
+404877,RSRCH,"Covidien LP",MA,100000000083,105.03,01/23/2014,RSRCH,215235280

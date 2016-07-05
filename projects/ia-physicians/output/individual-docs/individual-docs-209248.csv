@@ -1,0 +1,12 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+209248,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,1000.00,11/05/2014,GNRL,164142212
+209248,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,230.79,10/21/2015,GNRL,281502462
+209248,GNRL,"Cordis Corporation",CA,100000005411,22.57,08/16/2013,GNRL,10400514
+209248,GNRL,"Janssen Pharmaceuticals, Inc",NJ,100000000232,18.67,09/09/2014,GNRL,156416398
+209248,GNRL,"Cordis Corporation",CA,100000005411,16.12,11/06/2013,GNRL,10403066
+209248,GNRL,"Cordis Corporation",CA,100000005411,13.90,04/15/2014,GNRL,120484837
+209248,GNRL,"Ivoclar Vivadent, Inc.",NY,100000010562,10.00,11/26/2014,GNRL,164142214
+209248,GNRL,"Cordis Corporation",CA,100000005411,8.03,11/20/2013,GNRL,10403812
+209248,GNRL,"Cordis Corporation",CA,100000005411,5.84,03/26/2014,GNRL,120484833
+209248,GNRL,"Cordis Corporation",CA,100000005411,4.69,03/19/2014,GNRL,120484835
+209248,GNRL,"Cordis Corporation",CA,100000005411,3.88,08/02/2013,GNRL,10400406

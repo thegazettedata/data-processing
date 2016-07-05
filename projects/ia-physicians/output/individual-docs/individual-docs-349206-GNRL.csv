@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+349206,"Arthrex, Inc.",FL,100000005371,2495.00,05/15/2014,"In-kind items and services",187650112,Education,"","","",""
+349206,"RSW Medical Company, Inc.",SD,100000010409,290.00,05/07/2014,"In-kind items and services",163172382,Education,"","","",""
+349206,"Stryker Corporation",MI,100000010503,68.00,05/14/2015,"Cash or cash equivalent",316833428,"Food and Beverage","","","",""
+349206,"Stryker Corporation",MI,100000010503,30.42,10/27/2015,"Cash or cash equivalent",316886942,"Food and Beverage","","","",""
+349206,"Arthrex, Inc.",FL,100000005371,24.00,05/15/2014,"In-kind items and services",187650108,"Food and Beverage","","","",""
+349206,"Stryker Corporation",MI,100000010503,21.41,01/20/2015,"Cash or cash equivalent",316790032,"Food and Beverage","","","",""
+349206,"Stryker Corporation",MI,100000010503,20.79,03/24/2015,"Cash or cash equivalent",316886940,"Food and Beverage","","","",""
+349206,"Lilly USA, LLC",IN,100000000066,10.41,07/01/2015,"In-kind items and services",268119976,"Food and Beverage","",FORTEO,"",""

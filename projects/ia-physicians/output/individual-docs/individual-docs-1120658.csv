@@ -1,0 +1,4 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1120658,GNRL,"Kerr Corporation",CA,100000005552,1464.05,12/09/2013,GNRL,27841093
+1120658,GNRL,"Philips Electronics North America Corporation",MA,100000000198,85.42,08/28/2013,GNRL,24598296
+1120658,GNRL,"VOCO America Inc.",NC,100000011159,74.04,01/15/2014,GNRL,186410636

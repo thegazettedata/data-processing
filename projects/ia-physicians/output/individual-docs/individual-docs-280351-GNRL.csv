@@ -1,0 +1,6 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+280351,"Sirtex Medical Inc",MA,100000010918,144.27,10/31/2013,"Cash or cash equivalent",174237054,"Food and Beverage","","SIR-Spheres microspheres","",""
+280351,"Tenex Health Inc.",CA,100000010494,124.29,03/20/2014,"In-kind items and services",213963796,"Food and Beverage","","","",N
+280351,"Sirtex Medical Inc",MA,100000010918,100.81,07/15/2014,"Cash or cash equivalent",220505524,"Food and Beverage","","SIR-Spheres microspheres","",""
+280351,"Sirtex Medical Inc",MA,100000010918,91.51,04/30/2014,"Cash or cash equivalent",220505522,"Food and Beverage","","SIR-Spheres microspheres","",""
+280351,"Sirtex Medical Inc",MA,100000010918,64.84,05/20/2015,"Cash or cash equivalent",340907896,"Food and Beverage","","SIR-Spheres Microspheres","",""

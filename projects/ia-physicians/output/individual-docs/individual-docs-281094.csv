@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+281094,GNRL,"WARDLOW ENTERPRISES",IA,100000010546,506.96,10/16/2014,GNRL,153915974
+281094,GNRL,"Smith & Nephew, Inc.",TN,100000005456,119.75,04/09/2015,GNRL,303098030
+281094,GNRL,"Smith & Nephew, Inc.",TN,100000005456,103.14,08/21/2013,GNRL,101838758
+281094,GNRL,"DePuy Synthes Sales Inc.",MA,100000005615,28.06,04/10/2014,GNRL,120863587
+281094,GNRL,"Stryker Corporation",MI,100000010503,19.28,10/10/2014,GNRL,198959906
+281094,GNRL,"Stryker Corporation",MI,100000010503,18.22,10/11/2014,GNRL,198959896
+281094,GNRL,"Stryker Corporation",MI,100000010503,15.98,10/09/2014,GNRL,198959900

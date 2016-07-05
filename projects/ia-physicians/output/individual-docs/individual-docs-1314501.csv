@@ -1,0 +1,8 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+1314501,GNRL,"Covidien Sales LLC",MA,100000000098,758.10,12/10/2013,GNRL,31680583
+1314501,GNRL,"Covidien Sales LLC",MA,100000000098,210.19,12/28/2013,GNRL,31680582
+1314501,GNRL,"Covidien Sales LLC",MA,100000000098,175.80,12/10/2013,GNRL,31680585
+1314501,GNRL,"Covidien Sales LLC",MA,100000000098,130.60,12/28/2013,GNRL,31680586
+1314501,GNRL,"Covidien Sales LLC",MA,100000000098,67.67,12/28/2013,GNRL,31680587
+1314501,GNRL,"Covidien Sales LLC",MA,100000000098,10.00,12/10/2013,GNRL,31680581
+1314501,GNRL,"Covidien Sales LLC",MA,100000000098,10.00,12/10/2013,GNRL,31680584

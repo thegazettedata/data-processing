@@ -1,0 +1,13 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+343654,"Boston Scientific Corporation",MA,100000005674,6250.00,03/10/2015,"Cash or cash equivalent",246058154,Grant,"UNIVERSITY OF TOLEDO","","",""
+343654,"Boston Scientific Corporation",MA,100000005674,118.63,02/17/2015,"In-kind items and services",246058152,"Food and Beverage","","","",""
+343654,"Stryker Corporation",MI,100000010503,32.60,07/16/2015,"Cash or cash equivalent",316734904,"Food and Beverage","","","",""
+343654,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,15.54,08/27/2015,"In-kind items and services",293798868,"Food and Beverage","",AMRIX,"",""
+343654,"Boston Scientific Corporation",MA,100000005674,14.62,07/23/2015,"In-kind items and services",246058146,"Food and Beverage","","","",""
+343654,"Boston Scientific Corporation",MA,100000005674,12.40,08/13/2015,"In-kind items and services",246058148,"Food and Beverage","","","",""
+343654,"Teva Pharmaceuticals USA, Inc.",PA,100000000141,12.18,04/14/2015,"In-kind items and services",293798872,"Food and Beverage","",FENTORA,"",""
+343654,"Medtronic Sofamor Danek USA, Inc.",MN,100000010386,11.24,03/25/2015,"In-kind items and services",299083626,"Food and Beverage","","","",""
+343654,"Boston Scientific Corporation",MA,100000005674,7.50,11/11/2015,"In-kind items and services",246058144,"Food and Beverage","","","",""
+343654,"Boston Scientific Corporation",MA,100000005674,4.71,12/21/2015,"In-kind items and services",246058142,"Food and Beverage","","","",""
+343654,"Boston Scientific Corporation",MA,100000005674,4.58,03/31/2015,"In-kind items and services",246058156,"Food and Beverage","","","",""
+343654,"Boston Scientific Corporation",MA,100000005674,4.18,01/16/2015,"In-kind items and services",246058150,"Food and Beverage","","","",""

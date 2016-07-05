@@ -1,11 +1,11 @@
-CREATE TABLE "topic-03-RSRCH-ia-trim-2013-2014" (
+CREATE TABLE "topic-03-RSRCH-ia-trim-2013-2014-2015" (
 	"Covered_Recipient_Type" VARCHAR(35) NOT NULL, 
 	"Teaching_Hospital_ID" INTEGER, 
 	"Teaching_Hospital_Name" VARCHAR(37), 
 	"Physician_Profile_ID" INTEGER, 
 	"Physician_First_Name" VARCHAR(8), 
 	"Physician_Middle_Name" VARCHAR(8), 
-	"Physician_Last_Name" VARCHAR(12), 
+	"Physician_Last_Name" VARCHAR(16), 
 	"Recipient_Primary_Business_Street_Address_Line1" VARCHAR(55) NOT NULL, 
 	"Recipient_Primary_Business_Street_Address_Line2" VARCHAR(35), 
 	"Recipient_City" VARCHAR(15) NOT NULL, 
@@ -22,7 +22,7 @@ CREATE TABLE "topic-03-RSRCH-ia-trim-2013-2014" (
 	"Record_ID" INTEGER NOT NULL, 
 	"Name_of_Associated_Covered_Drug_or_Biological1" VARCHAR(40), 
 	"Name_of_Associated_Covered_Drug_or_Biological2" VARCHAR(18), 
-	"Name_of_Study" VARCHAR(394), 
+	"Name_of_Study" VARCHAR(499), 
 	"Research_Information_Link" VARCHAR(79), 
 	"Context_of_Research" VARCHAR(474)
 );

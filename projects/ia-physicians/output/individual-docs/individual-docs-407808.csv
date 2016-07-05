@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+407808,GNRL,"F. Hoffmann-La Roche AG","",100000005656,747.10,07/16/2015,GNRL,317925464
+407808,GNRL,"F. Hoffmann-La Roche AG","",100000005656,280.00,07/16/2015,GNRL,317925462
+407808,GNRL,"F. Hoffmann-La Roche AG","",100000005656,239.00,07/16/2015,GNRL,317925444
+407808,GNRL,"Exelixis Inc.",CA,100000010545,150.00,01/31/2014,GNRL,195069090

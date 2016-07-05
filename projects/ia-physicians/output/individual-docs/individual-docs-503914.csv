@@ -1,0 +1,9 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+503914,GNRL,"Allergan Inc.",CA,100000000278,124.94,01/14/2014,GNRL,192485968
+503914,GNRL,"Alcon Laboratories Inc",TX,100000005405,101.34,05/11/2015,GNRL,315192072
+503914,GNRL,"Alcon Laboratories Inc",TX,100000005405,75.22,03/02/2015,GNRL,314889152
+503914,GNRL,"Coopervision Inc.",NY,100000005728,72.12,04/08/2015,GNRL,330766813
+503914,GNRL,"Alcon Laboratories Inc",TX,100000005405,65.44,10/02/2013,GNRL,23018816
+503914,GNRL,"Alcon Laboratories Inc",TX,100000005405,61.94,07/10/2014,GNRL,167486300
+503914,GNRL,"Alcon Laboratories Inc",TX,100000005405,13.48,09/11/2015,GNRL,315399758
+503914,GNRL,"Alcon Laboratories Inc",TX,100000005405,11.00,05/08/2015,GNRL,315073844

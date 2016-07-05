@@ -1,0 +1,7 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+32143,GNRL,"QOL Medical, LLC",FL,100000010804,300.00,10/09/2015,GNRL,252632828
+32143,GNRL,"AbbVie, Inc.",IL,100000000204,154.90,11/13/2014,GNRL,189600252
+32143,GNRL,"QOL Medical, LLC",FL,100000010804,143.20,10/09/2015,GNRL,252632830
+32143,GNRL,"Advanced Respiratory, Inc",MN,100000005391,93.19,10/18/2013,GNRL,103638014
+32143,GNRL,"Janssen Scientific Affairs, LLC",NJ,100000000332,88.06,01/30/2014,GNRL,156032988
+32143,GNRL,"AbbVie, Inc.",IL,100000000204,2.67,11/13/2014,GNRL,189600250

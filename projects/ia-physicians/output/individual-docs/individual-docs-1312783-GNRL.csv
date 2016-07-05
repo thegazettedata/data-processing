@@ -1,0 +1,9 @@
+Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information
+1312783,"AstraZeneca Pharmaceuticals LP",DE,100000000146,119.70,02/11/2015,"In-kind items and services",255268220,"Food and Beverage","",BYDUREON,"","Educational Program"
+1312783,"Pfizer Inc.",NY,100000000286,107.13,04/01/2015,"In-kind items and services",323119104,"Food and Beverage","",ELIQUIS,"",""
+1312783,"Janssen Pharmaceuticals, Inc",NJ,100000000232,89.89,12/10/2015,"In-kind items and services",275536334,"Food and Beverage","",Xarelto,"","Related to product discussion"
+1312783,"Janssen Pharmaceuticals, Inc",NJ,100000000232,88.04,12/18/2014,"In-kind items and services",156586322,"Food and Beverage","",Xarelto,"",""
+1312783,"Novo Nordisk Inc",NJ,100000000144,86.67,06/30/2015,"In-kind items and services",270055678,"Food and Beverage","",Saxenda,"",""
+1312783,"AstraZeneca Pharmaceuticals LP",DE,100000000146,74.69,03/25/2015,"In-kind items and services",255452174,"Food and Beverage","",BYDUREON,"","Educational Program"
+1312783,"AstraZeneca Pharmaceuticals LP",DE,100000000146,67.24,09/17/2015,"In-kind items and services",256137808,"Food and Beverage","","","","Informational Meal"
+1312783,"AstraZeneca Pharmaceuticals LP",DE,100000000146,61.46,04/30/2015,"In-kind items and services",256379070,"Food and Beverage","","","","Informational Meal"

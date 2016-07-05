@@ -1,0 +1,5 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+272179,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,279.36,06/29/2015,GNRL,310715040
+272179,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,279.36,06/29/2015,GNRL,310715052
+272179,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,264.58,05/18/2015,GNRL,310593538
+272179,GNRL,"Edwards Lifesciences Corporation",CA,100000010633,117.68,06/21/2015,GNRL,310634332

@@ -1,0 +1,3 @@
+Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID
+828716,GNRL,"BIOTRONIK INC.",OR,100000010579,500.00,02/10/2015,GNRL,334888900
+828716,GNRL,"Thoratec Corporation",CA,100000000296,107.67,12/21/2015,GNRL,263734736
