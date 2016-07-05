@@ -12,12 +12,12 @@ function exportJSON() {
 	FILES=output/individual-docs/*.csv
 	FILES_ROOT=output/*.csv
 
-	# for file in $FILES
-	# do
-	# 	echo "Converting $file to JSON"
-	# 	JSON_FILE="$(echo $file | sed 's/output\/individual-docs\///;s/\.csv//')"
-	# 	csvjson $file > json/$JSON_FILE.json
-	# done
+	for file in $FILES
+	do
+		echo "Converting $file to JSON"
+		JSON_FILE="$(echo $file | sed 's/output\/individual-docs\///;s/\.csv//')"
+		csvjson $file > json/$JSON_FILE.json
+	done
 
 	echo "Converting most paid docs CSV to JSON"
 	csvjson 'output/most-paid-docs-geo.csv' > 'json/most-paid-docs-geo.json'
@@ -40,6 +40,9 @@ function queryDBResearch() {
 		echo "Getting payments for physician with id $id"
 		sqlite3 -header -csv $PROJECT_NAME-RSRCH.db "SELECT Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Name_of_Study,Research_Information_Link,Context_of_Research FROM data WHERE Physician_Profile_ID = $id ORDER BY CAST(Total_Amount_of_Payment_USDollars AS REAL) DESC;" > output/individual-docs/individual-docs-$id-RSRCH.csv
 	done <output/top-physicians-id.txt
+
+	# Export JSON feeds
+	exportJSON
 }
 
 # Query the DB
@@ -49,12 +52,15 @@ function queryDBGeneral() {
 		echo "Getting payments for physician with id $id"
 		sqlite3 -header -csv $PROJECT_NAME-GNRL.db "SELECT Physician_Profile_ID,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Form_of_Payment_or_Transfer_of_Value,Record_ID,Nature_of_Payment_or_Transfer_of_Value,Name_of_Third_Party_Entity_Receiving_Payment_or_Transfer_of_Value,Name_of_Associated_Covered_Drug_or_Biological1,Name_of_Associated_Covered_Drug_or_Biological2,Contextual_Information FROM data WHERE Physician_Profile_ID = $id ORDER BY CAST(Total_Amount_of_Payment_USDollars AS REAL) DESC;" > output/individual-docs/individual-docs-$id-GNRL.csv
 	done <output/top-physicians-id.txt
+
+	# Query third DB
+	queryDBResearch
 }
 
 # Query the DB
 function queryDB() {
-	# echo "Querying most expensive payments"
-	# cat sql/most-expensive-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/most-expensive-payments.csv
+	echo "Querying most expensive payments"
+	cat sql/most-expensive-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/most-expensive-payments.csv
 
 	echo "Querying top paid docs"
 	cat sql/most-paid-docs.sql | sqlite3 -header -csv $PROJECT_NAME.db > edits/payments/most-paid-01-docs.csv
@@ -65,39 +71,39 @@ function queryDB() {
 	echo "Rename columns in top paid docs CSV"
 	py agate-most-paid.py
 
-	# echo "Querying hospitals with most payments"
-	# cat sql/hospitals-most-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/hospitals-most-payments.csv
+	echo "Querying hospitals with most payments"
+	cat sql/hospitals-most-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/hospitals-most-payments.csv
 
-	# echo "Querying companies with most payments"
-	# cat sql/companies-most-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/companies-most-payments.csv
+	echo "Querying companies with most payments"
+	cat sql/companies-most-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/companies-most-payments.csv
 
-	# echo "Query just DePuy, as they spent the most in Iowa"
-	# cat sql/depuy-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/depuy-payments.csv
+	echo "Query just DePuy, as they spent the most in Iowa"
+	cat sql/depuy-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/depuy-payments.csv
 
-	# echo "Query top companies and all their payments"
-	# cat sql/top-companies-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/top-companies-payments.csv
+	echo "Query top companies and all their payments"
+	cat sql/top-companies-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/top-companies-payments.csv
 
-	# echo "Query top doctors and all their payments"
-	# cat sql/top-doctors-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/top-doctors-payments.csv
+	echo "Query top doctors and all their payments"
+	cat sql/top-doctors-payments.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/top-doctors-payments.csv
 
-	# echo "Query most paid fields of practice"
-	# cat sql/fields-most-paid.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/fields-most-paid.csv
+	echo "Query most paid fields of practice"
+	cat sql/fields-most-paid.sql | sqlite3 -header -csv $PROJECT_NAME.db > output/fields-most-paid.csv
 
-	# echo "Query most paid docs and only show IDs"
-	# cat sql/top-physicians-id.sql | sqlite3 $PROJECT_NAME.db > output/top-physicians-id.txt
+	echo "Query most paid docs and only show IDs"
+	cat sql/top-physicians-id.sql | sqlite3 $PROJECT_NAME.db > output/top-physicians-id.txt
 	
-	# echo "Loop through text file of IDs"
-	# while read id; do
-	# 	echo "Getting payments for physician with id $id"
-	# 	sqlite3 -header -csv $PROJECT_NAME.db "SELECT Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID FROM data WHERE Physician_Profile_ID = $id ORDER BY CAST(Total_Amount_of_Payment_USDollars AS REAL) DESC;" > output/individual-docs/individual-docs-$id.csv
-	# done <output/top-physicians-id.txt
+	echo "Loop through text file of IDs"
+	while read id; do
+		echo "Getting payments for physician with id $id"
+		sqlite3 -header -csv $PROJECT_NAME.db "SELECT Physician_Profile_ID,Category,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_Name,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_State,Applicable_Manufacturer_or_Applicable_GPO_Making_Payment_ID,Total_Amount_of_Payment_USDollars,Date_of_Payment,Category,Record_ID FROM data WHERE Physician_Profile_ID = $id ORDER BY CAST(Total_Amount_of_Payment_USDollars AS REAL) DESC;" > output/individual-docs/individual-docs-$id.csv
+	done <output/top-physicians-id.txt
 
 	echo "NOTE: Before exporting to JSON, you need to add lat, long with QGIS"
 	echo "Make sure to add column called 'st' with the value of 'Iowa'"
 	echo "So QGIS can geolocate properly"
 
-	# Create JSON feeds
-	# exportJSON
+	# Query second DB
+	queryDBGeneral
 }
 
 # Create our DB
@@ -136,6 +142,9 @@ function createDBTopic() {
 			queryDBResearch
 		fi
 	done
+
+	# With DB created, we'll now query it
+	createDBTopic
 }
 
 # Create our DB
@@ -155,8 +164,8 @@ function createDB() {
 	echo "Create table called 'data' with all the data in it"
 	echo ".import $CSV_FOUR data" | sqlite3 -csv $PROJECT_NAME.db
 
-	# With DB created, we'll now query it
-	queryDB
+	# Create DBs for each topic
+	createDBTopic
 }
 
 # After we've merged, we have two spreadsheets for each topic
@@ -247,7 +256,7 @@ do
 		CSV_TWOS+=($CSV_TWO)
 
 		# Call function and edit our new spreadsheets
-		# trimCSVS
+		trimCSVS
 
 		# Do topic specific
 		# This allows us to include different columns for each topic
@@ -255,14 +264,14 @@ do
 		CSV_TWO_TOPIC="edits/"$FOLDER/topic-02-"$topic"-ia-trim-"$num".csv
 		CSV_TWOS_TOPIC+=($CSV_TWO_TOPIC)
 
-		# if [ "$topic" = "GNRL" ]
-		# then
-		# 	echo "Trim general sheets"
-		# 	trimCSVSGeneral
-		# else
-		# 	echo "Trim research sheets"
-		# 	trimCSVSResearch
-		# fi
+		if [ "$topic" = "GNRL" ]
+		then
+			echo "Trim general sheets"
+			trimCSVSGeneral
+		else
+			echo "Trim research sheets"
+			trimCSVSResearch
+		fi
 	done
 
 	# Denote the years we have merged in the CSV file
@@ -280,10 +289,10 @@ do
 	CSV_THREE_TOPIC+=($CSV_THREE_TOPIC)
 
 	# Merge 2013, 2014 and 2015 spreadsheets into one
-	# mergeYears
+	mergeYears
 
 	# Same only for topic specific sheets
-	# mergeYearsTopic
+	mergeYearsTopic
 done
 
 # After we've merged, we have two spreadsheets for each topic
@@ -295,7 +304,7 @@ TOPICS="$(echo ${TOPIC[@]} | sed -e 's/ /-/g')"
 CSV_FOUR="edits/"$FOLDER/04-"$TOPICS"-ia-trim-"$YEARS".csv
 
 # Merge topics spreadsheets and call DB tasks
-# mergeTopics
+mergeTopics
 
 # Run just the DB tasks
 # createDB
@@ -307,4 +316,4 @@ CSV_FOUR="edits/"$FOLDER/04-"$TOPICS"-ia-trim-"$YEARS".csv
 # queryDBResearch
 
 # Run just JSON feeds
-exportJSON
+# exportJSON
