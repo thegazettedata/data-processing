@@ -42,6 +42,21 @@ Then to create a new project, run:
 
 The "folder" parameter is equal to the name of the new folder you want to create. All new projects get put into the "projects" folder.
 
+##File structure
+Here's a rundown of the files and directories that will spit out when you run grunt new:
+
+Directories:
+* raw: Where the raw data goes
+* edits: Where edited data goes. I put numbers in front of every edit I make so I can keep track of what I've done.
+* output: The final data for use.
+* sample: Includes files for reference
+* sql: If you port your spreadsheet over to a SQL database, you can put your SQL queries here
+
+Files:
+* globals.sh: Global variables are placed here
+* process.sh: Write all your analysis code in here. For instance, you can use csvkit to trim columns, port your data into a spreadsheet, etc.
+* setup.sh: Run this first. It sets up the project
+
 ##Push to Github
 Here's some basic Github commands that you'll need to run to push your projects to Github. First, pull down all changes that have been made to the directory by other people onto your local machine:
 
