@@ -47,10 +47,10 @@ Here's a rundown of the files and directories that will spit out when you run gr
 
 Directories:
 * raw: Where the raw data goes
-* edits: Where edited data goes. I put numbers in front of every edit I make so I can keep track of what I've done.
-* output: The final data for use.
+* edits: Where edited data goes. I put numbers in front of every edit I make so I can keep track of what I've done. Example: If the first edit I make is to trim columns, I'll call the file something like 01-trim.csv. If I then ran a concat-like functon, I'd call the second file something like 02-trim-concat.csv.
+* output: Where to put the final, edited dataset.
 * sample: Includes files for reference
-* sql: If you port your spreadsheet over to a SQL database, you can put your SQL queries here
+* sql: If you port your spreadsheet over to a SQL database, you can put your SQL queries here.
 
 Files:
 * globals.sh: Global variables are placed here
