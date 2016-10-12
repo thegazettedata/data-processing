@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test JSON feed</title>
+	<script src="http://www.thegazette.com/js/lib/jQuery-1.11.2.min.js"></script>
+	<script src="http://www.thegazette.com/js/lib/underscore-1.8.3.min.js"></script>
+	<script src="http://www.thegazette.com/Includes/data/js/lib/backbone-1.2.3.min.js"></script>
+</head>
+<body>
+
+<script>
+	var Candidate = Backbone.Model.extend({});
+
+	var Candidates = Backbone.Collection.extend({
+  	model: Candidate,
+  	url: '/output/election-2016-results.json',
+		sync : function(method, collection, options) {
+    	options.dataType = "json";
+    	return Backbone.sync(method, collection, options);
+  	},
+  	parse: function(response) {
+    	console.table(response);
+		}
+	});
+
+	var candidates = new Candidates();
+	candidates.fetch();
+</script>
+
+</body>
+</html>
