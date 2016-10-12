@@ -1,6 +1,6 @@
-#Iowa election results
+#Election 2016 results for Iowa
 
-This script will parse through the election 2016 results, which is an XML file from the [Iowa Secretary of State's office](http://electionresultsiowa.com/xml/index.html), convert it into JSON and upload the resulting file to our server. To run:
+This script converts the latest Iowa's 2016 election results from the [Iowa Secretary of State's office](http://electionresultsiowa.com/xml/index.html). It first downloads the latest XML file of the results, then converts it into a JSON file, before uploading it to one of four FTP servers. To run:
 	
 	sh process.sh
 
