@@ -14,6 +14,8 @@ You can also just deploy the data to your FTP server:
 
 Your FTP preferences can be set inside deploy.rb.
 
+Every time the parser is called, a backup copy of the data is saved. You can find these inside the output/old directory.
+
 This can all be run as a cronjob:
 	
 	*/1 * * * * cd ~/<directory> && /bin/bash -l -c 'ruby parse.rb' && /bin/bash -l -c 'ruby deploy.rb' >> ~/<directory>/task.log 2>&1
