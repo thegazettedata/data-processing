@@ -1,402 +1,402 @@
 {
   "04000US19": {
     "county": "Iowa",
-    "POPULATION": 3062553
+    "POPULATION": 3078116
   },
   "19001": {
     "county": "Adair County, IA",
-    "POPULATION": 7588
+    "POPULATION": 7543
   },
   "19003": {
     "county": "Adams County, IA",
-    "POPULATION": 3973
+    "POPULATION": 3937
   },
   "19005": {
     "county": "Allamakee County, IA",
-    "POPULATION": 14242
+    "POPULATION": 14152
   },
   "19007": {
     "county": "Appanoose County, IA",
-    "POPULATION": 12808
+    "POPULATION": 12754
   },
   "19009": {
     "county": "Audubon County, IA",
-    "POPULATION": 6002
+    "POPULATION": 5935
   },
   "19011": {
     "county": "Benton County, IA",
-    "POPULATION": 25971
+    "POPULATION": 25895
   },
   "19013": {
     "county": "Black Hawk County, IA",
-    "POPULATION": 131468
+    "POPULATION": 131947
   },
   "19015": {
     "county": "Boone County, IA",
-    "POPULATION": 26310
+    "POPULATION": 26326
   },
   "19017": {
     "county": "Bremer County, IA",
-    "POPULATION": 24387
+    "POPULATION": 24481
   },
   "19019": {
     "county": "Buchanan County, IA",
-    "POPULATION": 20954
+    "POPULATION": 20947
   },
   "19021": {
     "county": "Buena Vista County, IA",
-    "POPULATION": 20350
+    "POPULATION": 20460
   },
   "19023": {
     "county": "Butler County, IA",
-    "POPULATION": 14909
+    "POPULATION": 14966
   },
   "19025": {
     "county": "Calhoun County, IA",
-    "POPULATION": 9952
+    "POPULATION": 9980
   },
   "19027": {
     "county": "Carroll County, IA",
-    "POPULATION": 20732
+    "POPULATION": 20702
   },
   "19029": {
     "county": "Cass County, IA",
-    "POPULATION": 13793
+    "POPULATION": 13694
   },
   "19031": {
     "county": "Cedar County, IA",
-    "POPULATION": 18452
+    "POPULATION": 18434
   },
   "19033": {
     "county": "Cerro Gordo County, IA",
-    "POPULATION": 43932
+    "POPULATION": 43707
   },
   "19035": {
     "county": "Cherokee County, IA",
-    "POPULATION": 12013
+    "POPULATION": 11982
   },
   "19037": {
     "county": "Chickasaw County, IA",
-    "POPULATION": 12379
+    "POPULATION": 12329
   },
   "19039": {
     "county": "Clarke County, IA",
-    "POPULATION": 9311
+    "POPULATION": 9284
   },
   "19041": {
     "county": "Clay County, IA",
-    "POPULATION": 16604
+    "POPULATION": 16555
   },
   "19043": {
     "county": "Clayton County, IA",
-    "POPULATION": 17990
+    "POPULATION": 17900
   },
   "19045": {
     "county": "Clinton County, IA",
-    "POPULATION": 48896
+    "POPULATION": 48663
   },
   "19047": {
     "county": "Crawford County, IA",
-    "POPULATION": 17205
+    "POPULATION": 17259
   },
   "19049": {
     "county": "Dallas County, IA",
-    "POPULATION": 69526
+    "POPULATION": 72124
   },
   "19051": {
     "county": "Davis County, IA",
-    "POPULATION": 8755
+    "POPULATION": 8765
   },
   "19053": {
     "county": "Decatur County, IA",
-    "POPULATION": 8308
+    "POPULATION": 8286
   },
   "19055": {
     "county": "Delaware County, IA",
-    "POPULATION": 17665
+    "POPULATION": 17578
   },
   "19057": {
     "county": "Des Moines County, IA",
-    "POPULATION": 40301
+    "POPULATION": 40265
   },
   "19059": {
     "county": "Dickinson County, IA",
-    "POPULATION": 16818
+    "POPULATION": 16877
   },
   "19061": {
     "county": "Dubuque County, IA",
-    "POPULATION": 94411
+    "POPULATION": 95166
   },
   "19063": {
     "county": "Emmet County, IA",
-    "POPULATION": 10141
+    "POPULATION": 10068
   },
   "19065": {
     "county": "Fayette County, IA",
-    "POPULATION": 20822
+    "POPULATION": 20693
   },
   "19067": {
     "county": "Floyd County, IA",
-    "POPULATION": 16177
+    "POPULATION": 16153
   },
   "19069": {
     "county": "Franklin County, IA",
-    "POPULATION": 10623
+    "POPULATION": 10572
   },
   "19071": {
     "county": "Fremont County, IA",
-    "POPULATION": 7291
+    "POPULATION": 7200
   },
   "19073": {
     "county": "Greene County, IA",
-    "POPULATION": 9255
+    "POPULATION": 9232
   },
   "19075": {
     "county": "Grundy County, IA",
-    "POPULATION": 12416
+    "POPULATION": 12403
   },
   "19077": {
     "county": "Guthrie County, IA",
-    "POPULATION": 10843
+    "POPULATION": 10794
   },
   "19079": {
     "county": "Hamilton County, IA",
-    "POPULATION": 15486
+    "POPULATION": 15363
   },
   "19081": {
     "county": "Hancock County, IA",
-    "POPULATION": 11243
+    "POPULATION": 11175
   },
   "19083": {
     "county": "Hardin County, IA",
-    "POPULATION": 17453
+    "POPULATION": 17406
   },
   "19085": {
     "county": "Harrison County, IA",
-    "POPULATION": 14729
+    "POPULATION": 14600
   },
   "19087": {
     "county": "Henry County, IA",
-    "POPULATION": 20188
+    "POPULATION": 20197
   },
   "19089": {
     "county": "Howard County, IA",
-    "POPULATION": 9560
+    "POPULATION": 9529
   },
   "19091": {
     "county": "Humboldt County, IA",
-    "POPULATION": 9776
+    "POPULATION": 9731
   },
   "19093": {
     "county": "Ida County, IA",
-    "POPULATION": 7099
+    "POPULATION": 7085
   },
   "19095": {
     "county": "Iowa County, IA",
-    "POPULATION": 16323
+    "POPULATION": 16316
   },
   "19097": {
     "county": "Jackson County, IA",
-    "POPULATION": 19737
+    "POPULATION": 19656
   },
   "19099": {
     "county": "Jasper County, IA",
-    "POPULATION": 36710
+    "POPULATION": 36715
   },
   "19101": {
     "county": "Jefferson County, IA",
-    "POPULATION": 16800
+    "POPULATION": 17102
   },
   "19103": {
     "county": "Johnson County, IA",
-    "POPULATION": 134034
+    "POPULATION": 136802
   },
   "19105": {
     "county": "Jones County, IA",
-    "POPULATION": 20637
+    "POPULATION": 20607
   },
   "19107": {
     "county": "Keokuk County, IA",
-    "POPULATION": 10428
+    "POPULATION": 10361
   },
   "19109": {
     "county": "Kossuth County, IA",
-    "POPULATION": 15437
+    "POPULATION": 15347
   },
   "19111": {
     "county": "Lee County, IA",
-    "POPULATION": 35736
+    "POPULATION": 35552
   },
   "19113": {
     "county": "Linn County, IA",
-    "POPULATION": 213425
+    "POPULATION": 214927
   },
   "19115": {
     "county": "Louisa County, IA",
-    "POPULATION": 11348
+    "POPULATION": 11305
   },
   "19117": {
     "county": "Lucas County, IA",
-    "POPULATION": 8840
+    "POPULATION": 8785
   },
   "19119": {
     "county": "Lyon County, IA",
-    "POPULATION": 11659
+    "POPULATION": 11680
   },
   "19121": {
     "county": "Madison County, IA",
-    "POPULATION": 15606
+    "POPULATION": 15629
   },
   "19123": {
     "county": "Mahaska County, IA",
-    "POPULATION": 22428
+    "POPULATION": 22420
   },
   "19125": {
     "county": "Marion County, IA",
-    "POPULATION": 33318
+    "POPULATION": 33308
   },
   "19127": {
     "county": "Marshall County, IA",
-    "POPULATION": 40800
+    "POPULATION": 40922
   },
   "19129": {
     "county": "Mills County, IA",
-    "POPULATION": 14983
+    "POPULATION": 14946
   },
   "19131": {
     "county": "Mitchell County, IA",
-    "POPULATION": 10739
+    "POPULATION": 10744
   },
   "19133": {
     "county": "Monona County, IA",
-    "POPULATION": 9208
+    "POPULATION": 9149
   },
   "19135": {
     "county": "Monroe County, IA",
-    "POPULATION": 8010
+    "POPULATION": 8019
   },
   "19137": {
     "county": "Montgomery County, IA",
-    "POPULATION": 10625
+    "POPULATION": 10549
   },
   "19139": {
     "county": "Muscatine County, IA",
-    "POPULATION": 42798
+    "POPULATION": 42857
   },
   "19141": {
     "county": "O'Brien County, IA",
-    "POPULATION": 14249
+    "POPULATION": 14173
   },
   "19143": {
     "county": "Osceola County, IA",
-    "POPULATION": 6335
+    "POPULATION": 6279
   },
   "19145": {
     "county": "Page County, IA",
-    "POPULATION": 15838
+    "POPULATION": 15737
   },
   "19147": {
     "county": "Palo Alto County, IA",
-    "POPULATION": 9352
+    "POPULATION": 9263
   },
   "19149": {
     "county": "Plymouth County, IA",
-    "POPULATION": 24923
+    "POPULATION": 24899
   },
   "19151": {
     "county": "Pocahontas County, IA",
-    "POPULATION": 7243
+    "POPULATION": 7191
   },
   "19153": {
     "county": "Polk County, IA",
-    "POPULATION": 438307
+    "POPULATION": 445136
   },
   "19155": {
     "county": "Pottawattamie County, IA",
-    "POPULATION": 92962
+    "POPULATION": 93153
   },
   "19157": {
     "county": "Poweshiek County, IA",
-    "POPULATION": 18804
+    "POPULATION": 18765
   },
   "19159": {
     "county": "Ringgold County, IA",
-    "POPULATION": 5107
+    "POPULATION": 5082
   },
   "19161": {
     "county": "Sac County, IA",
-    "POPULATION": 10227
+    "POPULATION": 10162
   },
   "19163": {
     "county": "Scott County, IA",
-    "POPULATION": 167080
+    "POPULATION": 168714
   },
   "19165": {
     "county": "Shelby County, IA",
-    "POPULATION": 12088
+    "POPULATION": 12034
   },
   "19167": {
     "county": "Sioux County, IA",
-    "POPULATION": 34050
+    "POPULATION": 34261
   },
   "19169": {
     "county": "Story County, IA",
-    "POPULATION": 90750
+    "POPULATION": 91939
   },
   "19171": {
     "county": "Tama County, IA",
-    "POPULATION": 17661
+    "POPULATION": 17568
   },
   "19173": {
     "county": "Taylor County, IA",
-    "POPULATION": 6256
+    "POPULATION": 6225
   },
   "19175": {
     "county": "Union County, IA",
-    "POPULATION": 12547
+    "POPULATION": 12554
   },
   "19177": {
     "county": "Van Buren County, IA",
-    "POPULATION": 7517
+    "POPULATION": 7487
   },
   "19179": {
     "county": "Wapello County, IA",
-    "POPULATION": 35469
+    "POPULATION": 35406
   },
   "19181": {
     "county": "Warren County, IA",
-    "POPULATION": 46631
+    "POPULATION": 47058
   },
   "19183": {
     "county": "Washington County, IA",
-    "POPULATION": 21834
+    "POPULATION": 21906
   },
   "19185": {
     "county": "Wayne County, IA",
-    "POPULATION": 6382
+    "POPULATION": 6385
   },
   "19187": {
     "county": "Webster County, IA",
-    "POPULATION": 37626
+    "POPULATION": 37399
   },
   "19189": {
     "county": "Winnebago County, IA",
-    "POPULATION": 10732
+    "POPULATION": 10645
   },
   "19191": {
     "county": "Winneshiek County, IA",
-    "POPULATION": 21038
+    "POPULATION": 20957
   },
   "19193": {
     "county": "Woodbury County, IA",
-    "POPULATION": 102155
+    "POPULATION": 102372
   },
   "19195": {
     "county": "Worth County, IA",
-    "POPULATION": 7562
+    "POPULATION": 7567
   },
   "19197": {
     "county": "Wright County, IA",
-    "POPULATION": 13092
+    "POPULATION": 13007
   }
 }

@@ -1,402 +1,402 @@
 {
   "04000US19": {
     "county": "Iowa",
-    "MEDIAN_HOUSEHOLD_INCOME": 51843
+    "MEDIAN_HOUSEHOLD_INCOME": 52716
   },
   "19001": {
     "county": "Adair County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 47892
+    "MEDIAN_HOUSEHOLD_INCOME": 47264
   },
   "19003": {
     "county": "Adams County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 45871
+    "MEDIAN_HOUSEHOLD_INCOME": 47335
   },
   "19005": {
     "county": "Allamakee County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48831
+    "MEDIAN_HOUSEHOLD_INCOME": 47886
   },
   "19007": {
     "county": "Appanoose County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 39208
+    "MEDIAN_HOUSEHOLD_INCOME": 41525
   },
   "19009": {
     "county": "Audubon County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48313
+    "MEDIAN_HOUSEHOLD_INCOME": 47556
   },
   "19011": {
     "county": "Benton County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 56669
+    "MEDIAN_HOUSEHOLD_INCOME": 59186
   },
   "19013": {
     "county": "Black Hawk County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 45747
+    "MEDIAN_HOUSEHOLD_INCOME": 47002
   },
   "19015": {
     "county": "Boone County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 51826
+    "MEDIAN_HOUSEHOLD_INCOME": 52714
   },
   "19017": {
     "county": "Bremer County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 61216
+    "MEDIAN_HOUSEHOLD_INCOME": 61619
   },
   "19019": {
     "county": "Buchanan County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 55553
+    "MEDIAN_HOUSEHOLD_INCOME": 56393
   },
   "19021": {
     "county": "Buena Vista County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 46951
+    "MEDIAN_HOUSEHOLD_INCOME": 48010
   },
   "19023": {
     "county": "Butler County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 52026
+    "MEDIAN_HOUSEHOLD_INCOME": 51701
   },
   "19025": {
     "county": "Calhoun County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 44484
+    "MEDIAN_HOUSEHOLD_INCOME": 44934
   },
   "19027": {
     "county": "Carroll County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48361
+    "MEDIAN_HOUSEHOLD_INCOME": 48998
   },
   "19029": {
     "county": "Cass County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43481
+    "MEDIAN_HOUSEHOLD_INCOME": 43960
   },
   "19031": {
     "county": "Cedar County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 58088
+    "MEDIAN_HOUSEHOLD_INCOME": 59672
   },
   "19033": {
     "county": "Cerro Gordo County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 44795
+    "MEDIAN_HOUSEHOLD_INCOME": 45012
   },
   "19035": {
     "county": "Cherokee County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48977
+    "MEDIAN_HOUSEHOLD_INCOME": 50828
   },
   "19037": {
     "county": "Chickasaw County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43971
+    "MEDIAN_HOUSEHOLD_INCOME": 46020
   },
   "19039": {
     "county": "Clarke County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43216
+    "MEDIAN_HOUSEHOLD_INCOME": 42430
   },
   "19041": {
     "county": "Clay County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 49035
+    "MEDIAN_HOUSEHOLD_INCOME": 49438
   },
   "19043": {
     "county": "Clayton County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 47494
+    "MEDIAN_HOUSEHOLD_INCOME": 47725
   },
   "19045": {
     "county": "Clinton County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 49559
+    "MEDIAN_HOUSEHOLD_INCOME": 49849
   },
   "19047": {
     "county": "Crawford County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 46548
+    "MEDIAN_HOUSEHOLD_INCOME": 47437
   },
   "19049": {
     "county": "Dallas County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 73847
+    "MEDIAN_HOUSEHOLD_INCOME": 74876
   },
   "19051": {
     "county": "Davis County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 45040
+    "MEDIAN_HOUSEHOLD_INCOME": 46048
   },
   "19053": {
     "county": "Decatur County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 36326
+    "MEDIAN_HOUSEHOLD_INCOME": 38275
   },
   "19055": {
     "county": "Delaware County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 54076
+    "MEDIAN_HOUSEHOLD_INCOME": 54801
   },
   "19057": {
     "county": "Des Moines County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 42451
+    "MEDIAN_HOUSEHOLD_INCOME": 42146
   },
   "19059": {
     "county": "Dickinson County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 56136
+    "MEDIAN_HOUSEHOLD_INCOME": 56086
   },
   "19061": {
     "county": "Dubuque County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 51475
+    "MEDIAN_HOUSEHOLD_INCOME": 53410
   },
   "19063": {
     "county": "Emmet County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48601
+    "MEDIAN_HOUSEHOLD_INCOME": 48545
   },
   "19065": {
     "county": "Fayette County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 45542
+    "MEDIAN_HOUSEHOLD_INCOME": 45443
   },
   "19067": {
     "county": "Floyd County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43826
+    "MEDIAN_HOUSEHOLD_INCOME": 43169
   },
   "19069": {
     "county": "Franklin County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48355
+    "MEDIAN_HOUSEHOLD_INCOME": 48218
   },
   "19071": {
     "county": "Fremont County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 50520
+    "MEDIAN_HOUSEHOLD_INCOME": 52221
   },
   "19073": {
     "county": "Greene County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 45865
+    "MEDIAN_HOUSEHOLD_INCOME": 47255
   },
   "19075": {
     "county": "Grundy County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 56827
+    "MEDIAN_HOUSEHOLD_INCOME": 55896
   },
   "19077": {
     "county": "Guthrie County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 50609
+    "MEDIAN_HOUSEHOLD_INCOME": 50238
   },
   "19079": {
     "county": "Hamilton County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43589
+    "MEDIAN_HOUSEHOLD_INCOME": 47358
   },
   "19081": {
     "county": "Hancock County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 50105
+    "MEDIAN_HOUSEHOLD_INCOME": 52057
   },
   "19083": {
     "county": "Hardin County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 49342
+    "MEDIAN_HOUSEHOLD_INCOME": 50941
   },
   "19085": {
     "county": "Harrison County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 54583
+    "MEDIAN_HOUSEHOLD_INCOME": 53506
   },
   "19087": {
     "county": "Henry County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 46376
+    "MEDIAN_HOUSEHOLD_INCOME": 49036
   },
   "19089": {
     "county": "Howard County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 46429
+    "MEDIAN_HOUSEHOLD_INCOME": 47300
   },
   "19091": {
     "county": "Humboldt County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 47897
+    "MEDIAN_HOUSEHOLD_INCOME": 47500
   },
   "19093": {
     "county": "Ida County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43449
+    "MEDIAN_HOUSEHOLD_INCOME": 45912
   },
   "19095": {
     "county": "Iowa County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 58008
+    "MEDIAN_HOUSEHOLD_INCOME": 58553
   },
   "19097": {
     "county": "Jackson County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 46467
+    "MEDIAN_HOUSEHOLD_INCOME": 47004
   },
   "19099": {
     "county": "Jasper County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 50513
+    "MEDIAN_HOUSEHOLD_INCOME": 52430
   },
   "19101": {
     "county": "Jefferson County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48814
+    "MEDIAN_HOUSEHOLD_INCOME": 44688
   },
   "19103": {
     "county": "Johnson County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 53424
+    "MEDIAN_HOUSEHOLD_INCOME": 54985
   },
   "19105": {
     "county": "Jones County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 55041
+    "MEDIAN_HOUSEHOLD_INCOME": 54264
   },
   "19107": {
     "county": "Keokuk County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 42167
+    "MEDIAN_HOUSEHOLD_INCOME": 44745
   },
   "19109": {
     "county": "Kossuth County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 51812
+    "MEDIAN_HOUSEHOLD_INCOME": 52345
   },
   "19111": {
     "county": "Lee County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 42469
+    "MEDIAN_HOUSEHOLD_INCOME": 43314
   },
   "19113": {
     "county": "Linn County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 57260
+    "MEDIAN_HOUSEHOLD_INCOME": 59560
   },
   "19115": {
     "county": "Louisa County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 50583
+    "MEDIAN_HOUSEHOLD_INCOME": 52750
   },
   "19117": {
     "county": "Lucas County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43288
+    "MEDIAN_HOUSEHOLD_INCOME": 43280
   },
   "19119": {
     "county": "Lyon County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 52152
+    "MEDIAN_HOUSEHOLD_INCOME": 54344
   },
   "19121": {
     "county": "Madison County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 57581
+    "MEDIAN_HOUSEHOLD_INCOME": 56661
   },
   "19123": {
     "county": "Mahaska County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 47967
+    "MEDIAN_HOUSEHOLD_INCOME": 48750
   },
   "19125": {
     "county": "Marion County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 54723
+    "MEDIAN_HOUSEHOLD_INCOME": 55419
   },
   "19127": {
     "county": "Marshall County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 51555
+    "MEDIAN_HOUSEHOLD_INCOME": 52354
   },
   "19129": {
     "county": "Mills County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 63076
+    "MEDIAN_HOUSEHOLD_INCOME": 65160
   },
   "19131": {
     "county": "Mitchell County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 51078
+    "MEDIAN_HOUSEHOLD_INCOME": 47326
   },
   "19133": {
     "county": "Monona County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 42025
+    "MEDIAN_HOUSEHOLD_INCOME": 41238
   },
   "19135": {
     "county": "Monroe County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 45997
+    "MEDIAN_HOUSEHOLD_INCOME": 47297
   },
   "19137": {
     "county": "Montgomery County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 44281
+    "MEDIAN_HOUSEHOLD_INCOME": 43566
   },
   "19139": {
     "county": "Muscatine County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 51425
+    "MEDIAN_HOUSEHOLD_INCOME": 52899
   },
   "19141": {
     "county": "O'Brien County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48185
+    "MEDIAN_HOUSEHOLD_INCOME": 52458
   },
   "19143": {
     "county": "Osceola County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48659
+    "MEDIAN_HOUSEHOLD_INCOME": 50700
   },
   "19145": {
     "county": "Page County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43010
+    "MEDIAN_HOUSEHOLD_INCOME": 44786
   },
   "19147": {
     "county": "Palo Alto County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 44663
+    "MEDIAN_HOUSEHOLD_INCOME": 46334
   },
   "19149": {
     "county": "Plymouth County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 58888
+    "MEDIAN_HOUSEHOLD_INCOME": 57583
   },
   "19151": {
     "county": "Pocahontas County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 44073
+    "MEDIAN_HOUSEHOLD_INCOME": 45500
   },
   "19153": {
     "county": "Polk County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 59018
+    "MEDIAN_HOUSEHOLD_INCOME": 59844
   },
   "19155": {
     "county": "Pottawattamie County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 51304
+    "MEDIAN_HOUSEHOLD_INCOME": 51939
   },
   "19157": {
     "county": "Poweshiek County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 50349
+    "MEDIAN_HOUSEHOLD_INCOME": 51650
   },
   "19159": {
     "county": "Ringgold County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 44551
+    "MEDIAN_HOUSEHOLD_INCOME": 44032
   },
   "19161": {
     "county": "Sac County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48093
+    "MEDIAN_HOUSEHOLD_INCOME": 48581
   },
   "19163": {
     "county": "Scott County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 52735
+    "MEDIAN_HOUSEHOLD_INCOME": 53704
   },
   "19165": {
     "county": "Shelby County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 48783
+    "MEDIAN_HOUSEHOLD_INCOME": 49599
   },
   "19167": {
     "county": "Sioux County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 57227
+    "MEDIAN_HOUSEHOLD_INCOME": 59272
   },
   "19169": {
     "county": "Story County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 50516
+    "MEDIAN_HOUSEHOLD_INCOME": 51270
   },
   "19171": {
     "county": "Tama County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 51670
+    "MEDIAN_HOUSEHOLD_INCOME": 54325
   },
   "19173": {
     "county": "Taylor County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43804
+    "MEDIAN_HOUSEHOLD_INCOME": 44939
   },
   "19175": {
     "county": "Union County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 44838
+    "MEDIAN_HOUSEHOLD_INCOME": 44134
   },
   "19177": {
     "county": "Van Buren County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 43181
+    "MEDIAN_HOUSEHOLD_INCOME": 45057
   },
   "19179": {
     "county": "Wapello County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 41425
+    "MEDIAN_HOUSEHOLD_INCOME": 41519
   },
   "19181": {
     "county": "Warren County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 62535
+    "MEDIAN_HOUSEHOLD_INCOME": 64956
   },
   "19183": {
     "county": "Washington County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 54554
+    "MEDIAN_HOUSEHOLD_INCOME": 55198
   },
   "19185": {
     "county": "Wayne County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 40024
+    "MEDIAN_HOUSEHOLD_INCOME": 42083
   },
   "19187": {
     "county": "Webster County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 41624
+    "MEDIAN_HOUSEHOLD_INCOME": 42112
   },
   "19189": {
     "county": "Winnebago County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 45603
+    "MEDIAN_HOUSEHOLD_INCOME": 49208
   },
   "19191": {
     "county": "Winneshiek County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 53122
+    "MEDIAN_HOUSEHOLD_INCOME": 53735
   },
   "19193": {
     "county": "Woodbury County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 45856
+    "MEDIAN_HOUSEHOLD_INCOME": 46015
   },
   "19195": {
     "county": "Worth County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 50476
+    "MEDIAN_HOUSEHOLD_INCOME": 49977
   },
   "19197": {
     "county": "Wright County, IA",
-    "MEDIAN_HOUSEHOLD_INCOME": 45205
+    "MEDIAN_HOUSEHOLD_INCOME": 43082
   }
 }

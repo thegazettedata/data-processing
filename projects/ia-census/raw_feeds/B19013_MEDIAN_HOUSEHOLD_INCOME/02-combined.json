@@ -3,802 +3,10 @@
     "name": "Iowa",
     "B19013": {
       "estimate": {
-        "B19013001": 51843
+        "B19013001": 52716
       },
       "error": {
-        "B19013001": 258
-      }
-    }
-  },
-  "05000US19165": {
-    "parent_geoid": "04000US19",
-    "name": "Shelby County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48783
-      },
-      "error": {
-        "B19013001": 2977
-      }
-    }
-  },
-  "05000US19011": {
-    "parent_geoid": "04000US19",
-    "name": "Benton County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 56669
-      },
-      "error": {
-        "B19013001": 2447
-      }
-    }
-  },
-  "05000US19113": {
-    "parent_geoid": "04000US19",
-    "name": "Linn County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 57260
-      },
-      "error": {
-        "B19013001": 1247
-      }
-    }
-  },
-  "05000US19059": {
-    "parent_geoid": "04000US19",
-    "name": "Dickinson County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 56136
-      },
-      "error": {
-        "B19013001": 1751
-      }
-    }
-  },
-  "05000US19043": {
-    "parent_geoid": "04000US19",
-    "name": "Clayton County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 47494
-      },
-      "error": {
-        "B19013001": 2302
-      }
-    }
-  },
-  "05000US19021": {
-    "parent_geoid": "04000US19",
-    "name": "Buena Vista County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 46951
-      },
-      "error": {
-        "B19013001": 2318
-      }
-    }
-  },
-  "05000US19129": {
-    "parent_geoid": "04000US19",
-    "name": "Mills County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 63076
-      },
-      "error": {
-        "B19013001": 2908
-      }
-    }
-  },
-  "05000US19049": {
-    "parent_geoid": "04000US19",
-    "name": "Dallas County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 73847
-      },
-      "error": {
-        "B19013001": 2646
-      }
-    }
-  },
-  "05000US19125": {
-    "parent_geoid": "04000US19",
-    "name": "Marion County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 54723
-      },
-      "error": {
-        "B19013001": 2489
-      }
-    }
-  },
-  "05000US19031": {
-    "parent_geoid": "04000US19",
-    "name": "Cedar County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 58088
-      },
-      "error": {
-        "B19013001": 1536
-      }
-    }
-  },
-  "05000US19027": {
-    "parent_geoid": "04000US19",
-    "name": "Carroll County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48361
-      },
-      "error": {
-        "B19013001": 3171
-      }
-    }
-  },
-  "05000US19151": {
-    "parent_geoid": "04000US19",
-    "name": "Pocahontas County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 44073
-      },
-      "error": {
-        "B19013001": 2785
-      }
-    }
-  },
-  "05000US19085": {
-    "parent_geoid": "04000US19",
-    "name": "Harrison County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 54583
-      },
-      "error": {
-        "B19013001": 3101
-      }
-    }
-  },
-  "05000US19187": {
-    "parent_geoid": "04000US19",
-    "name": "Webster County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 41624
-      },
-      "error": {
-        "B19013001": 1387
-      }
-    }
-  },
-  "05000US19101": {
-    "parent_geoid": "04000US19",
-    "name": "Jefferson County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48814
-      },
-      "error": {
-        "B19013001": 4896
-      }
-    }
-  },
-  "05000US19121": {
-    "parent_geoid": "04000US19",
-    "name": "Madison County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 57581
-      },
-      "error": {
-        "B19013001": 3006
-      }
-    }
-  },
-  "05000US19089": {
-    "parent_geoid": "04000US19",
-    "name": "Howard County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 46429
-      },
-      "error": {
-        "B19013001": 3962
-      }
-    }
-  },
-  "05000US19045": {
-    "parent_geoid": "04000US19",
-    "name": "Clinton County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 49559
-      },
-      "error": {
-        "B19013001": 2487
-      }
-    }
-  },
-  "05000US19025": {
-    "parent_geoid": "04000US19",
-    "name": "Calhoun County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 44484
-      },
-      "error": {
-        "B19013001": 2314
-      }
-    }
-  },
-  "05000US19007": {
-    "parent_geoid": "04000US19",
-    "name": "Appanoose County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 39208
-      },
-      "error": {
-        "B19013001": 2292
-      }
-    }
-  },
-  "05000US19177": {
-    "parent_geoid": "04000US19",
-    "name": "Van Buren County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43181
-      },
-      "error": {
-        "B19013001": 1935
-      }
-    }
-  },
-  "05000US19197": {
-    "parent_geoid": "04000US19",
-    "name": "Wright County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 45205
-      },
-      "error": {
-        "B19013001": 2254
-      }
-    }
-  },
-  "05000US19137": {
-    "parent_geoid": "04000US19",
-    "name": "Montgomery County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 44281
-      },
-      "error": {
-        "B19013001": 2420
-      }
-    }
-  },
-  "05000US19107": {
-    "parent_geoid": "04000US19",
-    "name": "Keokuk County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 42167
-      },
-      "error": {
-        "B19013001": 2396
-      }
-    }
-  },
-  "05000US19169": {
-    "parent_geoid": "04000US19",
-    "name": "Story County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 50516
-      },
-      "error": {
-        "B19013001": 1453
-      }
-    }
-  },
-  "05000US19131": {
-    "parent_geoid": "04000US19",
-    "name": "Mitchell County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 51078
-      },
-      "error": {
-        "B19013001": 3827
-      }
-    }
-  },
-  "05000US19075": {
-    "parent_geoid": "04000US19",
-    "name": "Grundy County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 56827
-      },
-      "error": {
-        "B19013001": 3191
-      }
-    }
-  },
-  "05000US19191": {
-    "parent_geoid": "04000US19",
-    "name": "Winneshiek County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 53122
-      },
-      "error": {
-        "B19013001": 2018
-      }
-    }
-  },
-  "05000US19153": {
-    "parent_geoid": "04000US19",
-    "name": "Polk County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 59018
-      },
-      "error": {
-        "B19013001": 944
-      }
-    }
-  },
-  "05000US19067": {
-    "parent_geoid": "04000US19",
-    "name": "Floyd County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43826
-      },
-      "error": {
-        "B19013001": 2602
-      }
-    }
-  },
-  "05000US19009": {
-    "parent_geoid": "04000US19",
-    "name": "Audubon County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48313
-      },
-      "error": {
-        "B19013001": 3192
-      }
-    }
-  },
-  "05000US19105": {
-    "parent_geoid": "04000US19",
-    "name": "Jones County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 55041
-      },
-      "error": {
-        "B19013001": 2489
-      }
-    }
-  },
-  "05000US19099": {
-    "parent_geoid": "04000US19",
-    "name": "Jasper County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 50513
-      },
-      "error": {
-        "B19013001": 2457
-      }
-    }
-  },
-  "05000US19149": {
-    "parent_geoid": "04000US19",
-    "name": "Plymouth County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 58888
-      },
-      "error": {
-        "B19013001": 2585
-      }
-    }
-  },
-  "05000US19155": {
-    "parent_geoid": "04000US19",
-    "name": "Pottawattamie County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 51304
-      },
-      "error": {
-        "B19013001": 1401
-      }
-    }
-  },
-  "05000US19173": {
-    "parent_geoid": "04000US19",
-    "name": "Taylor County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43804
-      },
-      "error": {
-        "B19013001": 1836
-      }
-    }
-  },
-  "05000US19145": {
-    "parent_geoid": "04000US19",
-    "name": "Page County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43010
-      },
-      "error": {
-        "B19013001": 2481
-      }
-    }
-  },
-  "05000US19035": {
-    "parent_geoid": "04000US19",
-    "name": "Cherokee County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48977
-      },
-      "error": {
-        "B19013001": 2668
-      }
-    }
-  },
-  "05000US19057": {
-    "parent_geoid": "04000US19",
-    "name": "Des Moines County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 42451
-      },
-      "error": {
-        "B19013001": 1730
-      }
-    }
-  },
-  "05000US19163": {
-    "parent_geoid": "04000US19",
-    "name": "Scott County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 52735
-      },
-      "error": {
-        "B19013001": 1044
-      }
-    }
-  },
-  "05000US19193": {
-    "parent_geoid": "04000US19",
-    "name": "Woodbury County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 45856
-      },
-      "error": {
-        "B19013001": 1134
-      }
-    }
-  },
-  "05000US19041": {
-    "parent_geoid": "04000US19",
-    "name": "Clay County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 49035
-      },
-      "error": {
-        "B19013001": 2856
-      }
-    }
-  },
-  "05000US19047": {
-    "parent_geoid": "04000US19",
-    "name": "Crawford County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 46548
-      },
-      "error": {
-        "B19013001": 3213
-      }
-    }
-  },
-  "05000US19019": {
-    "parent_geoid": "04000US19",
-    "name": "Buchanan County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 55553
-      },
-      "error": {
-        "B19013001": 3346
-      }
-    }
-  },
-  "05000US19143": {
-    "parent_geoid": "04000US19",
-    "name": "Osceola County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48659
-      },
-      "error": {
-        "B19013001": 4884
-      }
-    }
-  },
-  "05000US19033": {
-    "parent_geoid": "04000US19",
-    "name": "Cerro Gordo County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 44795
-      },
-      "error": {
-        "B19013001": 2077
-      }
-    }
-  },
-  "05000US19073": {
-    "parent_geoid": "04000US19",
-    "name": "Greene County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 45865
-      },
-      "error": {
-        "B19013001": 3350
-      }
-    }
-  },
-  "05000US19179": {
-    "parent_geoid": "04000US19",
-    "name": "Wapello County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 41425
-      },
-      "error": {
-        "B19013001": 1631
-      }
-    }
-  },
-  "05000US19119": {
-    "parent_geoid": "04000US19",
-    "name": "Lyon County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 52152
-      },
-      "error": {
-        "B19013001": 2312
-      }
-    }
-  },
-  "05000US19003": {
-    "parent_geoid": "04000US19",
-    "name": "Adams County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 45871
-      },
-      "error": {
-        "B19013001": 5011
-      }
-    }
-  },
-  "05000US19133": {
-    "parent_geoid": "04000US19",
-    "name": "Monona County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 42025
-      },
-      "error": {
-        "B19013001": 1904
-      }
-    }
-  },
-  "05000US19091": {
-    "parent_geoid": "04000US19",
-    "name": "Humboldt County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 47897
-      },
-      "error": {
-        "B19013001": 3967
-      }
-    }
-  },
-  "05000US19171": {
-    "parent_geoid": "04000US19",
-    "name": "Tama County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 51670
-      },
-      "error": {
-        "B19013001": 1781
-      }
-    }
-  },
-  "05000US19135": {
-    "parent_geoid": "04000US19",
-    "name": "Monroe County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 45997
-      },
-      "error": {
-        "B19013001": 3981
-      }
-    }
-  },
-  "05000US19139": {
-    "parent_geoid": "04000US19",
-    "name": "Muscatine County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 51425
-      },
-      "error": {
-        "B19013001": 1921
-      }
-    }
-  },
-  "05000US19079": {
-    "parent_geoid": "04000US19",
-    "name": "Hamilton County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43589
-      },
-      "error": {
-        "B19013001": 3426
-      }
-    }
-  },
-  "05000US19069": {
-    "parent_geoid": "04000US19",
-    "name": "Franklin County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48355
-      },
-      "error": {
-        "B19013001": 2292
-      }
-    }
-  },
-  "05000US19077": {
-    "parent_geoid": "04000US19",
-    "name": "Guthrie County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 50609
-      },
-      "error": {
-        "B19013001": 1773
-      }
-    }
-  },
-  "05000US19183": {
-    "parent_geoid": "04000US19",
-    "name": "Washington County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 54554
-      },
-      "error": {
-        "B19013001": 2913
-      }
-    }
-  },
-  "05000US19167": {
-    "parent_geoid": "04000US19",
-    "name": "Sioux County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 57227
-      },
-      "error": {
-        "B19013001": 2429
-      }
-    }
-  },
-  "05000US19005": {
-    "parent_geoid": "04000US19",
-    "name": "Allamakee County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48831
-      },
-      "error": {
-        "B19013001": 3144
-      }
-    }
-  },
-  "05000US19195": {
-    "parent_geoid": "04000US19",
-    "name": "Worth County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 50476
-      },
-      "error": {
-        "B19013001": 2735
-      }
-    }
-  },
-  "05000US19013": {
-    "parent_geoid": "04000US19",
-    "name": "Black Hawk County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 45747
-      },
-      "error": {
-        "B19013001": 1045
-      }
-    }
-  },
-  "05000US19039": {
-    "parent_geoid": "04000US19",
-    "name": "Clarke County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43216
-      },
-      "error": {
-        "B19013001": 3207
-      }
-    }
-  },
-  "05000US19065": {
-    "parent_geoid": "04000US19",
-    "name": "Fayette County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 45542
-      },
-      "error": {
-        "B19013001": 2396
-      }
-    }
-  },
-  "05000US19181": {
-    "parent_geoid": "04000US19",
-    "name": "Warren County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 62535
-      },
-      "error": {
-        "B19013001": 2131
+        "B19013001": 271
       }
     }
   },
@@ -807,250 +15,82 @@
     "name": "Adair County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 47892
+        "B19013001": 47264
       },
       "error": {
-        "B19013001": 1765
+        "B19013001": 1914
       }
     }
   },
-  "05000US19185": {
+  "05000US19003": {
     "parent_geoid": "04000US19",
-    "name": "Wayne County, IA",
+    "name": "Adams County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 40024
+        "B19013001": 47335
       },
       "error": {
-        "B19013001": 3319
+        "B19013001": 3981
       }
     }
   },
-  "05000US19053": {
+  "05000US19005": {
     "parent_geoid": "04000US19",
-    "name": "Decatur County, IA",
+    "name": "Allamakee County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 36326
+        "B19013001": 47886
       },
       "error": {
-        "B19013001": 3658
+        "B19013001": 3919
       }
     }
   },
-  "05000US19109": {
+  "05000US19007": {
     "parent_geoid": "04000US19",
-    "name": "Kossuth County, IA",
+    "name": "Appanoose County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 51812
+        "B19013001": 41525
       },
       "error": {
-        "B19013001": 2091
+        "B19013001": 1942
       }
     }
   },
-  "05000US19147": {
+  "05000US19009": {
     "parent_geoid": "04000US19",
-    "name": "Palo Alto County, IA",
+    "name": "Audubon County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 44663
+        "B19013001": 47556
       },
       "error": {
-        "B19013001": 4284
+        "B19013001": 5805
       }
     }
   },
-  "05000US19159": {
+  "05000US19011": {
     "parent_geoid": "04000US19",
-    "name": "Ringgold County, IA",
+    "name": "Benton County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 44551
+        "B19013001": 59186
       },
       "error": {
-        "B19013001": 4421
+        "B19013001": 2929
       }
     }
   },
-  "05000US19061": {
+  "05000US19013": {
     "parent_geoid": "04000US19",
-    "name": "Dubuque County, IA",
+    "name": "Black Hawk County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 51475
+        "B19013001": 47002
       },
       "error": {
-        "B19013001": 1202
-      }
-    }
-  },
-  "05000US19037": {
-    "parent_geoid": "04000US19",
-    "name": "Chickasaw County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43971
-      },
-      "error": {
-        "B19013001": 2697
-      }
-    }
-  },
-  "05000US19081": {
-    "parent_geoid": "04000US19",
-    "name": "Hancock County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 50105
-      },
-      "error": {
-        "B19013001": 2193
-      }
-    }
-  },
-  "05000US19157": {
-    "parent_geoid": "04000US19",
-    "name": "Poweshiek County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 50349
-      },
-      "error": {
-        "B19013001": 2678
-      }
-    }
-  },
-  "05000US19097": {
-    "parent_geoid": "04000US19",
-    "name": "Jackson County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 46467
-      },
-      "error": {
-        "B19013001": 2998
-      }
-    }
-  },
-  "05000US19123": {
-    "parent_geoid": "04000US19",
-    "name": "Mahaska County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 47967
-      },
-      "error": {
-        "B19013001": 2128
-      }
-    }
-  },
-  "05000US19103": {
-    "parent_geoid": "04000US19",
-    "name": "Johnson County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 53424
-      },
-      "error": {
-        "B19013001": 1268
-      }
-    }
-  },
-  "05000US19093": {
-    "parent_geoid": "04000US19",
-    "name": "Ida County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43449
-      },
-      "error": {
-        "B19013001": 2100
-      }
-    }
-  },
-  "05000US19175": {
-    "parent_geoid": "04000US19",
-    "name": "Union County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 44838
-      },
-      "error": {
-        "B19013001": 3120
-      }
-    }
-  },
-  "05000US19029": {
-    "parent_geoid": "04000US19",
-    "name": "Cass County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43481
-      },
-      "error": {
-        "B19013001": 2162
-      }
-    }
-  },
-  "05000US19161": {
-    "parent_geoid": "04000US19",
-    "name": "Sac County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48093
-      },
-      "error": {
-        "B19013001": 2701
-      }
-    }
-  },
-  "05000US19127": {
-    "parent_geoid": "04000US19",
-    "name": "Marshall County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 51555
-      },
-      "error": {
-        "B19013001": 1870
-      }
-    }
-  },
-  "05000US19055": {
-    "parent_geoid": "04000US19",
-    "name": "Delaware County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 54076
-      },
-      "error": {
-        "B19013001": 3215
-      }
-    }
-  },
-  "05000US19051": {
-    "parent_geoid": "04000US19",
-    "name": "Davis County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 45040
-      },
-      "error": {
-        "B19013001": 3572
-      }
-    }
-  },
-  "05000US19083": {
-    "parent_geoid": "04000US19",
-    "name": "Hardin County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 49342
-      },
-      "error": {
-        "B19013001": 2138
+        "B19013001": 1082
       }
     }
   },
@@ -1059,106 +99,10 @@
     "name": "Boone County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 51826
+        "B19013001": 52714
       },
       "error": {
-        "B19013001": 2774
-      }
-    }
-  },
-  "05000US19071": {
-    "parent_geoid": "04000US19",
-    "name": "Fremont County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 50520
-      },
-      "error": {
-        "B19013001": 2445
-      }
-    }
-  },
-  "05000US19111": {
-    "parent_geoid": "04000US19",
-    "name": "Lee County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 42469
-      },
-      "error": {
-        "B19013001": 2323
-      }
-    }
-  },
-  "05000US19095": {
-    "parent_geoid": "04000US19",
-    "name": "Iowa County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 58008
-      },
-      "error": {
-        "B19013001": 4902
-      }
-    }
-  },
-  "05000US19023": {
-    "parent_geoid": "04000US19",
-    "name": "Butler County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 52026
-      },
-      "error": {
-        "B19013001": 2243
-      }
-    }
-  },
-  "05000US19063": {
-    "parent_geoid": "04000US19",
-    "name": "Emmet County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 48601
-      },
-      "error": {
-        "B19013001": 3128
-      }
-    }
-  },
-  "05000US19087": {
-    "parent_geoid": "04000US19",
-    "name": "Henry County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 46376
-      },
-      "error": {
-        "B19013001": 2670
-      }
-    }
-  },
-  "05000US19115": {
-    "parent_geoid": "04000US19",
-    "name": "Louisa County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 50583
-      },
-      "error": {
-        "B19013001": 3206
-      }
-    }
-  },
-  "05000US19117": {
-    "parent_geoid": "04000US19",
-    "name": "Lucas County, IA",
-    "B19013": {
-      "estimate": {
-        "B19013001": 43288
-      },
-      "error": {
-        "B19013001": 3163
+        "B19013001": 2324
       }
     }
   },
@@ -1167,10 +111,742 @@
     "name": "Bremer County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 61216
+        "B19013001": 61619
       },
       "error": {
-        "B19013001": 2302
+        "B19013001": 1798
+      }
+    }
+  },
+  "05000US19019": {
+    "parent_geoid": "04000US19",
+    "name": "Buchanan County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 56393
+      },
+      "error": {
+        "B19013001": 2587
+      }
+    }
+  },
+  "05000US19021": {
+    "parent_geoid": "04000US19",
+    "name": "Buena Vista County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 48010
+      },
+      "error": {
+        "B19013001": 2233
+      }
+    }
+  },
+  "05000US19023": {
+    "parent_geoid": "04000US19",
+    "name": "Butler County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 51701
+      },
+      "error": {
+        "B19013001": 1661
+      }
+    }
+  },
+  "05000US19025": {
+    "parent_geoid": "04000US19",
+    "name": "Calhoun County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 44934
+      },
+      "error": {
+        "B19013001": 3277
+      }
+    }
+  },
+  "05000US19027": {
+    "parent_geoid": "04000US19",
+    "name": "Carroll County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 48998
+      },
+      "error": {
+        "B19013001": 3118
+      }
+    }
+  },
+  "05000US19029": {
+    "parent_geoid": "04000US19",
+    "name": "Cass County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 43960
+      },
+      "error": {
+        "B19013001": 2958
+      }
+    }
+  },
+  "05000US19031": {
+    "parent_geoid": "04000US19",
+    "name": "Cedar County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 59672
+      },
+      "error": {
+        "B19013001": 3070
+      }
+    }
+  },
+  "05000US19033": {
+    "parent_geoid": "04000US19",
+    "name": "Cerro Gordo County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 45012
+      },
+      "error": {
+        "B19013001": 1843
+      }
+    }
+  },
+  "05000US19035": {
+    "parent_geoid": "04000US19",
+    "name": "Cherokee County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 50828
+      },
+      "error": {
+        "B19013001": 3327
+      }
+    }
+  },
+  "05000US19037": {
+    "parent_geoid": "04000US19",
+    "name": "Chickasaw County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 46020
+      },
+      "error": {
+        "B19013001": 2402
+      }
+    }
+  },
+  "05000US19039": {
+    "parent_geoid": "04000US19",
+    "name": "Clarke County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 42430
+      },
+      "error": {
+        "B19013001": 2798
+      }
+    }
+  },
+  "05000US19041": {
+    "parent_geoid": "04000US19",
+    "name": "Clay County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 49438
+      },
+      "error": {
+        "B19013001": 3990
+      }
+    }
+  },
+  "05000US19043": {
+    "parent_geoid": "04000US19",
+    "name": "Clayton County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 47725
+      },
+      "error": {
+        "B19013001": 1918
+      }
+    }
+  },
+  "05000US19045": {
+    "parent_geoid": "04000US19",
+    "name": "Clinton County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 49849
+      },
+      "error": {
+        "B19013001": 3429
+      }
+    }
+  },
+  "05000US19047": {
+    "parent_geoid": "04000US19",
+    "name": "Crawford County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 47437
+      },
+      "error": {
+        "B19013001": 2447
+      }
+    }
+  },
+  "05000US19049": {
+    "parent_geoid": "04000US19",
+    "name": "Dallas County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 74876
+      },
+      "error": {
+        "B19013001": 2041
+      }
+    }
+  },
+  "05000US19051": {
+    "parent_geoid": "04000US19",
+    "name": "Davis County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 46048
+      },
+      "error": {
+        "B19013001": 3090
+      }
+    }
+  },
+  "05000US19053": {
+    "parent_geoid": "04000US19",
+    "name": "Decatur County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 38275
+      },
+      "error": {
+        "B19013001": 3351
+      }
+    }
+  },
+  "05000US19055": {
+    "parent_geoid": "04000US19",
+    "name": "Delaware County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 54801
+      },
+      "error": {
+        "B19013001": 4680
+      }
+    }
+  },
+  "05000US19057": {
+    "parent_geoid": "04000US19",
+    "name": "Des Moines County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 42146
+      },
+      "error": {
+        "B19013001": 1881
+      }
+    }
+  },
+  "05000US19059": {
+    "parent_geoid": "04000US19",
+    "name": "Dickinson County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 56086
+      },
+      "error": {
+        "B19013001": 1704
+      }
+    }
+  },
+  "05000US19061": {
+    "parent_geoid": "04000US19",
+    "name": "Dubuque County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 53410
+      },
+      "error": {
+        "B19013001": 1507
+      }
+    }
+  },
+  "05000US19063": {
+    "parent_geoid": "04000US19",
+    "name": "Emmet County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 48545
+      },
+      "error": {
+        "B19013001": 3366
+      }
+    }
+  },
+  "05000US19065": {
+    "parent_geoid": "04000US19",
+    "name": "Fayette County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 45443
+      },
+      "error": {
+        "B19013001": 1936
+      }
+    }
+  },
+  "05000US19067": {
+    "parent_geoid": "04000US19",
+    "name": "Floyd County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 43169
+      },
+      "error": {
+        "B19013001": 3548
+      }
+    }
+  },
+  "05000US19069": {
+    "parent_geoid": "04000US19",
+    "name": "Franklin County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 48218
+      },
+      "error": {
+        "B19013001": 2521
+      }
+    }
+  },
+  "05000US19071": {
+    "parent_geoid": "04000US19",
+    "name": "Fremont County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 52221
+      },
+      "error": {
+        "B19013001": 2169
+      }
+    }
+  },
+  "05000US19073": {
+    "parent_geoid": "04000US19",
+    "name": "Greene County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 47255
+      },
+      "error": {
+        "B19013001": 3043
+      }
+    }
+  },
+  "05000US19075": {
+    "parent_geoid": "04000US19",
+    "name": "Grundy County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 55896
+      },
+      "error": {
+        "B19013001": 2251
+      }
+    }
+  },
+  "05000US19077": {
+    "parent_geoid": "04000US19",
+    "name": "Guthrie County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 50238
+      },
+      "error": {
+        "B19013001": 1877
+      }
+    }
+  },
+  "05000US19079": {
+    "parent_geoid": "04000US19",
+    "name": "Hamilton County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 47358
+      },
+      "error": {
+        "B19013001": 3736
+      }
+    }
+  },
+  "05000US19081": {
+    "parent_geoid": "04000US19",
+    "name": "Hancock County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 52057
+      },
+      "error": {
+        "B19013001": 2983
+      }
+    }
+  },
+  "05000US19083": {
+    "parent_geoid": "04000US19",
+    "name": "Hardin County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 50941
+      },
+      "error": {
+        "B19013001": 1767
+      }
+    }
+  },
+  "05000US19085": {
+    "parent_geoid": "04000US19",
+    "name": "Harrison County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 53506
+      },
+      "error": {
+        "B19013001": 2686
+      }
+    }
+  },
+  "05000US19087": {
+    "parent_geoid": "04000US19",
+    "name": "Henry County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 49036
+      },
+      "error": {
+        "B19013001": 3626
+      }
+    }
+  },
+  "05000US19089": {
+    "parent_geoid": "04000US19",
+    "name": "Howard County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 47300
+      },
+      "error": {
+        "B19013001": 3847
+      }
+    }
+  },
+  "05000US19091": {
+    "parent_geoid": "04000US19",
+    "name": "Humboldt County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 47500
+      },
+      "error": {
+        "B19013001": 3178
+      }
+    }
+  },
+  "05000US19093": {
+    "parent_geoid": "04000US19",
+    "name": "Ida County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 45912
+      },
+      "error": {
+        "B19013001": 3143
+      }
+    }
+  },
+  "05000US19095": {
+    "parent_geoid": "04000US19",
+    "name": "Iowa County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 58553
+      },
+      "error": {
+        "B19013001": 5210
+      }
+    }
+  },
+  "05000US19097": {
+    "parent_geoid": "04000US19",
+    "name": "Jackson County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 47004
+      },
+      "error": {
+        "B19013001": 2955
+      }
+    }
+  },
+  "05000US19099": {
+    "parent_geoid": "04000US19",
+    "name": "Jasper County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 52430
+      },
+      "error": {
+        "B19013001": 2457
+      }
+    }
+  },
+  "05000US19101": {
+    "parent_geoid": "04000US19",
+    "name": "Jefferson County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 44688
+      },
+      "error": {
+        "B19013001": 4262
+      }
+    }
+  },
+  "05000US19103": {
+    "parent_geoid": "04000US19",
+    "name": "Johnson County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 54985
+      },
+      "error": {
+        "B19013001": 1953
+      }
+    }
+  },
+  "05000US19105": {
+    "parent_geoid": "04000US19",
+    "name": "Jones County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 54264
+      },
+      "error": {
+        "B19013001": 2680
+      }
+    }
+  },
+  "05000US19107": {
+    "parent_geoid": "04000US19",
+    "name": "Keokuk County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 44745
+      },
+      "error": {
+        "B19013001": 3012
+      }
+    }
+  },
+  "05000US19109": {
+    "parent_geoid": "04000US19",
+    "name": "Kossuth County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 52345
+      },
+      "error": {
+        "B19013001": 2079
+      }
+    }
+  },
+  "05000US19111": {
+    "parent_geoid": "04000US19",
+    "name": "Lee County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 43314
+      },
+      "error": {
+        "B19013001": 2212
+      }
+    }
+  },
+  "05000US19113": {
+    "parent_geoid": "04000US19",
+    "name": "Linn County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 59560
+      },
+      "error": {
+        "B19013001": 1337
+      }
+    }
+  },
+  "05000US19115": {
+    "parent_geoid": "04000US19",
+    "name": "Louisa County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 52750
+      },
+      "error": {
+        "B19013001": 3386
+      }
+    }
+  },
+  "05000US19117": {
+    "parent_geoid": "04000US19",
+    "name": "Lucas County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 43280
+      },
+      "error": {
+        "B19013001": 2574
+      }
+    }
+  },
+  "05000US19119": {
+    "parent_geoid": "04000US19",
+    "name": "Lyon County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 54344
+      },
+      "error": {
+        "B19013001": 2782
+      }
+    }
+  },
+  "05000US19121": {
+    "parent_geoid": "04000US19",
+    "name": "Madison County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 56661
+      },
+      "error": {
+        "B19013001": 4503
+      }
+    }
+  },
+  "05000US19123": {
+    "parent_geoid": "04000US19",
+    "name": "Mahaska County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 48750
+      },
+      "error": {
+        "B19013001": 3199
+      }
+    }
+  },
+  "05000US19125": {
+    "parent_geoid": "04000US19",
+    "name": "Marion County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 55419
+      },
+      "error": {
+        "B19013001": 3194
+      }
+    }
+  },
+  "05000US19127": {
+    "parent_geoid": "04000US19",
+    "name": "Marshall County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 52354
+      },
+      "error": {
+        "B19013001": 1724
+      }
+    }
+  },
+  "05000US19129": {
+    "parent_geoid": "04000US19",
+    "name": "Mills County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 65160
+      },
+      "error": {
+        "B19013001": 3905
+      }
+    }
+  },
+  "05000US19131": {
+    "parent_geoid": "04000US19",
+    "name": "Mitchell County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 47326
+      },
+      "error": {
+        "B19013001": 2853
+      }
+    }
+  },
+  "05000US19133": {
+    "parent_geoid": "04000US19",
+    "name": "Monona County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 41238
+      },
+      "error": {
+        "B19013001": 1679
+      }
+    }
+  },
+  "05000US19135": {
+    "parent_geoid": "04000US19",
+    "name": "Monroe County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 47297
+      },
+      "error": {
+        "B19013001": 2922
+      }
+    }
+  },
+  "05000US19137": {
+    "parent_geoid": "04000US19",
+    "name": "Montgomery County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 43566
+      },
+      "error": {
+        "B19013001": 2375
+      }
+    }
+  },
+  "05000US19139": {
+    "parent_geoid": "04000US19",
+    "name": "Muscatine County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 52899
+      },
+      "error": {
+        "B19013001": 1832
       }
     }
   },
@@ -1179,10 +855,286 @@
     "name": "O'Brien County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 48185
+        "B19013001": 52458
       },
       "error": {
-        "B19013001": 5594
+        "B19013001": 4177
+      }
+    }
+  },
+  "05000US19143": {
+    "parent_geoid": "04000US19",
+    "name": "Osceola County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 50700
+      },
+      "error": {
+        "B19013001": 2205
+      }
+    }
+  },
+  "05000US19145": {
+    "parent_geoid": "04000US19",
+    "name": "Page County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 44786
+      },
+      "error": {
+        "B19013001": 2543
+      }
+    }
+  },
+  "05000US19147": {
+    "parent_geoid": "04000US19",
+    "name": "Palo Alto County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 46334
+      },
+      "error": {
+        "B19013001": 2869
+      }
+    }
+  },
+  "05000US19149": {
+    "parent_geoid": "04000US19",
+    "name": "Plymouth County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 57583
+      },
+      "error": {
+        "B19013001": 3214
+      }
+    }
+  },
+  "05000US19151": {
+    "parent_geoid": "04000US19",
+    "name": "Pocahontas County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 45500
+      },
+      "error": {
+        "B19013001": 3345
+      }
+    }
+  },
+  "05000US19153": {
+    "parent_geoid": "04000US19",
+    "name": "Polk County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 59844
+      },
+      "error": {
+        "B19013001": 862
+      }
+    }
+  },
+  "05000US19155": {
+    "parent_geoid": "04000US19",
+    "name": "Pottawattamie County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 51939
+      },
+      "error": {
+        "B19013001": 1789
+      }
+    }
+  },
+  "05000US19157": {
+    "parent_geoid": "04000US19",
+    "name": "Poweshiek County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 51650
+      },
+      "error": {
+        "B19013001": 2406
+      }
+    }
+  },
+  "05000US19159": {
+    "parent_geoid": "04000US19",
+    "name": "Ringgold County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 44032
+      },
+      "error": {
+        "B19013001": 5098
+      }
+    }
+  },
+  "05000US19161": {
+    "parent_geoid": "04000US19",
+    "name": "Sac County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 48581
+      },
+      "error": {
+        "B19013001": 2113
+      }
+    }
+  },
+  "05000US19163": {
+    "parent_geoid": "04000US19",
+    "name": "Scott County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 53704
+      },
+      "error": {
+        "B19013001": 1097
+      }
+    }
+  },
+  "05000US19165": {
+    "parent_geoid": "04000US19",
+    "name": "Shelby County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 49599
+      },
+      "error": {
+        "B19013001": 3451
+      }
+    }
+  },
+  "05000US19167": {
+    "parent_geoid": "04000US19",
+    "name": "Sioux County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 59272
+      },
+      "error": {
+        "B19013001": 2432
+      }
+    }
+  },
+  "05000US19169": {
+    "parent_geoid": "04000US19",
+    "name": "Story County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 51270
+      },
+      "error": {
+        "B19013001": 1680
+      }
+    }
+  },
+  "05000US19171": {
+    "parent_geoid": "04000US19",
+    "name": "Tama County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 54325
+      },
+      "error": {
+        "B19013001": 1915
+      }
+    }
+  },
+  "05000US19173": {
+    "parent_geoid": "04000US19",
+    "name": "Taylor County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 44939
+      },
+      "error": {
+        "B19013001": 2384
+      }
+    }
+  },
+  "05000US19175": {
+    "parent_geoid": "04000US19",
+    "name": "Union County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 44134
+      },
+      "error": {
+        "B19013001": 3202
+      }
+    }
+  },
+  "05000US19177": {
+    "parent_geoid": "04000US19",
+    "name": "Van Buren County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 45057
+      },
+      "error": {
+        "B19013001": 2682
+      }
+    }
+  },
+  "05000US19179": {
+    "parent_geoid": "04000US19",
+    "name": "Wapello County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 41519
+      },
+      "error": {
+        "B19013001": 1512
+      }
+    }
+  },
+  "05000US19181": {
+    "parent_geoid": "04000US19",
+    "name": "Warren County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 64956
+      },
+      "error": {
+        "B19013001": 2458
+      }
+    }
+  },
+  "05000US19183": {
+    "parent_geoid": "04000US19",
+    "name": "Washington County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 55198
+      },
+      "error": {
+        "B19013001": 2305
+      }
+    }
+  },
+  "05000US19185": {
+    "parent_geoid": "04000US19",
+    "name": "Wayne County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 42083
+      },
+      "error": {
+        "B19013001": 2866
+      }
+    }
+  },
+  "05000US19187": {
+    "parent_geoid": "04000US19",
+    "name": "Webster County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 42112
+      },
+      "error": {
+        "B19013001": 1799
       }
     }
   },
@@ -1191,10 +1143,58 @@
     "name": "Winnebago County, IA",
     "B19013": {
       "estimate": {
-        "B19013001": 45603
+        "B19013001": 49208
       },
       "error": {
-        "B19013001": 5085
+        "B19013001": 3648
+      }
+    }
+  },
+  "05000US19191": {
+    "parent_geoid": "04000US19",
+    "name": "Winneshiek County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 53735
+      },
+      "error": {
+        "B19013001": 2015
+      }
+    }
+  },
+  "05000US19193": {
+    "parent_geoid": "04000US19",
+    "name": "Woodbury County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 46015
+      },
+      "error": {
+        "B19013001": 1487
+      }
+    }
+  },
+  "05000US19195": {
+    "parent_geoid": "04000US19",
+    "name": "Worth County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 49977
+      },
+      "error": {
+        "B19013001": 2132
+      }
+    }
+  },
+  "05000US19197": {
+    "parent_geoid": "04000US19",
+    "name": "Wright County, IA",
+    "B19013": {
+      "estimate": {
+        "B19013001": 43082
+      },
+      "error": {
+        "B19013001": 3824
       }
     }
   }

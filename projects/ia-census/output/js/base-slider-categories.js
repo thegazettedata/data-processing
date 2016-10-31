@@ -32,22 +32,22 @@ var slider_categories = {
     "text-after": "",
     "categories": {
       "subcategories": false,
-      "min": 3973,
-      "max": 438307,
-      "county-avg": 30934,
-      "state-avg": 3062553
+      "min": 3937,
+      "max": 445136,
+      "county-avg": 31092,
+      "state-avg": 3078116
     }
   },
   "MEDIAN_AGE": {
     "text": "Median age",
     "text-before": "",
-    "text-after": "%",
+    "text-after": "",
     "categories": {
       "subcategories": false,
       "min": 26,
       "max": 49,
       "county-avg": 0,
-      "state-avg": 38.1
+      "state-avg": 38
     }
   },
   "MEDIAN_HOUSEHOLD_INCOME": {
@@ -56,10 +56,10 @@ var slider_categories = {
     "text-after": "",
     "categories": {
       "subcategories": false,
-      "min": 36326,
-      "max": 73847,
+      "min": 38275,
+      "max": 74876,
       "county-avg": 0,
-      "state-avg": 51843
+      "state-avg": 52716
     }
   },
   "POVERTY": {
@@ -69,9 +69,9 @@ var slider_categories = {
     "categories": {
       "subcategories": false,
       "min": 6,
-      "max": 22,
+      "max": 23,
       "county-avg": 0,
-      "state-avg": 12.4
+      "state-avg": 12.6
     }
   },
   "RACE": {
@@ -84,15 +84,15 @@ var slider_categories = {
         "text": "White",
         "county-avg": 0,
         "min": 80,
-        "max": 100,
-        "state-avg": 91.5
+        "max": 99,
+        "state-avg": 91.4
       },
       "BLACK": {
         "text": "Black",
         "county-avg": 0,
         "min": 0,
         "max": 10,
-        "state-avg": 3.0
+        "state-avg": 3.1
       },
       "INDIAN": {
         "text": "Indian",
@@ -105,21 +105,21 @@ var slider_categories = {
         "text": "Asian",
         "county-avg": 0,
         "min": 0,
-        "max": 8,
-        "state-avg": 1.8
+        "max": 9,
+        "state-avg": 1.9
       },
       "OTHER": {
         "text": "Other",
         "county-avg": 0,
         "min": 0,
         "max": 8,
-        "state-avg": 1.4
+        "state-avg": 1.3
       },
       "TWO": {
         "text": "Two",
         "county-avg": 0,
         "min": 0,
-        "max": 4,
+        "max": 3,
         "state-avg": 1.9
       }
     }
@@ -135,35 +135,35 @@ var slider_categories = {
         "county-avg": 0,
         "min": 4,
         "max": 22,
-        "state-avg": 9.0
+        "state-avg": 8.7
       },
       "HS_GRAD": {
         "text": "Hs grad",
         "county-avg": 0,
-        "min": 17,
-        "max": 47,
-        "state-avg": 32.9
+        "min": 16,
+        "max": 46,
+        "state-avg": 32.5
       },
       "SOME_COLLEGE": {
         "text": "Some college",
         "county-avg": 0,
-        "min": 25,
+        "min": 26,
         "max": 42,
-        "state-avg": 32.3
+        "state-avg": 32.4
       },
       "BACHELORS": {
         "text": "Bachelors",
         "county-avg": 0,
-        "min": 7,
+        "min": 6,
         "max": 33,
-        "state-avg": 17.7
+        "state-avg": 18.0
       },
       "GRADUATE": {
         "text": "Graduate",
         "county-avg": 0,
         "min": 2,
-        "max": 24,
-        "state-avg": 8.0
+        "max": 25,
+        "state-avg": 8.4
       }
     }
   },
@@ -177,28 +177,28 @@ var slider_categories = {
         "text": "Ag",
         "county-avg": 0,
         "min": 0,
-        "max": 17,
+        "max": 18,
         "state-avg": 4.0
       },
       "CONSTRUCTION": {
         "text": "Construction",
         "county-avg": 0,
         "min": 3,
-        "max": 12,
-        "state-avg": 6.0
+        "max": 11,
+        "state-avg": 6.1
       },
       "MANUFACTURING": {
         "text": "Manufacturing",
         "county-avg": 0,
-        "min": 6,
-        "max": 33,
-        "state-avg": 14.8
+        "min": 5,
+        "max": 34,
+        "state-avg": 15.0
       },
       "RETAIL": {
         "text": "Retail",
         "county-avg": 0,
         "min": 7,
-        "max": 19,
+        "max": 18,
         "state-avg": 11.7
       },
       "FINANCE": {
@@ -206,21 +206,21 @@ var slider_categories = {
         "county-avg": 0,
         "min": 2,
         "max": 23,
-        "state-avg": 7.7
+        "state-avg": 7.6
       },
       "EDUCATION": {
         "text": "Education",
         "county-avg": 0,
         "min": 17,
         "max": 41,
-        "state-avg": 24.0
+        "state-avg": 24.1
       },
       "ARTS": {
         "text": "Arts",
         "county-avg": 0,
         "min": 1,
-        "max": 12,
-        "state-avg": 7.5
+        "max": 13,
+        "state-avg": 7.4
       }
     }
   },
@@ -230,8 +230,8 @@ var slider_categories = {
     "text-after": "%",
     "categories": {
       "subcategories": false,
-      "min": 1,
-      "max": 6,
+      "min": 2,
+      "max": 7,
       "county-avg": 0,
       "state-avg": 3.5
     }

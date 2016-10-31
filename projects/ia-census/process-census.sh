@@ -51,10 +51,12 @@ then
 		if [ ! -s $FILE_TWO ]
 		then
 			mkdir $DIRECTORY
-			curl "$FEED_URL" | jq ".geography" > $FILE_ONE_1
-			curl "$FEED_URL" | jq ".data" > $FILE_ONE_2
-			jq -s '.[0] * .[1]' $FILE_ONE_1 $FILE_ONE_2 > $FILE_TWO
 		fi
+
+		# Download the data
+		curl "$FEED_URL" | jq ".geography" > $FILE_ONE_1
+		curl "$FEED_URL" | jq ".data" > $FILE_ONE_2
+		jq -s '.[0] * .[1]' $FILE_ONE_1 $FILE_ONE_2 > $FILE_TWO
 
 		# This detects whether or not we have a variable that begins with "TOTAL"
 		# For this topic. This will tell us if we need to divide the FIELD

@@ -1,31 +1,31 @@
 {
   "04000US19": {
     "county": "Iowa",
-    "MEDIAN_AGE": 38.1
+    "MEDIAN_AGE": 38
   },
   "19001": {
     "county": "Adair County, IA",
-    "MEDIAN_AGE": 45.6
+    "MEDIAN_AGE": 46
   },
   "19003": {
     "county": "Adams County, IA",
-    "MEDIAN_AGE": 46.9
+    "MEDIAN_AGE": 46.4
   },
   "19005": {
     "county": "Allamakee County, IA",
-    "MEDIAN_AGE": 44.4
+    "MEDIAN_AGE": 44.8
   },
   "19007": {
     "county": "Appanoose County, IA",
-    "MEDIAN_AGE": 44.6
+    "MEDIAN_AGE": 44.7
   },
   "19009": {
     "county": "Audubon County, IA",
-    "MEDIAN_AGE": 47.1
+    "MEDIAN_AGE": 47.7
   },
   "19011": {
     "county": "Benton County, IA",
-    "MEDIAN_AGE": 40.4
+    "MEDIAN_AGE": 40.9
   },
   "19013": {
     "county": "Black Hawk County, IA",
@@ -33,39 +33,39 @@
   },
   "19015": {
     "county": "Boone County, IA",
-    "MEDIAN_AGE": 40.7
+    "MEDIAN_AGE": 41.1
   },
   "19017": {
     "county": "Bremer County, IA",
-    "MEDIAN_AGE": 38.5
+    "MEDIAN_AGE": 38.6
   },
   "19019": {
     "county": "Buchanan County, IA",
-    "MEDIAN_AGE": 39.1
+    "MEDIAN_AGE": 38.8
   },
   "19021": {
     "county": "Buena Vista County, IA",
-    "MEDIAN_AGE": 36.5
+    "MEDIAN_AGE": 36.8
   },
   "19023": {
     "county": "Butler County, IA",
-    "MEDIAN_AGE": 43.5
+    "MEDIAN_AGE": 43.6
   },
   "19025": {
     "county": "Calhoun County, IA",
-    "MEDIAN_AGE": 47.4
+    "MEDIAN_AGE": 46.7
   },
   "19027": {
     "county": "Carroll County, IA",
-    "MEDIAN_AGE": 42.2
+    "MEDIAN_AGE": 41.9
   },
   "19029": {
     "county": "Cass County, IA",
-    "MEDIAN_AGE": 44.8
+    "MEDIAN_AGE": 44.7
   },
   "19031": {
     "county": "Cedar County, IA",
-    "MEDIAN_AGE": 42.8
+    "MEDIAN_AGE": 41.9
   },
   "19033": {
     "county": "Cerro Gordo County, IA",
@@ -73,79 +73,79 @@
   },
   "19035": {
     "county": "Cherokee County, IA",
-    "MEDIAN_AGE": 47.2
+    "MEDIAN_AGE": 47.1
   },
   "19037": {
     "county": "Chickasaw County, IA",
-    "MEDIAN_AGE": 43.2
+    "MEDIAN_AGE": 43.5
   },
   "19039": {
     "county": "Clarke County, IA",
-    "MEDIAN_AGE": 41
+    "MEDIAN_AGE": 39.6
   },
   "19041": {
     "county": "Clay County, IA",
-    "MEDIAN_AGE": 42.6
+    "MEDIAN_AGE": 42.1
   },
   "19043": {
     "county": "Clayton County, IA",
-    "MEDIAN_AGE": 45
+    "MEDIAN_AGE": 45.4
   },
   "19045": {
     "county": "Clinton County, IA",
-    "MEDIAN_AGE": 41.8
+    "MEDIAN_AGE": 42.2
   },
   "19047": {
     "county": "Crawford County, IA",
-    "MEDIAN_AGE": 39.1
+    "MEDIAN_AGE": 38.5
   },
   "19049": {
     "county": "Dallas County, IA",
-    "MEDIAN_AGE": 34.4
+    "MEDIAN_AGE": 34.6
   },
   "19051": {
     "county": "Davis County, IA",
-    "MEDIAN_AGE": 38
+    "MEDIAN_AGE": 37.9
   },
   "19053": {
     "county": "Decatur County, IA",
-    "MEDIAN_AGE": 38.3
+    "MEDIAN_AGE": 37.6
   },
   "19055": {
     "county": "Delaware County, IA",
-    "MEDIAN_AGE": 41.9
+    "MEDIAN_AGE": 42.3
   },
   "19057": {
     "county": "Des Moines County, IA",
-    "MEDIAN_AGE": 41.8
+    "MEDIAN_AGE": 41.7
   },
   "19059": {
     "county": "Dickinson County, IA",
-    "MEDIAN_AGE": 48.4
+    "MEDIAN_AGE": 48.7
   },
   "19061": {
     "county": "Dubuque County, IA",
-    "MEDIAN_AGE": 38.8
+    "MEDIAN_AGE": 38.9
   },
   "19063": {
     "county": "Emmet County, IA",
-    "MEDIAN_AGE": 40.5
+    "MEDIAN_AGE": 40.6
   },
   "19065": {
     "county": "Fayette County, IA",
-    "MEDIAN_AGE": 42.6
+    "MEDIAN_AGE": 43
   },
   "19067": {
     "county": "Floyd County, IA",
-    "MEDIAN_AGE": 43.7
+    "MEDIAN_AGE": 43.6
   },
   "19069": {
     "county": "Franklin County, IA",
-    "MEDIAN_AGE": 43.4
+    "MEDIAN_AGE": 43
   },
   "19071": {
     "county": "Fremont County, IA",
-    "MEDIAN_AGE": 46
+    "MEDIAN_AGE": 46.3
   },
   "19073": {
     "county": "Greene County, IA",
@@ -153,15 +153,15 @@
   },
   "19075": {
     "county": "Grundy County, IA",
-    "MEDIAN_AGE": 42.3
+    "MEDIAN_AGE": 42.4
   },
   "19077": {
     "county": "Guthrie County, IA",
-    "MEDIAN_AGE": 45.1
+    "MEDIAN_AGE": 45.4
   },
   "19079": {
     "county": "Hamilton County, IA",
-    "MEDIAN_AGE": 42
+    "MEDIAN_AGE": 42.3
   },
   "19081": {
     "county": "Hancock County, IA",
@@ -169,19 +169,19 @@
   },
   "19083": {
     "county": "Hardin County, IA",
-    "MEDIAN_AGE": 44
+    "MEDIAN_AGE": 44.3
   },
   "19085": {
     "county": "Harrison County, IA",
-    "MEDIAN_AGE": 43.1
+    "MEDIAN_AGE": 43.4
   },
   "19087": {
     "county": "Henry County, IA",
-    "MEDIAN_AGE": 40.3
+    "MEDIAN_AGE": 40.7
   },
   "19089": {
     "county": "Howard County, IA",
-    "MEDIAN_AGE": 42.2
+    "MEDIAN_AGE": 42.3
   },
   "19091": {
     "county": "Humboldt County, IA",
@@ -189,27 +189,27 @@
   },
   "19093": {
     "county": "Ida County, IA",
-    "MEDIAN_AGE": 44.5
+    "MEDIAN_AGE": 44.9
   },
   "19095": {
     "county": "Iowa County, IA",
-    "MEDIAN_AGE": 42.1
+    "MEDIAN_AGE": 42.3
   },
   "19097": {
     "county": "Jackson County, IA",
-    "MEDIAN_AGE": 44.1
+    "MEDIAN_AGE": 44.5
   },
   "19099": {
     "county": "Jasper County, IA",
-    "MEDIAN_AGE": 42.1
+    "MEDIAN_AGE": 42
   },
   "19101": {
     "county": "Jefferson County, IA",
-    "MEDIAN_AGE": 44.3
+    "MEDIAN_AGE": 42.7
   },
   "19103": {
     "county": "Johnson County, IA",
-    "MEDIAN_AGE": 29.5
+    "MEDIAN_AGE": 29.7
   },
   "19105": {
     "county": "Jones County, IA",
@@ -217,15 +217,15 @@
   },
   "19107": {
     "county": "Keokuk County, IA",
-    "MEDIAN_AGE": 44
+    "MEDIAN_AGE": 44.2
   },
   "19109": {
     "county": "Kossuth County, IA",
-    "MEDIAN_AGE": 46.8
+    "MEDIAN_AGE": 46.6
   },
   "19111": {
     "county": "Lee County, IA",
-    "MEDIAN_AGE": 42.8
+    "MEDIAN_AGE": 42.6
   },
   "19113": {
     "county": "Linn County, IA",
@@ -233,51 +233,51 @@
   },
   "19115": {
     "county": "Louisa County, IA",
-    "MEDIAN_AGE": 39.7
+    "MEDIAN_AGE": 40.5
   },
   "19117": {
     "county": "Lucas County, IA",
-    "MEDIAN_AGE": 44.3
+    "MEDIAN_AGE": 44.8
   },
   "19119": {
     "county": "Lyon County, IA",
-    "MEDIAN_AGE": 38
+    "MEDIAN_AGE": 38.5
   },
   "19121": {
     "county": "Madison County, IA",
-    "MEDIAN_AGE": 40.1
+    "MEDIAN_AGE": 40.4
   },
   "19123": {
     "county": "Mahaska County, IA",
-    "MEDIAN_AGE": 39.3
+    "MEDIAN_AGE": 39.6
   },
   "19125": {
     "county": "Marion County, IA",
-    "MEDIAN_AGE": 38.6
+    "MEDIAN_AGE": 38.8
   },
   "19127": {
     "county": "Marshall County, IA",
-    "MEDIAN_AGE": 38.9
+    "MEDIAN_AGE": 38.6
   },
   "19129": {
     "county": "Mills County, IA",
-    "MEDIAN_AGE": 41.8
+    "MEDIAN_AGE": 41.7
   },
   "19131": {
     "county": "Mitchell County, IA",
-    "MEDIAN_AGE": 44.6
+    "MEDIAN_AGE": 44.2
   },
   "19133": {
     "county": "Monona County, IA",
-    "MEDIAN_AGE": 46.8
+    "MEDIAN_AGE": 47
   },
   "19135": {
     "county": "Monroe County, IA",
-    "MEDIAN_AGE": 42.3
+    "MEDIAN_AGE": 42.8
   },
   "19137": {
     "county": "Montgomery County, IA",
-    "MEDIAN_AGE": 45.2
+    "MEDIAN_AGE": 45.1
   },
   "19139": {
     "county": "Muscatine County, IA",
@@ -289,7 +289,7 @@
   },
   "19143": {
     "county": "Osceola County, IA",
-    "MEDIAN_AGE": 43.7
+    "MEDIAN_AGE": 43.8
   },
   "19145": {
     "county": "Page County, IA",
@@ -301,7 +301,7 @@
   },
   "19149": {
     "county": "Plymouth County, IA",
-    "MEDIAN_AGE": 42.4
+    "MEDIAN_AGE": 42.1
   },
   "19151": {
     "county": "Pocahontas County, IA",
@@ -309,19 +309,19 @@
   },
   "19153": {
     "county": "Polk County, IA",
-    "MEDIAN_AGE": 34.8
+    "MEDIAN_AGE": 34.9
   },
   "19155": {
     "county": "Pottawattamie County, IA",
-    "MEDIAN_AGE": 38.6
+    "MEDIAN_AGE": 38.7
   },
   "19157": {
     "county": "Poweshiek County, IA",
-    "MEDIAN_AGE": 40.9
+    "MEDIAN_AGE": 41.1
   },
   "19159": {
     "county": "Ringgold County, IA",
-    "MEDIAN_AGE": 46
+    "MEDIAN_AGE": 46.4
   },
   "19161": {
     "county": "Sac County, IA",
@@ -329,11 +329,11 @@
   },
   "19163": {
     "county": "Scott County, IA",
-    "MEDIAN_AGE": 37.4
+    "MEDIAN_AGE": 37.5
   },
   "19165": {
     "county": "Shelby County, IA",
-    "MEDIAN_AGE": 46.2
+    "MEDIAN_AGE": 46.5
   },
   "19167": {
     "county": "Sioux County, IA",
@@ -345,7 +345,7 @@
   },
   "19171": {
     "county": "Tama County, IA",
-    "MEDIAN_AGE": 42.2
+    "MEDIAN_AGE": 42.5
   },
   "19173": {
     "county": "Taylor County, IA",
@@ -353,7 +353,7 @@
   },
   "19175": {
     "county": "Union County, IA",
-    "MEDIAN_AGE": 41.3
+    "MEDIAN_AGE": 41.1
   },
   "19177": {
     "county": "Van Buren County, IA",
@@ -365,38 +365,38 @@
   },
   "19181": {
     "county": "Warren County, IA",
-    "MEDIAN_AGE": 38.8
+    "MEDIAN_AGE": 38.3
   },
   "19183": {
     "county": "Washington County, IA",
-    "MEDIAN_AGE": 42
+    "MEDIAN_AGE": 41.8
   },
   "19185": {
     "county": "Wayne County, IA",
-    "MEDIAN_AGE": 45.3
+    "MEDIAN_AGE": 45.1
   },
   "19187": {
     "county": "Webster County, IA",
-    "MEDIAN_AGE": 40
+    "MEDIAN_AGE": 39.9
   },
   "19189": {
     "county": "Winnebago County, IA",
-    "MEDIAN_AGE": 43.8
+    "MEDIAN_AGE": 44.1
   },
   "19191": {
     "county": "Winneshiek County, IA",
-    "MEDIAN_AGE": 40.6
+    "MEDIAN_AGE": 40.5
   },
   "19193": {
     "county": "Woodbury County, IA",
-    "MEDIAN_AGE": 35.3
+    "MEDIAN_AGE": 35.4
   },
   "19195": {
     "county": "Worth County, IA",
-    "MEDIAN_AGE": 44
+    "MEDIAN_AGE": 44.4
   },
   "19197": {
     "county": "Wright County, IA",
-    "MEDIAN_AGE": 44.6
+    "MEDIAN_AGE": 44.4
   }
 }

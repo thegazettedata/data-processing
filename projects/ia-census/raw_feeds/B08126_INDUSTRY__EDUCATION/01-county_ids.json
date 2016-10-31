@@ -2,381 +2,233 @@
   "04000US19": {
     "name": "Iowa"
   },
-  "05000US19165": {
+  "05000US19001": {
     "parent_geoid": "04000US19",
-    "name": "Shelby County, IA"
-  },
-  "05000US19011": {
-    "parent_geoid": "04000US19",
-    "name": "Benton County, IA"
-  },
-  "05000US19113": {
-    "parent_geoid": "04000US19",
-    "name": "Linn County, IA"
-  },
-  "05000US19059": {
-    "parent_geoid": "04000US19",
-    "name": "Dickinson County, IA"
-  },
-  "05000US19043": {
-    "parent_geoid": "04000US19",
-    "name": "Clayton County, IA"
-  },
-  "05000US19021": {
-    "parent_geoid": "04000US19",
-    "name": "Buena Vista County, IA"
-  },
-  "05000US19129": {
-    "parent_geoid": "04000US19",
-    "name": "Mills County, IA"
-  },
-  "05000US19049": {
-    "parent_geoid": "04000US19",
-    "name": "Dallas County, IA"
-  },
-  "05000US19125": {
-    "parent_geoid": "04000US19",
-    "name": "Marion County, IA"
-  },
-  "05000US19031": {
-    "parent_geoid": "04000US19",
-    "name": "Cedar County, IA"
-  },
-  "05000US19027": {
-    "parent_geoid": "04000US19",
-    "name": "Carroll County, IA"
-  },
-  "05000US19151": {
-    "parent_geoid": "04000US19",
-    "name": "Pocahontas County, IA"
-  },
-  "05000US19085": {
-    "parent_geoid": "04000US19",
-    "name": "Harrison County, IA"
-  },
-  "05000US19187": {
-    "parent_geoid": "04000US19",
-    "name": "Webster County, IA"
-  },
-  "05000US19101": {
-    "parent_geoid": "04000US19",
-    "name": "Jefferson County, IA"
-  },
-  "05000US19121": {
-    "parent_geoid": "04000US19",
-    "name": "Madison County, IA"
-  },
-  "05000US19089": {
-    "parent_geoid": "04000US19",
-    "name": "Howard County, IA"
-  },
-  "05000US19045": {
-    "parent_geoid": "04000US19",
-    "name": "Clinton County, IA"
-  },
-  "05000US19025": {
-    "parent_geoid": "04000US19",
-    "name": "Calhoun County, IA"
-  },
-  "05000US19007": {
-    "parent_geoid": "04000US19",
-    "name": "Appanoose County, IA"
-  },
-  "05000US19177": {
-    "parent_geoid": "04000US19",
-    "name": "Van Buren County, IA"
-  },
-  "05000US19197": {
-    "parent_geoid": "04000US19",
-    "name": "Wright County, IA"
-  },
-  "05000US19137": {
-    "parent_geoid": "04000US19",
-    "name": "Montgomery County, IA"
-  },
-  "05000US19107": {
-    "parent_geoid": "04000US19",
-    "name": "Keokuk County, IA"
-  },
-  "05000US19169": {
-    "parent_geoid": "04000US19",
-    "name": "Story County, IA"
-  },
-  "05000US19131": {
-    "parent_geoid": "04000US19",
-    "name": "Mitchell County, IA"
-  },
-  "05000US19075": {
-    "parent_geoid": "04000US19",
-    "name": "Grundy County, IA"
-  },
-  "05000US19191": {
-    "parent_geoid": "04000US19",
-    "name": "Winneshiek County, IA"
-  },
-  "05000US19153": {
-    "parent_geoid": "04000US19",
-    "name": "Polk County, IA"
-  },
-  "05000US19067": {
-    "parent_geoid": "04000US19",
-    "name": "Floyd County, IA"
-  },
-  "05000US19009": {
-    "parent_geoid": "04000US19",
-    "name": "Audubon County, IA"
-  },
-  "05000US19105": {
-    "parent_geoid": "04000US19",
-    "name": "Jones County, IA"
-  },
-  "05000US19099": {
-    "parent_geoid": "04000US19",
-    "name": "Jasper County, IA"
-  },
-  "05000US19149": {
-    "parent_geoid": "04000US19",
-    "name": "Plymouth County, IA"
-  },
-  "05000US19155": {
-    "parent_geoid": "04000US19",
-    "name": "Pottawattamie County, IA"
-  },
-  "05000US19173": {
-    "parent_geoid": "04000US19",
-    "name": "Taylor County, IA"
-  },
-  "05000US19145": {
-    "parent_geoid": "04000US19",
-    "name": "Page County, IA"
-  },
-  "05000US19035": {
-    "parent_geoid": "04000US19",
-    "name": "Cherokee County, IA"
-  },
-  "05000US19057": {
-    "parent_geoid": "04000US19",
-    "name": "Des Moines County, IA"
-  },
-  "05000US19163": {
-    "parent_geoid": "04000US19",
-    "name": "Scott County, IA"
-  },
-  "05000US19193": {
-    "parent_geoid": "04000US19",
-    "name": "Woodbury County, IA"
-  },
-  "05000US19041": {
-    "parent_geoid": "04000US19",
-    "name": "Clay County, IA"
-  },
-  "05000US19047": {
-    "parent_geoid": "04000US19",
-    "name": "Crawford County, IA"
-  },
-  "05000US19019": {
-    "parent_geoid": "04000US19",
-    "name": "Buchanan County, IA"
-  },
-  "05000US19143": {
-    "parent_geoid": "04000US19",
-    "name": "Osceola County, IA"
-  },
-  "05000US19033": {
-    "parent_geoid": "04000US19",
-    "name": "Cerro Gordo County, IA"
-  },
-  "05000US19073": {
-    "parent_geoid": "04000US19",
-    "name": "Greene County, IA"
-  },
-  "05000US19179": {
-    "parent_geoid": "04000US19",
-    "name": "Wapello County, IA"
-  },
-  "05000US19119": {
-    "parent_geoid": "04000US19",
-    "name": "Lyon County, IA"
+    "name": "Adair County, IA"
   },
   "05000US19003": {
     "parent_geoid": "04000US19",
     "name": "Adams County, IA"
   },
-  "05000US19133": {
-    "parent_geoid": "04000US19",
-    "name": "Monona County, IA"
-  },
-  "05000US19091": {
-    "parent_geoid": "04000US19",
-    "name": "Humboldt County, IA"
-  },
-  "05000US19171": {
-    "parent_geoid": "04000US19",
-    "name": "Tama County, IA"
-  },
-  "05000US19135": {
-    "parent_geoid": "04000US19",
-    "name": "Monroe County, IA"
-  },
-  "05000US19139": {
-    "parent_geoid": "04000US19",
-    "name": "Muscatine County, IA"
-  },
-  "05000US19079": {
-    "parent_geoid": "04000US19",
-    "name": "Hamilton County, IA"
-  },
-  "05000US19069": {
-    "parent_geoid": "04000US19",
-    "name": "Franklin County, IA"
-  },
-  "05000US19077": {
-    "parent_geoid": "04000US19",
-    "name": "Guthrie County, IA"
-  },
-  "05000US19183": {
-    "parent_geoid": "04000US19",
-    "name": "Washington County, IA"
-  },
-  "05000US19167": {
-    "parent_geoid": "04000US19",
-    "name": "Sioux County, IA"
-  },
   "05000US19005": {
     "parent_geoid": "04000US19",
     "name": "Allamakee County, IA"
   },
-  "05000US19195": {
+  "05000US19007": {
     "parent_geoid": "04000US19",
-    "name": "Worth County, IA"
+    "name": "Appanoose County, IA"
+  },
+  "05000US19009": {
+    "parent_geoid": "04000US19",
+    "name": "Audubon County, IA"
+  },
+  "05000US19011": {
+    "parent_geoid": "04000US19",
+    "name": "Benton County, IA"
   },
   "05000US19013": {
     "parent_geoid": "04000US19",
     "name": "Black Hawk County, IA"
   },
-  "05000US19039": {
-    "parent_geoid": "04000US19",
-    "name": "Clarke County, IA"
-  },
-  "05000US19065": {
-    "parent_geoid": "04000US19",
-    "name": "Fayette County, IA"
-  },
-  "05000US19181": {
-    "parent_geoid": "04000US19",
-    "name": "Warren County, IA"
-  },
-  "05000US19001": {
-    "parent_geoid": "04000US19",
-    "name": "Adair County, IA"
-  },
-  "05000US19185": {
-    "parent_geoid": "04000US19",
-    "name": "Wayne County, IA"
-  },
-  "05000US19053": {
-    "parent_geoid": "04000US19",
-    "name": "Decatur County, IA"
-  },
-  "05000US19109": {
-    "parent_geoid": "04000US19",
-    "name": "Kossuth County, IA"
-  },
-  "05000US19147": {
-    "parent_geoid": "04000US19",
-    "name": "Palo Alto County, IA"
-  },
-  "05000US19159": {
-    "parent_geoid": "04000US19",
-    "name": "Ringgold County, IA"
-  },
-  "05000US19061": {
-    "parent_geoid": "04000US19",
-    "name": "Dubuque County, IA"
-  },
-  "05000US19037": {
-    "parent_geoid": "04000US19",
-    "name": "Chickasaw County, IA"
-  },
-  "05000US19081": {
-    "parent_geoid": "04000US19",
-    "name": "Hancock County, IA"
-  },
-  "05000US19157": {
-    "parent_geoid": "04000US19",
-    "name": "Poweshiek County, IA"
-  },
-  "05000US19097": {
-    "parent_geoid": "04000US19",
-    "name": "Jackson County, IA"
-  },
-  "05000US19123": {
-    "parent_geoid": "04000US19",
-    "name": "Mahaska County, IA"
-  },
-  "05000US19103": {
-    "parent_geoid": "04000US19",
-    "name": "Johnson County, IA"
-  },
-  "05000US19093": {
-    "parent_geoid": "04000US19",
-    "name": "Ida County, IA"
-  },
-  "05000US19175": {
-    "parent_geoid": "04000US19",
-    "name": "Union County, IA"
-  },
-  "05000US19029": {
-    "parent_geoid": "04000US19",
-    "name": "Cass County, IA"
-  },
-  "05000US19161": {
-    "parent_geoid": "04000US19",
-    "name": "Sac County, IA"
-  },
-  "05000US19127": {
-    "parent_geoid": "04000US19",
-    "name": "Marshall County, IA"
-  },
-  "05000US19055": {
-    "parent_geoid": "04000US19",
-    "name": "Delaware County, IA"
-  },
-  "05000US19051": {
-    "parent_geoid": "04000US19",
-    "name": "Davis County, IA"
-  },
-  "05000US19083": {
-    "parent_geoid": "04000US19",
-    "name": "Hardin County, IA"
-  },
   "05000US19015": {
     "parent_geoid": "04000US19",
     "name": "Boone County, IA"
   },
-  "05000US19071": {
+  "05000US19017": {
     "parent_geoid": "04000US19",
-    "name": "Fremont County, IA"
+    "name": "Bremer County, IA"
   },
-  "05000US19111": {
+  "05000US19019": {
     "parent_geoid": "04000US19",
-    "name": "Lee County, IA"
+    "name": "Buchanan County, IA"
   },
-  "05000US19095": {
+  "05000US19021": {
     "parent_geoid": "04000US19",
-    "name": "Iowa County, IA"
+    "name": "Buena Vista County, IA"
   },
   "05000US19023": {
     "parent_geoid": "04000US19",
     "name": "Butler County, IA"
   },
+  "05000US19025": {
+    "parent_geoid": "04000US19",
+    "name": "Calhoun County, IA"
+  },
+  "05000US19027": {
+    "parent_geoid": "04000US19",
+    "name": "Carroll County, IA"
+  },
+  "05000US19029": {
+    "parent_geoid": "04000US19",
+    "name": "Cass County, IA"
+  },
+  "05000US19031": {
+    "parent_geoid": "04000US19",
+    "name": "Cedar County, IA"
+  },
+  "05000US19033": {
+    "parent_geoid": "04000US19",
+    "name": "Cerro Gordo County, IA"
+  },
+  "05000US19035": {
+    "parent_geoid": "04000US19",
+    "name": "Cherokee County, IA"
+  },
+  "05000US19037": {
+    "parent_geoid": "04000US19",
+    "name": "Chickasaw County, IA"
+  },
+  "05000US19039": {
+    "parent_geoid": "04000US19",
+    "name": "Clarke County, IA"
+  },
+  "05000US19041": {
+    "parent_geoid": "04000US19",
+    "name": "Clay County, IA"
+  },
+  "05000US19043": {
+    "parent_geoid": "04000US19",
+    "name": "Clayton County, IA"
+  },
+  "05000US19045": {
+    "parent_geoid": "04000US19",
+    "name": "Clinton County, IA"
+  },
+  "05000US19047": {
+    "parent_geoid": "04000US19",
+    "name": "Crawford County, IA"
+  },
+  "05000US19049": {
+    "parent_geoid": "04000US19",
+    "name": "Dallas County, IA"
+  },
+  "05000US19051": {
+    "parent_geoid": "04000US19",
+    "name": "Davis County, IA"
+  },
+  "05000US19053": {
+    "parent_geoid": "04000US19",
+    "name": "Decatur County, IA"
+  },
+  "05000US19055": {
+    "parent_geoid": "04000US19",
+    "name": "Delaware County, IA"
+  },
+  "05000US19057": {
+    "parent_geoid": "04000US19",
+    "name": "Des Moines County, IA"
+  },
+  "05000US19059": {
+    "parent_geoid": "04000US19",
+    "name": "Dickinson County, IA"
+  },
+  "05000US19061": {
+    "parent_geoid": "04000US19",
+    "name": "Dubuque County, IA"
+  },
   "05000US19063": {
     "parent_geoid": "04000US19",
     "name": "Emmet County, IA"
   },
+  "05000US19065": {
+    "parent_geoid": "04000US19",
+    "name": "Fayette County, IA"
+  },
+  "05000US19067": {
+    "parent_geoid": "04000US19",
+    "name": "Floyd County, IA"
+  },
+  "05000US19069": {
+    "parent_geoid": "04000US19",
+    "name": "Franklin County, IA"
+  },
+  "05000US19071": {
+    "parent_geoid": "04000US19",
+    "name": "Fremont County, IA"
+  },
+  "05000US19073": {
+    "parent_geoid": "04000US19",
+    "name": "Greene County, IA"
+  },
+  "05000US19075": {
+    "parent_geoid": "04000US19",
+    "name": "Grundy County, IA"
+  },
+  "05000US19077": {
+    "parent_geoid": "04000US19",
+    "name": "Guthrie County, IA"
+  },
+  "05000US19079": {
+    "parent_geoid": "04000US19",
+    "name": "Hamilton County, IA"
+  },
+  "05000US19081": {
+    "parent_geoid": "04000US19",
+    "name": "Hancock County, IA"
+  },
+  "05000US19083": {
+    "parent_geoid": "04000US19",
+    "name": "Hardin County, IA"
+  },
+  "05000US19085": {
+    "parent_geoid": "04000US19",
+    "name": "Harrison County, IA"
+  },
   "05000US19087": {
     "parent_geoid": "04000US19",
     "name": "Henry County, IA"
+  },
+  "05000US19089": {
+    "parent_geoid": "04000US19",
+    "name": "Howard County, IA"
+  },
+  "05000US19091": {
+    "parent_geoid": "04000US19",
+    "name": "Humboldt County, IA"
+  },
+  "05000US19093": {
+    "parent_geoid": "04000US19",
+    "name": "Ida County, IA"
+  },
+  "05000US19095": {
+    "parent_geoid": "04000US19",
+    "name": "Iowa County, IA"
+  },
+  "05000US19097": {
+    "parent_geoid": "04000US19",
+    "name": "Jackson County, IA"
+  },
+  "05000US19099": {
+    "parent_geoid": "04000US19",
+    "name": "Jasper County, IA"
+  },
+  "05000US19101": {
+    "parent_geoid": "04000US19",
+    "name": "Jefferson County, IA"
+  },
+  "05000US19103": {
+    "parent_geoid": "04000US19",
+    "name": "Johnson County, IA"
+  },
+  "05000US19105": {
+    "parent_geoid": "04000US19",
+    "name": "Jones County, IA"
+  },
+  "05000US19107": {
+    "parent_geoid": "04000US19",
+    "name": "Keokuk County, IA"
+  },
+  "05000US19109": {
+    "parent_geoid": "04000US19",
+    "name": "Kossuth County, IA"
+  },
+  "05000US19111": {
+    "parent_geoid": "04000US19",
+    "name": "Lee County, IA"
+  },
+  "05000US19113": {
+    "parent_geoid": "04000US19",
+    "name": "Linn County, IA"
   },
   "05000US19115": {
     "parent_geoid": "04000US19",
@@ -386,16 +238,164 @@
     "parent_geoid": "04000US19",
     "name": "Lucas County, IA"
   },
-  "05000US19017": {
+  "05000US19119": {
     "parent_geoid": "04000US19",
-    "name": "Bremer County, IA"
+    "name": "Lyon County, IA"
+  },
+  "05000US19121": {
+    "parent_geoid": "04000US19",
+    "name": "Madison County, IA"
+  },
+  "05000US19123": {
+    "parent_geoid": "04000US19",
+    "name": "Mahaska County, IA"
+  },
+  "05000US19125": {
+    "parent_geoid": "04000US19",
+    "name": "Marion County, IA"
+  },
+  "05000US19127": {
+    "parent_geoid": "04000US19",
+    "name": "Marshall County, IA"
+  },
+  "05000US19129": {
+    "parent_geoid": "04000US19",
+    "name": "Mills County, IA"
+  },
+  "05000US19131": {
+    "parent_geoid": "04000US19",
+    "name": "Mitchell County, IA"
+  },
+  "05000US19133": {
+    "parent_geoid": "04000US19",
+    "name": "Monona County, IA"
+  },
+  "05000US19135": {
+    "parent_geoid": "04000US19",
+    "name": "Monroe County, IA"
+  },
+  "05000US19137": {
+    "parent_geoid": "04000US19",
+    "name": "Montgomery County, IA"
+  },
+  "05000US19139": {
+    "parent_geoid": "04000US19",
+    "name": "Muscatine County, IA"
   },
   "05000US19141": {
     "parent_geoid": "04000US19",
     "name": "O'Brien County, IA"
   },
+  "05000US19143": {
+    "parent_geoid": "04000US19",
+    "name": "Osceola County, IA"
+  },
+  "05000US19145": {
+    "parent_geoid": "04000US19",
+    "name": "Page County, IA"
+  },
+  "05000US19147": {
+    "parent_geoid": "04000US19",
+    "name": "Palo Alto County, IA"
+  },
+  "05000US19149": {
+    "parent_geoid": "04000US19",
+    "name": "Plymouth County, IA"
+  },
+  "05000US19151": {
+    "parent_geoid": "04000US19",
+    "name": "Pocahontas County, IA"
+  },
+  "05000US19153": {
+    "parent_geoid": "04000US19",
+    "name": "Polk County, IA"
+  },
+  "05000US19155": {
+    "parent_geoid": "04000US19",
+    "name": "Pottawattamie County, IA"
+  },
+  "05000US19157": {
+    "parent_geoid": "04000US19",
+    "name": "Poweshiek County, IA"
+  },
+  "05000US19159": {
+    "parent_geoid": "04000US19",
+    "name": "Ringgold County, IA"
+  },
+  "05000US19161": {
+    "parent_geoid": "04000US19",
+    "name": "Sac County, IA"
+  },
+  "05000US19163": {
+    "parent_geoid": "04000US19",
+    "name": "Scott County, IA"
+  },
+  "05000US19165": {
+    "parent_geoid": "04000US19",
+    "name": "Shelby County, IA"
+  },
+  "05000US19167": {
+    "parent_geoid": "04000US19",
+    "name": "Sioux County, IA"
+  },
+  "05000US19169": {
+    "parent_geoid": "04000US19",
+    "name": "Story County, IA"
+  },
+  "05000US19171": {
+    "parent_geoid": "04000US19",
+    "name": "Tama County, IA"
+  },
+  "05000US19173": {
+    "parent_geoid": "04000US19",
+    "name": "Taylor County, IA"
+  },
+  "05000US19175": {
+    "parent_geoid": "04000US19",
+    "name": "Union County, IA"
+  },
+  "05000US19177": {
+    "parent_geoid": "04000US19",
+    "name": "Van Buren County, IA"
+  },
+  "05000US19179": {
+    "parent_geoid": "04000US19",
+    "name": "Wapello County, IA"
+  },
+  "05000US19181": {
+    "parent_geoid": "04000US19",
+    "name": "Warren County, IA"
+  },
+  "05000US19183": {
+    "parent_geoid": "04000US19",
+    "name": "Washington County, IA"
+  },
+  "05000US19185": {
+    "parent_geoid": "04000US19",
+    "name": "Wayne County, IA"
+  },
+  "05000US19187": {
+    "parent_geoid": "04000US19",
+    "name": "Webster County, IA"
+  },
   "05000US19189": {
     "parent_geoid": "04000US19",
     "name": "Winnebago County, IA"
+  },
+  "05000US19191": {
+    "parent_geoid": "04000US19",
+    "name": "Winneshiek County, IA"
+  },
+  "05000US19193": {
+    "parent_geoid": "04000US19",
+    "name": "Woodbury County, IA"
+  },
+  "05000US19195": {
+    "parent_geoid": "04000US19",
+    "name": "Worth County, IA"
+  },
+  "05000US19197": {
+    "parent_geoid": "04000US19",
+    "name": "Wright County, IA"
   }
 }

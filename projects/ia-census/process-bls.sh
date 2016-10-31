@@ -3,12 +3,12 @@ source globals.sh
 
 # Used when debugging
 # Switch to false to make sure data is hampered with
-RUN_BLS=false
+RUN_BLS=true
 
 # Set to true if you actually want to download data from API
 # Remember you only have 250 requests every 24 hours
 # So when debugging, set to false
-CURL_API=false
+CURL_API=true
 # BLS API
 
 # Hook up to the 

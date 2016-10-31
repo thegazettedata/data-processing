@@ -7,3 +7,17 @@ This script converts the latest Iowa 2016 election results from the [Secretary o
 If you'd like to just parse through the data and convert, run:
 
 	ruby parse.rb
+
+You can also just deploy the data to your FTP server:
+
+	ruby deploy.rb
+
+Your FTP preferences can be set inside deploy.rb.
+
+This can all be run as a cronjob:
+	
+	*/1 * * * * cd ~/<directory> && /bin/bash -l -c 'ruby parse.rb' && /bin/bash -l -c 'ruby deploy.rb' >> ~/<directory>/task.log 2>&1
+
+For instance, on my local machine, the command is:
+
+	*/1 * * * * cd ~/Desktop/gazette/github/data-processing/projects/election-2016-results && /bin/bash -l -c 'ruby parse.rb' && /bin/bash -l -c 'ruby deploy.rb' >> ~/Desktop/gazette/github/data-processing/projects/election-2016-results/task.log 2>&1

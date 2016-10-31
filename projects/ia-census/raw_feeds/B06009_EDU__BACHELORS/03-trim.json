@@ -1,402 +1,402 @@
 {
   "04000US19": {
     "county": "Iowa",
-    "EDU__BACHELORS": 17.73901562081374
+    "EDU__BACHELORS": 17.990310661117384
   },
   "19001": {
     "county": "Adair County, IA",
-    "EDU__BACHELORS": 12.89076866495035
+    "EDU__BACHELORS": 11.638647699981526
   },
   "19003": {
     "county": "Adams County, IA",
-    "EDU__BACHELORS": 10.083449235048679
+    "EDU__BACHELORS": 10.651716888577436
   },
   "19005": {
     "county": "Allamakee County, IA",
-    "EDU__BACHELORS": 10.996803835397523
+    "EDU__BACHELORS": 11.411682196172729
   },
   "19007": {
     "county": "Appanoose County, IA",
-    "EDU__BACHELORS": 13.14159292035398
+    "EDU__BACHELORS": 12.81624500665779
   },
   "19009": {
     "county": "Audubon County, IA",
-    "EDU__BACHELORS": 12.786960514233241
+    "EDU__BACHELORS": 12.497096399535423
   },
   "19011": {
     "county": "Benton County, IA",
-    "EDU__BACHELORS": 14.622239881932225
+    "EDU__BACHELORS": 15.761085561800941
   },
   "19013": {
     "county": "Black Hawk County, IA",
-    "EDU__BACHELORS": 16.938822586715556
+    "EDU__BACHELORS": 17.62990744661545
   },
   "19015": {
     "county": "Boone County, IA",
-    "EDU__BACHELORS": 15.200838666960937
+    "EDU__BACHELORS": 16.573033707865168
   },
   "19017": {
     "county": "Bremer County, IA",
-    "EDU__BACHELORS": 20.115411152229818
+    "EDU__BACHELORS": 20.311522582259478
   },
   "19019": {
     "county": "Buchanan County, IA",
-    "EDU__BACHELORS": 12.570397111913357
+    "EDU__BACHELORS": 13.2868138982807
   },
   "19021": {
     "county": "Buena Vista County, IA",
-    "EDU__BACHELORS": 14.142435080080858
+    "EDU__BACHELORS": 12.917115177610333
   },
   "19023": {
     "county": "Butler County, IA",
-    "EDU__BACHELORS": 11.756265544289267
+    "EDU__BACHELORS": 11.419311791059004
   },
   "19025": {
     "county": "Calhoun County, IA",
-    "EDU__BACHELORS": 14.1210774784782
+    "EDU__BACHELORS": 13.664249860568878
   },
   "19027": {
     "county": "Carroll County, IA",
-    "EDU__BACHELORS": 14.688709110094969
+    "EDU__BACHELORS": 14.141485456085851
   },
   "19029": {
     "county": "Cass County, IA",
-    "EDU__BACHELORS": 13.89861941067381
+    "EDU__BACHELORS": 14.467820499533632
   },
   "19031": {
     "county": "Cedar County, IA",
-    "EDU__BACHELORS": 13.878312223171962
+    "EDU__BACHELORS": 14.728802992518702
   },
   "19033": {
     "county": "Cerro Gordo County, IA",
-    "EDU__BACHELORS": 15.141094041267596
+    "EDU__BACHELORS": 15.59887680340832
   },
   "19035": {
     "county": "Cherokee County, IA",
-    "EDU__BACHELORS": 15.01219087425984
+    "EDU__BACHELORS": 14.75847654435671
   },
   "19037": {
     "county": "Chickasaw County, IA",
-    "EDU__BACHELORS": 10.04890544946437
+    "EDU__BACHELORS": 10.795254316927053
   },
   "19039": {
     "county": "Clarke County, IA",
-    "EDU__BACHELORS": 10.57092595554134
+    "EDU__BACHELORS": 11.9446704637917
   },
   "19041": {
     "county": "Clay County, IA",
-    "EDU__BACHELORS": 14.755364806866952
+    "EDU__BACHELORS": 14.63687150837989
   },
   "19043": {
     "county": "Clayton County, IA",
-    "EDU__BACHELORS": 10.784159040706848
+    "EDU__BACHELORS": 11.573523583036067
   },
   "19045": {
     "county": "Clinton County, IA",
-    "EDU__BACHELORS": 13.00080546523075
+    "EDU__BACHELORS": 13.998091033824494
   },
   "19047": {
     "county": "Crawford County, IA",
-    "EDU__BACHELORS": 10.711062985020755
+    "EDU__BACHELORS": 10.941680042803638
   },
   "19049": {
     "county": "Dallas County, IA",
-    "EDU__BACHELORS": 32.11039607244742
+    "EDU__BACHELORS": 32.39412640987444
   },
   "19051": {
     "county": "Davis County, IA",
-    "EDU__BACHELORS": 12.461621816868341
+    "EDU__BACHELORS": 12.228654124457309
   },
   "19053": {
     "county": "Decatur County, IA",
-    "EDU__BACHELORS": 12.821497120921304
+    "EDU__BACHELORS": 13.37118245888802
   },
   "19055": {
     "county": "Delaware County, IA",
-    "EDU__BACHELORS": 11.364201109914687
+    "EDU__BACHELORS": 10.248085248085248
   },
   "19057": {
     "county": "Des Moines County, IA",
-    "EDU__BACHELORS": 12.912137193699996
+    "EDU__BACHELORS": 14.046354764638346
   },
   "19059": {
     "county": "Dickinson County, IA",
-    "EDU__BACHELORS": 17.62132060461416
+    "EDU__BACHELORS": 17.410962163877212
   },
   "19061": {
     "county": "Dubuque County, IA",
-    "EDU__BACHELORS": 17.648471650681312
+    "EDU__BACHELORS": 18.233618233618234
   },
   "19063": {
     "county": "Emmet County, IA",
-    "EDU__BACHELORS": 10.902527075812273
+    "EDU__BACHELORS": 11.177673874926944
   },
   "19065": {
     "county": "Fayette County, IA",
-    "EDU__BACHELORS": 12.17243093530289
+    "EDU__BACHELORS": 12.213196522730511
   },
   "19067": {
     "county": "Floyd County, IA",
-    "EDU__BACHELORS": 11.348595957789303
+    "EDU__BACHELORS": 12.584912406149446
   },
   "19069": {
     "county": "Franklin County, IA",
-    "EDU__BACHELORS": 10.88298443370907
+    "EDU__BACHELORS": 11.581653362197267
   },
   "19071": {
     "county": "Fremont County, IA",
-    "EDU__BACHELORS": 15.282908808088663
+    "EDU__BACHELORS": 15.241635687732341
   },
   "19073": {
     "county": "Greene County, IA",
-    "EDU__BACHELORS": 14.042095559993856
+    "EDU__BACHELORS": 13.15708101422387
   },
   "19075": {
     "county": "Grundy County, IA",
-    "EDU__BACHELORS": 15.127997219969883
+    "EDU__BACHELORS": 15.019165989081193
   },
   "19077": {
     "county": "Guthrie County, IA",
-    "EDU__BACHELORS": 12.417368762151652
+    "EDU__BACHELORS": 12.596266805900013
   },
   "19079": {
     "county": "Hamilton County, IA",
-    "EDU__BACHELORS": 13.780589932074067
+    "EDU__BACHELORS": 13.527204502814257
   },
   "19081": {
     "county": "Hancock County, IA",
-    "EDU__BACHELORS": 12.101830950589415
+    "EDU__BACHELORS": 13.234923038102448
   },
   "19083": {
     "county": "Hardin County, IA",
-    "EDU__BACHELORS": 13.09840425531915
+    "EDU__BACHELORS": 13.092197412869739
   },
   "19085": {
     "county": "Harrison County, IA",
-    "EDU__BACHELORS": 13.912788423934296
+    "EDU__BACHELORS": 13.914583743357605
   },
   "19087": {
     "county": "Henry County, IA",
-    "EDU__BACHELORS": 14.909276397289222
+    "EDU__BACHELORS": 15.463917525773196
   },
   "19089": {
     "county": "Howard County, IA",
-    "EDU__BACHELORS": 7.397176181706569
+    "EDU__BACHELORS": 6.776782957702995
   },
   "19091": {
     "county": "Humboldt County, IA",
-    "EDU__BACHELORS": 14.097303634232123
+    "EDU__BACHELORS": 13.126104890984088
   },
   "19093": {
     "county": "Ida County, IA",
-    "EDU__BACHELORS": 14.417485462201723
+    "EDU__BACHELORS": 14.105389701462634
   },
   "19095": {
     "county": "Iowa County, IA",
-    "EDU__BACHELORS": 14.820989820989821
+    "EDU__BACHELORS": 14.293267536129713
   },
   "19097": {
     "county": "Jackson County, IA",
-    "EDU__BACHELORS": 10.260668640335043
+    "EDU__BACHELORS": 9.540687160940326
   },
   "19099": {
     "county": "Jasper County, IA",
-    "EDU__BACHELORS": 13.470840911729423
+    "EDU__BACHELORS": 13.892534547981164
   },
   "19101": {
     "county": "Jefferson County, IA",
-    "EDU__BACHELORS": 17.27931982995749
+    "EDU__BACHELORS": 17.331109257714765
   },
   "19103": {
     "county": "Johnson County, IA",
-    "EDU__BACHELORS": 27.35773341656369
+    "EDU__BACHELORS": 27.58195342578402
   },
   "19105": {
     "county": "Jones County, IA",
-    "EDU__BACHELORS": 13.092073877189394
+    "EDU__BACHELORS": 12.143149842917635
   },
   "19107": {
     "county": "Keokuk County, IA",
-    "EDU__BACHELORS": 9.703541037606369
+    "EDU__BACHELORS": 11.103457776553244
   },
   "19109": {
     "county": "Kossuth County, IA",
-    "EDU__BACHELORS": 13.779349107061917
+    "EDU__BACHELORS": 14.960124667705566
   },
   "19111": {
     "county": "Lee County, IA",
-    "EDU__BACHELORS": 10.749691444041884
+    "EDU__BACHELORS": 10.90159340219393
   },
   "19113": {
     "county": "Linn County, IA",
-    "EDU__BACHELORS": 21.582299174094132
+    "EDU__BACHELORS": 21.790905952070577
   },
   "19115": {
     "county": "Louisa County, IA",
-    "EDU__BACHELORS": 10.742392444910807
+    "EDU__BACHELORS": 10.92788901976181
   },
   "19117": {
     "county": "Lucas County, IA",
-    "EDU__BACHELORS": 8.444734268014347
+    "EDU__BACHELORS": 10.205086136177194
   },
   "19119": {
     "county": "Lyon County, IA",
-    "EDU__BACHELORS": 12.685185185185185
+    "EDU__BACHELORS": 14.756898817345599
   },
   "19121": {
     "county": "Madison County, IA",
-    "EDU__BACHELORS": 16.254752851711025
+    "EDU__BACHELORS": 16.2949606149758
   },
   "19123": {
     "county": "Mahaska County, IA",
-    "EDU__BACHELORS": 16.31016042780749
+    "EDU__BACHELORS": 16.78433462102038
   },
   "19125": {
     "county": "Marion County, IA",
-    "EDU__BACHELORS": 18.510648126761215
+    "EDU__BACHELORS": 17.513053925419342
   },
   "19127": {
     "county": "Marshall County, IA",
-    "EDU__BACHELORS": 14.008644574975063
+    "EDU__BACHELORS": 14.386714290974703
   },
   "19129": {
     "county": "Mills County, IA",
-    "EDU__BACHELORS": 16.79060665362035
+    "EDU__BACHELORS": 16.490713587487782
   },
   "19131": {
     "county": "Mitchell County, IA",
-    "EDU__BACHELORS": 12.215181340164486
+    "EDU__BACHELORS": 11.459883642267622
   },
   "19133": {
     "county": "Monona County, IA",
-    "EDU__BACHELORS": 10.918413512290757
+    "EDU__BACHELORS": 10.524719441916893
   },
   "19135": {
     "county": "Monroe County, IA",
-    "EDU__BACHELORS": 13.28734797603921
+    "EDU__BACHELORS": 12.936046511627907
   },
   "19137": {
     "county": "Montgomery County, IA",
-    "EDU__BACHELORS": 11.15103127079175
+    "EDU__BACHELORS": 11.14247311827957
   },
   "19139": {
     "county": "Muscatine County, IA",
-    "EDU__BACHELORS": 11.652333286338644
+    "EDU__BACHELORS": 12.904366271875553
   },
   "19141": {
     "county": "O'Brien County, IA",
-    "EDU__BACHELORS": 14.126057188884413
+    "EDU__BACHELORS": 14.746963562753038
   },
   "19143": {
     "county": "Osceola County, IA",
-    "EDU__BACHELORS": 12.674157303370787
+    "EDU__BACHELORS": 11.942316358720143
   },
   "19145": {
     "county": "Page County, IA",
-    "EDU__BACHELORS": 12.45482591449978
+    "EDU__BACHELORS": 12.863070539419086
   },
   "19147": {
     "county": "Palo Alto County, IA",
-    "EDU__BACHELORS": 12.918809412498053
+    "EDU__BACHELORS": 14.301412872841443
   },
   "19149": {
     "county": "Plymouth County, IA",
-    "EDU__BACHELORS": 14.921404089351139
+    "EDU__BACHELORS": 14.865424430641822
   },
   "19151": {
     "county": "Pocahontas County, IA",
-    "EDU__BACHELORS": 14.80839591758136
+    "EDU__BACHELORS": 14.803978935049736
   },
   "19153": {
     "county": "Polk County, IA",
-    "EDU__BACHELORS": 24.787584774411197
+    "EDU__BACHELORS": 24.69244077493619
   },
   "19155": {
     "county": "Pottawattamie County, IA",
-    "EDU__BACHELORS": 13.64840846663435
+    "EDU__BACHELORS": 14.360283961324724
   },
   "19157": {
     "county": "Poweshiek County, IA",
-    "EDU__BACHELORS": 15.274932393673687
+    "EDU__BACHELORS": 16.371391076115486
   },
   "19159": {
     "county": "Ringgold County, IA",
-    "EDU__BACHELORS": 11.748173130972456
+    "EDU__BACHELORS": 12.661789532920654
   },
   "19161": {
     "county": "Sac County, IA",
-    "EDU__BACHELORS": 14.229249011857709
+    "EDU__BACHELORS": 14.535443909153475
   },
   "19163": {
     "county": "Scott County, IA",
-    "EDU__BACHELORS": 21.08002544187338
+    "EDU__BACHELORS": 20.375823495600653
   },
   "19165": {
     "county": "Shelby County, IA",
-    "EDU__BACHELORS": 13.543859649122808
+    "EDU__BACHELORS": 14.462226406213228
   },
   "19167": {
     "county": "Sioux County, IA",
-    "EDU__BACHELORS": 16.297429318596734
+    "EDU__BACHELORS": 17.31676164275889
   },
   "19169": {
     "county": "Story County, IA",
-    "EDU__BACHELORS": 28.720741940232593
+    "EDU__BACHELORS": 27.804969487430487
   },
   "19171": {
     "county": "Tama County, IA",
-    "EDU__BACHELORS": 11.768628104684115
+    "EDU__BACHELORS": 11.980950789539644
   },
   "19173": {
     "county": "Taylor County, IA",
-    "EDU__BACHELORS": 10.316214397847052
+    "EDU__BACHELORS": 11.536728255971159
   },
   "19175": {
     "county": "Union County, IA",
-    "EDU__BACHELORS": 12.983814215341308
+    "EDU__BACHELORS": 13.370733987844789
   },
   "19177": {
     "county": "Van Buren County, IA",
-    "EDU__BACHELORS": 10.557129367327668
+    "EDU__BACHELORS": 10.411115340692806
   },
   "19179": {
     "county": "Wapello County, IA",
-    "EDU__BACHELORS": 10.633512432837685
+    "EDU__BACHELORS": 10.493775933609959
   },
   "19181": {
     "county": "Warren County, IA",
-    "EDU__BACHELORS": 19.509531374106434
+    "EDU__BACHELORS": 20.633151995805203
   },
   "19183": {
     "county": "Washington County, IA",
-    "EDU__BACHELORS": 14.288583863408103
+    "EDU__BACHELORS": 14.453333333333335
   },
   "19185": {
     "county": "Wayne County, IA",
-    "EDU__BACHELORS": 10.333863275039745
+    "EDU__BACHELORS": 10.292450691453185
   },
   "19187": {
     "county": "Webster County, IA",
-    "EDU__BACHELORS": 13.354997225964969
+    "EDU__BACHELORS": 13.418644269244485
   },
   "19189": {
     "county": "Winnebago County, IA",
-    "EDU__BACHELORS": 14.859277044150993
+    "EDU__BACHELORS": 16.396734038281355
   },
   "19191": {
     "county": "Winneshiek County, IA",
-    "EDU__BACHELORS": 16.92983762848205
+    "EDU__BACHELORS": 16.455135773317593
   },
   "19193": {
     "county": "Woodbury County, IA",
-    "EDU__BACHELORS": 13.798613157935561
+    "EDU__BACHELORS": 14.535269517445718
   },
   "19195": {
     "county": "Worth County, IA",
-    "EDU__BACHELORS": 12.066393136889221
+    "EDU__BACHELORS": 11.330600074543423
   },
   "19197": {
     "county": "Wright County, IA",
-    "EDU__BACHELORS": 11.059958347034966
+    "EDU__BACHELORS": 12.066115702479339
   }
 }
