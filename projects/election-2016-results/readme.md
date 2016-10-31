@@ -14,7 +14,7 @@ You can also just deploy the data to your FTP server:
 
 Your FTP preferences can be set inside deploy.rb.
 
-Every time the parser is called, a backup copy of the data is saved. You can find these inside the output/old directory.
+Every time the parser is called, a backup copy of the data is saved. You can find these inside the output/old directory. The files are timestamped.
 
 This can all be run as a cronjob:
 	
