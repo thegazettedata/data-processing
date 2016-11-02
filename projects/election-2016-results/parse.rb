@@ -20,6 +20,7 @@ require 'date'
 @doc = Nokogiri::XML(File.open("output/election-2016-results.xml"))
 @types = @doc.xpath('/ElectionResults/ElectionInfo/TypeRace')
 @final_results = Hash.new
+@final_results_simplified = Hash.new
 
 # Make sure we have the types properly sorted
 @sorted_types = @types.sort_by{ |n|
@@ -106,6 +107,10 @@ require 'date'
 			@final_results[race_title]['counties'] = {}
 			@final_results[race_title]['r_prec'] = 0
 			@final_results[race_title]['t_prec'] = 0
+
+			@final_results_simplified[race_title] = {}
+			@final_results_simplified[race_title]['r_prec'] = 0
+			@final_results_simplified[race_title]['t_prec'] = 0
 		else
 			@final_results[type]['races'][race_title] = {}
 			@final_results[type]['races'][race_title]["r_prec"] = 0
@@ -134,6 +139,9 @@ require 'date'
 					@final_results[race_title]['counties'][county_name] = {:r_prec => reporting_precincts, :t_prec => total_precincts}
 					@final_results[race_title]['r_prec'] += reporting_precincts
 					@final_results[race_title]['t_prec'] += total_precincts
+
+					@final_results_simplified[race_title]['r_prec'] += reporting_precincts
+					@final_results_simplified[race_title]['t_prec'] += total_precincts
 				else
 					@final_results[type]['races'][race_title]["r_prec"] += reporting_precincts
 					@final_results[type]['races'][race_title]["t_prec"] += total_precincts
@@ -217,6 +225,8 @@ require 'date'
 						@final_results[type]['races'][race_title]["candidates"] = {}
 					elsif (type != 'Judicial')
 						@final_results[race_title]["candidates"] = {}
+
+						@final_results_simplified[race_title]["candidates"] = {}
 					end
 
 					party_candidates.each_with_index do |candidate, index_five|
@@ -381,6 +391,7 @@ require 'date'
 			-n[:v]
 		}
 
+		# State House, State Senate, Judicial
 		if (type == 'State Senate' || type == 'State House' || type == 'Judicial')
 			r_prec = @final_results[type]['races'][race_title]['r_prec']
 			t_prec = @final_results[type]['races'][race_title]['t_prec']
@@ -446,6 +457,8 @@ require 'date'
 			end
 
 			@final_results[race_title]["candidates"] = sorted_candidates_cumulative
+			
+			@final_results_simplified[race_title]["candidates"] = sorted_candidates_cumulative[0...2]
 		end
 
 	# Close each race
@@ -457,7 +470,10 @@ end
 if @final_results.length > 0
 	# Make copy of old file before overwriting new file
 	FileUtils.cp("output/election-2016-results.json", "output/old/results-#{DateTime.now.strftime("%m%d-%H%M")}.json")
+	FileUtils.cp("output/election-2016-results-simplified.json", "output/old/results-simplified-#{DateTime.now.strftime("%m%d-%H%M")}.json")
 
 	@json_file = File.open("output/election-2016-results.json","w")
+	@json_file_simplified = File.open("output/election-2016-results-simplified.json","w")
 	@json_file.write(@final_results.to_json)
+	@json_file_simplified.write(@final_results_simplified.to_json)
 end

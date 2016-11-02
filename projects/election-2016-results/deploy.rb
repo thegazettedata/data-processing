@@ -17,4 +17,5 @@ ftp.passive = true
 ftp.login(servlog, servpass)
 ftp.chdir("CDR-GA-Assets/static/feeds")
 ftp.put("output/election-2016-results.json", "election-2016-results.json")
+ftp.put("output/election-2016-results-simplified.json", "election-2016-results-simplified.json")
 ftp.close
