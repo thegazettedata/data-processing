@@ -3,18 +3,19 @@ require 'json'
 require 'open-uri'
 require 'fileutils'
 require 'date'
+require 'csv'
 
 # Scrape the SOS site to get find the latest XML file on their site
-# @source = open('http://electionresultsiowa.com/xml/index.html', &:read)
-# @noko = Nokogiri::HTML(@source)
-# @xml = @noko.css(".results tr:nth-of-type(2) td:nth-of-type(2) a").first.text
+@source = open('http://electionresultsiowa.com/xml/index.html', &:read)
+@noko = Nokogiri::HTML(@source)
+@xml = @noko.css(".results tr:nth-of-type(2) td:nth-of-type(2) a").first.text
 
 # # Open that XML file and save it locally
-# open("http://electionresultsiowa.com/xml/#{@xml}") {|f|
-# 	File.open("output/election-2016-results.xml","wb") do |file|
-# 		file.puts f.read
-# 	end
-# }
+open("http://electionresultsiowa.com/xml/#{@xml}") {|f|
+	File.open("output/election-2016-results.xml","wb") do |file|
+		file.puts f.read
+	end
+}
 
 # Convert XML to JSON
 @doc = Nokogiri::XML(File.open("output/election-2016-results.xml"))
@@ -166,8 +167,8 @@ require 'date'
 						sorted_party_candidates.each_with_index do |candidate, index_five|
 							firstname = candidate.xpath('FirstName').text
 							lastname = candidate.xpath('LastName').text
-							if lastname.include? '&'
-								lastname = lastname.slice(0..(lastname.index(' &')))
+							if race_title == 'President' && lastname.include?('and')
+								lastname = lastname.slice(0..(lastname.index(' and')))
 							end
 							candidate_name = "#{firstname} #{lastname}".strip
 							candidate_yes_votes = candidate.xpath('YesVotes').text.to_i
@@ -232,8 +233,8 @@ require 'date'
 					party_candidates.each_with_index do |candidate, index_five|
 						firstname = candidate.xpath('FirstName').text
 						lastname = candidate.xpath('LastName').text
-						if lastname.include? '&'
-							lastname = lastname.slice(0..(lastname.index(' &')))
+						if race_title == 'President' && lastname.include?('and')
+							lastname = lastname.slice(0..(lastname.index(' and')))
 						end
 						candidate_name = "#{firstname} #{lastname}".strip
 						candidate_yes_votes = candidate.xpath('YesVotes').text.to_i
@@ -397,6 +398,8 @@ require 'date'
 			t_prec = @final_results[type]['races'][race_title]['t_prec']
 
 			# Denote winner
+			candidate_one = sorted_candidates_cumulative[0][:n]
+
 			if (r_prec >= t_prec)
 				sorted_candidates_cumulative[0]["w"] = true
 				
@@ -452,7 +455,10 @@ require 'date'
 				p race_title
 			end
 
-			if (r_prec >= t_prec)
+			candidate_one = sorted_candidates_cumulative[0][:n]
+
+			if (candidate_one == 'Rod Blum' || candidate_one == 'Steve King' || candidate_one == 'David Young' || candidate_one == 'Dave Loebsack' || candidate_one == 'Charles E. Grassley' || candidate_one == 'Donald J. Trump' || r_prec >= t_prec)
+				
 				sorted_candidates_cumulative[0]["w"] = true
 			end
 
@@ -476,4 +482,86 @@ if @final_results.length > 0
 	@json_file_simplified = File.open("output/election-2016-results-simplified.json","w")
 	@json_file.write(@final_results.to_json)
 	@json_file_simplified.write(@final_results_simplified.to_json)
+end
+
+# Get last name for CSVs
+def getLastName(candidate_name)
+	last_name = candidate_name.gsub(/\s+/m, ' ').strip.split(" ").last
+
+	if last_name == 'Fuente'
+		last_name = 'De La Fuente'
+	elsif last_name == 'Riva'
+		last_name = 'La Riva'
+	end
+
+	return last_name
+end
+
+# Create CSV files for print folks
+# One for presidential race
+# And another for U.S. Senate race
+@csv_races = ['President', 'US Senator']
+
+@csv_races.each do |csv_race|
+	csv_filename = csv_race.delete(' ').downcase
+
+	# Copy old results
+	FileUtils.cp("output/election-2016-#{csv_filename}-results.csv", "output/old/#{csv_filename}-results-#{DateTime.now.strftime("%m%d-%H%M")}.csv")
+
+	# Create new results
+	CSV.open("output/election-2016-#{csv_filename}-results.csv", "w") do |csv|
+	  candidates = ['', 'Reporting precincts', 'Total Precincts']
+
+	  @final_results[csv_race]['counties'].each_with_index do |county, index|
+	  	county_result = [county[0], county[1][:r_prec], county[1][:t_prec]]
+	  	county_candidates = county[1]['candidates']
+	  	winner_name = ""
+
+	  	county_candidates.each_with_index do |candidate, index_two|
+				candidate_name = getLastName(candidate[1][:n])
+				candidate_votes = candidate[1][:v]
+				candidate_winner = candidate[1]["w"]
+
+				# Push names as top row
+				if index == 0
+					candidates.push(candidate_name)
+				end
+
+				# Create winner column
+				if index == 0 && (index_two + 1) == county_candidates.length
+					candidates.push('winner')
+					csv << candidates
+				end
+
+				# Push votes for each candidate in each county
+				candidates.each_with_index do |candidate_header, index_three|
+					# Match current candidate's name with candidate name in first row
+					if candidate_header == candidate_name
+						county_result[index_three] = candidate_votes
+					end
+
+					# Denote winner
+					if candidate_winner
+						winner_name = candidate_name
+					end
+		  	end
+
+		  	# Denote winner
+		  	if winner_name != ""
+		  		# Add two for precincts reporting, total precincts
+		  		# And one more to get to the winners columns
+		  		county_result[county_candidates.length + 3] = winner_name
+		  	end
+
+		  # Close county candidates loop
+			end
+
+			# Write data to CSV
+			csv << county_result
+
+		# Close final results loop
+		end
+	# Close CSV open
+	end
+# Close CSV loop
 end

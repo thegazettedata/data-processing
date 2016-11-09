@@ -8,6 +8,10 @@ If you'd like to just parse through the data and convert, run:
 
 	ruby parse.rb
 
+Two JSON files and two CSV files are created. The election-2016-results.json file includes results for every county in Iowa, as well as state results and judicial retention race information. The election-2016-results-simplified.json file is just the overall results for the major races. It does not include state races or judicial retentional.
+
+The CSV files include county results for the presidential and U.S. senate races.
+
 You can also just deploy the data to your FTP server:
 
 	ruby deploy.rb

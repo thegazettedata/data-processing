@@ -13,25 +13,43 @@ prefix="--skip="
 param=${params#$prefix}
 IFS=', ' read -r -a params_array <<< ${param}
 
-if [[ " ${params_array[*]} " != *" raw "* ]]; then
-	echo "Download raw data"
-	curl -L "$FEED_URL" -o raw/population.zip
+# COUNTIES
+if [[ " ${params_array[*]} " != *" counties "* ]]; then
+	echo "Counties: Download raw data"
+	curl -L "$FEED_URL_COUNTIES" -o raw/population-counties.zip
 
 	echo "Unzip file"
-	7za x raw/population.zip -oraw -aoa
+	7za x raw/population-counties.zip -oraw -aoa
 
 	echo "Rename directory"
-	rm -r raw/population
-	mv raw/$CENSUS_CODE raw/population
+	rm -r raw/population-counties
+	mv raw/$CENSUS_CODE_COUNTIES raw/population-counties
 fi
 
-if [[ " ${params_array[*]} " != *" convert "* ]]; then
-	echo "Convert to CSV"
-	in2csv raw/idph-teen-birth-rates.xlsx > edits/01-convert.csv
+if [[ " ${params_array[*]} " != *" counties-rates "* ]]; then
+	echo "Convert county rates to CSV"
+	in2csv raw/idph-teen-birth-rates.xlsx > edits/01-counties-rates.csv
 fi
 
-if [[ " ${params_array[*]} " != *" reorder "* ]]; then
-	echo "Re-order data and add population"
-	ruby scripts/reorder.rb
+if [[ " ${params_array[*]} " != *" counties-merge "* ]]; then
+	echo "Counties: Merge teen birth rates and population"
+	ruby scripts/merge-counties.rb
 fi
 
+# CITIES
+if [[ " ${params_array[*]} " != *" cities "* ]]; then
+	echo "Cities: Download raw data"
+	curl -L "$FEED_URL_CITIES" -o raw/population-cities.zip
+
+	echo "Unzip file"
+	7za x raw/population-cities.zip -oraw -aoa
+
+	echo "Rename directory"
+	rm -r raw/population-cities
+	mv raw/$CENSUS_CODE_CITIES raw/population-cities
+fi
+
+if [[ " ${params_array[*]} " != *" cities-merge "* ]]; then
+	echo "Cities: Merge teen birth rates and population"
+	ruby scripts/merge-cities.rb
+fi
