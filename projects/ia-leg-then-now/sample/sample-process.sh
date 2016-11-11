@@ -83,10 +83,6 @@ if [[ " ${params_array[*]} " != *" db "* ]]; then
 	
 		echo "- Create table called data$year with the $year data in it"
 		echo ".import $CSV_SIX data"$year | sqlite3 -csv -header $PROJECT_NAME.db
-
-		echo "Delete first row"
-		echo "Delete from data$year where rowid IN (Select rowid from data$year limit 1);" > sql/delete-first-row.sql
-		cat sql/delete-first-row.sql | sqlite3 -csv $PROJECT_NAME.db
 	done
 fi
 

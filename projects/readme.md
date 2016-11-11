@@ -7,3 +7,4 @@ This is an ongoing list of links to the data projects included within this repo:
 * 9/27/15 - fire-responses: [Is your fire department responding quickly enough to fires near you?](http://www.thegazette.com/data/fire-responses)
 * 12/10/15 - ia-census: [Map of Iowa with updated Census data](http://thegazettedata.github.io/data-processing/)
 * 7/1/16 - ia-physicians: [UPDATE: Medical companies give millions to Iowa doctors, hospitals](http://thegazette.com/data/top-paid-doctors)
+* 11/8/16 - election-2016-results: [Election 2016 results](http://www.thegazette.com/election-2016-results)

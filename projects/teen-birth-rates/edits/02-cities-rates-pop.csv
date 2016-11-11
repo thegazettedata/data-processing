@@ -1,38 +1,41 @@
-city,population,2014_number,2014_rate,2013_number,2013_rate,2012_number,2012_rate,2011_number,2011_rate
-Altoona,15317,,,13,53.7,6,,9,41.1
-Ames,61276,11,19.3,7,11.9,9,32.7,17,28.8
-Ankeny,49488,7,7.3,14,15.4,18,20,15,17.4
-Bettendorf,34247,9,22.8,16,41.7,12,31.6,16,39.6
-Boone,12619,11,69.6,7,43.2,13,69.9,11,63.6
-Burlington,25559,30,83.1,38,123.4,33,96.8,41,119.2
-Carroll,10051,6,38.5,13,103.2,11,90.2,13,87.2
-Cedar Falls,40009,12,25.8,12,30.3,12,31,13,33.2
-Cedar Rapids,128009,95,50.6,91,51.6,109,60.7,132,71.9
-Clinton,26611,45,125.3,38,109.2,40,,53,142.9
-Clive,16246,,,,,,32.7,7,32.6
-Coralville,19677,,,7,23.8,9,27.4,8,26.7
-Council Bluffs,62261,83,86.2,87,93.8,101,113,83,90.6
-Davenport,101316,108,68.3,158,100.1,147,96.5,164,105
-Des Moines,206702,246,68.4,277,82.7,276,81,359,107.9
-Dubuque,58068,52,59.9,47,58.7,59,70.9,70,87.1
-Fort Dodge,24846,24,67.6,35,104.2,33,96.8,23,72.8
-Fort Madison,10929,15,111.1,19,142.9,15,99.3,18,116.1
-Indianola,15014,10,49,15,78.1,18,,11,61.8
-Iowa City,70597,25,31.3,24,29.6,31,32.7,34,44.1
-Johnston,18874,,,,,,,,
-Marion,35809,13,26.8,20,39.1,22,43.4,17,36.3
-Marshalltown,27749,47,108.8,39,92.9,62,136.9,52,121.8
-Mason City,27775,18,52.8,20,61.7,20,67.1,25,80.6
-Muscatine,23857,31,75.4,37,101.6,37,104.8,38,113.4
-Newton,15139,11,52.9,18,91.4,24,103.9,29,137.4
-North Liberty,14503,7,15.8,,,,,,
-Oskaloosa,11555,17,81.3,21,130.4,7,32.7,12,70.2
-Ottumwa,24847,25,63.6,29,86.3,46,139.8,48,145
-Pella,10343,6,36.1,,,,,7,54.7
-Sioux City,82719,117,82.9,110,82,134,101.4,130,93.1
-Spencer,11177,10,59.9,10,62.1,14,94,12,81.1
-Storm Lake,10743,22,94.8,19,99.5,27,129.2,23,117.9
-Urbandale,41157,17,30,7,12.5,14,25.7,17,35
-Waterloo,68392,73,66.1,77,72.4,84,78.7,88,91.9
-Waukee,15944,,,,,,,,
-West Des Moines,59815,9,10.2,15,16.2,29,32.7,23,27.7
+city,population,county,2015_total_births,2015_number,2015_rate
+Altoona,15317,Polk,249,10,40.2
+Ames,61276,Story,541,7,12.9
+Ankeny,49488,Polk,"1,007",18,17.9
+Bettendorf,34247,Scott,400,11,27.5
+Boone,12619,Boone,181,8,44.2
+Burlington,25559,Des Moines,364,29,79.7
+Cedar Falls,40009,Black Hawk,482,7,14.5
+Cedar Rapids,128009,Linn,"1,926",70,36.3
+Clinton,26611,Clinton,369,29,78.6
+Clive,16246,Polk,267,7,26.2
+Coralville,19677,Johnson,267,7,26.2
+Council Bluffs,62261,Pottawattamie,924,58,62.8
+Davenport,101316,Scott,"1,505",98,65.1
+Des Moines,206702,Polk,"3,557",193,54.3
+Dubuque,58068,Dubuque,918,36,39.2
+Fort Dodge,24846,Webster,354,26,73.4
+Fort Madison,10929,Lee,151,15,99.3
+Grimes,9037,Polk,242,,
+Indianola,15014,Warren,210,13,61.9
+Iowa City,70597,Johnson,884,19,21.5
+Johnston,18874,Polk,236,,
+Keokuk,10742,Lee,175,13,74.3
+Marion,35809,Linn,491,11,22.4
+Marshalltown,27749,Marshall,401,31,77.3
+Mason City,27775,Cerro Gordo,321,12,37.4
+Muscatine,23857,Muscatine,363,28,77.1
+Newton,15139,Jasper,215,15,69.8
+North Liberty,14503,Johnson,421,,
+Norwalk,9444,Warren,159,,
+Oskaloosa,11555,Mahaska,218,7,32.1
+Ottumwa,24847,Wapello,392,33,84.2
+Pella,10343,Marion,149,,
+Sioux City,82719,Woodbury,"1,302",82,63.0
+Spencer,11177,Clay,142,,
+Storm Lake,10743,Buena Vista,192,16,83.3
+Urbandale,41157,Polk,550,11,20.0
+Waterloo,68392,Black Hawk,"1,088",63,57.9
+Waukee,15944,Dallas,302,,
+Waverly,9998,Bremer,130,,
+West Des Moines,59815,Polk,934,14,15.0
