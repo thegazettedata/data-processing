@@ -1,41 +1,1 @@
-city,population,county,2015_total_births,2015_number,2015_rate
-Altoona,15317,Polk,249,10,40.2
-Ames,61276,Story,541,7,12.9
-Ankeny,49488,Polk,"1,007",18,17.9
-Bettendorf,34247,Scott,400,11,27.5
-Boone,12619,Boone,181,8,44.2
-Burlington,25559,Des Moines,364,29,79.7
-Cedar Falls,40009,Black Hawk,482,7,14.5
-Cedar Rapids,128009,Linn,"1,926",70,36.3
-Clinton,26611,Clinton,369,29,78.6
-Clive,16246,Polk,267,7,26.2
-Coralville,19677,Johnson,267,7,26.2
-Council Bluffs,62261,Pottawattamie,924,58,62.8
-Davenport,101316,Scott,"1,505",98,65.1
-Des Moines,206702,Polk,"3,557",193,54.3
-Dubuque,58068,Dubuque,918,36,39.2
-Fort Dodge,24846,Webster,354,26,73.4
-Fort Madison,10929,Lee,151,15,99.3
-Grimes,9037,Polk,242,,
-Indianola,15014,Warren,210,13,61.9
-Iowa City,70597,Johnson,884,19,21.5
-Johnston,18874,Polk,236,,
-Keokuk,10742,Lee,175,13,74.3
-Marion,35809,Linn,491,11,22.4
-Marshalltown,27749,Marshall,401,31,77.3
-Mason City,27775,Cerro Gordo,321,12,37.4
-Muscatine,23857,Muscatine,363,28,77.1
-Newton,15139,Jasper,215,15,69.8
-North Liberty,14503,Johnson,421,,
-Norwalk,9444,Warren,159,,
-Oskaloosa,11555,Mahaska,218,7,32.1
-Ottumwa,24847,Wapello,392,33,84.2
-Pella,10343,Marion,149,,
-Sioux City,82719,Woodbury,"1,302",82,63.0
-Spencer,11177,Clay,142,,
-Storm Lake,10743,Buena Vista,192,16,83.3
-Urbandale,41157,Polk,550,11,20.0
-Waterloo,68392,Black Hawk,"1,088",63,57.9
-Waukee,15944,Dallas,302,,
-Waverly,9998,Bremer,130,,
-West Des Moines,59815,Polk,934,14,15.0
+city,population,county,2015_total_births,2015_number,2015_rateAltoona,15317,Polk,249,10,40.2Ames,61276,Story,541,7,12.9Ankeny,49488,Polk,"1,007",18,17.9Bettendorf,34247,Scott,400,11,27.5Boone,12619,Boone,181,8,44.2Burlington,25559,Des Moines,364,29,79.7Cedar Falls,40009,Black Hawk,482,7,14.5Cedar Rapids,128009,Linn,"1,926",70,36.3Clinton,26611,Clinton,369,29,78.6Clive,16246,Polk,267,7,26.2Coralville,19677,Johnson,267,7,26.2Council Bluffs,62261,Pottawattamie,924,58,62.8Davenport,101316,Scott,"1,505",98,65.1Des Moines,206702,Polk,"3,557",193,54.3Dubuque,58068,Dubuque,918,36,39.2Fort Dodge,24846,Webster,354,26,73.4Fort Madison,10929,Lee,151,15,99.3Grimes,9037,Polk,242,,Indianola,15014,Warren,210,13,61.9Iowa City,70597,Johnson,884,19,21.5Johnston,18874,Polk,236,,Keokuk,10742,Lee,175,13,74.3Marion,35809,Linn,491,11,22.4Marshalltown,27749,Marshall,401,31,77.3Mason City,27775,Cerro Gordo,321,12,37.4Muscatine,23857,Muscatine,363,28,77.1Newton,15139,Jasper,215,15,69.8North Liberty,14503,Johnson,421,,Norwalk,9444,Warren,159,,Oskaloosa,11555,Mahaska,218,7,32.1Ottumwa,24847,Wapello,392,33,84.2Pella,10343,Marion,149,,Sioux City,82719,Woodbury,"1,302",82,63Spencer,11177,Clay,142,,Storm Lake,10743,Buena Vista,192,16,83.3Urbandale,41157,Polk,550,11,20Waterloo,68392,Black Hawk,"1,088",63,57.9Waukee,15944,Dallas,302,,Waverly,9998,Bremer,130,,West Des Moines,59815,Polk,934,14,15
