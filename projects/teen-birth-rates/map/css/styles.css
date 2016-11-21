@@ -1,0 +1,32 @@
+/* Universal styles */
+.note {
+	font-size: 12px;
+	line-height: 15px;
+	color: #777;
+	margin-top: 5px;
+	float: left;
+	font-style: italic;
+}
+
+/* Body */
+body {
+    font-family: 'Helvetica Neue', Helvetica, arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+#container {
+	margin-top: 10px;
+}
+
+/* Map */
+#map-container {
+	float: left;
+	width: 100%;
+}
+
+#map-container #map {
+	position: relative;
+	height: 475px;
+	width: 100%;
+}

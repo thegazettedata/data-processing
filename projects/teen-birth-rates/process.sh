@@ -24,14 +24,10 @@ if [[ " ${params_array[*]} " != *" counties "* ]]; then
 	echo "Rename directory"
 	rm -r raw/population-counties
 	mv raw/$CENSUS_CODE_COUNTIES raw/population-counties
-fi
 
-if [[ " ${params_array[*]} " != *" counties-rates "* ]]; then
 	echo "Convert county rates to CSV"
 	in2csv raw/idph-teen-birth-rates.xlsx > edits/01-counties-rates.csv
-fi
 
-if [[ " ${params_array[*]} " != *" counties-merge "* ]]; then
 	echo "Counties: Merge teen birth rates and population"
 	ruby scripts/merge-counties.rb
 fi
@@ -47,9 +43,23 @@ if [[ " ${params_array[*]} " != *" cities "* ]]; then
 	echo "Rename directory"
 	rm -r raw/population-cities
 	mv raw/$CENSUS_CODE_CITIES raw/population-cities
-fi
 
-if [[ " ${params_array[*]} " != *" cities-merge "* ]]; then
 	echo "Cities: Merge teen birth rates and population"
 	ruby scripts/merge-cities.rb
+fi
+
+# CASEY'S
+if [[ " ${params_array[*]} " != *" caseys "* ]]; then
+	echo "Convert Casey's Excel file to CSV"
+	in2csv "raw/Casey's Locations and other information.xlsx" > edits/03-caseys.csv
+
+	echo "Geocode Casey's addresses"
+	python scripts/geocoder.py "03-caseys" "Casey's Location"
+
+
+	echo "Rename columns"
+	python scripts/rename-columns-caseys.py
+
+	echo "Convert CSV to JSON"
+	csvjson edits/04-caseys-rename-geo.csv > map/caseys.json
 fi

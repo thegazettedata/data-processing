@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+	<title>Iowa map</title>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+  <!-- Mobile meta tags-->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximuscale=1.0, user-scalable=no" />
+	<meta name="MobileOptimized" content="320"/>
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta http-equiv="cleartype" content="on">
+
+	<!-- Facebook meta tags-->
+	<meta property="og:title" content="Iowa map"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:url" content=""/>
+	<meta property="og:image" content="/imgs/ss.jpg"/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content="This map shows Iowa broken down by counties." />
+
+	<!-- Twitter meta tags -->
+	<meta property="twitter:site" content="">
+	<meta property="twitter:card" content="Iowa map">
+	<meta property="twitter:url" content="">
+	<meta property="twitter:title" content="Iowa map">
+	<meta property="twitter:description" content="This map shows Iowa broken down by counties.">
+	<meta property="twitter:image" content="">
+
+	<!-- CSS libraries -->
+	<link rel="stylesheet" href="css/lib/leaflet-0.75.min.css" />
+	<link rel="stylesheet" href="css/lib/jquery-ui-1.11.2-smoothness-edit.min.css" />
+
+	<link rel="stylesheet" href="css/base-map.css" />
+	<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+	<!-- Javascript -->
+	<script src="js/lib/jquery-2.1.4.min.js"></script>
+	<script src="js/lib/jquery-ui-1.11.4.min.js"></script>
+	<script src="js/lib/underscore-1.8.3.min.js"></script>
+	<script src="js/lib/backbone-1.2.3.min.js"></script>
+	<script src="js/lib/leaflet-0.75.min.js"></script>
+	<script src="js/lib/tile.stamen-1.3.0.min.js"></script>
+
+	<noscript>
+		<div id="noscript_note">
+			You must have JavaScript enabled to view this page.
+		</div>
+	</noscript>
+	
+	<div id="container">
+		<div id="map-container">
+			<div id="map"></div>
+		</div>
+	</div>
+
+	<script src="ia-counties-census.json"></script>
+	<script src="caseys.json"></script>
+	<script src="js/base.js"></script>
+	<script src="js/base-map.js"></script>
+	<script src="js/base-map-counties.js"></script>
+	<script src="js/script.js"></script>
+</body>
+</html>
