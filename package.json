@@ -1,11 +1,11 @@
 {
-  "name": "gazette-kcrg-data-processing",
+  "name": "gazette-data-processing",
   "description": "Grunt tasks for data processing",
   "author": {
     "name": "Chris Essig",
     "url": "https://github.com/csessig86"
   },
-  "repository": "GazetteKCRGdata/data-processing",
+  "repository": "GazetteData/data-processing",
   "private": false,
   "devDependencies": {
     "grunt": "~0.4.1",
