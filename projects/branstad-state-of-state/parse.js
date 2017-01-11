@@ -12,7 +12,7 @@ fs.readFile(input_file, 'utf8', function(err, data) {
   if (err) throw err;
 	  
 	var speech = nlp.text( data.replace(/--/g,' ') );
-	var count = speech.ngram({min_count: 2})[0];
+	var count = speech.ngram({min_count: 1})[0];
 	var words = [];
 
 	for(var i=0; i < count.length; i++){
