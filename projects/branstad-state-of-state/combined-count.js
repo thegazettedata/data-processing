@@ -1,4 +1,5 @@
 var fs = require('fs');
+var util = require('util');
 var csv = require("fast-csv");
 
 var words = [];
@@ -42,32 +43,28 @@ function readStream() {
 			if (year_iteration <= current_year) {
 				readStream();
 			} else {
-				console.log(words);
+				var output_file = 'word-counts/combined-years.csv';
+
+				// Clear out old information in file
+				fs.writeFileSync(output_file , '', 'utf-8');
+
+				fs.appendFileSync(output_file , 'word' + ',' + 'count' + '\n', 'utf-8'); 
+				// fs.appendFileSync(output_file , 'var words = [\n', 'utf-8');
+
+				// Objects for each word
+				for(var i=0; i < words.length; i++){
+					// All iterations except the last one
+					if ( words.length !== (i + 1) ) {
+						var data = util.inspect(words[i]) + ',\n';
+					// Last iteration
+					} else {
+						var data = util.inspect(words[i]);
+					}
+					fs.appendFileSync(output_file , words[i]['word'] + ',' + words[i]['count'] + '\n', 'utf-8');
+					// fs.appendFileSync(output_file , data, 'utf-8');
+				}
 			}
 		});
 }
-
-
-var output_file = 'word-counts/combined-years.csv';
-
-// Clear out old information in file
-fs.writeFileSync(output_file , '', 'utf-8');
-
-fs.appendFileSync(output_file , 'word' + ',' + 'count' + '\n', 'utf-8'); 
-// fs.appendFileSync(output_file , 'var words = [\n', 'utf-8');
-
-// Objects for each word
-for(var i=0; i < words.length; i++){
-	// All iterations except the last one
-	if ( words.length !== (i + 1) ) {
-		var data = util.inspect(words[i]) + ',\n';
-	// Last iteration
-	} else {
-		var data = util.inspect(words[i]);
-	}
-	fs.appendFileSync(output_file , words[i]['word'] + ',' + words[i]['count'] + '\n', 'utf-8');
-	// fs.appendFileSync(output_file , data, 'utf-8');
-}
-
 
 readStream();
